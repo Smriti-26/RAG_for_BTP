@@ -1,0 +1,291 @@
+SOURCE_DOCUMENT: Chapter 8.pdf
+
+8. Water Resources of India: Potential and Utilization
+
+Water is of vital importance: without water no life would exist and the earth would be a huge desert. The availability of freshwater in the world is finite, whereas demands on this finite quantity are increasing continuously. Water is difficult to create or destroy under most natural conditions. Indeed, total amount of water on the earth today is nearly the same as it was millions of years ago at the beginning of the earth. About 94% of the world’s water resources is in the oceans and seas and is too salty for most productive uses (Table 8.1). Two-thirds of the remainder is locked up in ice caps, glaciers, permafrost, swamps and deep aquifers. About 110,000 cubic kilometres (km*) precipitate annually on the earth’s surface. About 60% (61,000 km?) evaporates directly back into the atmosphere, leaving 49,000 km? flowing toward the sea. At present, only 3,400 km? are withdrawn for use and annual water use per capita among different countries of the world varies from less than 50 m? to more than 1,000 m?. Under the pressure of rapid population growth and economic development, available resources of water are being developed and exploited at a fast rate and the situation seriously underlines the need for taking up integrated plan for water resources development, conservation and utilization for every agro-ecological area to meet increasing demands of human and livestock consumption, expanding industry, irrigation, power generation, recreation and navigation.
+
+Source: Global Change: Enough Water for All? 2007. GEO, Hamburg, Germany
+
+Hydrological cycle
+
+The largest amount of water on our planet is either snow or ice (solid phase) or salt water or brackish water (liquid phase). Less than 4% of the water on the earth is available as liquid freshwater. The largest part of it (99.5%) is groundwater. The life of mankind and almost all the flora and fauna on the earth is continuously influenced by an unending flux of water known as hydrologic cycle. On an average, the global
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+water cycle supplies continents with approximately 110,000 km’ precipitation per year. Since around 70,000 km} of this amount evaporates back into the atmosphere, roughly 40,000 km? water per year is available for anthropogenic use. This is about ten-fold the amount of the present mean annual use by human activities in agriculture, industry, households and power plants. Therefore, on the global average, there is sufficient water available for human use. However, the largest amount of precipitation falls in water rich regions. Therefore, the development of and the prosperity of the industrialized countries on the earth is among others based on their abundant water supply.
+
+This cycle has neither a beginning nor an end, but the process of hydrologic cycle commonly begins with the water of the ocean. Under certain favourable conditions, the cloud moisture condenses and falls back on earth as rain, hail, sleet or snow (forms of precipitation). The precipitation reaching earth’s surface may be intercepted by vegetation, may seep into the ground as infiltration, may flow over land surfaces as run-off or may evaporate back into the atmosphere. When the available interception or the depression storage is completely filled up, and the rainfall intensity exceeds the infiltration capacity of the soils, the overland flow begins. Once the overland flow reaches a stream channel, it is called surface run-off.
+
+Much of water that enters soil is detained in the plant root zone and eventually is drawn back to the soil surface by plants or through capillary rise. Some of the water moves down the root zone under the influence of gravity and continues to move downward until it enters the groundwater reservoir. On joining the body of groundwater, the percolating water may move through pores of saturated subsurface materials and may reappear as surface water at lower elevations as sub-surface flow. It is also called sub-surface run-off. Groundwater discharges naturally at such places in the form of springs and seeps, which maintain the flow of streams in the dry periods. Nature stores water in the form of snow on the peaks of mountains and glaciers, which on melting provide water in the rivers originating from them. The total run-off in the stream channel includes snow-melt, surface run-off, sub-surface run-off, ground- water run-off and channel precipitation. It constitutes what is known as the ‘surface water resources’. The portion of the precipitation, which, after infiltration, reaches groundwater table, together with the contribution made to groundwater from a neighbouring basin, influent rivers, natural lakes, ponds, artificial storage reservoirs, canals, and irrigation constitute the ‘groundwater resources’.
+
+In hydrologic cycle, soil acts as the reservoir, and water is always in the transitory storage in the soil. Considerable time may elapse (called renewal time, Table 8.1) before this stored water flows under ground to stream or is returned to the atmosphere by evaporation/transpiration. Eventually, however all water temporarily stored in soil must enter the transitory part of hydrologic cycle by percolating to underground streams or into atmosphere by evaporation. There are many opportunities to influence hydrologic cycle and affect water conservation in agriculture.
+
+There are two interlocking cycles, both starting with evaporation from the seas to the atmosphere. The first shorter cycle is from rainfall into the soil and then as evaporation and transpiration back to the atmosphere; this is sometimes called as ‘green water’. The second cycle or ‘blue water’ follows longer path from rainfall through soil moisture, groundwater and rivers to the sea. It may be noted that the
+
+hydrologic cycle is not always punctual and uniform in delivering precipitation to the earth’s surface. Studies conducted with regional climate models show that warming of the earth may lead to strong changes in the hydrological cycle. These changes may have regionally as well as seasonally large varying consequences. Even if the mean water cycle will not change substantially, a shift in the precipitation intensity distribution may lead to significant regional climate impacts.
+
+Water resources ofa region are influenced by climatic factors (precipitation, evapo- transpiration), physiographic factors (drainage area, shape, slope, land use, soil type etc. and channel characteristics) and geological factors (lithologic, structural and hydrologic characteristics of the underground formations). However, within a given geographic location and physiographic framework, it is primarily the rainfall (its intensity, duration and distribution) and the climatic factors affecting evapotranspiration that determine totality of water resources in the region.
+
+Rainfall
+
+Rainfall pattern and distribution in a region is a good index of its water resources. The strong dependence of Indian agriculture and the country’s economy on the monsoon is well established. The Indian sub-continent comes under the influence of the Asiatic monsoon, which provides major quantum of rainfall to the country. Though rainfall of different amounts is received throughout the year, the rainfall received during the southwest monsoon season is most important; as the country’s agricultural production is dependent on its quantum and distribution.
+
+The Indian monsoon
+
+The word ‘monsoon’, owes its origin to an Arabic word meaning a wind system which undergoes a seasonal 180° reversal of direction. It can be applied to any wind system in which there is a reversal of the prevailing wind direction between seasons (summer and winter). The Indian sub-continent comes under the influence of the southwest (SW) monsoon during June to September (summer monsoon) and northeast (NE) monsoon during October to December (winter monsoon).
+
+Features of monsoon
+
+A number of interesting synoptic features occur in the circulation of the atmosphere when the summer monsoon sets in the country.
+
+Heat low: With the beginning of the summer season, the continental area around the Arabian Sea begins to receive large amounts of heat. This intense heat causes formation ofa trough of low pressure (heat low) over the region extending from Somalia northwards across Arabia into Pakistan and northwest India. By the end of May, the low is well established and southwest wind spreads northwards over Arabian Sea, Bay of Bengal and the Indian sub-continent.
+
+Equatorial troughs: Before the onset of monsoon, a low pressure zone forms on the either side of the equator roughly along 5° N and 5° S. This is often referred to as ‘equatorial double trough’. The trough north of 5° N weakens but at 5°S is fairly active.
+
+Jet streams: Equally interesting changes take place in the upper atmosphere with the advent of the summer monsoon. Towards the end of May, a narrow belt of strong winds in the upper air around 300 millibar (mb), blowing from west to east known as
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION 237
+
+westerly jet streams suddenly weakens and moves to anew location far to the north of the Himalayas. This shifting has a strong association with the onset of monsoon.
+
+The Tibetan high: A dominant feature associated with the onset of monsoon is the emergence of a zone of high pressure over the plateau of Tibet. This plateau is at a height of 4 km. This high elevated land acts as a direct source of heat, creating strong thermal convection and the ascending air rapidly spreads outwards to both the north and the south of the plateau leading to formation of an anti-cyclone over Tibet around 300-200 mb (9-12 km).
+
+The Indian Meteorological Department (IMD) has carried out detailed studies on the long-term pattern of the onset and withdrawal phases of monsoon.
+
+Onset of monsoon: The onset of monsoon is meteorologically associated with certain changes in the upper air circulation features. Over the Indian main continent, the monsoon sets in either by the end of May or beginning of June along the Malabar Coast (it sets in earlier by mid-May over Andaman and Nicobar Islands). The normal date of onset of monsoon over India is 1 June. The onset often called as the “burst of the monsoon’ is often accompanied by a cyclone either in the Bay of Bengal or in the SE Arabian Sea, associated with heavy rainfall over Kerala and coastal Karnataka region. It then spreads in the peninsular region and slowly in the southwestern, and southeastern parts of India come under the influence of monsoon by 10 June. The filling up of monsoon current over the rest of the Central and NW India is gradual and 1s associated with merging of the Arabian Sea and Bay of Bengal branches of monsoon. The monsoon enters the western part of Rajasthan by 1 July and the extreme western parts and into southern parts of Kashmir by 15 July. Under weak monsoon conditions, the delay in onset may be of few days (1 week) over Kerala while it will be delayed by 30-35 days over the arid parts of Rajasthan.
+
+Nearly 70% of the annual rainfall in India is recorded during the SW monsoon. The regions that receive the largest rainfall are along the west coast of India and the states of Asom and West Bengal in NE India. In these regions, orographic features play an important role. The largest amount of rainfall is at Cherrapunji on the southern slopes of Khasi hills which records 11,420 mm rainfall annually. Over other regions of the country, the rainfall varies from above 1,000 mm and decreasing to as low as less than 100 mm in the Thar desert.
+
+Withdrawal of monsoon: The change from summer to winter type of monsoon circulation is gradual compared to the sudden onset of monsoon. The monsoon begins to withdraw from extreme arid areas of western Rajasthan by 1 September and in general from northern India around mid-September. The withdrawal phase extends rapidly over western India up to western Uttar Pradesh, west Madhya Pradesh and Gujarat by 1 October. The withdrawal phase is slow to the east of 80° E over the Gangetic valley, NE India, eastern Madhya Pradesh, Vidarbha and other adjoining areas of Maharashtra and interior peninsula. By the end of October, it withdraws to south of 15° N. By that time the NE monsoon also becomes active over the peninsular India.
+
+Winter monsoon: In comparison to summer (SW) monsoon, the winter (NE) monsoon rainfall occurs in spells, often accompanied by surges of cold air that emanates from a large anti-cyclone over Siberia and adjoining parts of China. Tamil Nadu and southern parts of Andhra Pradesh receive about 50% of its rainfall during October to December. The highest seasonal rainfall of 600-800 mm occurs in north Tamil Nadu
+
+238 HANDBOOK OF AGRICULTURE
+
+and Kerala; 200-400 mm in the rest of coastal Andhra Pradesh, south interior Karnataka and coastal Karnataka; and 100-200 mm elsewhere in south peninsula, Orissa and south-east Madhya Pradesh.
+
+The annual average rainfall in India is about 1,120 mm, i.e. slightly more than the global mean of 990 mm. However, this rainfall is highly variable, irregular and undependable with widespread variations among various meteorological sub-divisions in terms of distribution and amounts (Table 8.2). The annual rainfall including snowfall
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+is estimated at 400 M ha-m (4,000 km’). About 300 M ha-m of this resource is generated during June to September, while another 100 M ha-m during the rest of the year. About 20 M ha-m is brought from outside India, thus making a total of 420 M ha-m of water resource available for exploitation and use within the country.
+
+Water resources of India
+
+The source of all water is precipitation, which is influenced by various factors like Ocean currents, trade winds, air-mass movement and orographic effect, and the location of the place with respect to physical barriers. The annual precipitation including snowfall, which is the main source of water in India, is estimated to be of the order of 400 M ha-m (4,000 km}; 4, 000 billion cubic metres, BCM). The rainfall in the country is highly variable, irregular and undependable, with widespread variations among various meteorological sub-divisions in terms of rainfall distribution and amount; its spatial distribution varies from 100 mm/annum in Rajasthan to about 11,000 mm/ annum in Cherrapunji in Meghalaya.
+
+The potential evapotranspiration (PET), the realistic measure of the water requirement for optimum vegetation and crop growth throughout the year varies widely due to wide variations in topography, temperature, wind speed, solar radiation, relative humidity and altitude. Though the annual potential evapo-transpiration in the country is 1,771 mm, it varies from a minimum of 1,239 mm in Jammu and Kashmir to a maximum of 2,052 mm in Andhra Pradesh (Table 8.3).
+
+240 HANDBOOK OF AGRICULTURE
+
+Surface water resources
+
+Monsoonal climate causes a highly skewed distribution of the resource availability and calls for its conservation in the soil profile, aquifers, ponds, lakes, reservoirs and rivers for use during the lean period. India is a very fortunate country to have many rivers whose total catchment area is estimated at 252.8 M ha. Central Water Commission, Goverment of India, for the purpose of efficient water management has divided the whole country into 20 river basins, comprising 12 major basins, each having a catchment area exceeding 20,000 km? and eight composite river basins combining suitably together all the other remaining medium and small river systems.
+
+Twelve major basins are: (1) Indus, (2) Ganga-Brahmaputra-Meghna, (3) Godavari, (4) Krishna, (5) Cauvery, (6) Mahanadi, (7) Pennar, (8) Brahmani-Baitarni, (9) Sabarmati, (10) Mahi, (11) Narmada, and (12) Tapi. Likewise, the eight composite river basins are: (1) Subarnarakha — combining Subarnarakha and other small rivers between Subarnarekha and Baitarni, (2) East flowing rivers between Mahanadi and Pennar (3) East flowing rivers between Pennar and Kanyakumari (4) Area of inland drainage in Rajasthan desert (5) West-flowing rivers from Tapi to Tadri (7) West-
+
+Source: Water and Related Statistics, Central Water Commission, New Delhi
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION 241
+
+flowing rivers from Tadri to Kanyakumari, and (8) Minor rivers draining into Myanmar (Burma) and Bangladesh. Catchment area and water resources potential of these basins is given in Table 8.4.
+
+Data in Table 8.4 show that the total surface water resources of the country (yearly average stream flow) are about 1,869 km’, Due to uneven distribution of rainfall, both spatial and temporal, only 37% (690 km?) of the surface renewable water resources are estimated to be potentially utilizable. This low proportion is primarily due to low potentially utilizable water resources in the Meghna-Brahamputra river basins. The Brahmaputra river covers only 7.6% of the geographical area but accounts for 31% of the total renewable water resources. According to Central Water Commission, the estimates of potentially utilizable water resources for India are 690 km? of surface water and 432 km? of groundwater (total 1,122 km? or BCM).
+
+The population distribution is uneven across the basins. The Ganga basin, with only about a quarter of the total drainage area, has about 40% of the total population of India. The next five largest basins—Mahanadi, Brahmaputra, Krishna, Godavari and Indus—cover 46% of the drainage area, but have only 30% of the population. About 75% of the people in all river basins still live in rural areas and livelihood of most of them depends on agriculture. Thus, the development and management of available water resources are critical factors in rural development and poverty alleviation in India.
+
+Per capita water availability
+
+India’s total renewable water resources per person in 1995 were 2,011 m’ and stand at 1,820m? per person as on 31 March 2001 (Table 8.5). The total renewable water resources per person, excluding those people in the Brahmaputra river basin, are only 1,345 m3. About 103 million people living in the basins of Sabarmati, Kutch and Saurashtra and basin between Pennar and Kanyakumari have per capita total renewable water resources below 500 m?. More than 90 million people living in the four basins of Pennar, Tapi, Cavery and east-flowing rivers between Mahanadi and Pennar have per capita total renewable water resources below 1,000 m’. The total renewable water resources per person in Indus, Ganga, Krishna and Subarnarekha basins are less than 1,700 m3. ate ge
+
+ate Table 8.5 Per-capita water availability in India
+
+Water demand
+
+Country’s water demand is dominated by irrigation needs. The total water demand for agriculture, domestic and industrial sectors of India in 1995 was estimated at about 650 km}; of this about 90% is withdrawn for agriculture sector. Different demand
+
+scenarios up to 2050 ap have been estimated by the Ministry of Water Resources and International Water Management Institute (IWMI) (Table 8.6). There will be a large gap even at the aggregate level between the water availability and requirement by 2050 ap, when the population of the country is expected to stabilize. The entire replenishable groundwater is also assumed to be utilized by 2025 ap. More recent analysis made by the International Water Management Institute projected that under the normal situation India’s total water demand is projected to increase by 22% by 2025 and 32% by 2050 (Table 8.6). Most of the additional demand will be for domestic and industrial sectors and will account for 54% of the additional demand by 2025 and more than 85% by 2050. Therefore, in order to bridge the gap between water availability and requirement, inter-basin water transfers by interlinking of rivers may be a viable alternative, which would also take care of the requirement of water short areas including drought-prone areas.
+
+Presently, environmental water demand of the rivers has received little attention in most demand projections. The national estimates have made a provision of 10 BCM- 1% of total demand as the environmental demand but in certain cases it can be high and the utilizable water needs to be reallocated to avoid closure of river basins and serious environmental impacts in the coastal areas.
+
+Irrigation demand
+
+This demand of a region depends upon the areas irrigated with surface water and groundwater, different crop-water requirements and the irrigation application efficiency. The per capita irrigation demand ranges from 193 m? per person in Brahmaputra basin to 1,617 m’ per person in the Indus basin. Irrigation efficiencies range from a low of 31% where most of the area is surface irrigated to a high of 62% where most of the area is irrigated from groundwater. Irrigation is the
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+largest sector of water demand and irrigated agriculture shall be further called upon to produce a sizable portion of the foodgrains requirements for the growing population. Considering the rapid changes in the dietary habits and standards of living of the Indian population it may be difficult to make correct estimates for the future foodgrains requirements. Based on the different scenarios of foodgrains requirements, estimates of irrigation water requirements have been given in Table 8.7.
+
+Domestic and industrial demand
+
+Domestic withdrawals consist of two components: water withdrawals for human consumption plus domestic services and water withdrawals for livestock. The human demand for drinking, cooking, bathing, recreation, etc. accounts for 70% of the domestic withdrawals. The total livestock demand was estimated as 6.7 BCM. The water withdrawal per person in urban areas (135 litres/day) is assumed to be three times more than the withdrawals per person in rural areas (40 litres/day). For 2025, the requirements have been estimated in the range of 47-78 BCM depending upon population growth, and change in the income and lifestyle.
+
+Groundwater resources
+
+Groundwater is becoming an increasingly popular resource because of the relative ease and flexibility with which it can be tapped. It can be drawn on demand, making it far more attractive to many groups of users. Many observers argue and indicative evidence supports this that a cubic metre of groundwater creates several times more income than a cubic metre of water from large surface irrigation system. Some experts believe that most surface irrigation systems built in India over the past 40 years would have become bad investments today were it not for the vibrant pump irrigation economies they now support; by recharging groundwater aquifers.
+
+There are three major hydro-geological conditions in the country: unconsolidated sediments, semi-consolidated sediments and hard rocks. The unconsolidated sediments cover an area of 30% and contain the most prolific aquifers down to an explored depth of 900 m and contain roughly 55% of the country’s groundwater resources. The semi- consolidated sediments cover an area of 5% with good to moderate aquifers occurring down to 600 m depth and contains about 13% of the groundwater resources. The hard rocks occupy nearly 65% of the area, containing moderate aquifers within a depth of 100 m and below and up to a depth of 200 m and contain poor to moderate aquifers. Hard rocks contain about 32% of the country’s groundwater resources.
+
+Replenishable groundwater resources assessed by the Central Ground Water Board (CGWB) in 1994-95 was 431.9 BCM (43.19 M ha-m) and utilizable ground-water was as 395.6 BCM (39.56 M ha-m) (Table 8.8) of which 325.6 BCM (32.56 M ha-m) was available for irrigation and the rest for domestic and industrial uses. Renewable groundwater resources are generally divided into ‘static’ and ‘dynamic’ components. The dynamic component is one which fluctuates with recharge and discharge. The static resource occurs below the depth of normal annual water-table fluctuations in the saturated zone. Open spaces for storage occur up to a depth of more than 2,000 m in the Indo-Gangetic alluvium. The present depth of exploration in this zone has already reached a maximum depth of 600 m. The range of transmissivity and hydraulic conductivity of alluvial aquifers vary from 250 to 4,000 m?/day and 10 to 800 m/day,
+
+respectively. Well yields in the alluvial region range from 40 to 200 Ips.
+
+In the semi-consolidated formations, the available open space gets reduced due to compaction and below 600 m the available primary porosity becomes negligible. The hydro-geological system includes sediments of Gondwana and tertiary sediments. In Gujarat, Rajasthan, Andhra Pradesh, Maharasthra and Tamil Nadu, groundwater exploitation has reached the maximum depth of 400 m. Transmissivity and hydraulic conductivity of these aquifers vary from 100 to 2,270 m?/day and 0.55 to 70 m/day, respectively. The well yields in these formations range from 10 to 40 Ips.
+
+Hard rock regions are generally made up of igneous, metamorphic, volcanic and consolidated sediments. Due to massive nature of formations, the available storage space in weathered mantle gets reduced with depth, and below 200 m, it may be negligible. Therefore, the depth of groundwater exploitation in hard rock aquifers is generally confined to a depth of 100 m. The transmissivity ranges from 20 to 500 m/’/day and the bulk hydraulic conductivity varies from 0.1 to 10 m/day. The well yields are generally low and range from | to 5 Ips.
+
+Dynamic resource: Depending upon the rainfall, porosity and specific yield of the different regions/aquifers, different depths of thickness are required to store dynamic
+
+WATER RESOURCES OF INDIA; POTENTIAL AND UTILIZATION
+
+component of the groundwater resource. Unconsolidated formations cover an area of 98.6 M ha and receive an average annual rainfall of 1,100 mm. The total quantum of recharge is estimated of the order of 20 M ha-m. Assuming a porosity of 20% and specific yield of 10%, the aquifer thickness required to store 20 M ha-m is 9.9 m for this entire area. The semi-consolidated formations cover only 16.4 M ha and with an average rainfall of 850 mm (infiltration capacity 15%), the volume of recharge works out to be 2 M ha-m. With an average porosity of 15% and specific yield of 5%, aquifer thickness required storing this recharge volume works out to be 17 m.
+
+Hard rock region accounts for 65% of the total geographical area (213 M ha) and receives an average rainfall to the order of 750 mm. With an assumed infiltration rate of 7.5%, the quantum of recharge works out to be 12 M ha-m. The aquifer thickness required to store this recharge volume is estimated at 37.5 m (fractured porosity: 5%, specific yield: 3%).
+
+The above analysis indicates that average decline in groundwater level as compared to the established original benchmark should be restricted to 9, 17 and 37 m for unconsolidated, semi-consolidated and hard rock aquifers, respectively. Any further decline in water levels on a long-term basis will lead to mining of the static water resources and it shall be prudent to establish regulatory mechanisms and remedial measures.
+
+Static resource: Within the normal assumptions of depth and porosity, the estimated static resources work out to be 423 M ha-m, which are nearly ten times the dynamic resource component. In the unconsolidated sedimentary area, the static resource available up to a depth of 300 m is of the order of 1,777 BCM and up to a depth of 900 m is 4,000 BCM (400 M ha-m). In semi-consolidated area, the static resource available up to a depth of 200 m is 100 BCM (10 M ha-m) and up to a depth of 600 m is 220 BCM (22 M ha-m). It has been estimated that the thickness of the aquifer is 150 m having a porosity of 10% and specific yield of 5% in the depth range from 200 m to 600 m. In the hard rock region, the static resource available up to a depth of 200 m is 20 BCM (2 M ha-m). The assumed depth of aquifer is 5 m with fractured porosity of 4% and specific yield of 2.5% in the depth range from 100 m to 200 m.
+
+With these general assumptions, the estimated static resource works out to be 423 M ha-m, which is nearly ten times dynamic resource. It was found that up to a depth of 900 m in unconsolidated, 600 m in consolidated and 200 m in hard rock, the recoverable storages were 4,190 BCM (419 M ha-m), 240 BCM (24 M ha-m) and 140 BCM (144M ha-m), respectively amounting to a total of 4,570 BCM (457 M ha-m). However, CGWB estimated that one time available static groundwater resource was of the order of 10,812 BCM.
+
+Saline groundwater resources
+
+All the static and dynamic groundwater resources in country are not of good quality. A sizeable portion of groundwater resources in arid and semi-arid regions of Haryana, Punjab, Rajasthan and Gujarat are saline and brackish. Though, no systematic evaluation has been made to estimate saline groundwater resources, attempts have been made to arrive at first approximation of estimates of annual recharge to areas undertaken by saline groundwater based on the data collected during various studies undertaken by the CGWB and state governments. The total saline groundwater
+
+8.9 Estimates of annual replenishable recharge in areas underlain by saline groundwater (EC > 4 dS/m)
+
+resources of the country, leaving aside minor patches are given in Table 8.9.
+
+-Though large variations in water quality are encountered even at small intervals, about 32-84% of the well waters in different states of India have been found ‘poor’ in quality. High salinity groundwaters are mostly encountered in arid parts of the northwest states of Rajasthan, Gujarat, Punjab and Haryana. Associated with salinity, groundwaters in some pockets may contain toxic levels of B, F, NO,, Se and Si etc. The alkali waters are found mainly in semi-arid parts of India where annual rainfall varies between 500 and 700 mm per annum.
+
+There has been an increase in the number of wells and pumpsets to harness groundwater resources at an accelerated pace (Tables 8.10, 8.11). It is interesting to note that groundwater development is primarily sustained by financial investments by the farmers themselves or through finance obtained as loans from the financial
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+institutions. As such, sustainable development of groundwater resources attains a high significance.
+
+The present rate of annual gross withdrawal is 16.45 M ha-m. The groundwater draft exceeds the annual available recharge for irrigation in 1,645 assessment units of the country (Table 8.12). Delhi, Haryana, Punjab, Rajasthan and Tamil Nadu have become groundwater deficit states and pose serious threat to intensive irrigated agriculture. Even at the national level about 30% of the assessment units are under exploitation stress of various degrees. Over-exploitation has caused declining of water levels, reduced well yields, drying of shallow wells, deterioration of groundwater quality, seawater intrusion into coastal aquifers and high cost of energy required to lift water from deeper depths. This leads to enhanced equipment and running costs for poor farmers and may lead to abandonment of agriculture. Such scenarios, especially in intensively irrigated high productivity states, necessitate that adequate steps must be taken for enhancing groundwater resources through all possible measures.
+
+As the reliance upon groundwater, especially for irrigation increases, many basins and states will have severe groundwater depletion. As the water-use patterns are not uniform within basins, many regions of these basins will have unsustainable water- use patterns, and even economically profitable cropping patterns may become hydrologically unsustainable (e.g. rice-wheat in western Indo-Gangetic basin)
+
+Irrigation potential and utilization
+
+India has created an irrigation potential of about 123.623 (up to 2007) against the ultimate irrigation potential of 140 M ha .Broad assessment places required potential at about 180 M ha, indicating additional potential of about 50 M ha, which has to come from additional major and medium irrigation projects, where 34.4 M ha is utilized out of the 42.3 M ha and 58.5 M ha of created and ultimate irrigation potentials, respectively. An area of 14.2 M ha of potential under minor schemes using surface water and 66.9 M ha from minor schemes using groundwater was created till March 2007. The National Water Development Agency, which has the responsibility of preparing national perspective plan of water resources development, is working on larger schemes for taking basin transfer of water to deficit areas and from one basin to other basin, after taking into account the technical and financial aspects as well as requirements of the local areas and basins. Thus in view of the present and the future increased requirement of water for irrigation, industry and other uses, not only the present programme of major and medium irrigations is to be expedited, but inter basin transfer projects to use flood water flow in excess areas to be stored in deficit areas also need to be considered to utilize available surface water resources of the country, which are estimated at 1,050 km’ per year.
+
+Irrigation schemes are classified as major, medium and minor, depending on their culturable command areas (CCA), which are more than 10,000 ha, between 2,000 and 10,000 ha, and less than 2,000 ha, respectively. Since the beginning of Plan era (1951- 52) and till the end of IX Plan period, a total of 228 major, 917 medium and 146 extension/renovation/modernization schemes (ERM) have been completed. It has been reported that 162 major and 221 medium projects are on-going and may be completed in near future. During X Plan, 69 new major and 113 new medium projects were included.
+
+Groundwater schemes contribute more than 72% of the total ultimate potential through minor irrigation. Uttar Pradesh and Bihar are two states along with Madhya Pradesh, Andhra Pradesh and Maharashtra, which account for 58% of the total ultimate potential of major and medium irrigations in the country. The largest ultimate irrigation potential for minor irrigations (groundwater) exists in Uttar Pradesh. Andhra Pradesh and Bihar are two major states in which potential of minor irrigation is far greater than in other states. Uttar Pradesh again occupies the first place among the states, so as to have maximum potential due to all types of schemes. Uttar Pradesh, Bihar, Madhya Pradesh and Andhra Pradesh account for more than 50% of the total potential of the country. The ultimate irrigation potential per thousand persons for the country as a whole is about 134 ha. Punjab and Haryana have much higher per capita potential than national average. Other states where per capita potential is more than the national figure are Andhra Pradesh, Arunachal Pradesh, Bihar, Madhya Pradesh, Orissa and Uttar Pradesh. A study of per capita potential due to major and medium irrigations
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+reveals that Haryana and Punjab again are in the forefront, where the respective figures work out to 184 and 148 ha/1,000 persons. In Orissa, per capita availability is 114 ha/ 1,000 persons, whereas the national average is 69 ha only.
+
+Present utilization of water
+
+The present utilization of water (surface and groundwater) is about 606 billion m?, leaving 536 billion m’ of utilizable water as unutilized. Of this, the usage for irrigation, domestic, industrial, energy and other purposes was 501.0, 30.4, 20.0, 34.0 and 20.0 billion m* respectively. State-wise net irrigated area according to sources is given in Table 8.13.
+
+Source: Ministry of Agriculture, Directorate of Economics and Statistics * Below 500 ha
+
+* Below 500 ha
+
+Environmental concerns
+
+The pre-eminent role of water in the environment is well reflected in India’s National Water Policy, which emphasizes that preservation of quality of environment and ecological balance should be a primary consideration for sustainable development of water resources. Since 1978, techno-economic appraisal of water resources projects in India includes assessment of environmental impact. Due to monsoonal climate about 40 M ha of the land in India is prone to floods. Severe floods occur almost every year in one part of the country or the other causing losses of life, large-scale damage to property and untold misery to millions of people. River flows in monsoonal season are several fold higher than lean period flows. The impact of floods was not so severely felt in the past because of less population pressure on the flood plains and extensive industrial and other developmental activities. Denudation of forests and reclamation of land for agriculture and other activities have greatly aggravated these problems. Average data on flood affected area and flood damages in India during 1953 to 2002 are given in Table 8.14.
+
+Source: Water and Related Statistics ( 2004, 2007), Central Water Commission.
+
+Waterlogging and salinity have also been associated with irrigated agriculture since early beginning and it has been estimated that about 4.5 M ha, irrigation commands have been affected by waterlogging and salinity. Total area affected by waterlogging in the country stands at 8.5 M ha. Observation of watertable data over a period of time shows that in almost all the irrigation commands, the watertable has a rising trend after the introduction of canal irrigation. The trend of waterlogging in selected irrigation commands is given in Table 8.15.
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+Irrigation Command
+
+Water resources and ecological security
+
+Development of water resources and use of water raise important issues connected with ecological security. The ecosystems are affected in three ways: the adverse environmental implications of water resource development projects, drying up of rivers, and adverse effects of water pollution. There has been much criticism of water resource development projects on gound that they have an adverse impact on environment. However, an analysis of 54 projects in India indicated that whereas only 217 thousand ha of forest land was submerged by the reservoirs of the projects, 13,297 thousand ha of cultivable land was provided with irrigation which must have provided more biomass than that lost through submergence of forest area. To view water resource development projects as destroyers of eco-system is not entirely correct.
+
+However, large number of dams on rivers, uncontrolled extraction of groundwater and direct pumping from watercourses have reduced non-monsoon flows in rivers, and even dried them up, thereby adversely affecting the river eco-systems.
+
+Water pollution
+
+Water pollution is a major environmental concern. Main sources of water pollution are discharge of domestic sewage and industrial effluents, and run-off from agricultural fields and mining areas. Increased use of fertilizers and pesticides in intensively cultivated areas and the run-off from irrigated lands has been adding to water bodies a variety of organic and inorganic pollutants. The increasing discharge of domestic and industrial effluents and use of fertilizers had also led to contamination of groundwater at many places making it unfit for human consumption. Excessive exploitation of groundwater in arsenic bearing shallow formations in West Bengal has led to serious arsenic contamination of groundwater resources in-tracts of 64 blocks and 8 districts of West Bengal exposing 5.3 million population. Districts with maximum incidence of arsenic are 24-Parganas, Nadia and Murshidabad where the area affected is 74, 72 and 58%, respectively. Remedial measures consisting of replacement of arsenic rich shallow tubewells with deep tubewells, greater surface based water supply and installation of large and domestic filters are quite effective.
+
+Impact of climate change on water resources
+
+Climate change is now recognized a reality and shall have serious implications especially towards water resources and agriculture. Studies by the Indian Institute of Tropical Meteorology indicate that the temperature is expected to rise by around 2°C
+
+by the end of this century, with a gradual hike in day as well as night temperatures, The impact of these changes will be more visible in central and north India. The climate change will also alter the pattern of monsoon in the country in the next 50 years, reducing number of rainy days in a year and increasing the intensity of rainfall. The number of rainy days might decrease by 8 to 10% and the intensity of rainfall will increase. The country witnesses 50-60 rainy days, which might go down by 5 to 6 days in the next 50 years or beyond. In actual terms, this means that the frequency and intensity of floods and droughts in the country shall increase making water resources development and management all the more important.
+
+Agencies conducting regular monitoring of several glaciers during the past 100 years in the major basins of the Himalayas revealed that a majority of glaciers in the Himalayan region are passing through a phase of recession. The Gangotri glacier is shrinking faster than ever before, faster every year. With the 27 km long Gangotri glacier shrinking, there is now less water downstream (Table 8.16). These glaciers are a primary source of water for 30 to 50% of the major rivers in the Gangetic plain. Recession may cause an increase in the discharge of Himalayan rivers due to enhanced melting, initially leading to a higher incidence of flooding and landslides. Tens of millions of people are currently affected by flood for 3 to 6 months of the year in eastern India. Increased precipitation and higher peak monsoon river flows due to glacial recession could exacerbate the situation for additional tens of millions. Climate change is expected to increase to increase the severity of flooding in many Indian rivers basins, especially those of the Godavari and Mahanadi along the eastern coast. Later, as the volume of ice diminishes, there will be no water left to flow in the river. Sea level rise also poses serious threat to low elevation coastal zone and small islands. Data over the last century indicate a mean sea level rise of less than one millimeter per year along the Indian coast. More recent observations suggest a sea level rise of 2.5 millimeters per year since 1950s and a number of cities along India’s
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+coast are at a serious risk. The country needs to take both mitigation and adaption measures as an adjustment in natural or human systems in response to actual or expected climatic changes and their effects, which shall moderate the harm and exploit beneficial opportunities.
+
+INDIA’S CAPABILITY IN DEVELOPMENT AND MANAGEMENT OF WATER RESOURCES
+
+India has a highly developed technological capability in planning, investigation, design, construction and operation of large multipurpose irrigation projects of various types. In 1940s, India barely had two big storage reservoirs with capacity exceeding 1 billion m*. Since then, 28 large storages have been built. Notable among these are the Bhakra dam across Sutlej, with a storage capacity of 9.6 billion m? completed in 1963, providing irrigation to an area of nearly 3M ha; Nagarjunasagar project on Krishna with a storage capacity of 4.9 billion m? completed in 1974 (Table 8.17).
+
+India has proven technical capability of planning, executing and managing large hydro-power projects. Manufacturing facilities are also available for providing large turbines and generators required for hydro-power installations. India has built up technical capability for basin level water resources planning development and management for regional development. Examples in this direction are Bhakra and Beas, Chambal and Damodar Valley basins, wherein integrated development of irrigation, power generation and flood control with the additional benefits of domestic and industrial water supplies for a large number of industries have been achieved. Plan-wise irrigation potential created and utilized and financial expenditure on irrigation is given under Tables 8.18, 8.19. Further, development of water resources is possible through transfer of water from surplus to deficit basins.
+
+Interlinking of rivers
+
+The Ministry of Water Resources has formulated a National Perspective Plan for Water Resources Development by transferring water from water surplus basins to water deficit basins/regions by interlinking of rivers, as early as in 1980. The National Perspective Plan has two main components, i.e. the Himalayan Rivers Development and Peninsular Rivers Development. National Water Development Agency has, after carrying out detailed studies, identified 30 links for preparation of feasibility reports and has prepared feasibility reports for 8 such links. It is proposed to complete feasibility reports for remaining links under the Peninsular and Himalayan Rivers Components by 2005. Some details of the components are given below:
+
+Himalayan rivers development: This component envisages construction of storage reservoirs on the principal tributaries of the Ganga and the Brahmaputra in India, Nepal and Bhutan, along with interlinking canal systems to transfer surplus flows of the eastern tributaries of the Ganga to the west, apart from linking of the main Brahmaputra and its tributaries with the Ganga and Ganga with Mahanadi. The Himalayan component could provide additional irrigation of about 22 million ha and generation of about 30 million kw of hydropower, besides providing substantial flood control in the Ganga and Brahmaputra basins. International cooperation would be required to enable the implementation of this component.
+
+Peninsular rivers development: This component is divided into four major parts: (i) Interlinking of the Mahanadi-Godavari-Krishna-Cauvery rivers and building
+
+Source: Indian National Committee on Irrigation and Drainage (INCID)
+
+WATER RESOURCES OF INDIA: POTENTIAL AND UTILIZATION
+
+WATER RESOURCES OF INDIA; POTENTIAL AND UTILIZATION
+
+storages at potential sites in these basins. This is the major link, which transfers surpluses from Mahandai and Godavari to needy area further south.
+
+(ii) Interlinking of west flowing rivers, north of Mumbai and south Tapi. The scheme provides for taking a water supply canal to the metropolitan area of Mumbai. Gujarat state would get benefit of irrigation.
+
+(iii) Interlinking of Ken-Chambal Rivers: The scheme provides for a water grid Madhya Pradesh and Uttar Pradesh through an interlinking canal backed by storages.
+
+(iv) Diversion of other west flowing rivers.
+
+The Peninsular Component is expected to provide additional irrigation of m ha and is expected to generate about 4 million kw of power. The project when complete will build 30 links and some 3,000 storages to connect 37 Himalayan and Peninsular rivers to form a gigantic South Asian water grid. Initial and very preliminary estimates suggest that the project may have a staggering cost of US$ 120 billion, handle 178 km: of inter-basin water transfer/year, build 12,500 km of canals, create 35 giga watts of hydro-power capacity, add 35 M ha to India’s irrigated areas, and generate substantial volume of navigation and fishery benefits. Government of India has constituted a Task Force on Interlinking of Rivers to suggest modalities for arriving at speedy consensus amongst the states for water sharing and transfer of water, provide guidance on norms of appraisal, socio-economic and environmental impacts and preparation of environmental plans. Till now, progress has been made for implementation of Ken-Betwa link and progress under other links is at different stages.
+
+River links
+
+POLICY OPTIONS FOR MEETING INDIA’S FUTURE WATER DEMANDS
+
+Increasing population and economic development enhances demand for more and better food, and higher consumption for meeting domestic, industrial, environmental and recreational needs. Higher and competing demands shall necessitate important policy changes in all these sectors and especially in the agriculture sector. Some of the potential policy options for agriculture sctor shall include the following:
+
+(i) Increasing agricultural productivity offers one of the greatest opportunities to reduce the demand for additional irrigation. By doubling the water productivity over the next five decades, no additional irrigation would be required. To realize these major investments will be required in research, development, extension on better management of other inputs, and infrastructure particularly to improve the reliability of water supply.
+
+(ii) Crop diversification offers good opportunities to increase the value of output by the same amount of water, which would be particularly useful in water scarce basins in the western and southern regions. In the water abundant eastern region, there is considerable scope to increase the productivity of foodgrains crops.
+
+(iii) Groundwater will continue to be the preferred source of water development in the near future. However, a large number of basins and aquifers are becoming over-exploited. Depending upon the local/regional situations, artificial recharge could significantly enhance groundwater supplies. Increasing groundwater irrigation efficiency and other demand management strategies will also be helpful for reducing the groundwater over-abstraction.
+
+(iv) Enhanced efforts should be made revitalize the existing surface irrigation systems, in particular to reconfigure the systems to provide more reliable water supply and allow effective community level management
+
+(v YS Adoption of water saving technologies and practices need to receive a very high priority. Some of the more recent and successful technologies include: resource conservation technologies and zero tillage, laser land leveling, micro irrigation practices ( drips, sprinklers, micro-sprinklers, tapes, guns etc.), aerobic rice and system of rice intensification, multiple water use systems, 5% water harvesting technology, intermediary water storage and application in canal commands, precision farming and poly-house and controlled environment cultivation.
+
+Following are some of the important institutions dealing with water management research and development issues.
+
+1, Central Water Commission, Ministry of Water Resources, Sewa Bhavan, RK Puram, New Delhi
+
+. Water Technology Centres (Bhubaneshwar, New Delhi, Coimbatore)
+
+National Institute of Hydrology, Roorkee
+
+Central GroundWater Board, New Delhi/Faridabad
+
+ICAR Research Complex for Eastern Region, Patna
+
+Central Soil and Water Conservation Research and Training Institute, Dehradun
+
+Central Soil Salinity Research Institute, Karnal
+
+Central Water and Power Research Station, Pune
+
+. State Water and Land Management Institutes WALMIs)
+
+. International Water Management Institute (IWMI-South Asia Offices at Hyderabad /New Delhi/Anand http://www.iwmi.org).

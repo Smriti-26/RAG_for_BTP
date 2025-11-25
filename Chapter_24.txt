@@ -1,0 +1,229 @@
+SOURCE_DOCUMENT: Chapter 24.pdf
+
+24. Nematodes
+
+Nematodes, popularly known as threadworms, roundworms or eelworms, are a group of most abundant, small, threadlike, multicellular, bilaterally symmetrical, pseudocoelomate, unsegmented, usually unisexual, and invertebrate animals. They have well-developed digestive, reproductive, excretory, nervous systems but lack special respiratory and circulatory systems and locomotory appendages.
+
+Nematode habitats and diversity
+
+Nematodes usually live in large numbers in the soil for a part or whole of their life cycle, but can be found in a variety of habitats. They are the most numerous multicellular animals on earth; over 30 million can be found in the soil in a square-metre area. They are also quite diverse, with an estimated 100,000 species, of which only about 20,000 have been described by the scientists. Many species of nematodes feed on the microorganisms in the soil and others feed on other animals or plants, causing various diseases. Most people are aware of the human parasitic roundworms and pinworms that come out in faeces of children; some also know guineaworms causing skin sores and worms causing elephantiasis disease. Most farmers would have observed worms in faeces of young calves, often resulting in their poor health and death. Besides causing serious growth retardation, diseases and death of fish, poultry, cattle livestock, insects and man, many species of nematodes are responsible for enormous quantitative and qualitative losses in food, fibre, timber, plantation, horticultural and other commercial crops all-over the world. Some nematode species are parasites of insects, killing insects directly or through symbiotic bacteria carried by them.
+
+Shape and size
+
+Plant-parasitic nematodes are microscopic and simple looking but structurally and physiologically they are complex organisms. Adult nematodes consist of approximately 1,000 somatic cells, and potentially hundreds of cells are associated with the reproductive system. Nematodes are characterized as “a tube within a tube, tapering at both ends.”
+
+The alimentary canal is the inner tube, which extends from the mouth on the anterior end, to the anus located posterior to a short or long tail, and the body-wall forms the outer tube. In length, vermiform stages of most of their species range from 0.2 mm to over 2 mm with a diameter about 1/10th to 1/100th of the length. Mature females of several species are swollen pouch-like, e.g. lemon, pear, kidney or of other irregular shape; and the male remains slender. The major diagnostic feature of the plant-parasitic nematodes is that they all have at the anterior end, a stylet or spear, which is sharp, usually hollow, pointed-needle, and moves back and forth into the plant tissue. The animal-parasitic nematodes are generally larger in size, ranging from a few millimetres to a few metres in length.
+
+NEMATODES
+
+Reproduction and life-cycle
+
+Most nematodes have separate males and females (unisexual/dioecious) and reproduction is usually amphimictic but many species can reproduce without males through meiotic or mitotic parthenogenesis. There are typically six stages in life-cycle— egg, four juvenile stages and adult. The fertilized or parthenogenetic eggs are laid singly in the soil or in the plant tissue, or as the gelatinous egg masses inside the spaces in plant tissues or onto the root surface, or retained inside the mother’s body, which upon death forms a leathery cyst protecting eggs for a long time. The eggs undergo embryogenesis through a series of determinate cleavages and first or second stage juveniles hatch freely in the presence of water in most of the species. However, in several species some exogenous stimuli in the form of specific temperature regimes or presence of host root diffusates are required to induce hatching, thus helping nematodes to survive for many years in the soil even if no host-plant is available. The vermiform juveniles and/or adult females are infective stages. One life-cycle can be completed in a few days, in many fungal and bacterial feeders and also some plant parasites. Most plant parasitic nematodes take 3-15 weeks to complete a life-cycle, and a few genera like Xiphinema it may take over a year. The duration of life-cycle depends upon several ecological factors, e.g., it takes longer at lower or sub-optimal temperatures.
+
+Feeding and nature of injury to plants
+
+Nematodes are obligate parasites requiring live-plant tissues for feeding. The hollow stylet or spear is inserted into the plant cells. At the same time, the nematodes inject a small quantity of its oesophageal gland secretion (digestive enzymes) into the plant tissues. The liquefied, semi-digested plant sap is sucked into the alimentary canal through stylet by the alternate contraction and relaxation of a median valve situated posterior to stylet. Digestion is mostly extracellular and nutrients are absorbed by the thin wall of the intestine. The hydrolysis of the plant constituents may alter host metabolism and induce reaction of plant tissues resulting in structural changes leading to blockade or disruption of conducting vessels, depriving the host of nutrients and water.
+
+Crop losses due to nematodes
+
+The damage is caused by several biotic and aboitic factors such as crop species or variety, cropping system, soil type, temperature, humidity, nematode species and population densities and cultural practices followed. The population densities of nematodes and several of the other factors vary spatially and temporally. Besides the direct damage, the nematodes also predispose plants to a variety of other pathogens especially bacteria and fungi, forming disease complexes. Therefore, it is difficult to have very precise estimates of crop losses due to nematodes. A large number of experiments have shown damage threshold level for most nematode pests as around 1 infective nematode per cm’ soil. In fields, mostly much higher populations of more than one nematode pest species are commonly found. Much of the damages remain unappreciated since the symptoms are mistaken for nutrient or water deficits, salinity or other soil disorders. According to the world estimates, derived in the USA on the basis of the international opinion and data, the 20 major life-sustaining crops suffer 10.7% yield losses due to nematodes, and another 20 economically important crops suffer 14% losses, the average amounts to 12.3%. The average losses in developed
+
+countries were estimated to be 8.8% whereas in the developing countries, which include India and other major parts of the tropics and subtropics it is at 14.6%. According to trials in the 1960s, in Rajasthan alone the molya disease due to Heterodera avenae, caused crop losses worth Rs 40 and Rs 30 million, amounting to Rs 400 and Rs 300 million at the current prices, in wheat and barley, respectively. Even ear-cockle nematode, Anguina tritici, that less than 1% average loss of wheat, caused losses inflicted of Rs 75 million, amounting to Rs 750 million at the current prices. Similarly, root-lesion nematode, Pratylenchus coffeae, on coffee was estimated to cause damage worth Rs 20 million at the price prevailing in 1970. National loss due to plant parasitic nematodes in major field and horticultural crops has been estimated Rs 21,068.7 million. Maximum loss of Rs 4,779 million in rice is reported in rice due to Meloidogyne graminicola, Heterodera oryzicola and Aphelenchoides besseyi.
+
+Nematode parasites of plants and their kinds
+
+Nematodes have adopted various survival strategies and types of associations with the plants. The parasitic ones may feed from outside (ectoparasites) or after entering plant tissues partly (semi-endoparasites) or fully (endoparasites). They may be migratory or sedentary parasites. Some species are host-specific but most are polyphagous. The nematode parasites of the plants can be classified in a number of ways on the basis of their feeding habits, parts of plants attacked and type of reproduction. A simple following classification based on their parasitic habit is adopted for economically important nematode problems with special reference to Indian agriculture.
+
+Migratory nematode parasites of above-ground plant parts
+
+* White-tip disease of rice is caused by Aphelenchoides besseyi, a migratory ectoparasite of foliage. These nematodes are carried with seed in dry quiescent state between seed-kernel and husk. When infested seeds are soaked in water for 24 hr, motile nematodes emerge. These nematodes also attack above-ground parts of strawberries, causing summer dwarf and nimp diseases.
+
+* The bud and leaf nematodes (Aphelenchoides ritzemabosi and A. fragariae) feed ectoparasitically on buds and endoparasitically on the parenchymatous cells of the leaf mesophyll. A. ritzemabosi parasitizes leaves of chrysanthemum and other ornamentals. The symptoms produced include angular (interveinal) spots or blotches on leaves, distorted tissue and stunted and deformed buds. Soaking infested plant tissues in water releases live-nematodes.
+
+Ufra disease of rice is caused by Ditylenchus angustus which feeds ecto- parasitically on rice stems, leaves and inflorescences producing various types of malformations of tissues. It is a serious disease of deep-water rice in Bangladesh and is also known to occur in Myanmar, India and Madagascar.
+
+* Red ring disease of coconut and palm, is caused by Bursaphelenchus cocophilus. The palm weevil, Rhynchophorus palmarum, acts as a vector for nematode to uninfected trees. Older leaves become chlorotic and die; younger leaves turn yellow; green nuts and un-open flowers are shed. Tree may show "little-leaf" symptoms. The tree dies within 3-4 months after initial symptoms appear. Red ring nematode is found in West Indies, South and Central America. so far this disease is not reported from India.
+
+NEMATODES
+
++ The pine wilt disease is caused by Bursaphelenchus xylophilus. The pine sawyer beetles, Monochamus alternatus which are the vectors of B. xylophilus mainly develop in Pinus spp. but other coniferous genera can also act as hosts. Nematodes spread through axial and radial resin canals of pine trees, feeding on epithelial cells. Resin flow stops; transpiration is depressed; trees wilt; sapwood desiccates; foliage turns brown; tree dies 45 days later. The nematode is native to North America. It occurs in 36 states in the US, Austria, Finland, Norway, France, Russia, Japan, several provinces in China, Hong Kong, Korea Republic and Taiwan. From Japan, B. xylophilus has spread to other Asian countries. This disease is also not reported in India.
+
+Sedentary nematode parasites of above-ground plant parts
+
+Members of the family Anguinidae (Subanguina, Anguina, Cynipanguina, Nothanguina, Orrina, Pterotylenchus) produce galls on the above-ground parts of plants; only one species of anguinids Subanguina radicicola produces galls on roots.
+
+Seed gall nematodes, Anguina tritici, A. agrostis, form seed-galls on wheat and grasses, respectively. A. tritici causes ear-cockle disease of wheat resulting in wheat- grains becoming deformed, brown or black galls that transmit nematodes when sown along with the healthy grains. Tundu disease of wheat is caused by interaction of A. tritici with Clavibacter michiganensis. Anguina funesta produces seed-galls on rye- grass in Australia and acts as the vector of toxin-producing bacterium, Corynebacterium rathayi. About 1,000 bacteria-infested galls are lethal to a sheep. Leaf-galls are produced by Subanguina, Cynipanguina, Nothanguina and Orrina and stem-galls are produced by Ditylenchus and Pterotylenchus. Orrina phyllobia is a parasite of silver-leaf nightshade (Solanum elaeagnifolium), and can be used as a biocontrol agent for this perennial weed that infests cotton fields in south-western United States.
+
+Fergusobia spp. of the family Neotylenchidae produce aerial shoot-galls on Eucalyptus spp. in Australia and Syzygium cumini in India. They show dual parasitism of trees and agromyzid flies (Fergusonina spp.). Teasing-out galls in water releases all developmental stages of these nematodes.
+
+Ectoparasites of root
+
+Majority of the plant-parasitic nematodes are ectoparasitic. All plant-parasitic members of the orders Dorylaimida, Triplonchida and Criconematida and some of Tylenchida are ectoparasitic. The commonly found genera of ectoparasitic nematodes in India are Tylenchorhynchus, Merlinius, Quinisulcius, Helicotylenchus, Hoplolaimus, Hemicriconemoides, Macroposthonia, Paratylenchus, Hemicycliophora, Xiphinema, Longidorus and Trichodorus.
+
+They feed on root hairs, epidermis and cortex of the roots, thus reducing nutrient and water uptake by the roots. These nematodes no doubt cause lesser damage than endoparasitic or semiendoparasitic nematodes at the identical population densities. However, not only high population densities but also polyspecific populations are most commonly encountered in all fields. Migratory ectoparasitic nematodes may have small stylets (Tylenchidae, Merlinius) to feed on root hairs and epidermal cells, or Jong stylets (Hemicycliophora, Amplimerlinius) to feed on the deeper tissues. Long and strong stylet-bearing Hoplolaimus spp. and Belonolaimus spp. are pests of lawn
+
+and turf grasses and many crops. They produce yellow patches in fields, in which root system is considerably reduced in size as the result of the feeding of the nematodes. The ectoparasites, Xiphinema, Longidorus, and Tylenchorhynchus, kill epidermal cells by feeding and cause discolouration and superficial necrosis. Stubby-root and docking disorder in crops are caused by trichodorid nematodes.
+
+Yam nematode, Scutellonema bradys infests yam-tubers and even multiplies in stored yams causing severe damage, resulting in cracking and dry-rot disease of tubers.
+
+Semi-endoparasites of underground plant parts
+
+Parasitic stages of some genera such as Tylenchulus, Sphaeronema and Rotylenchulus enter roots only partially. The anterior part of the body inserts into the root cortex. Some cells in the cortex or endodermis are modified to serve as the nurse cells. The nematode, after the start of feeding, becomes sedentary and posterior part of the body, outside the root swells into characteristic generic shapes due to increase in size of the ovary. The female secretes a gelatinous egg-matrix and lays many eggs into it. Soil particles often adhere to sticky egg matrices giving infected roots a dirty look compared to the healthy roots.
+
+The citrus nematode, Tylenchulus semipenetrans causes slow decline of citrus and occurs in almost all citrus orchards. Its second-stage juvenile is the infective stage and enters young growing roots partly. After three successive moults, a female is formed. The female’s anterior end lies deep in the root reaching the cortical region, where it feeds, and its body, most of which remains outside the root, swells. The root tissues respond to nematode feeding by producing nurse cells near the head of the nematode, thus avoiding destruction and decay. The nematodes may aggregate and form colonies on the roots and lay eggs in a protective gelatinous material. Juveniles of T. semipenetrans remain viable in the soil for several years even after the citrus-trees are removed. Recovery of these juveniles from rhizosphere soil of other plants that might have grown there is, therefore, not a proof of such plants being the hosts of this nematode.
+
+The reniform nematodes, Rotylenchulus reniformis, are widespread pests of most dicotyledonous and some monocotyledonous crops. These nematodes have a unique life-cycle. The egg hatches to produce second-stage juveniles which move freely in soil and moults, without feeding, three times in a succession over a few days, retaining the cuticles of the previous juvenile stages as superimposed sheaths until young adult females and males are formed. The sheaths, which help in slowing desiccation and survival in drought periods, are shed in moist soil. Young vermiform female is the infective stage; it enters root partially and establishes a permanent feeding site by modifying a few parenchymatous cells in cortex, endodermis, pericycle or phloem. The nematode becomes sedentary and its body swells after feeding. The anterior part inside root is irregularly swollen and the posterior assumes a bean or kidney-like shape, due to increase in size of the two ovaries. Eggs are produced in a gelatinous egg-matrix covering female and root surface.
+
+Migratory endoparasites of underground plant parts
+
+Species of Pratylenchus, Radopholus and Hirschmanniella live, feed and multiply within cortex of the root and in underground stem. Their juveniles and females pierce cortical cells and suck sap. The cells die and turn brown resulting in appearance of
+
+NEMATODES
+
+necrotic lesions in the epidermis and in cortical parenchyma that may extend to endodermis and stele. The lesions eventually girdle rootlets and interrupt water and nutrient supply of infected plants. Often such lesions are invaded by rot-causing bacteria and fungi, completely destroying rootlets.
+
+Root-lesion nematodes, Pratylenchus thornei, P. zeae and P. pratensis are widespread pests of wheat, maize, oats, barley, sugarcane, vegetables, soybean and pulses in warmer areas, and P. penetrans is a serious pest of peaches, apples, apricots and plums, and P. vulnus of walnuts in the temperate regions. P. /oosi and P. coffeae cause serious damage to tea and to coffee. These nematodes enter and migrate within root cortex, depositing eggs scattered out therein. The second-stage juveniles emerge from the eggs and either invade cells within the same root or come out into soil to invade fresh roots.
+
+Burrowing nematodes (Radopholus similis) are serious pests of most plantation crops like banana, coconut, arecanut, oilpalm, tea and black pepper. They cause severe root-rot, that in banana results in black head or toppling disease, and in black pepper yellows disease. Another race of R. similis (also considered a separate species, Radopholus citrophilus, by some) causes spreading decline of citrus in Florida. The diseased trees show a poor root system, in which feeder roots are shortened and reduced to less than half the normal size and number; drooping or wilting of leaves, dieback of twigs and general unthriftiness and low fruit yield.
+
+Rice-root nematodes, Hirschmanniella oryzae, H. mucronata, H. gracilis and H. spinicauda parasitize rice roots in many tropical and subtropical countries. They are found in large numbers in rice roots and are considered to be responsible for poor plant growth and reduced yield. The nematodes feed and move about intercellularly in air channels between radial lamellae and parenchyma of roots. The related species Hirschmanniella miticausa parasitizes taro (Colocasia esculenta) causing Mitimiti disease in southern highlands of Papua New Guinea.
+
+Another migratory endoparasite of underground plants parts Aphelenchoides arachidis infects groundnut pod-shells and seed testa in northern Nigeria, These nematodes are resistant to desiccation and are seed-borne.
+
+Sedentary endoparasites of underground plant parts
+
+Root-knot nematodes, Meloidogyne spp., are sedentary endoparasites and are very damaging plant pests particularly in tropics. They are easily detected due to galls or knots which they incite, usually on the roots, but occasionally on the stems and on the underground stems and tubers. Galls are also produced on tomato stems, potato tubers and ginger, and banana rhizomes as well as roots. Pearly white females, egg masses attached to posterior of females and second-stage juveniles are recovered when a gall is dissected in water. The infective second-stage juveniles are found in soil. They enter a young growing root in elongation zone, and start feeding on the phloem parenchyma cells, swell and moult three times more to produce pearly-white females. After a few days females produce a gelatinous egg-matrix emerging from root surface; into which an average 500 eggs are laid.
+
+There are more than 90 species of Meloidogyne known to occur in the world, of which 13 are present in India. The economically important ones are M. incognita, M. Javanica, M. arenaria, M. hapla, M. graminicola, M. triticoryzae and M. indica. Species
+
+identification is mainly based on the characters of the second-stage juveniles, males and perineal patterns of adult females. Root galling is not enough evidence for the presence of a Meloidogyne species. In case species are morphologically too close to each other to be easily differentiated, techniques based on electrophoresis and comparison of phenotypes of esterase, malate dehydrogenase and other isozymes, or Random Amplified Polymorphic DNA (RAPD) and Restriction Fragment Length Polymorphism (RFLP) analysis of its segments of ribosomal or mitochondrial DNA are employed. Juveniles in the soil should be the best indicator of this nematode. Sometimes Meloidogyne and heteroderid juveniles are found in soil around roots of a crop-plant or a tree, but repeated searches fail to locate females. It may be that the females occur on roots of some associated weeds or grasses and are not a parasite of the crop being surveyed, or these juveniles are the survivors of the populations from the previous crop. The false root-knot nematodes, Nacobbus spp., are similar to Meloidogyne spp. in inducing root-galls, but are very different in morphology. Since they occur only in the America, there is no problem in confusing them with Meloidogyne spp. in the old world.
+
+Cyst nematodes are also endoparasitic, but mature females protrude from root surface as they feed and grow, and when their bodies transform into brown or black cysts, they can be easily dislodged from roots. Heterodera cysts are lemon-shaped and Globodera cysts are spheroid. The economically important species in India are: H. avenae, H. cajani, H. sorghi, H. zeae, H. filipjevi, G. rostochiensis and G. pallida. Cysts remain viable in soils free of hosts for up to eight to ten years. They are recovered from soil by flotation techniques. Cyst nematodes induce syncytia in roots from which they derive nutrition throughout their development. Vascular bundles are damaged by this host reaction and so flow of nutrients and water is disrupted. Because of their host specificity, the introduction of cyst nematodes and their spread can be checked by applying strict quarantine measures. Crop rotation with non-hosts is also a good control measure.
+
+Symptoms and diagnosis of nematodes damage
+
+The symptoms caused by plant-parasitic nematodes are non-specific and confused with nutrient or water deficits, salinity or other soil disorders. The symptoms vary with species of nematodes involved, initial population density, age of the host plants and various ecological factors. General above-ground symptoms of nematodes infection include unthrifty reduced growth, severe stunting, chlorosis and wilting of leaves and reduced quality and, quantity of produce. Root damage includes swelling and knotting; shriveling, splitting and cracking; brown necrotic lesions; and stubby, broken or girded rootlets.
+
+Diagnosis of nematode problems in the field involves three essential steps:
+
+(i) Observe appearance of the crop for unthrifty growth or some specific symptoms; (ii) examination of the root for specific symptoms and presence of nematodes and their eggs inside or on the surface, and (iii) examination of the soil for the presence and population density of infective stages of endoparasites and ectoparasitic nematodes.
+
+NEMATODES
+
+Disease complexes of nematodes, fungi and bacteria
+
+Interactions between plant-parasitic nematodes and other plant pathogens, especially bacteria and fungi commonly occur, and result in disease complexes (Tables 24.1, 24.2). The combined damage to plant is much more than the sum of the damage caused by them individually. The prior infection of nematodes causes injury to tissues providing points of entry for the other pathogens. The metabolic changes such as increased proteins, amino-acids and carbohydrates in plant tissues or root exudates, as the result of nematode invasion, may also render sites more favourable to other pathogens. Presence of nematodes has been observed to break-down resistance of many crop varieties to root-invading fungi and bacteria. For instance, varieties of tomato, cotton and chickpea resistant to wilt and root-rot diseases lose their resistance in the presence of root-knot nematodes. Tobacco cultivars resistant to black-shank disease, caused by fungus Phytophthora parasitica var. nicotinae, become susceptible in the presence of root-knot nematodes. A number of plant-pathogenic bacteria are
+
+Table. 24.2 Disease complexes due to nematode — bacteria interactions
+
+carried by or cause disease only in the presence of nematodes, e.g. Clavibacter michiganensis p. vat. tritici, causes yellow slime-rot or Tundu disease of wheat only in the presence of Anguina tritici. Similarly, Clavibacter fasciens and the nematode Aphelenchoides fragariae together cause cauliflower disease of strawberry. Agrobacterium tumefasciens may cause crown-gall disease of raspberry and grapevines in the presence of root-knot or reniform nematodes, which provide entry points for bacteria.
+
+Nematodes as virus vectors
+
+Species of Xiphinema and Longidorus are known to transmit soil-borne nematode- transmitted polyhedral (NEPO) viruses of plants and species of Trichodorus and Paratrichodorus transmit nematode transmitted tubular (NETU) viruses, also known as tobacco rattle (TOBRA) viruses. Xiphinema index and X. diversicaudatum transmit fanleaf virus of grapevines and arabis mosaic virus, respectively. Longidorus elongatus is a vector of raspberry ringspot virus and tobacco black ring virus. The ectoparasitic nematodes are generally polyphagous and survive in soil without a host for many years. In India, hardly any attempt has been sincerely made to study virus transmission through nematodes.
+
+Methods of nematode control
+
+A variety of approaches based on the physical, chemical, biological and cultural methods have been found effective in reducing nematode population densities and improving crop performance. None of the methods, except on the very small areas or quantities of plant material, have been found sufficient or economical to completely control, or to maintain population densities at the levels below the economic tolerance level. Therefore, reliance has to be placed on a judicious combination of different practices suitable for location-specific conditions. The objective of a control measure is to reduce pest-population density to minimum possible levels. But various limitations of cost, environment and safety do not permit attainment of such a goal for most pests, more so in the case of nematodes. Therefore, a suitable management approach is adopted with an objective to maintain nematode population densities at the levels below the economic injury threshold or to reduce their levels such as to derive maximum profits out of the management cost incurred.
+
+Ecologically-based management approaches
+
+The management of plant-parasitic nematodes involves modification of such altered ecosystem by strategic chemical, physical, biological or cultural interference aimed at disrupting harmony acquired by them with host and agro-ecosystem. Although chemical nematicides of the 1940s were largely responsible for highlighting and demonstrating losses caused by nematodes as well as possibilities of their control, yet their costs, meagre availability, hazards and environmental considerations made nematicides the last of the options in practical nematode management. The emergence of novel nematicides devoid of these unfriendly features, though the target of many ongoing researches, is not in sight in the near future. An ecologically and economically sound nematode management approach involves combined use of a number of measures which may need to be augmented with nematicidal chemicals when quick reduction
+
+NEMATODES
+
+to very low levels of population density becomes necessary aS in the case of very susceptible or high-value cash crops. :
+
+Physiotherapeutic methods: Important physical methods include cleaning of seeds and other planting materials like tubers, bulbs, rhizomes and rooted cuttings in the dormant state by winnowing washing, filtration, flotation and paring. The use of heat in the form of insolation, heat or hot-water treatments to free planting materials and sometimes soil of nematodes provides some degree of control and prevention of spread of nematodes to uninfested areas. Cleaning wheat-seed free of ear-cockles, caused by Anguina tritici, has helped many countries to almost eradicate these nematodes. The use of a well-controlled combination of hot-water treatment (40°-55°C) and time (60-1 min) kills many nematodes in planting materials. Prior soaking of dry materials improves efficacy of heat treatment. Care must, however, be taken to safeguard against viability loss of the planting material. Combinations of relatively lower controlled temperatures and longer exposure period are usually preferable.
+
+Exploitation of solar-heat: Exposure of nematode-infested soil to solar-heat such as by summer ploughing with soil-turning harrows, provides some degree of control of nematodes. However, many nematodes enter into a quiescent anhydrobiotic state in slowly dried soil. Therefore, a light irrigation a few days prior to summer ploughing helps to activate such nematodes, making them more vulnerable to heat and desiccation death. Rabbing, i.e. burning of crop residues over soil surface, has been an age-old practice to reduce weeds, insects and pathogens. Turning of soil prior to rabbing can improve efficiency in killing some nematodes.
+
+Soil solarization, i.e. mulching of moist field soil with a clear-thin polyethylene sheet for some weeks in hot summer increases temperature in upper soil layers by about 5°— 10°C over normal for several hours daily, and which can kill or cause metabolic exhaustion of many nematodes, fungi, bacteria, insects and weeds. The decline in nematode population is correlated to the number of days or hours for which the soil temperature exceeds 40°C. The beneficial microflora and fauna are less affected or recover faster than plant-pathogenic organisms. This method, though expensive to use over large fields, provides an economical alternative for multiple pest, disease and weed control over small area nursery-beds, orchards and forestry plantations and high-value crops in regions bestowed with hot summers. In relatively cooler areas with sufficient bright sunlight, this method can improve antagonistic microbial activity in the soil.
+
+Cultural practices
+
+The most important of the cultural practices, besides summer ploughing, are the crop rotation and manipulation or augmentation of soil organic matter. Root-knot, cyst, reniform and lesion nematodes have wide but somewhat restricted host ranges. It is often possible to find commercially acceptable and agronomically suitable alternative crops which may be non-hosts, poor hosts, tolerant or antagonistic crops to target nematode species. For instance, many dicot crops can be grown as alternatives to wheat; barley, oats, maize and sorghum to control cereal cyst or maize cyst or sorghum cyst nematodes. Similarly, several monocots including cereals and some crucifers are poor or non-hosts of the common root-knot and reniform nematodes and many dicots are non-hosts of root-knot nematodes infecting cereals. African marigold, sesame, asparagus and mustard have been reported to be antagonistic to root-knot,
+
+reniform and some other nematodes. These are some examples of alternative crops with good commercial and agroclimatic suitability. The period of rotation, i.e. avoidance of the host-crop depends upon the rate of decline of the nematode population in the absence of the host. The nematodes which do not depend upon the host-root diffusates for their hatching decline faster than those which do. Usually, a 2-year rotation against cereal-cyst nematodes and a one-year rotation against root-knot and reniform nematodes are usually sufficient to bring down population densities to levels below economic injury thresholds; although much longer rotations may be necessary to achieve almost total control.
+
+A good host with quick and extensive root growth that is invaled by sedementary nematodes when planted for short duration of time, can be used in rotation as a trap crop. The crops such as Raphanus sativus, Solanum nigrum and Lactuca sativa can be used for effective management of Meloidogyne incognita.
+
+Intercropping of certain nematode antagonistic crops such as Zagetes spp., sesame and mustard has been reported to reduce root-knot and reniform nematodes. The use of trap or antagonistic crops as green-manure not only reduces nematodes but also improves soil fertility in many other ways and also promotes antagonistic microbial activity. Crotalaria spectabilis which allows invasion by Meloidogyne spp. but does not support development can serve as a good trap-crop.
+
+However, in all these alternative cropping methods, the control of weeds is essential as most nematodes have a wide host range including several species of weeds as alternative hosts. Many plants includings some weeds have been reported to have nematicidal properties; the use of their foliage as soil amendment may help in reducing nematode populations. Although doses required make their use impossible in practical agriculture; these in available quantities, may serve as an important component of the total nematode-management strategy.
+
+Incorporation of organic amendments or manures into the soil is known to reduce plant-parasitic nematode populations. Cultural practices helping in conservation or build up of organic-matter status of the soil may help in nematode management. Amendment of soil with non-edible deoiled seed-cakes of neem (Azadirachta indica), Melia azadirach, karanj (Pongamia glabra), mahua (Madhuca indica) and castor (Ricinus communis) improve soil fertility and organic matter status besides reducing nematode population density through their constituent or decomposition products which are toxic to nematodes and also for the promotion of the antagonistic microbial activity. The high doses (1-3 tonnes) required are a constraint, but again lower doses in combination with other practices can be advantageous.
+
+Removal or destruction of infected plant materials like roots, rhizomes and tubers from the soil, which was a traditional practice, can help in reducing surviving nematode population densities.
+
+Adjustment of sowing or planting time may help in avoiding nematode damage in regions with well-defined winter, such as in the north Indian plains. Most tropical plant-parasitic nematode species (except ear-cockle, potato cyst and cereal cyst nematodes) are slow in invasion and reproduction during winter than in summer. Late planting of susceptible rabi crops, therefore, helps crop to escape early nematode damage. On the same principle early sowing of spring crops in temperate regions may lead to escape of young crops from nematode damage.
+
+NEMATODES
+
+Good crop-husbandry practices including tillage, nutrient and moisture management, in general, improve plant tolerance to nematode attack. Proper availability of micronutrients also helps in overcoming nematode damage by Heterodera avenae; caused more damage to wheat in soils deficient in manganese (Mn).
+
+Resistant varieties of crops -
+
+The resistant varieties would be the low-priced, easy to recommend and most practical method of nematode control, subject to their availability and agroclimatic- cum-economic suitability. So far availability of such varieties is rather rare. Nematologists over the years, have reported large number of resistant sources. Unfortunately, the effort has not found adequate attention of plant breeders. The modern techniques of biotechnological gene transfer, cloning and mutation may go a long way in producing desirable nematode-resistant cultivars. However, care must be taken of the vast variability and adaptability of nematodes. The varieties found resistant at one location may or may not show resistance to another population of the same nematode species due to prevailing races. Surfacing or emergence of resistance breaking biotypes after a few seasons of selection process is not new to nematodes. Therefore, resistant varieties should form a component of a well-planned crop rotation or other nematode-management strategies.
+
+Biological control
+
+Recently, there has been much emphasis on the exploitation of biocontrol agents, especially certain bacteria and fungi against nematodes. A few microorganisms like parasitic bacteria, Pasteuria penetrans; toxin-producing bacteria, Pseudomonas fluorescens; nematode-parasitic fungi, Paecilomyces lilacinus, Pochonia chlamydosporium; and toxin-producing fungi, Trichoderma harzianum, T. viride, Aspergillus niger have shown great promise under limited experimental conditions. The vascicular arbuscular mycorrhizae, such as Glomus fasciculatum and G. mossae, known for their role in improving phosphorus availability, are also known to reduce nematode invasion and damage. As such mass culturing and release of biocontrol agents at regular intervals may be quite expensive. However, proper establishment and colonization of indigenous or introduced microorganisms is possible by simultaneous modification of the soil environment. Prior testing of such organisms to human and cattle health must of course form a part of the protocol before recommending them.
+
+Chemical control
+
+Nematicides have been found to give quick and demonstrable control of nematodes; these facts have been responsible for recognition of nematodes as economically important pests and hence for the establishment of the science of nematology. Several chemicals belonging to diverse groups like halogenated hydrocarbons (DD, EDB, DBCP, MBretc.), organophosphates (Phorate, Phenamiphos, Fensulfothion, Thionazin etc.) and oxime carbamates (Aldicarb, Carbofuran, Oxamyl etc.) have served as nematicides. Many of them also serve as insecticides. However, the large doses required for soil application, high costs, import dependence, environmental hazards and residue problems are the well-known limitations of pesticides, in general, and of nematicides, in particular. Consequently, many of the previously recommended nematicides
+
+insecticides are either not available or have been banned for agricultural use.
+
+Presently, systemic granular nematicides, mainly Phorate and Carbofuran, mostly used as insecticides, are the chemicals used for soil application at 1-2 kg a.i/ha as nematicide, but now banned. The viable options for the use of nematicides for nematode management are, therefore, their use on smaller areas such as in the nursery-beds, row or spot applications in main fields, in high-value cash crops; and their use for preplanting treatment of planting materials, such as seed treatment, seedling dip and rhizome immersion. Carbosulfan has been reported to be effective as seed treatment at 1-3% a.i. w/w, against root-knot nematodes by several workers. Similarly, Vydate, Triazophos, Thionazin, Lannate and Dimethoate have been shown effective as bare-root dip for seedlings. Used at non-phytotoxic doses, such treatments provide initial protection to young growing plants, when they are most susceptible to nematodes.
+
+Integrated approach
+
+Economic and environmental considerations are fundamental to any integrated nematode-management approach. The amount of damage to a crop is usually correlated to the population density of the parasitic nematodes. Sometimes low population densities are tolerated by the crops, unless an interaction with other plant pathogens accentuates the damage. The cost of reducing nematode population density to a very low level increases rather exponentially, and the additional damage caused by a unit increase in nematode population density tends to decrease as the latter rises above the damage threshold. The intersection of the nematode damage and management cost functions indicates optimum management level for maximization of profits. Selection of control measures vary with soil as well as climatic conditions, the socio-economic situation, the availability of chemicals and/or resistant cultivars, and the feasibility of agricultural practices.
+
+Nematodes are usually given a lower priority than most other pests and diseases. It must be realized that plant-parasitic nematodes are endemic and are well-adapted pests, usually causing less spectacular and slow but sure and continuous damage, spreading to larger areas with time. Further, their presence at high densities not only increases the damage caused by the other pathogens but also nematodes may predispose crop cultivars to attack by pathogens to which they may be normally resistant. Hence, a nematode-management programme, taking care of or at least supplementary to the control of other major pests and diseases, is likely to be more acceptable.
+
+A low input sustainable integrated nematode management strategy
+
+This for low and medium value crops in the tropical and subtropical regions rash been suggested here.
+
+Summer _: Two or three deep summer ploughings with a soil-turning harrow at fortnightly intervals, preferably with a light irrigation between two ploughings; soil solarization of nursery-beds or pit soil using clear- thin polyethylene mulch for 3-6 weeks before sowing; application of granular systemic nematicides to nursery-beds; growing of non host or antagonistic commercial crop, and ploughing back non-commercial crop residues before monsoon. a
+
+Monsoon : Green manuring with non-host or trap-crop or application of organic- soil amendments/manure.
+
+NEMATODES
+
+: Growing non-host or resistant commercial crops; nematicidal treatment of nursery-beds and seeds; spot application of systemic nematicides in high-value crops; uprooting and burning of roots of host crops and weeds after harvest.
+
+: Delaying sowing/planting to mid-November (when soil temperature falls to 15°-18°C); restricting growing of susceptible or tolerant crops to rabi with a suitable period of rotation; removal and burning of roots;
+
+The options given above are location specific and additional to normal sanitation and good crop-husbandry practices of tillage, manuring, irrigation and weed control. The future may hold in store biomolecular pesticides of plant or microbial origin and their genetically engineered analogues; novel chemicals which may not be toxic but may interfere with chemoreception, establishment of host-parasite relationship or reproduction; and perhaps clones of naturally resistant or genetically engineered crop germplasm. Until then and certainly even after, the integrated approach briefly stated above will be necessary for the management of the most adaptive plant parasites/ pathogens—the nematodes.
+
+Quarantine regulations against nematodes
+
+Although nematodes are widespread all-over the world, there are certain species with their distribution limited to some countries or regions. Their spread to new areas over long distances can occur through various passive ways involving movement of infested seeds, planting materials, soil and water. International movement of commodities for research or commercial purposes has the risk of carrying nematodes and other pests and pathogens. Therefore, quarantine regulations have been found helpful in slowing or restricting spread of such invasive exotic species. The entry of materials infested with species or their races not so far known to occur in the country, or species with very limited distribution in the country, is prevented by inspection and, if necessary, disinfestations or destruction of infested materials at the ports of entry (Table 24.3).
+
+Entomopathogenic nematodes
+
+The most effective nematodes and biocontrol agents of insect-pests are rhabditids (Steinernema spp. and Heterorrhabditis spp.). They carry certain bacteria into insect haemocoel. The bacteria, Xenorhabdus sp. in Steinernema and Photorhabdus in Heterorhabditis multiply very quickly in insects haemocoel and produce toxic metabolites which cause septicemia, killing insects within 1-2 days. The insect cadaver is preserved due to bacterial toxins providing opportunity for nematode to reproduce to several thousands in about a week. The lepidopteran insect-pests are particularly susceptible to these nematodes. They have also been found to kill mealy bugs, soil- borne beetles and termites. Steinernema carpocapse and Heterorhabditis indica have been found commonly occurring in Indian soils all over the country. S. thermophilum has been reported to be more suited to high soil temperature in tropical and subtropical areas, Methods for their mass culture have been developed which can be adopted by the main industry as well as cottage industry. Some sprayable liquid, granular and powder-based commercial formulations of EPNs are available in USA, Canada, Europe, Japan and India (Table 24.4).
+
+no Ww fe) KE ¢ S Pa
+
+yueodul| pz aIGeL
+
+* pyuog)
+
+NEMATODES
+
+(panuquos pz
+
+NEMATODES
+
+NEMATODES
+
+7717
+
+7) Fay (e) < Ww
+
+~w

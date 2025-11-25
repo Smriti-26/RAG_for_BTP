@@ -1,0 +1,477 @@
+SOURCE_DOCUMENT: Chapter 23.pdf
+
+23. Pesticide Residues
+
+A pesticide is any chemical used to control or manage pests. The pests may be insects, pathogen causing plant diseases, fungi, weeds, nematodes, rats, snails, slugs etc that compete with humans for food, destroy property, spread or are a vector for disease or cause a nuisance. Food and Agricultural Organization (FAO) defined Pesticide as any substance or mixture of substances intended for preventing, destroying, or controlling any pest, including vectors of human or animal diseases, unwanted species of plants or animals causing harm during, or otherwise interfering with the production, processing, storage, transport, or marketing of food, agricultural commodities, wood and wood products, or animal feedstuffs which may be administered to animals for the control of insects, arachnids, or other pests in or on their bodies. The term includes substances intended for use as a plant-growth regulator, defoliant, desiccant, fruit- thinning agent, or an agent for preventing premature fall of fruit, and substances applied to crops either before or after harvest to prevent deterioration during storage or transport. The term excludes fertilizers, plant and animal nutrients, food additives, and animal drugs.
+
+Pesticides are used both in agriculture and as vector-control agents in public-health management programmes. In modern agriculture, the scenario of crop protecting chemicals has been changed in the recent past years. Though alternative techniques are gradually increasing and challenging the agro-chemicals but there would not be enough food production without chemically protecting our agricultural commodities. It is estimated that India approximately loses 18% of the crop yield valued Rs. 90,000 crores due to pest attack each year. We the human beings are also protected from vectors such as mosquitoes by the use of only pesticides (e.g. DDT, Prallethrin). Significant amounts are also used in forestry and livestock protection. Although there are benefits to the use of pesticides but, also certain drawbacks, such as potential toxicity to humans and other animals.
+
+Classification
+
+Pesticides have been classified in many different ways: according to the target pests, the chemical structure of the compounds used, or the degree of type of health hazard involved, their mode of action. These chemicals may be extracted from plants or may be synthetic.
+
+Classification of pesticides based on the type of pest
+
+Phosmet
+
+PESTICIDE RESIDUES
+
+Bordeaux mixture, copper oxychloride, sulphur
+
+PESTICIDE RESIDUES
+
+Trend in pesticide consumption
+
+More than 2.6 million tonnes of active ingredients of pesticides are used worldwide. Roughly 85% of this consumption is used in agriculture. About three-quarters of pesticides are used in developed countries, mostly in Europe and Japan. India’s consumption of pesticides is only 2% of the total world consumption. The consumption of pesticides in India has increased several hundred, folds from 2,353 metric tonnes (MT) in 1955-56 to 75,000 MT in 1990-91 (Fig. 23.1). Thereafter, their consumption steadily declined to 43,584 MT primarily due to: (i) banning of high dose persistent organochlorine pesticides such as DDT, aldrin, heptachlor, etc and (ii) introduction of new generation pesticides such as neo-nicotinoid, that are effective at doses as low as 20 g a.i. /ha. The per hectare consumption of pesticide in India is 381 g which is low as compared to the world average of 500 g. Low consumption in India can be attributed to fragment land
+
+holdings, low level ofirrigation, dependence on monsoons, low awareness among farmers about the benefits of usage of pesticides etc. India, being a tropical country, the consumption pattern is also more skewed towards insecticides, which accounted for 64% of the total pesticide consumption in 2006-07. Fruits and vegetables consume the highest amount of pesticides (26%) in the world, followed by cereals (15%), maize (12%), rice (10%) and cotton (8.6%). In India, however, 45% of the total pesticide consumption is on cotton-crop, followed by rice (22%), vegetables (9%) and pulses (4%) and the trend is now changed after the introduction of transgenic cottons .
+
+The area under plant protection is continuously increasing, but still only 25-30% of total cultivated area is under pesticide cover. The approach to control pests and increase the yield of crops in developed countries is by controlling weeds that compete with crop for nutrients and harbor insect pests and diseases. Therefore out of the total pesticide used, 36% are herbicides, whereas insecticides are 25% and fungicides 10%. In developing countries, however, insecticides constitute a major portion of pesticide consumption but only 12% herbicides are used.
+
+Before a pesticide is sold in the market, it is to be registered under the Insecticides Act, 1968 (An Act to regulate the import, manufacture, sale, transport, distribution and use of insecticides with a view to prevent risk to human beings or animals, and for matters connected therewith) under the purview of Central Insecticide Board and Registration Committee (CIB&RC), by the Government of India in consultation with Central Insecticide Board. Application should be submitted in prescribed form, giving information on common name, chemical name (active ingredients and associated ingredients), literature on chemistry, residues, bio-efficacy and toxicity, and registered status in other countries.
+
+Acts and rules regulating the use of pesticides in India
+
+* The Drugs and Cosmetics Act, 1940
+
+* The Prevention of Food Adulteration Act, 1954
+
+¢ The Prevention of Food Adulteration Act, 1955
+
+* Insecticides Act, 1968
+
+* Insecticides Rules, 1971
+
+* Water (Prevention and Control of Pollution) Act, 1974
+
+¢ Air (Prevention and Control of Pollution) Act, 1981
+
+* Insecticides (Price, stock, display and submission of reports) Order, 1986
+
+The Environment Protection Act, 1986
+
+* The Consumer Protection Act, 1986
+
+PESTICIDE RESIDUES
+
+Insecticides registered under/section 9(3) of the Insecticide Act, 1968 as on February 2009
+
+48 Clomazone
+
+49 Chlothianidin
+
+50 Copper Hydroxide
+
+51. Copper Oxychloride
+
+52 Copper Sulphate
+
+53 Coumachlor
+
+54 Coumatetralyl
+
+55 Cuprous Oxide
+
+102 Flufenoxuron
+
+103 Flufenzine
+
+104 Flusilazole
+
+105 Fluvalinate
+
+106 Forchlorfenuron
+
+107 Fosetyl-Al
+
+108 Gibberellic Acid
+
+109 Glufosinate Ammonium
+
+(Table 23.1 concluded)
+
+153 Oxadiargyl
+
+210 Tricyclazole
+
+154 Oxadiazon
+
+211 Tridemorph
+
+155 Oxycarboxin
+
+212 Trifluralin
+
+156 Oxydemeton-Methyl
+
+213 Validamycin
+
+157 Oxyfluorfen (Pyroxofop-propargy!)
+
+214 Verticillium lecanii
+
+158 Paclobutrazole
+
+215 Zinc Phosphide
+
+159 Paraquat Dichloride
+
+216 Zineb
+
+160 Penconazole
+
+161 Pencycuron
+
+PESTICIDE RESIDUES
+
+Based on bio-efficacy, toxicity and pesticide residues data the CIBRC approves pesticide registrations and bans or restricts pesticide usage. At present there are 217 pesticides (Table 23.1) registered for use in agriculture and public health while 18 pesticides have been refused registration (Table 23.3). Due to their deleterious effects, 31 pesticides have been banned and 12 others have been put under restricted use (Tables 23.2, 23.4).
+
+A. Pesticides banned for manufacture, import and use (25 Nos.)
+
+Aldrin
+
+Benzene Hexachloride
+
+Calcium Cyanide
+
+Chlordane
+
+Copper Acetoarsenite
+
+Clbromochloropropane
+
+Endrin
+
+Ethyl Mercury Chloride
+
+Ethyl Parathion
+
+10. Heptachlor
+
+11. Menazone
+
+12. Nitrofen
+
+13. Paraquat Dimethyl Sulphate
+
+14. Pentachloro Nitrobenzene
+
+15. Pentachlorophenol
+
+16. Phenyl Mercury Acetate
+
+17. Sodium Methane Arsenate
+
+18. Tetradifon
+
+19. Toxafen
+
+20. Aldicarb
+
+21. Chlorobenzilate
+
+22. Dieldrine
+
+23. Maleic Hydrazide
+
+24. Ethylene Dibromide
+
+25. TCA (Trichloro acetic acid)
+
+B. Pesticide / pesticide formulations banned for use but their manufacturing is allowed for export (2 Nos.)
+
+26. Nicotine Sulfate
+
+27. Captafol 80% Powder
+
+C. Pesticide formulations banned for import, manufacture and use (4 Nos)
+
+1. | Methomyl 24% L
+
+2. Methomyl 12.5% L
+
+3. Phosphamidon 85% SL
+
+4. Carbofuran 50% SP
+
+D. Pesticide withdrawn (8 Nos)
+
+Dalapon
+
+Ferbam
+
+Formothion
+
+Nickel Chloride
+
+Paradichlorobenzene (PDCB)
+
+Simazine
+
+Warfarin
+
+Metoxuron
+
+Pesticides in environment
+
+Pesticide enters in the environment (soil, water or air) either through application, disposal or spill. Upon application, a number of environmental factors such as temperature, humidity, air current, light radiations, rainfall may remove pesticide from substrate. Adsorption, transfer and degradation are the three major processes occurred in the environment. Various degradation processes such as chemical reaction, photodegradation, microbial degradation or co-metabolism also dissipate pesticide from substrate over a period of time.
+
+Pesticides resistant to degradation by any means remain unchanged in the environment for long periods of time. The time period for which a pesticide exists in its original chemical form over the application surface and controls effectively the target organism is known as its Persistence. The most desirable pesticide would be the one that has stability just sufficient to perform its functions with no persistent residues. The ones that are most rapidly broken down have the shortest time to move or to have adverse effects on people or other organisms. And that lasting the longest, the so- called persistent pesticides, can move over long distances and can build-up ‘in the environment, leading to adverse effects.
+
+Persistence of some commonly used pesticides
+
+Besides environmental factors persistence of pesticides depends on its chemical class such as chlorinated hydrocarbon insecticides persists for 16 months - 5 years; urea, tiazines, and picloram herbicides persist for 3 -18 months; phenoxy and nitrile herbicides for 1-6 months; organophosphorus insecticides for 1-12 weeks; benzoic acid and amide herbicides for 3 -12 months; carbamate and aliphatic herbicide for 3 -
+
+PESTICIDE RESIDUES
+
+Transfer of Pesticides
+
+The transfer of pesticides takes place by five different processes: Volatilization, Run off, Leaching, Absorption and Crop removal. Transfer of pesticide from plant surface, water or soil to air is called volatilization. The pesticide changes from solid or liquid to a gas (vapours) that diffuse in atmosphere just above the surface. Pesticide vapours are then swept away to longer distances with the air current, the process is called drift. Pesticides can also move into the air as particles, adsorbed on to dust, or as droplets or aerosols during application. Pesticides that are applied directly to the plant surface or soil may be run-off by rain or irrigation into the nearby bodies of surface water (river/pond). Runoff may be defined as the physical transport of pesticides over the ground surface by rainwater which does not penetrate soil or is carried with transported sediments. Movement of pesticides downward through the soil by rain or irrigation water is known as leaching. Uptake or movement of pesticides into the plant or animal is known as absorption. The transfer of pesticides and their breakdown products from the treatment site is known as crop removal. |n the soil, pesticides can bind on to the soil particles, organic matter or clay minerals (known as adsorption) and become unavailable to plants. Adsorption is an important process because it influences other processes which are able to affect pesticides. The breakdown of pesticides into some other products is known as degradation. The degradation product may be less toxic, and harmless compound but some time may be more toxic. Pesticides degradation occurs through a chemical reaction, microbial metabolism or a reaction initiated by light (photodegradation). Various types of chemical reactions such as oxidation, reduction, hydrolysis occur between pesticides and naturally occurring elements and compounds. Temperature, moisture, pH, and adsorption, in addition to the chemical and physical properties of the pesticides, determine which chemical reaction to take place and how quickly they occur. The breakdown of pesticides by fungi, bacteria, and other microorganisms that use pesticides as a food source is known as Microbial degradation. Most microbial degradation of pesticides occurs in the soil. Soil conditions such as moisture, temperature, aeration, pH, and the amount of organic matter affect the rate of microbial degradation because of their direct influence on the microbial growth and activity. The breakdown of pesticides by light, particularly sunlightis called Photodegradation, which can destroy pesticides on foliage, on soil surface, and even in the air. The intensity of light, properties of the application surface, application method, and properties of the pesticide affect rate of photodegradation. Pesticides applied to plants enter the system through plant roots or foliage. Similarly, pesticides enter animal body either by absorption through skin and inhalation or ingestion with food. Inside living system, they undergo chemical transformation with enzymes in multi-step processes known as co-metabolism. Co-metabolism can be defined as bio- transformation of an organic compound that is not used as an energy source, or as a constituent element of the organism. Co-metabolic transformations may render pesticides less toxic and also enhance pesticide vulnerability to other biological, chemical or physical derivative transformations. Enzymes involved in initial co-metabolic transformation include: hydrolytic enzymes (esterases, amidase, nitrilases, etc.), transferases (glutathion transferase, glucosyl transferases etc.), oxidases (cytochrome P-450, peroxidases etc.) and reductases (nitroreductases, reductive dehalogenases etc.) Several co-metabolic processes together degrade pesticides.Living organisms also play a significant role in pesticide distribution and persistence. In living organisms, pesticides get absorbed by fat tissues, where they remain stored life-long as no degradation forces can act upon them. The accumulation of a pesticide in various tissues of a living organism in concentrations that are orders of magnitude higher than in the surrounding environment is called bioaccumulation. Bioaccumulation is the sum of two processes: bioconcentration and biomagnification. The bioconcentration factor is defined as the quotient of concentration in organisms divided by that in the medium and in plants as related to soil the factor is <1, i.e. the pesticide is not concentrated in the plant. In aquatic systems, of chemicals from water in organisms is predicted by n-octanol/
+
+726 HANDBOOK OF AGRICULTURE
+
+5 months. Based on the following basic characteristics, UNEP through Stockholm convention categorized some toxic organic chemicals (that include many pesticides, industrial chemicals and chemical by-products) as persistent organic pollutants (POPs).
+
+* POPs degrade very slowly in the soil, air, water and living organisms, and persist in the environment for long periods of time.
+
+* POPs concentrate in the food chain, building up to high levels in the tissues of all living creatures, including humans.
+
+* POPs travel long distances in global air and water currents, and concentrate in high-latitude, low-temperature regions of the globe and their residues have been detected in the water samples collected from the North Pole.
+
+* POPs are linked with serious health effects in humans and other species, including reproductive and developmental illnesses, immune suppression, nervous system disorders, cancers etc. Some POPs alter hormonal system called endocrine disrupter.
+
+Out of the numerous POPs, only 12 are found most prevalent in our environment and are called Dirty Dozen, nine of which are pesticides: Aldrin, Chlordane, DDT, Dieldrin, Endrin, Heptachlor, Mirex, Toxaphene, PCBs, HCBs, Dioxins and Furan.
+
+PESTICIDE RESIDUES
+
+The pesticide residue problem first attracted the attention of the public and the Government way back in 1958 when about 100 persons died after consuming wheat flour contaminated with pesticides. Since then, the Government enacted the Insecticides Act (1968), instituted machinery for registration of pesticides, and set limits for pesticide residues under the Prevention of Food and Adulteration Act (PFA). This is undoubtedly welcome because it will help us to have a re-look at the pesticide residues problem in its totality and make the regulatory system more effective to minimize health hazards as well as to maintain the quality and safety in the use of pesticides.
+
+The pesticide present on a surface where it was applied right after application is called deposit. Pesticide present in or on any substrate after a period of application or even without application is called residue. WHO has defined Pesticide Residues as any specified substance in food, agricultural commodities, animal feed, soil or water resulting from the use of pesticides. The term includes any derivative of a pesticide such as conversion products, metabolites, reaction products and impurities that are of toxicological significance. A pesticide when sprayed may drift over from a nearby field and fall on a crop or surface. The term pesticide residues, therefore, include residues from unknown or unavoidable sources (e.g. environmental), as well as known application of the pesticides.
+
+The most important property of a substance to be called residue is its toxicity. Therefore, pesticide residues in/on food commodities are a matter of concern and are regulated by the national and international laws.
+
+The Codex Alimentarius Commission (which means “food code’ in Latin) establishes acode of food standards for all member nations. It was created by two UN organisations, the FAO and the WHO, and has committees covering many aspects. Pesticide residues in food are dealt with by the Codex Committee on Pesticide Residues that work on scientific approvals made by the independent expert panel, the Joint FAO/WHO Meeting on Pesticides Residues (JMPR). In India Ministry of Health and Family
+
+PESTICIDE RESIDUES
+
+Welfare sets standards for pesticide residues in food items (raw agricultural commodities, processed food, water) under the Prevention of Food Adulteration Act 1954 and Rules, 1955.
+
+The legal standard for pesticide residues worldwide is Maximum Residue Limit (MRL), which is defined as the maximum concentration of a pesticide residue (expressed as mg/kg) legally permitted in or on the food commodities and animal feeds. The MRL (Annexure 23.1) is established by the regulatory bodies based on the supervised field studies conducted at more than one agroclimatic zone as per the Good Agricultural Practices (GAP)!, residue estimation as per Good Laboratory Practice (GLP)’, ADI? derived from toxicological studies and food consumption pattern ina country or region (food factor). Other inputs considered during the establishment of MRL are information on daily intakes of the commodity carrying the residue besides other criteria such as health, technological, and socio-economic feasibility and its enforcement etc.
+
+Some pesticides do leave little or no residues, and the others persist for weeks, months or even years. Since residues have toxicological significance their identification and quantification is very important. Pesticide residues even if present at ppm (parts per million) or ppt (parts per trillion) level are significant and their estimation at such low level requires special skills. Pesticide residue analysis, has emerged out therefore a highly specialized branch of analytical chemistry.
+
+Pesticide residue analysis is carried out in number of studies such as:
+
+« Fate and persistence / degradation pattern of pesticide in or on the soil, plant and water and estimate half life or safe waiting period (pre-harvest interval) of pesticide on a particular crop.
+
++ Determination of “Maximum Residue Limits” (MRL) of pesticides
+
+« Screening agricultural produce drawn from farmers’ fields so as to evaluate farmers’ practices of pesticide usage and handling.
+
+* Monitoring food commodities available in the market to assess exposure of consumer to the risk associated with pesticide due to dietary intake.
+
+Note: 'Good Agricultural Practice (GAP) - The good agricultural practice in the use of pesticides includes the nationally authorized safe uses of pesticides under actual conditions necessary for effective and reliable pest control. It encompasses a range of levels of pesticide applications up to the highest authorized use, applied in a manner that leaves a residue of the smallest amount possible practically. Authorized safe uses are deter- mined at the national level and include nationally registered or recommended uses, which take into account public and occupational health and environmental safety considerations. Actual conditions include any stage in the production, storage, transport, distribution and processing of food commodities and animal feed.
+
+2Good Laboratory Practice (GLP) embodies a set of principles that provides a framework within which laboratory studies are planned, performed, monitored, recorded, reported and archieved. GLP helps assure regulatory authorities that the data submitted are a true reflection of the results obtained during the study and can therefore be relied upon when making risk/safety assessments.
+
+Acceptable or Tolerable Daily Intake (ADI/TDIN): The ADI/TDI for pesticide residues is the level of a substance that would have no appreciable effect on health even if ingested daily over a lifetime. This is derived from the most sensitive NOAEL* established from the animal studies with an appropriate margin of safety, which is a factor of 100. The safety margin allows for any species difference in susceptibility, the numerical differences between the test animals and the human population exposed to the hazard, possibility of synergistic action among food additives etc. While fixing the ADI, some of the other factors taken into consideration are the chemical nature of the residues, the toxicity of the chemical based on data from acute,
+
+(Contd. . .)
+
+* Screening various methods for effective decontamination of pesticide residues from food and water.
+
+* Monitoring environmental samples such as soil, water, air, river sediment etc so as to assess exposure of non target species to the pesticide residues.
+
+Excepting monitoring studies, all these studies are performed by conducting supervised field trial before actual residue analysis, where the crop must be treated with pesticides according to good agricultural practices and grown under a representative range of agricultural and climatic conditions. Meticulously planned, conscientiously executed and carefully evaluated studies of residues on crop according to the guidelines developed by the FAO and Codex Alimentarius Committee are called supervised trials.
+
+Design of supervised residue trial: Trials should be designed to cover a range of field conditions, typical periods of the year and commonly encountered cropping and farming practices. Climatic conditions influencing persistence of pesticides should be carefully recorded. The variety and stage of growth of crop also influences residue level. Pesticide should be applied in a manner analogous to that used by farmers by using commercial formulation. At least two dosage rates should be included in each residue trial, the maximum rate that is recommended and the double of the recommended rate. The pesticide treatments in experimental plots are applied according to statistical principal of randomized block design (RBD). For the residue trial, the plot size should be large enough to allow application of the pesticide accurately. A sufficient buffer zone should be left between plots to prevent cross-contamination. Each site should have three or four replicates to ensure experimental uniformity. A control plot for the supply of untreated sample is necessary. The control plot should be large enough to satisfy requirements and to secure identical growing and climatic conditions.
+
+Collection of the gross sample: In most cases, it is not practical or feasible to
+
+(Cont. from pre page)
+
+short-term and long-term studies and knowledge of metabolism, mechanism of action and the possible carci nogenic nature of residue chemicals when consumed (usually determined in animals) and the knowledge of the effects of these chemicals on humans. In addition to the safety factor of 100, since 1996, as per the requirement of Food Quality Protection Act (FQPA), USA, an additional safety factor of 10 is used while deriving the ADI to account for the most sensitive population, viz. the children and infants. A group ADI is sometimes allocated for chemicals sharing a common structure or toxicity profile. Where ADI cannot be derived, e.g. for, carcinogens, the usual recommendation is that exposure be avoided or minimized by the application of good agricultural practice and food technology. Other established references include Provi- sional Tolerable Weekly Intake (PTWI), Virtually Safe Dose (VSD) and health-based Maximum Allowable Concentration (MAC).
+
+Correlation between ADI or TDI and MRL: Though the ADI is a daily dose expressed in mg/kg body weight (per day), the MRL is the concentration of a pesticide residue in or on the food commodities and animal feed expressed in mg/kg of the produce. Foods derived from commodities that comply with the respective MRL are intended to be toxicologically acceptable. The MRLs are derived on the basis of Good Agricultural Practice and, if adhered to, would not result in the ADI being exceeded even if all the designated crops contained the pesticide at the respective MRLs. However, if occasional samples of a commodity con- tain residues a little above the MRL, it does not indicate that the ADI will be exceeded.
+
+“Non Observed Adverse Effect Level (NOAEL): The important toxicological end-points from the animal studies is the non-observed-adverse-effect level (NOAEL), which is the highest concentration of a substance found by experiment or observation that causes no detectable alteration of morphology, functional capacity, growth development or life span of the target organism under defined conditions of exposure. It is expressed in milligrams of the chemical per kilograme of body weight.
+
+PESTICIDE RESIDUES
+
+collect the entire crop from a test plot. Therefore it is generally necessary to devise means of selecting a sample referred to as gross sample or field sample, that wholly when reduced and analysed will give a residue result, and that for all practical purposes, will be equal to the actual average residue level on the entire crop in the plot. In general, the gross sample must be representative of the treated plot. In other words, each plot or fruit should normally have an equal chance of being chosen. Emphasis should be directed towards identifying the highest residue levels. The amount of different commodities required to constitute a satisfactory sample vary according to the commodity.
+
+Amount of sample necessary for analyzing pesticide residues
+
+Pesticide residue analysis involves following basic steps
+
+* Sample preparation (Preparation of laboratory sample)
+
+* Extraction
+
+° Clean-up
+
+* Analysis of control sample
+
+* Fortification and recovery trials
+
+* Identification and quantification
+
+* Confirmatory analysis
+
+Preparation of laboratory sample
+
+The laboratory sample is prepared from gross (field) sample by doing necessary cleaning, pruning and trimming of the desired crop components. The sample is then mixed thoroughly and subdivided systematically to reduce the sample size appropriate for analysis.
+
+Storage of sample: \f the analysis cannot be carried out immediately, it is stored in such a manner that residues are not degraded. Also the sample should not get contaminated from other sources. Plastic containers or plastic they are of lined caps should be avoided unless use inert plastic. Glass containers should be used for liquid samples, and should be thoroughly cleaned and rinsed with one or more suitable pesticide-free solvents. Pesticides can migrate to the walls of a container and be adsorbed. Hence the container should be rinsed with solvent. The samples should be stored in deep-freezer, preferably at or below —20°C to prevent any further
+
+decomposition. Cooling in dry ice or by using liquid-nitrogen is the best method. Each sample should be labeled with appropriate sample identification.
+
+Extraction
+
+After the field sample has been composited, sub-sampled and a suitable aliquot weighed out, the next step is to extract pesticide residue from the sample into a suitable solvent. The choice of the extracting solvent, polar, non-polar or a mixture of both depends on the nature of the substrate and the polarities of the pesticides to be extracted. The solvent selected should be such that it is able to extract pesticide from the substrate but not excessive co-extractives, and should not react with the pesticide. It should neither be inflammable nor contain any interfering impurities. Highly volatile and toxic solvents should be avoided.
+
+For extracting pesticides with the solvent, the sample should be subdivided as finely as possible by grinding with high speed homogenizer, so that sufficient surface is available for solvent penetration. Sufficient contact time must be allowed for solvent penetration.
+
+Extraction methods: The choice of extraction method depends on the nature of substrate, pesticide and aging of residues. The aim of extraction method is to get maximum possible residues with minimum possible co-extractives. Shaking of the substrate with a suitable solvent can extract surface/unbound residues from simple matrix such as water or soil. Liquid samples are extracted by partitioning with immiscible solvents. Pesticides move from one solvent layer to another according to partition law. The same sample is extracted at least three times to get maximum amount of pesticides in the solvent. For the complex matrix-pesticides many other methods are available such as:
+
+Soxhlet extraction: For the aged samples or high fat samples, hot extraction methods are used. The finely chopped macerated sample is packed in a filter paper and placed in a thimble in Soxhlet apparatus. The Soxhlet apparatus is fixed on a round-bottom flask containing non-polar solvent. The pesticide is extracted with continuous evaporation and condensation of the solvent. This method gives much colour and other co-extractives.
+
+Microwave assisted solvent extraction (MAE): This technique uses polar organic solvents in contact with finely divided solid samples heated in a microwave to extract organic contaminants.
+
+Accelerated solvent extraction (ASE): The system used conventional liquid solvents at elevated temperatures and pressures, which result in increased extraction efficiency and speed.
+
+Supercritical fluid extraction (SFE): This is relatively new technique used for cleaner, faster and quantitative extraction of pesticide residues. The extraction is carried out at relatively low temperature, where the possibility of pesticide degradation is minimum besides least extraction of co-extractives. The pesticide is extracted with supercritical carbon dioxide, thereby reducing presence of the extraction fluid and allowing it to evaporate to recover extracted material.
+
+While extracting pesticides with the solvents, many other substances such as
+
+PESTICIDE RESIDUES
+
+proteins, tannins, lipids, fats, waxes, chlorophyll and terpenoids also get co-extracted from the matrix of the substrate. These co-extractives interfere with quantification and detection of the pesticides in a number of ways. Co-extractives directly interfere in colorimetric and spectroscopic analysis of pesticides by masking colour of pesticide or by absorbing in the same region of light radiations where pesticide absorbs. The co- extractives can damage sophisticated analytical instruments by causing blockage or overloading. To achieve necessary sensitivity, the interfering substances have to be removed from the pesticide, and this step is known as ‘clean-up’. The type and extent of clean-up will depend greatly on the final method of pesticide analysis. When the pesticide is evaluated by direct measurement, only superficial clean up is required. Clean-up is required when the pesticide can be measured after having converted to a suitable derivative and then isolated. When the pesticide is measured by highly sensitive techniques using micro or capillary columns such as GLC and HPLC, all interfering substances have to be removed or converted to reaction products that will neither interfere and nor block the column.
+
+Some commonly used clean-up methods used in pesticide residue analysis are given below.
+
+Saponification: Fats, oils and other high-triglyceride co-extractives present in pesticide residue samples can be effectively cleaned up by saponification. The sample is refluxed with alcoholic potassium hydroxide. The triglycerides are converted to soaps and glycerin. The soap solution is then extracted with n-hexane; with pesticide partitioning into hydrocarbon phase while soaps remaining in the aqueous layer.
+
+Steam distillation: Many natural oils and fats are to some extent steam volatile, thus can be separated from non-volatile insecticides by passing steam through the sample. Conversely, intact pesticides that are steam volatile (aldrin, chlordane, heptachlor and lindane) can be collected separately.
+
+Partition: The extracts containing significant quantities of fats can be partitioned between immiscible polar solvents. Pigments and waxes are preferentially soluble in n-hexane while pesticides because of their high polarities get extracted into acetonitrile, which can be evaporated or diluted with water and re-extracted with hexane to recover pesticides.
+
+Derivatization: If two compounds are not easily separable by the methods available, one of them can be converted into its derivative that is then easily separable. The process is called derivatization and can be done in a number of ways such as oxidation, reduction, hydrolysis, conjugation or esterification. The pesticide derivative is then suitably extracted and analysed. One highly successful method of determining organophosphorus pesticides is to oxidize purified extract to inorganic phosphate with a mixture of fuming nitric acid and perchloric acid. The inorganic phosphate is then determined by colorimetric molybdenum blue method. Parathion is converted into purple complex by reduction using Zn and HCI mixture.
+
+Combined extraction and clean-up methods
+
+Gel permeation chromatography (GPC): The GPC separates molecules according to their molecular size and shape. A column of gel particles or porous glass granules is in equilibrium with a suitable mobile phase for the molecules to be separated. A large co-extractive molecule that does not fit into the pores is completely excluded and will
+
+pass through interstitial spaces and will appear in the effluent first. Smaller molecules will be distributed between the mobile phase inside and outside the molecular sieve and will then pass through the column at a slower rate hence appearing last in the effluent. As intermolecular forces are absent in the separation process, sample loss or chemical interaction is kept toa minimum and the column does not accumulate strongly retained molecules.
+
+Adsorption chromatography: Selective adsorption of the extractives on an active solid (known as adsorbents), followed by sequential desorption using solvents is most widely used technique in residue analysis. The active solids most commonly used are Florisil, activated carbon, activated alumina, silica gel, celite and magnesium oxide. The adsorbents can be used by coating in the form of thin layer on to a glass, plastic or metal foil plate. This form of chromatography is known as Thin Layer Chromatography (TLC). Another form in which the solid adsorbent is packed into a metal or glass column is known as Column Chromatography.
+
+Solid phase extraction: In solid phase extraction, a liquid sample is passed over solid sorbent that is packed in a medical-grade polypropylene cartridge or embedded in a disk. The sorbent here is not ordinary silica used in TLC or column chromatography but is silica chemically bonded to an organosilane compound. The sample is adsorbed on the sorbent, which is then washed with a small amount of a solvent. This technique has advantages over conventional clean-up methods in requiring less solvent volume, is quicker and gives better clean-up. Solid phase extraction is gaining popularity as extraction and clean-up technique for large aqueous environmental samples.
+
+Analysis of control sample
+
+A control sample is practically identical to the experimental sample except that it doesn’t contain residue of interest. Processing of a control sample would result in all the co-extractives at the same concentration level as an experimental sample. Therefore, residue of interest can be easily identified and quantified by subtracting control sample from experimental sample. For the subtraction of interferences generated by the use of reagents in processing and preparation of samples for chromatographic analysis of residues, reagent blanks are run before standard solutions.
+
+Recovery experiments
+
+Recovery/fortification experiments are conducted to evaluate efficiency and effectiveness of various steps followed in residue analysis. At each step during the analysis certain amount of pesticide residue is lost. Lower, the levels of residues in the matrix higher is the loss. Analysis of control and/or blank samples along with fortified samples ensured that co-extractives are not estimated instead of pesticide residues by mistake. For the fortification/recovery experiment known pesticide is added at three different concentrations at least in triplicate. The fortified and control samples are then processed as per methodology intended to be followed for actual residue analysis.
+
+Quantification techniques
+
+Gas liquid chromatography: GLC is considered as the backbone of the pesticide residues analysis for decades. Except for the polar and thermo-labile compounds, most of the compounds can be analysed by GLC. It is a highly sensitive technique and
+
+PESTICIDE RESIDUES
+
+can detect pesticide residues even if present in nanogram (10°g) or picogram (107g) levels. Gas chromatography involves a sample being vaporized and injected onto the head of the chromatographic column. The sample is transported through the column by the flow of inert, gaseous mobile phase. The column itself contains a liquid stationary phase, which is adsorbed onto the surface of an inert solid. Two types of column, packed and capillary (also known as open tubular), are used in residue analysis. Packed columns contain a finely divided, inert, solid support material (commonly based on diatomaceous earth) coated with liquid stationary phase sorbent such as silicone grease (OV-101, OV-1, SE-30) with high boiling point. Most packed columns are 1.5-10 m in length and have an internal diameter of 2-4mm. Short columns are used to reduce analysis time; however longer column gives better resolution. Capillary columns have an internal diameter of a few tenths of a millimeter. They can be one of two types; wall-coated open tubular (WCOT) or support-coated open tubular (SCOT). Wall-coated columns consist of a capillary tube whose walls are coated with liquid stationary phase. In support-coated columns, the inner wall of the capillary is lined with a thin layer of support material such as diatomaceous earth, onto which the stationary phase has been adsorbed. SCOT columns are generally less efficient than WCOT columns. Both types of capillary column are more efficient than packed célumns. GLC is carried out by heating column at temperatures above the boiling point of the compounds to be separated. :
+
+A sensitive detector is required at the end of the column to detect and quantify compounds as they leave column. Different detectors will give different types of selectivity. A non-selective detector responds to all compounds except the carrier gas, a selective detector responds to a range of compounds with common physical or chemical property, and a specific detector responds to a single chemical compound. Many types of detectors based on different principles are available; those commonly used in pesticide residues analysis are as follows.
+
+Electron Capture Detector (ECD) is most widely used detector in residue analysis because of its high sensitivity and linearity. Any pesticide having electronegative atom such as halogen (organochlorines, synthetic pyrethroids, some other with halogen atom) can be analyzed by it. The ECD uses a radioactive beta particle (electron) emitter, typically, a metal foil holding 10 millicuries (370 MBaq) of the radionuclide nickel-63. The electron is then attracted to a positively charged anode, generating a steady current. Analyte molecules capture electrons and reduce current between the collector anode and the cathode. A dip in the current is recorded as peak in the chromatogram.
+
+Nitrogen Phosphorus Detector (NPD) provides maximum sensitivity to compounds containing nitrogen and phosphorus, and is particularly useful in estimation of organo- phosphorous pesticides. Mass flow type, can detect up to 10"! g. It is a modification of thermo ionic detector (TID) or flame-ionization detector (FID), which responds to almost all organic compounds.
+
+Flame Photometric Detector (FPD) is very sensitive to phosphorus and sulphur- containing compounds, Mass flow type can detect most organic compounds with 100 pg detectability. Pulsed Flame Photometric Detector (PFPD) modification of FPD detector is based on a pulsed flame for generation of flame chemiluminescence. PFPD is reported to have better sensitivity.
+
+Mass spectrometer (MS) along with gas chromatograph as detector (GC-MS) is widely used in monitoring residues in food commodities and environmental samples. As the individual compounds elute from the GC column, they enter mass spectrometer. Mass spectrometer analyses compounds by fragmenting a molecule into daughter ions having specific m/z (mass to charge ratio). The ions are then directed down a separator in the MS which isolates and counts ions according to mass. The sequence and relative intensity of the mass peaks, known as mass spectra give information about the chemical identity of the compound. The absolute intensity of the peaks provides information about the amount of substance present. Although it can be used for quantification, the role of GC-MS in residue analysis has been mainly restricted to confirm identification of pesticides.
+
+High performance liquid chromatography: The non-volatile polar organic compounds that cannot be analysed by GLC are generally estimated on HPLC. It is basically a highly improved form of column chromatography. Instead of a solvent being allowed to drip through a column under gravity, it is forced through it under high pressure of up to 400 atmosphere. HPLC gives better separation of compounds over normal column chromatography because of smaller particle size of the sorbent. Due to smaller particle size, packed compactly in column, there is resistance to flow of solvent. This creates a backpressure in the column, thereby reducing eluent flow. In order to maintain continuous flow of a solvent through the column, the solvent is pumped with high pressure (5x10’ pa). The pesticide adsorbed on the solid phase is eluted by passing a solvent through column with the help of a pressure pump.
+
+Depending on the type of adsorbent used, the mode of separation in HPLC is different when adsorbents such as silica and alumina are used, and the mobile
+
+PESTICIDE RESIDUES
+
+phase is a non-polar solvent and chromatography is known as adsorption chromatography or normal phase chromatography. In reverse-phase chromatography, the sorbent is non-polar organo-silane liquid, chemically bonded to silica, and the mobile phase is a polar solvent such as water or acetonitrile. For the separation of ionic compounds, ion-exchange resins are used as sorbent. It is known as ion-exchange chromatography. In pesticide residue analysis, reversed-phase chromatography is most commonly used.
+
+The HPLC system consists of high-pressure pump to move solvent from solvent reservoir through column. There can be one or more pumps attached to a single column, depending on whether the same solvent system is to be constantly delivered (isocratic system) or there is a change in mobile-phase composition over a period of time (gradient system). The column used for HPLC is generally made of stainless steel of 15-50 cm length and 1-4 mm diameter. The sample is injected directly at the head of the column. The column is attached to detector that detects and quantifies compound in the form of a peak. Different types of detectors are available to couple with the HPLC system. The most widely used detector is based on spectroscopic technique, i.e. ultraviolet- visible spectrophotometry. The pesticides that absorb ultraviolet region are estimated on this detector. Three different types of detectors are available, based on UV-VIS absorption. Variable wavelength detector is most commonly used, which records complete absorption spectrum of each analyte down to 190 nm wavelengths, thus aiding identification. For high sensitivity and lower noise, fixed wavelength detectors are used. Here the wavelength of the detector is fixed at |_,. of the suspected pesticides. Such detector is not very useful if many compounds are present in the same samples that do not have the same |. A newer version of the variable wavelength detector is photo-diode array detector (PDA). The PDA detector measures absorbance of pesticide at all wavelengths within 0.01. The main advantage of PDA detector is that purity of the sample can be confirmed and the identity of the pesticide present can be established by comparing peak spectra with that of the standard. Other detectors that find use in pesticide analysis are fluorescence detector and refractive index (RI) detector. While fluorescence detector is used for the pesticide that exhibits fluorescence phenomenon either by itself or by conjugation with natural fluorescence, the RI detector is universal detector and can be used for all types of pesticides.
+
+Residue methods
+
+Multi-residue methods (MRMs): Hundreds of pesticides are in use and a sample may contain residues of any of these pesticides. Therefore a sample has to be analysed for more than one pesticide. Since residue analysis is time taking and laborious, it requires methods that can analyze different pesticides and their altered products from sample in a single analysis. These methods are called multiple residue or multi-residue methods. A residue analysis method is acceptable as multiresidue method if the recovery for all the pesticides is >70% unless specifically noted, and it does not take more than 8 hr to complete analysis. The sensitivity of the analysis must be sufficient to find pesticide at or below the legal maximum residue limit for the food commodity.
+
+For the purpose of estimation, multiresidue methods can be classified on the basis of the nature of the sample (i.e. for soil, water, air, food commodities) and the nature
+
+and number of pesticides (organophosphorous, organochlorine, N-methyl carbamate etc). The commonly used basic methods are explained in brief, however, for the purpose of pesticide residue estimation in specific matrix is to be referred specifically. Many protocols are available, but before being implemented at the laboratory, the protocols need to be validated.
+
+Enzyme linked immuno sorbent assay (ELISA): Determination of pesticide residues by GLC-HPLC is time taking, laborious, requires extensive clean-up and lot of hazardous organic solvents. A relatively simpler method for determining pesticide residues is enzyme linked immuno sorbent assay. The ELISA is based on the use of binding of pesticide with antibodies produced in animal body as part of animal’s immune system against the pesticide. Antibodies are produced by immunizing animals (rabbit, mice or goat) with pesticide-hapten (pesticide conjugated with high-molecular weight carrier molecule) that will stimulate animal’s immune system to generate antibodies. These antibodies are specific to the pesticide injected in the animal’s body and can bind with the pesticide and the pesticide-conjugated enzyme. In the ELISA procedure, both the sample containing the pesticide and the pesticide-enzyme conjugate are added in a vial containing specific antibodies. The pesticide in sample competes with the pesticide-enzyme conjugate for the limited number of antibody-binding sites. A low concentration of pesticide in the sample allows many pesticide-enzyme
+
+MgO-Celite- charcoal column
+
+MOG: Mills-Olney -Gaither
+
+PESTICIDE RESIDUES
+
+conjugates to be bound by antibodies. The enzyme substrate is then added and the enzyme activity is measured. The enzyme substrates used in ELISA are generally colourless compounds that are converted to a coloured product by the enzymes. The colour intensity thus developed is measured spectrophotometrically. The colour intensity is directly proportional to the amount of enzyme tracer and is inversely proportional to the amount of analyte present.
+
+The advantages of sample analysis by ELISA in comparison with that of GC and HPLC are faster analysis and decrease in solvent usage, resulting in greater sample throughout. Several companies have developed immuno-assay test kits, so that analysis can be performed in the field also, which facilitates on-site and rapid decision. The kit consists of a tube or a plate with 96 wells, coated with 20-100 antibodies, standard, and all necessary reagents. The ELISA analysis is less costly than GC and HPLC analysis. However, ELISA is not very specific for a pesticide. Chemicals in the same structure class can cause cross reactivity in the ELISA. Also, assays are prone to false positive results due to matrix effect. To reduce matrix effect, sample has to be diluted up to 1: 5000. Such large dilutions amplify any error in assay in final calculation of results.
+
+Quick easy cheap effective rugged and safe (QUEChERS) method: QUEChERS method for pesticide residues analysis provides high quality results in a fast, easy and inexpensive approach. The method uses a single-step solvent extraction (acetonitrile / ethyl-acetate /buffer) while salting out water from the sample by using anhydrous MgSO, to induce liquid-liquid partitioning. For clean-up, a simple, inexpensive, and rapid technique called dispersive solid-phase extraction (SPE) is conducted using a combination of primary secondary amine (PSA) sorbent to remove fatty acids among other components and anhydrous MgSO, to reduce the remaining water in the extract. Then, the extracts are concurrently analyzed by liquid and gas chromatography (LC and GC) combined with mass spectrometry (MS) to determine a wide range of pesticide residues. The QUEChERS method has several advantages over most traditional methods of analysis in the following ways: (1) high recoveries (>85%) are achieved for a wide polarity and volatility range of pesticides, including notoriously difficult analytes; (2) very accurate (true and precise) results are achieved because an internal standard (I.S.) is used to correct for commodity to commodity water content differences and volume fluctuations; (3) high sample throughput of about 10-20 pre-weighed samples in H”30-40 min is possible; (4) solvent usage and waste is very small, and no chlorinated solvents are used; (5) a single person can perform the method without much training or technical skill; (6) very little glassware is used; (7) method, is quite rugged because extract cleanup is done to remove organic acids; (8) very little bench space is needed thus the method can be done in a small mobile laboratory if needed; (9) the acetonitrile is added by dispenser to an unbreakable vessel that is immediately sealed, thus solvent exposure to the worker is minimal; (10) the reagent costs in the method are very inexpensive; and (11) few devices are needed to carry out sample
+
+Confirmatory analysis
+
+In the analysis of unknown pesticides residues by chromatographic methods, the identity of residues is established by comparing retention time of peaks with that of
+
+738 HANDBOOK OF AGRICULTURE
+
+standards. However, it is not full-proof method of establishing the identity of residue present as in given set of conditions more than one residue or co-extractive can appear at one retention time. Also, slight variation of conditions between chromatography run of standard and sample results in mismatching of residue peaks. Therefore confirmation of identified residue is essential. Mass spectrometry provides the confirmed identity of a residue peak as it is based on comparing the mass spectra of residue with that of known standard pesticide. The mass spectrum of a compound is its intrinsic property and does not depend on variation in chromatographic run conditions. Mass spectrometer can be coupled with either GC (GC-MS) or HPLC (LC-MS) for simultaneous separation and identification of residue peaks.
+
+Extrapolation of quantification data
+
+From the quantified amount of pesticide residues the persistence of pesticide can be defined. Pesticide persistence is usually specified in terms of the residual half-life (RL,,). The RL,, is a measure of the time in days required to reduce the pesticide residues to half of its initial deposits. The amount of pesticide lost per unit time is proportional to the total amount present in a particular time. Degradation of this type is called “first order degradation” and can be represented mathematically as: dN/dt = -é N, where é = decay constant; N= mass present at time t.
+
+The time required to reduce the pesticide residues concentration below its prescribed MRL is known as Pre-harvest interval (PHI) or safe waiting period can also be calculated from residue data. PHI is then recommended by regulatory authorities in pesticide application schedules for example recommended PHI of cypermethrin formulation on brinjal crop is 1-3 days and that for carbaryl and endosulfan is 7 days. If the farmers follow good agricultural practices (GAP) and pre-harvest interval, the residues on the crop should not pose any health risk to the consumer.
+
+Decontamination of pesticides: Pesticide residues are unwanted even in smallest quantity because of their toxic nature. Therefore pesticide residues should be removed from the food commodity or environmental sample or be converted into non-toxic product. For the decontamination of food commodities, simple domestic methods are found very useful. Peeling of fruits and vegetables removes residues present on the surface. Washing with water, water-charcoal suspension and alkaline water effectively removes pesticide residues. Blanching with hot water or steam detoxifies some pesticide residues. A simple dipping of fruits and vegetables in 2% salt solution for 20 minutes followed by thorough washing removes the major chunk of pesticide residues.
+
+For the decontamination of pesticides from water it may be passed over the adsorbents such as clay or activated charcoal. Some microbes have also been utilized for the detoxification of pesticides from water. The cells of algae Prototheca zopfil and fixed films of bacterial cells on a variety of support can be used to remove a wide range of pesticides from water.
+
+Soil is the most difficult substrate to decontaminate from pesticides, as it has enormous capacity to store the pesticide. However, pesticides can be made immovable and unavailable by incorporating organic matter or activated charcoal. To accelerate the degradation of pesticides in soil, the soil is enriched with microorganisms such as bacteria, algae or fungi. These microorganisms utilize pesticides as energy source and
+
+PESTICIDE RESIDUES
+
+thus degrade them in the process of co-metabolism. Cell free extract of microbial enzymes is also utilized for degrading the pesticides, mainly organophosphorous pesticides.
+
+Accreditation of the testing laboratory
+
+Due to the involvement of number of steps in residue analysis at trace level (part per million or part per billion) and influence of a number of environmental factors no two laboratories can produce same residue data. The variation in data is not recognized by other laboratories and thus it forms technical barrier in international trade of food commodities that require pesticide residues to be below MRLs. Third-party certification of the competence of laboratories to produce data is therefore the need of hour.
+
+In India, the apex body National Accreditation Board for Testing and Calibration of Laboratories (NABL), an autonomous body under Department of Science and Technology (DST), Government of India grants accreditation status toa testing laboratory after verification of its documented quality system and technical competency as per ISO/IEC-17025:2005. NABL is a signatory to International Laboratory Accreditation Cooperation (ILAC) and Asia Pacific Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement (MRA). Such international arrangement facilitate acceptance of test results between countries to which MRA partners represent. The accredited laboratory have confidence in testing, better control of laboratory operation, listed in website of accredited laboratories, greater access for their products in both domestic and international market, saving time and money due to reduction or elimination of the need for re-testing of products.
+
+Annexure 23.1
+
+Maximum Residues Limits (MRL) of different pesticides as per PFA (2005), Ministry of Health and Family Welfare notification. G.S.R. 451 (E) dated.15-7-2004
+
+PESTICIDE RESIDUES
+
+PESTICIDE RESIDUES
+
+PESTICIDE RESIDUES
+
+PESTICIDE RESIDUES
+
+PESTICIDE RESIDUES
+
+PESTICIDE RESIDUES
+
+(Annexure 23.1 concluded)
+
+*on fat basis

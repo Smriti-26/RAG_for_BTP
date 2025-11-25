@@ -1,0 +1,375 @@
+SOURCE_DOCUMENT: Chapter 20.pdf
+
+20. Apiculture
+
+Apiculture is the science and culture of honeybees and their management. It a term which includes eusocial and solitary bees, their biology, behaviour and management. And beekeeping refers only to rearing of domesticated honeybee species and their management. Most of the people are attracted to the fascinating world of honeybees as they help in pollinating many of the important cross-pollinated crops and also provide honey. In ancient times, honeybees were kept in a crude manner in India, as also in other countries of the world. Modern beekeeping has come a long way from the traditional clay-pots, log-hives, bamboo-baskets and wooden-boxes to movable frame-hives introduced in the beginning of this century. With the discovery of the moveable frame bee-hive based on the principle of bee space, honey extractor and smoker, the base of the scientific beekeeping has become established. Attempts were made to introduce these innovations in the country. First attempts to keep bees in movable frame hives were made during 1882 in Bengal and during 1883-84 in Punjab but were of little success. In south India, Rev. Newton devised a hive for Indian honeybees during 1911 which was known as Newton bee-hive. The recommendations of the Royal Commission on Agriculture (1928) for developing cottage industries gave a fillip to beekeeping. Beekeepers of India organized themselves and formed an All-India Beekeepers’ Association in 1938-39 and published an Indian Bee Journal. The Indian Council of Agricultural Research co-ordinates activities of apicultural research. The Council established Beekeeping Research Station in Punjab in 1945 and in 1951 at Coimbatore in Tamil Nadu. From 1980 onwards, the Indian Council of Agricultural Research conceived and formulated an All-India Co-ordinated Research Project on Honeybee Research and Training. Since then, the beekeeping has got the momentum for its scientific venture as well as for developmental activities. The research and developmental activities of honeybees broaden its field to apiculture, which includes crop productivity through pollination and toils of honeybee i.e., honey and other bee-hive products such as bees wax, royal jelly, bee
+
+Honey is a balanced nutritious food having high medicinal value. Bees wax is even more valuable, and is used for manufacturing more than 300 items such as candles, ointments, lotion, lipsticks, polishes, pharmaceuticals, paints and varnishes.
+
+Apiculture is a subsidiary occupation and is the additional source of income for farm-families. It requires low investments (although initially high), and so can be taken up by small, marginal and landless farmers and educated unemployed youth. It can thus serve as an additional income-generating activity and provide round-the- year employment in the activities of managing hives, migrating honeybee colonies from crop field to crop field, harnessing honey and other bee-hive products. In the present-day biofarming concept bees is considered as an input for ‘crop production. Hence, bees are considered good friend of mankind.
+
+HONEYBEE SPECIES
+
+There are mainly four species of honeybees viz., (a) little bee, Apis florea, (b) rock bee, Apis dorsata, (c) Indian bee, Apis cerana, and (ad) western bee, Apis mellifera. Out of these, the former two are wild and latter are domesticated hive-bees.
+
+Little bee, Apis florea: These are small honeybee species wild in nature, and are present in the plains up to an elevation of 300 m above sea level, and build a single comb nest. There are almost 3.5 worker cells per linear comb and drone cells are 1.55 times larger than worker cells. There bees choose shaded places in bushes or trees for nesting. Comb is always covered by more than one layer of bees, and honey yield per colony is about 200-250 g.
+
+Rock bee, Apis dorsata: This species is larger in size than all other bee-species. It builds single comb fixed to a tree-branch or under the roof or rock. Breadth of its worker cells is 5.33 mm, and its drone cells are also of the same size. Bees cover comb like a curtain, and a colony can yield up to 50 kg of honey. The bee-colonies migrate long distances from plains to hills to avoid dearth period and unfavourable weather.
+
+Indian bee, Apis cerana: It is a domesticated Asiatic honeybee species available throughout the continent. There are different races of Apis cerana found in India, and they are: Apis cerana cerana, comparatively bigger in size, distributed throughout the north-western region including Himachal Pradesh, Jammu and Kashmir; Apis cerana himalaya, it is medium-sized and belongs to the north-eastern region including north- eastern Himalayan states; Apis cerana indica, this is found in south of India, covering Kerala, Tamil Nadu, Karnataka and southern Andhra Pradesh. The worker comb cell size varies according to the size of races from 4.3 to 5 mm in diameter, and its drone cell is 1.2 times wider than worker cell. The species serves commercial beekeeping in most parts of the country and is reared mostly in ISI-A Type (Newton) bee-hive. Apis cerana has instinctive behaviour of swarming and absconding. Its honey yield varies from 12 to 15 kg/hive/annum with foraging range between 0.8 and 1 km.
+
+Western bee, Apis mellifera: This is the most widely distributed and commercially reared honeybee species in the world. It is larger in size than other domesticated honeybees, having wider pollinating ranges, and is capable of producing more honey. There are many well recognized races and strains of mellifera and geographical races greatly differing in appearance. Four European races, Apis mellifera mellifera, Apis mellifera liqustica, Apis mellifera carnica and Apis mellifera caucasiaca are most important for beekeeping. Apis mellifera liqustica is considered to be the best and has been introduced in the country. It has many desirable traits such as prolificness of queen, swarms being less docile in nature, and this is a good nectar and pollen gatherer. This species has achieved a great success in north-western states of India. Its worker cell is 5.3 mm in width and drone cell is 1.3 times larger. Average honey production from this species is between 30 and 40 kg/hive/annum with foraging range extending up to 2-3 km.
+
+BEE BEHAVIOUR
+
+Social behaviour
+
+Colony organization: Honeybees are social insects and live in colonies with a highly organized system of division of labour. There are three castes: queen, worker and drone. In a normal Indian honeybeecolony, there is one queen, 10,000 to 30,000
+
+APICULTURE
+
+workers and a few hundred drones. In western bee-colony, the number of workers may range between 30,000 and 50,000.
+
+Quren— The queen is the only perfectly developed female, and is the mother of the colony. In the peak season, she may lay sufficient eggs in a day, which weigh almost twice the weight of her body. She mates with drones in the air only once in her life-time, which is known as nuptial flight, and settles down for egg-laying in hive. The stock of the male sperms received during mating is preserved for her life-time in a pouch-like structure, i.e. spermatheca in her body. She draws upon it for a long time (may be two or three years) to regulate sex of off-springs. Queen can lay fertilized or unfertilized eggs as is indicated to her by worker-bees. The fertilized eggs give rise to workers and sexual females or potential queens, and from unfertilized eggs drones are produced. The differentiation in queen and workers is not due to quality as previously believed but due to quantity and nutritive value of the food fed to larvae. The limitation of the food supply from the third-day onwards to females that are reared in worker cells results in their differential growth and they become workers in stead of queens. The healthy larvae are selected for queens and placed in larger queen cells and have constant access to sufficient quantity of nutritious food. The queen in her round over combs lays eggs in worker, queen or drone cells. The eggs are laid generally in concentric circles. As the old queen exhausts in laying fertilized eggs or a colony is in swarming instinct, supersedural or in emergency impulse, new queens are reared in specially prepared queen cells. On emergence, the new queen roams over comb, feeds herself on honey and takes one or more orientation flights out of the hive within a week. On her nuptial flight, she is followed by drones, and has multiple matings in one or more times. Her mate dies during the act of copulation and she returns to hive and starts laying eggs in cells of combs. She lays eggs slowly, and increase the capacity of egg-laying, depending upon the amount and kind of food she receives from workers. The queen, however, lacks motherly instinct and the function of nursing young-ones is performed by worker-bees. An Apis mellifera queen lays in between 1,500 and 1,800 eggs per day during active brood rearing season, and Apis cerana queen lays 500 to 800 eggs per day. Egg laying rate diminishes with advances in age.
+
+Worker— The worker-bees are imperfectly developed females, unable to reproduce, but possess all maternal instincts. Workers are considered to be driving force of a colony and are responsible for all work necessary for maintenance and welfare of the colony. Division of labour among workers is on the physiological basis. Each worker-bee performs different types of works in her life-time and becomes fitted for various duties in succession as her age advances. During the Ist half of her life, she becomes nurse-bee, attending such indoor duties as secretion of royal jelly, feeding brood, feeding queen, secreting bees-wax, building combs, cleaning and fanning, and after that she becomes guard-bee, guarding hive. In the second half of her life, lasting for 3 weeks, she becomes “searcher” and “gatherer” bee, locating source and collecting pollen, nectar, propolis and water. Worker-bee’s life-span is about 6 weeks during active brood rearing season but she lives longer when foraging and brood rearing activities are low.
+
+Drone— The only function of male-bees is to mate with queen. Drone has short proboscis, and it does not collect pollen and nectar from flowers. The proboscis is used to receive food from worker-bees. Drone has no wax and scent glands. Generally
+
+it takes 3-6 workers bees to feed a drone. Drones are reared in active breeding season, i.e. in spring when it serves the purpose of mating new queen. They are driven out of hive to die of starvation when not needed. The life-span of an Indian species drone is almost 2 months.
+
+ComMunIcATION BEHAVIOUR— Honeybees communicate each other with dancing signal, known as dancing language. The method of communication in bees had evoked much of the speculation. Karl Von Frisch (1967) had first described that bees could communicate by means of dances. He gave details and use of dances to communicate direction and distance of food sources. He described “round” and “wagtail” dances. Round dance is expressed in circle of comb. When food source is near the hive then forager performs a “round dance”. The dancer continues to dance for a few seconds and its direction is mainly governed by the gravitation and solar directions. The searcher bees attempt to follow dancing signal, every now and then, and the dancing bee regurgitates a drop of nectar from honey-stomach to worker. The dance alerts followers to pursue rich source of food and odour from the body of bee of a particular flower. Followers leave hive and seek food of correct odour in its vicinity. When food source is distant from hive, successful forager performs “wagtail” dance. This dance is performed to communicate location of food source, when it is more than 100 m away from the hive. In waggling dance, bees express a semi-circle to one direction, goes straight to starting point and completes other semi-circle in opposite direction from where it again runs a straight line, number of wagtail runs per unit of time indicate distance of source, and the number is negatively correlated with distance. Sickle dance is intermediate dance between round and wagtail having shape of figure “8”.
+
+ForaGING BEHAVIOUR— Plant-pollinator interaction is known since the evolution of angiosperms. Co-evolution is a natural phenomenon in which both plants and pollinators survive. Bees are good pollinators of many of our cross-pollinated crops. Honeybees show a great degree of affinity towards flowers as they both get pollen and nectar. Bees restrict their foraging to small areas, and it is possible with the help of landmarks. The foraging area is determined by the intensity of flora and the amount of nectar and pollen source. Bees need to increase foraging area, if there is stiff competition from the same species or different species. The foraging range for Apis cerana extends from 0.8 to 1 km, and it is 2 to 3 km for Apis mellifera, depending upon the intensity of the flora. The foraging speed depends upon the biotic and abiotic factors such as nectar and pollen contents, floral phenology, climate and resource competition.
+
+BIOLOGY
+
+Honeybee is a holometabolus insect and undergoes complete metamorphosis; all four stages of development are there: egg, larva, pupa and adult (Tables 20.1, 20.2, and 20.3). After nuptial flight, queen returns to hive and starts laying eggs. Mother-queen glues or sticks a short delicate white tubular egg, slightly curved on one side at the bottom of the cell of the comb. From this egg, a tiny white larva hatches out and feeds voraciously on food su, »:ied by nurse-bees. When fully fed, it weighs several times its original weight. The cell is capped by worker-bees with waxen cover. The fully fed larva spins a cocoon in cell and enters rest period; during which it transforms itself into pupa. The major changes in the body structure occur at the cost of the fat stored in the larval body, The pupa is similar in appearance to adult-bee, having developed mouth
+
+parts, legs, wings and other appendages of the body. The adult-bee emerges after cutting cocoon and waxen capping of the cell. The post-embryonic development of Apis cerana was studied in Himachal Pradesh and of Apis mellifera in Asom (Table 20.4).
+
+MORPHOLOGY
+
+Honeybee belongs to family Apidae under order Hymenoptera. Like generalized insects, its body is divided into 3 distinct regions head, thorax and abdomen. But different organ systems and parts are variously modified to discharge specific functions.
+
+External morphology: The adult honeybee has a hard exoskeleton, which protects its soft organs inside. Its head region consists of a pair of large compound eyes, a pair of antenna, which are sensory in function, and a pair of mandibles for grasping, feeding pollen, manipulating wax during comb-building and also for defence, mainly. in the worker-bees. The mouth parts of the worker-bees are modified for sucking and lapping. The proboscis or tongue is a modification of glossa, and is a sheath-like structure, covered by labium, two lateral maxillae and two paraglossae unite together to form food canal. Food canal is used for drawing nectar from flower. The thorax is the second body region and carries organ of locomotion, legs and wings. There are three pairs of legs, and hind legs in worker-bees are modified for collection of pollen and propolis. The abdomen in adult-worker and queen appears to be six segmented; segments 8-10 are vestigial and the first segment is fused with thorax, and abdomen bears sting, wax, scent-glands and genitalia.
+
+Internal morphology: Like in other generalized insects, honeybees also possess distinctive internal organs such as digestive, excretory, respiratory, circulatory, nervous and reproductive systems. The digestive tract consists of mouth, pharynx, oesophagus and has expanded honey-stomach. The honey-stomach is a specialized organ meant
+
+for storage of nectar, later on which is transformed into honey. Honey- stomach is followed by proventriculus, and then ventriculus. There is a valve which regulates passage of food into ventriculus. Honeybees have open circulatory system formed by heart and aorta. Respiration takes place through spiracles present on the lateral sides of various segments of the body. Spiracular openings are attached to trachae which ramify into tracheoles. The trachae and tracheoles supply oxygen to respective parts of the body. Excretory system is of generalized type having malpighian tubules extended in the body cavity around various organs. Female reproductive system is fully developed in queen but in workers it is rudimentary. Two large ovaries have number of overioles, which are connected to spermatheca~a pouch like structure meant for storing sperms.
+
+BEE REARING
+
+To start with honeybee rearing, the knowledge on species, their behaviour, management and their local flora is essential. It is necessary to acquire proper training before starting beekeeping. The following points are to be taken care of to start beekeeping.
+
+Pollen and nectar source: Good apiary location is one with abundance of nectar and pollen producing plants. Commercial beekeepers generally migrate their colonies from one crop field to another and may produce more than one api-crop to get pollen and nectar supply throughout the year. Cultivated crops in irrigated areas and forest flora ensure good beekeeping.
+
+Site and season: Location of an apiary should be proper with the following factors: Goop AERaTIon— Site with good air circulation should be selected for apiary. Air with high moisture should be regularly drained away from apiary. Dampness is bad for bee flight and retards ripening of nectar. Moreover, dampness helps in many viral, bacterial and fungal diseases. Air drainage is more important in rainy season.
+
+Water— Artificial sources of water should be managed in apiary, if natural sources are not available. Adding some common salt (1%) has been found suitable for bees.
+
+Winp-BrEAKS— Wind-breaks of tree or artificial structures give protection against cold winds, storms and cyclones.
+
+SHapE— Bees have greater difficulty in lowering down hive temperature during summer in hot plains of India. Bee colonies definitely need fairly dense shade of trees. Artificial shade can be provided by an open-frame structure with trees serving as cover. The structure in north-south direction protects bees in hottest hour of the day.
+
+SEason— The bee-rearing season starts with the on set of honey flow, i.e. spring, having peak-brood rearing, is known as breeding season. In this, colony tries to build new queen cells and generates new queens to replace old ones. Hence, natural propagation of bee-colonies is there, and the interested rearer can obtain seed/colonies from beekeeping farms or from nature. The swarming tendency of colony is also very high in this season, and swarms may be collected.
+
+Beekeeping equipment
+
+Bees are managed in modern hives. The hive-design is based on the principle of “bee space”. There is space between frames, between top bars of frames and inner walls, and this space allows free movement of bees. Because of bee space, the parts
+
+APICULTURE
+
+are not attached to one another. Hive is composed of bottom board, brood-chamber, brood chamber frames, super-chamber, super chamber frames, inner cover and top cover. There are different types of hives used for different species and races of bees.
+
+Apis cerana is largely kept in modern movable frame-hive, but even at present, especially in tribal areas, species are still kept in log- and pot-hives. Wall-hives are also made while constructing houses and sometimes mud-receptacles are fixed in wall. The outer surface of such structures has small entrance hole while large inner opening is covered by a board. The species have large variations in size, and hence movable frame-hives with different bee spaces are used to keep bee-colonies. The hive type used also depends upon the build-up capacity of race. Newton, Jeolikot, ISI (Aand B) and Langstroth are different hives used for the species. A. mellifera is always kept in movable frame-hives, and only Langstroth hive is in use for this species (Table 20.5).
+
+Other equipments
+
+Smoker: To provide smoke for facilitating easy handling of agitated bees Bee veil: To protect facial portion from bee-stings during handling of bee-colony Swarm catcher: To collect honeybee swarms from different natural sources Hand glove: To protect hands from bee-stings during handling Uncapping knife: To remove sealed layer of comb during extraction of honey Honey extractor: To facilitate extracting honey iron to bee-hive.
+
+Bee stand: Made up of bamboo, wood or iron to give support to bee-hive.
+
+APIARY MANAGEMENT
+
+All good beekeeping conditions can not be utilized properly, if management of an apiary is faulty and ill-planned. It is useful to start with only a few bee-colonies and then build-up the stock. Bees need to be protected in extreme weather, during dearth periods, and also from diseases and enemies. Success of a beekeeper depends on his knowledge of bee behaviour and his aptitude to enjoy working with bees. Followings are outlines for management of honeybee colonies.
+
+Seasonal management
+
+Beekeeper’s calendar starts with the activity in bee-colonies during spring after prolonged cold in temperate climate and during winter in tropical climates. Colony build-up and honey-flow period is from October to May in various parts of the country. There is a tendency to expand colonies with increased rate of brood production. Brood rearing starts with blooming of oilseeds and lasts up to spring honey flow.
+
+Spring management: With blossoms in nature, honey-flow season starts with blossoming crops in nature during spring. It should be the earliest attempt to examine colonies on a bright sunny day to assess colony conditions, working of queen, amount of brood present and the stored pollen and nectar area.
+
+During spring, bee-colonies go all-out to rear brood and invest all resources in increasing their strength. Queen lays more vigorously as is inspired by workers. As this is a peak breeding season, more and more combs are added and drone bees are produced. There is a tendency for “swarming”.
+
+Swarm prevention: Swarming is natural instinct of the honeybee species to propagate. This instinct can be exploited to increase colony number; and swarm can be prevented by—
+
+* Frequent inspection of colonies during spring
+
+* Remove queen cell regularly in strong colony
+
+* Combs with young brood can be removed and given to weak colonies and in place add more empty combs
+
+* To overcome swarming, colonies can be temporarily divided, which are reunited just before honey-flow
+
+* Divide colonies, if increase in colony number is desired so that swarms are not lost.
+
+CoLony piIvisioN—(i) Bee-colonies which are not very strong and can be spared from honey production are divided into 2 or 3 parts. Each divide is given a new queen. These divides grow in spring and summer and colonies produce surplus honey only during next season. (i) One or two combs with bees and brood can be removed from strong colonies without impairing their production. The bees from two colonies can be united and made into a new colony by giving a queen.
+
+Summer and rainy season management: The spring “honey-flow” is followed by a summer dearth period. During summer, flowering decreases in most places. This causes decrease in honey production and so decrease in honey-flow to hives. As a result, the queen slows down egg-laying. Broodless colonies desert hives and enemies become active. The deserting bees behave almost in a similar fashion as swarming bees except that these bees rise very high and it is difficult to get them settled down. “Absconding” is a phenomenon in which adverse conditions force colonies to desert. Desertion tendency is low in Apis mellifera but high in Apis cerana.
+
+The strong colony with sufficient store would continue to rear some broods, and can resist enemy attack. During summer, in certain regions of India temperature goes as high as 47°C--50°C, and then gunny-bags moistened with water need to be spread over top-covers. Proper cross ventilation needs to be ensured to facilitate proper aeration and to lower hive humidity. Normally hives should be placed under shade or “L”- shaped thatched cover to protect from scorching sun. The brood rearing in summer can be boosted by feeding artificial diet/pollen substitute composed of brewers yeast,
+
+APICULTURE
+
+sugar, gram-powder and skimmed-milk (10 : 10: 1 : 1). These practices would check absconding of colonies.
+
+Rainy season follows hot and humid summer in India. In some regions, bees are confined to hives for longer intervals because of continuous rain. Large number of forager bees die in harness due to sudden storms or downpours. High humidity in hives coupled with high temperature creates unfavourable environment for colonies. The bees become lethargic and listless. Stored pollens in combs become mouldy, and unripe honey may ferment. Bee diseases and enemies also intensify, and this further weaken colonies. Good management practices such as proper ventilation, ensured aeration and time-to-time artificial diet in summer are good management practices.
+
+Winter management: Honeybees live in an environment of their own and regulate temperature between 32° and 35°C. They form cluster when temperature falls below 10°C. In some parts of India, the temperature goes below 0°C. In such circumstances, the honeybee-colony should be exposed to sunlight; bees try to regulate temperature by muscular movement and possibly consumption of honey. Strong colonies overwinter well because larger number of bees can produce heat and retain it. Bee-colony can be held to overwinter by saving their energy in raising hive temperature. Insulation of hive with doubling thickness of wooden-hive does give protection to bees against chill-cold. Insulation is desirable in localities which have long spell of cold or where there is a wide range between day and night temperature. Insulation is not required where equitable temperature is there throughout the year, and the minimum temperature is not falling below 10°C, if falls, in that case only exposure to sunlight is necessary. The winter packing is given at the end of autumn and colonies are properly prepared for winter. During winter in northern India, colonies generally migrate to Brassica fields. Stimulative feeding is a normal practice with bee-keepers. The feeding is provided at least 2-3 weeks before the start of the colony build-up. This feeding consists of brewers’ yeast, sugar, gram-powder and skimmed-milk at 10: 10:1: 1. that enhances brood-rearing activity and colony build-up.
+
+Queen rearing
+
+Queens are required for division of colonies or for replacing old exhausted queens. Any bee-colony when rendered queenless will raise one or a few new queens. But raising queen in a mass ina colony is a wise practice; since bee-colony loses more than a month with respect to egg laying and brood-rearing, and hence gives a big set-back.
+
+It is easy to produce queens on a mass-scale in a queenless or queen-right colony by grafting technique. In queen-right colony, queen is removed from queen-rearing area by a queen excluder. Wax-queen cups of appropriate size are attached to a bar made to fit in a special frame. Larvae up to 24 hr age are put into cell-cups at the optimum temperature and humidity. Some colonies can be used both as cell-builder and as cell-finisher colony. Sealed queen cells are removed after 10 days of grafting and kept in queen-nursery colonies or given to mating nuclei.
+
+Requirement of cell-builder colony
+
+* Enough honey store or colony should be fed with sugar syrup
+
+* Enough pollen store, it is useful to provide pollen supplements
+
+* Bees overflow in hive after emergence and mating; the queens can be shifted in
+
+queen cages. Ideal queen cage is a soft wooden block (2"*3"), with three cavities, Queen with a few attendant worker-bees are put in the cage and are provided candy in the cavity of the cage. The cavities are covered with a wire-gauge screen, pinned to wooden block. For queen introduction about 3” long, round cage of hardware cloth is ideal.
+
+BEE DISEASES
+
+Honeybees are affected by various diseases caused by bacteria, fungi, protozoa and viruses leading to partial or total loss of colony. Both adults and broods of honeybees are infected by diseases. Most bee diseases are infectious and they spread quickly, In adult-bee diseases, worker-bees are the main sufferer. In brood diseases, larvae and pupae are killed or get decomposed. The extent of losses varies from death of some broods or adults, to complete annihilation of colonies. Colonies may survive infection to an extent but severity leads to losses of colony. Diagnoses of diseases have been possible by refined methods with sophisticated equipments. Essentially the need is to detect infection at the initial stages because it is easy to treat colonies at that stage. Prevention of diseases has been an essential aspect of management.
+
+Viral diseases
+
+Thai-sac brood disease
+
+Among the viral diseases of honeybees, sac brood disease is the major one, inflicting serious damage to Apis cerana colonies. The strain of this virus was reported in A.c. indica from Thailand in 1976. The first incidence of sacbrood virus disease in India was recorded in 1978 from Meghalaya. The disease has been found to occur in epidemic form in India and possesses a serious threat to the very existence of Indian species; causing damage up to 95% of A.c. indica colonies.
+
+Symptoms: (i) brood dies in prepupal but in unsealed stage; (ii) infected larvae become pale, and then turn greyish, later darkening to blackish resulting in death; (iii) dead larvae and pre-pupae dry-up in brood cells forming loose-scales; and
+
+(iv) dead prepupae turn into sac like structure. The causative virus, thaisac strain multiplies in adults which transmit virus to larvae. Drifting nurse bees are believed to be the reason of the disease.
+
+Management: No definite preventive or remedial measures against the disease are available. However, the following management practices may be adopted for healing the malady.
+
+DEQUEENING AND REQUEENING— Creating broodlessness for sometime in the infected colony by dequeening and again requeening through production of new queen cells. Infected colony is treated with antibiotics like teramycin 250 mg at one tablet in 4 litres of sugar solution so as to give strength to worker-bees; natural selection of tolerant colonies and multiplication of these colonies in endemic areas; restricted movement of colonies to disease-prone areas, and infected colonies to be isolated to a safe distance from apiary.
+
+Bacterial diseases
+
+American foul brood
+
+The disease occurs in temperate and sub-tropical regions of the world. Bacillus larvae are the causative agent of the disease. The lone report of the disease incidence
+
+APICULTURE
+
+in India on Apis cerana indica was made by Singh 1961; but no incidence has been observed on Apis mellifera since its establishment in the country (Table 20.6).
+
+European foul brood
+
+The disease is caused by Melissococcus pluton. In this disease, the larvae become flaccid, turn brown and give foul-sour smell. European foul-brood disease is present in most of the countries (Table 20.6).
+
+Protozoan diseases
+
+Nosema disease
+
+Among the diseases of adult honeybees Apis mellifera, nosema is one of the most serious diseases caused by Nosema apis. It is quite common in tropics, where weather is warm and humid; young honeybees are infected due to ingestion of protozoan parasites present in water or in food. Nosema apis spores are large, oval-bodied, 4-6 um x 2—4 ym in size. The disease was first reported by Rahman and Rahman (1996) from India.
+
+Symptoms: The disease can be diagnosed on the basis of the external and internal symptoms: (i) infected bees have disjoined wings and are found crawling in front of the hive; (ii) affected bees will try to fly and hop around for only short distances; (iii) the infected bees are found on the bottom board and in front of the hive with abdomen distended and faecal matter on the bottom board; and (iv) the internal symptoms show ventriculous soft, swollen with dull grayish white colouration and with obscure constrictions.
+
+The microscopic study revealed presence of nosema spores both in the wet mount of ventriculus and in the faecal matter of the bees.
+
+Control: The treatment with Entakon-m at 45.5 ppm (1 tab/litre of sugar solution)
+
+at weekly interval gives effective control of disease. Fumigation treatment is also found effective.
+
+Bee mites
+
+Honeybees are infested by endo-and ectoparasitic mites. In severe infestation, bee mortality becomes very high.
+
+Acarapis woodi: This is an endoparasitic mite of adult-bee. Acarine was first reported from India in 1957 by Singh on Apis cerana indica colonies. The mites infest tracheae of the first thoracic spiracle where they suck haemolymph.
+
+The diagnostic symptoms and effects of A. woodi infestation are: (i) Bee crawlers are found in front of the hive; bees are unable to fly and wings are held disjointed; and (ii) infested bees are hindered in intake of oxygen and are short-lived.
+
+Control: Treatment with formic acid at 5 ml of 85% strength is found effective against mites, and the colonies are free of infestation in a fortnight.
+
+Varroa destructor: The mite is a serious concern in Europe but not in India. A. cerana is the original host of V. destructor. The mite feeds on haemolymph of bee larva and pupa. Infested colonies get weakened. The brood fails to develop into adults or malformed adults are formed. Drone brood is more prone to attack but worker is also affected. The mites feed by making holes in inter-segmental membrane.
+
+Control: The treatment with formic acid (85%) @ Sml/hive in pad; Synecar, a mixture of sugar powder + Chloropropylate or Bromopropylate at 50 to 100 mg per colony by dusting between frames would give control.
+
+Tropilaelaps clareae: \t is another serious ectoparasitic mite of bees. It is serious on Apis mellifera bee and mortality goes up to 80% of brood in late larval and pupal stages.
+
+Infested colonies have irregular brood pattern, dead and malformed larvae and pupae in brood combs. Malformed adults with missing or poorly formed wings and shrunken abdomens can be observed crawling around hives.
+
+Sulphur dusting at 200 mg per colony on the top bar of frames is very effective. Formic acid fumigation at 5 ml of 85% strength on each day reduces T: clareae population.
+
+Bee enemies
+
+Honeybees are subjected to predation by enemies such as wasps, wax-moth, wax- beetles, ants, birds, lizards and cockroaches.
+
+Wax-moth: Galleria mellonella is the most serious enemy of honeybee colonies. The greater wax-moth is brownish grey, 10-18 mm in length; its wing expanses 25- 40 mm; and the female is larger than male. The colour and the size of the adults vary a great deal in accordance to the food consumed by them. The outer margin of the forewing of males has a semi-lunar notch and it is smooth for female.
+
+Life history and seasonal abundance. Males and females mate within a day of their emergence. The mated females enter hive usually at night when colony is strong and seldom in day time, excepting in case of weak colonies. The female starts egg- laying in clusters in one or two days after mating, and lays 300-600 eggs in 5-10 days. Incubation period of eggs varies with temperature, egg hatches within a week at 30°-35°C, but the period prolongs as the temperature goes down. Young larvae
+
+APICULTURE
+
+are extremely voracious and eat gnewed pieces of combs. They soon spin silken tunnels in combs or tubular galleries on the bottom board to protect them. They form a web-like structure over the comb. The caterpillars cast off their skin 4 to 6 times, having 5—6 instars. The total life-cycle may be completed between 6 weeks and 6 months.
+
+Normally wax-moths are active during summer and hibernate in winter. There are several overlapping generations of the pest in an year depending upon the temperature and kind of food available. The caterpillars eat away combs or damage them by making tunnels in midrib of combs. Initial indication of infestation is minute particles spread outside the holes, and as infestation progresses, silken tunnels with caterpillars wriggling in them are noticed and eventually whole comb is reduced into mass of webbings.
+
+Management: Weak colonies are prone to attack by wax-moths, and strong colonies are able to resist them. Proper sanitation measures are keeping bee-hive without cracks and crevices, protecting colony from wax-moths attack. Mechanical devices such as cut-and-burn or burry infested portion of comb save colonies from destruction. While using old bee-hive, bee-boxes should be treated with sulphur-smoke and be kept ina stake. during lean period. The comb stored is disinfected with sulphur smouldering at 180 g/m? of space. Sulphur dusting at 2 g/hive over top bar also protects colony from infestation. Biocontrol device such as treatment with Bt formulation var. karstaki at 5 g/hive gave effective control.
+
+Predatory wasp: Several predatory wasps species Vespa magnifica, V. sincta, V, auraria, V. orientalis and V. basalis are found in plains and hills of India. They are social insects and make nests in tree cavities, walls or hang down from tree-trunks. V. magnifica forms burrowing-type nesting in soil. It is predacious by nature and catches its prey from flowers and bees from hive entrance. Wasps macerate bees and feed their young-ones by making paste-like material.
+
+Fecundated female overwinters and starts new nests in spring. The females render all work in the nest and also collect food for herself and young-ones. The worker- wasps on emergence help their mothers and take over nursing duties and foraging work. The nest becomes populous during late summer and autumn. The population is in peak during autumn and, at the end of which all castes except fecundated female die out. The female overwinters in cracks and crevices and starts nesting in the following spring again.
+
+To control these predatory wasps, many methods were tested. However, none of them were full-proof. Killing fecundated females during spring destroyed future wasp colony. And flapping practice which killed females partially reduced the intensity of wasp attack. Physical exclusion device by covering hive during summer with nylon- net having 1 cm mesh size in which bees may go out and get into, prevents wasp entry and gives effective control.
+
+The bee-hives can be protected from various ant infestations by placing hive over bamboo or wooden or iron stand with their legs on the earthen pots containing water. Sometimes wrapping legs of stand with impregnated kerosinized cloth also protects hive from ants. Other enemies such as cockroaches, and lizards can be controlled through proper management of bee-hive. Birds can be driven away by mechanical means.
+
+BEE FLORA AND POLLINATION
+
+For sexual reproduction of plants, pollination is required. In self-pollination, transfer of pollen is from anther to stigma of the same plant or another plant with similar genetic make-up. In this process no external agents are required. Cross-pollination is the transfer of pollen from anther to stigma of another plant with different genetic make-up. Cross-pollination is always brought about by some external agents. Such agents are insects, winds, water and gravity. Insects-pollinated crops are known as entomophilous, and bees dominate in entomophily ecosystem. Bees are considered as effective pollinators of many of our cultivated or wild crop-plants. In this process, there is a mutual benefit of enhancing crop production through pollination and honey as being reward to beekeepers. For effective beekeeping, honey-flow needs to be ensured throughout the year, and hence sufficient beeflora is necessary for viable beekeeping.
+
+species are specific to different areas and have definite micro- regional habitats. Under sub-tropical climates of India, nectar and pollen sources are available for most parts of the year, but continuous succession throughout the year is lacking in some localities. There is a single surplus honey-flow, and in good areas two surplus flows may be available. North-west, lower and mid-hills present spring/early— summer flows and autumn flora of Plectranthus is also available in hills. Bees face protracted dearth period in winter, and only subsistence flora is available in rainy season. Vast agricultural plains of north India and Gangetic plains offer major flora of Brassica from October to early February; the total area under oilseed-crop being 20 millions ha in India. This build-up honey-flow, which is followed by spring and summer surplus honey- flows from Eucalyptus, Dalbergia sissoo, Litchi, other fruit trees, Mimusops, Pongamia and later Egyptian clover is availed by bees till May. Due to introduction and adoption of sunflower-crop, bee avails pollen up to May/early June. Harsh summers have no floral availability but some weeds and crops present subsistence forage in rainy season and fall. In Eastern and Western Ghats and south India, there is medium to major flora available from October to May, and the important sources are Syzygium cumini, Terminalia chebula, Carvia sp., Sapindus spp., Hevea brasiliensis, Terminalia indica and Schefflera spp. Tamil Nadu and Kerala have belts of about 0.36 million ha of rubber and coconut for bees. Rubber flower is of short duration but is very rich. Cultivated crops like Sesamum, Cajanus cajan, Lathyrus sativus, Helianthus annuus, Zea mays and Carthamus also serve as important sources. In north-east, both wild and cultivated flora are available from late autumn to early summer. Brassica is the major crop in winter, followed by spring blossoms.
+
+Important bee flora have been worked out for their value as nectar and pollen sources to bees. Quantity of nectar produced and honey potentials of flora have been assessed, and more studies are underway. This can now serve as the guide for deciding tree plantations by different agencies on the basis of the multiple use principle, and the value as bee-forage as one of the use.
+
+Most serious problem in Indian beekeeping has been decreasing honey-plants. But recently, Central and State Governments and local organizations are trying to extend planting area and thus highway plantations have come up to present under social forestry sufficient forage for bees in many parts of the country.
+
+Flowers of large number of plant species are visited by honebees for nectar and
+
+APICULTURE
+
+pollen but importance of source, besides richness of floral rewards, also depends on the density of the species in the area. Though the major sources are not many in any locality, yet large number of minor and subsistent sources serve important purpose of build-up for sustaining bee-colonies (Table 20.7).
+
+Pollination of crops
+
+Pollination requirement by bees varies from crop to crop. Although qualitative information on pollination has been available from early period but quantitative approach is recent. Ample information has been generated in temperate regions but study of pollination ecology and its requirements in India of different crops has been taken up recently. More than 50% of the existing sexually propagated plants are
+
+dependent on insects for adequate pollination. The importance of cross-pollination was recognized long before understanding its biological significance. It was Charles Darwin (1859) who proved and popularized importance of pollination in maintenance of vigour and perpetuation of plant species. Honeybees play pivotal role in increasing yield of many economic crops through pollination.
+
+Oilseed crops
+
+Honeybees are major pollinators of mustard-crop. Flowers of rapeseed visited by Apis spp. had higher pod-set, more number of seeds per pod, and weight of seeds was also higher in comparison to those where no pollinators visited. Experiments on crop yields carried out in open and caged plots revealed that in self-incompatible crops, mean pod (siliqua) length, number of seeds set per pod, weight of seeds per plant and weight of seeds per hectare, were significantly greater in open plots. In studies on the effect of bee pollination on the yield of rapeseed it was observed that yield from bee- pollinated plots was significantly higher than having no pollinators. There was significant yield increase of 127.27% in Brassica sp. managed by Apis cerana pollination with its 5 colonies.
+
+Introduction of bee-colonies to sunflower fields increased seed-setting in the crop by 27% and resulted in much higher seed yields and weights from plots with A.c. indica colonies than from plots without bees. Honeybees were found to be the chief pollinator of sunflower, and excluding honeybees by bagging floral heads resulted in reduction in seed yield, seed weight, seed viability and oil content. In an experiment on the effect of bee (A.c. indica) pollination on the sunflower yield, bee-pollinated plots (1,321.28 kg/ha) showed significantly higher yield than self-pollinated plots (435.8 kg/ha). The seed yield in bee-open-and-hand pollinated plots was 203.2, 188.6 and 131.0% higher over self-pollinated plots. The increase in seed yield in open- pollinated plots was mainly due to pollination by honeybees. Bee-pollinated plots also exhibited a uniform seed-setting resulting in an early harvest of crop.
+
+Although self pollination mostly occurs in sesame but bees were found most frequent visitors on the crop for its nectar, and seed yield was recorded highest on the plants visited by Apis dorsata.
+
+Pollination studies revealed that the number of bees increased seed yield under screen-cages in niger. There was 120.21% increase of seed yield in bee-pollinated plots; and five A. cerana colonies per hectare were recommended.
+
+Fruits and nuts
+
+Generally two bee-colonies per hectare are recommended for apple but “Delicious” cultivars prefer side working by bees and thus require more than two colonies per hectare for effective pollination. Pear (Pyrus spp.) is similar to apple in pollination requirement. Most varieties of peach (Prunus spp.) are self-fertile but peach flowers are profusely visited by Apis spp. and their fruit-set is higher in managed pollination. Honeybees are main pollinators of plum (Prunus spp.), and greatly contribute in fruit-set. Bees are commonest forager of almond flowers, and have contributed 11.8% in the fruit yield.
+
+Honeybees, stingless bees, comprise more than 90% of flower-visitors in litchi. Four standard Apis cerana colonies gave optimum yield of litchi with 123.97% increase in yield against caged condition.
+
+APICULTURE
+
+Requirement of bee pollination for Asom lemon (Citrus limon) was studied and 4 Apis cerana colonies were found to be required for optimum yield; 52.2% yield increase was recorded.
+
+All Apis spp., more particularly Apis dorsata and Apis florea are major visitors of the fruit-plant of jujube (Ziziphus spp.). Mango (Mangifera indica) bloom is visited by bees. It is reported that honeydew secretions in mango-flowers attract bees for its nectar. Cashew, cardamom and rubber flowers are foraged by honeybees.
+
+Vegetable crops
+
+Flowers of many vegetable crops are rich source of pollen and nectar to bees. Cole crops are cross-pollinated to the extent of 90-95%. Apis cerana is the major insect pollinator of cauliflower-seed crop. Open-pollination significantly increased seed set, seed-weight and yield over exclusion of insect pollinators. Apis mellifera and A. cerana are main visitors of carrot and coriander inflorescences. In intensive bee pollination under caged conditions seed set increased by 59-70% and seed yield by 59.9-73.6%. All Apis spp. are foragers of radish.
+
+Brinjal (Solanum melongena), tomato (Lycopersicon esculentum) and pepper rarely require bee pollination. However, bee visitors in okra are found to improve quality and yield of crop. Honeybees are most important foragers of onion-flowers, and benefits derived from Apis cerana pollination were three-fold.
+
+Cucurbits are mostly monoecious with male and female flowers separate but on the same plant. Xylocopa, Bombus along with honeybees are primary pollinators for them and cross-pollination is a must for fruit production.
+
+Pulses
+
+Most pulse crops are considered self pollinated but bees do visit flowers of different pulse crops. Pigeonpea, although self-pollinated but cross-pollination had shown significant yield increase of the crop.
+
+Forage crops
+
+Major forage crops berseem (Trifolium alexandrinum) and alfalfa (Medicago sativa) are foraged by honeybees and solitary bees. Berseem is an important surplus honey source in the north-western plains and alfalfa is grown in drier parts of the tropical India. Bee visits greatly enhance seed-set and yield of the crops.
+
+Fibre crops
+
+Cotton (Gossypium spp.) plants caged with bees gave 17.19% more seed-cotton over plants caged without insects. Bolls per plant and weight of seed-cotton (lint) and seed per boll also increased in Asiatic and American cottons. Honeybees are not very effective as pollinators of sunnhemp (Crotalaria juncea) but wild bees are found effective.
+
+Cereal crops
+
+Cereal crops are generally self pollinated but maize, rye, bajra and buckwheat are reported to be foraged by bees for the nectar. Apis cerana pollination on buckwheat increased yield of the crop by 121.87%.
+
+BEE TOXICITY
+
+The pest problems have aggravated multi-fold by advancement in agricultural technology. Although agricultural production system has entered in the integrated phase but the use of pesticides has unabatedly been continuing. Most farmers apply large amounts of pesticides at regular interval, and indiscriminate use of pesticides causes adverse effects on agro-ecosystem. Honeybees are susceptible to many groups of pesticides. Pesticidal poisoning is recently overshadowing all other problems in apiculture. Farmers in India, mostly small-holders, use manual sprayer/duster for treating small crop area. This results in a continuous exposure of honeybees to pesticidal poisoning. Moreover, visible integrated approach is lacking between beekeepers and farmers of India. Selective use of insecticides is one of the requisites for integrated pest management. In this context, evaluation of selectivity of insecticides, which are effective against target pests, but less toxic to pollinators is essential. In recent years, many insecticides have been screened for their efficiency to target pests and their toxicity to honeybees. Mortality of bees is high when most toxic chemicals are applied during blooming period of the crops. It is not possible to quantify losses in terms of food production and to assess financial value of bees killed. Therefore, a cost : benefit ratio needs to be worked out between the gains in crop production due to bee pollination and economics of pest control.
+
+Symptoms and effects of pesticidal poisoning
+
+Bees come in contact with pesticidal residues while foraging on treated crops or weed flora. The nectar and pollen can also be contaminated with pesticides and then these can cause stomach-poisoning to bees and also to brood when fed on the contaminated pollen and nectar. Specific symptoms caused by poisoning of different groups of pesticides and then general symptoms of pesticidal poisoning are as follows:
+
+° Appearance of large number of bee-mortality in and around bee-hives, and bees also die in field.
+
+* Bees become paralytic, loose power of orientation; legs, wings and digestive systems stop functioning.
+
+* Bees are irritated and become aggressive; they sting heavily and guard-bees are confused.
+
+* Abdomen becomes distended and regurgitation of gut contents can occur.
+
+* Longevity of adult-bees is reduced due to sub-lethal dosages of pesticides.
+
+Reduction of pesticidal poisoning
+
+Most of the pesticides/insecticides uses for control of insect-pests are hazardous to bees. Certain points can be kept in mind for reducing pesticidal hazards. The thumb tule of integrated pest management for applying, insecticides when pest is at economic threshold level, would protect pollinators. Pesticide application should be avoided when crop is in bloom. To save bees from pesticidal poisoning, the following points need to be taken care of:
+
+Location of bee-hive: Bee-colonies should not be located in and around fields where pesticides are to be applied. It is always advisable to move bee-hives to safer locations. Chemical treatments in the vicinity of apiary are also equally dangerous. Pesticide formulation: Toxicity varies greatly with different pesticide formulations.
+
+APICULTURE
+
+Dust formulations are more hazardous to bees than sprays as they contaminate atmosphere through easy drifting. Wettable and dispersible powders have longer residual effects than emulsions. Bees are less likely to come in contact with emulsions because these are absorbed in the plant system. Granular formulations applied in the soil are the safest for bees.
+
+Selection of pesticides: In general, organic pesticides are less toxic to bees than inorganic ones. Organic insecticides have also smaller residual period.
+
+Time and method of application: It is most dangerous for application of insecticides when bees are actively foraging. They are directly exposed to insecticidal treatment, which causes greater bee mortality. The anthesis occurs mostly in the day hour which attracts bees for foraging. In most cases, insecticidal application can be given beyond these day-hours when bee activity is least. It is possible to treat crop before or after bee activity. For instance, bees in winter start foraging by 9.00-10.00 hr and stop before 16.00 hr. By treating Brassica and other oilseeds and vegetable crops before or after bee activity can be useful practice to reduce hazards to bees. Aircraft sprays do more harm to foraging bees than general sprays.
+
+BEE-HIVE PRODUCTS
+
+Beekeeping in India was mainly meant for honey production. However, with the progress in research and development in apiculture, the other valuable bee-hive products such as beeswax, royal jelly, bee venom, pollen and propolis have become known to apiculturists. Commercialization of these products is a boon to beekeeping industry.
+
+Honey
+
+It is a sweet viscous fluid produced by honeybees mainly from flowers nectar. The quality of honey varies from plant to plant depending upon the physico-chemical properties of the nectar. On this basis, the honey can be classified as floral honey or honeydew honey. Though monofloral honey is not common in India, yet honey can be categorized on the basis of floral sources such as mustard honey, litchi honey, berseem honey, eucalyptus honey etc. Honey is extracted and prepared for market by different methods. The honey from Apis dorsata comb is squeezed manually, and it contains pollen-grains and even juice of some broods, and is a crude honey, known as squeezed honey. The honey from bee-hives extracted from combs with the help ofhoney extractor is known as hive-honey. This honey may remain in liquid or may crystallize, and hence can be presented to consume as liquid honey or granulated honey.
+
+Honey is whole food, containing sugars, acids, minerals, vitamins, enzymes and antibiotics, present in small traces. Honey contains many types of sugars but it chiefly has two reducing sugars: dextrose (glucose) and levulose (fructose); and these account for almost 70% of the total solids. Sucrose in honey varies between 0 and 5%. Mineral composition of honey is very broad comprising potassium, calcium, phosphorus sodium, magnesium, copper, sulphur, silicon and iron, and all these account for 1% solids in honey. The acids in honey are tartaric, citric, malic, succinic, and amino acids, and found in traces are cystine, aspergine, lysine, glysine, aspartic acids, glutamic, alanine, tyroxine, valine, methionine, leucine etc. Enzymes present in honey are invertase for conversion of sucrose to simple sugars; diastase for conversion of starch to dextrin; catalase decomposes hydrogen-peroxide; phosphatase for decomposing glycerophosphate.
+
+Different vitamins present in honey are thiamine (B,), riboflavin (B,), nicotine acid, vitamin K, folic acids, biotin, pyridoxine and ascorbic acid. The pigments present are carotene, chlorophyll and xanthophyll responsible for colouration of honey. Honey is hygroscopic which means it absorbs moisture from air, and atmosphere. Moisture in honey is in equilibrium to particular relative humidity level, for example 21.3% moisture in honey isin equilibrium with 66% relative humidity. Honey containing higher moisture content tends to ferment at 11°-21°C, and the tendency is reduced at lower or higher temperatures. Fermented honey is sour in taste because of the acidity, which is as high as 1.5—3.1 milli equivalent. Heating honey to 64°C in water-bath for about 30 min. destroys yeast in honey, and thus fermentation is prevented. Pure honey should have specific gravity between 1.35 and 1.44 and less than 20% moisture content.
+
+Honey is mainly composed of reducing sugars, some proteins, vitamins and minerals. It is highly. valuable as food for infants, the aged and athletes. Honey provides energy with high calories ina readily available form and helps building haemoglobin. It forms an ideal health drinks with tea, coffee and lemon. Honey is used as carrier for all ayurvedic and unani medicines. It is a good laxative, blood purifier, preventive against cough and cold and relieves sore throat. It is a remedy for tongue ulcers. Its regular use is recommended in severe cases of malnutrition with impaired digestion, stomach and intestinal ulcers.
+
+Beeswax
+
+Young worker-bees of 14-18 days old secrete wax in their abdominal sternite iv-vii. This is secreted as liquid but solidifies when exposed to air, and scales are formed. These scales are removed by hive-bees and used for comb-building. Wax scales are normally white but colour of wax is influenced by pigments of pollen. Beeswax is a complex substance having complex esters of monoatomic alcohols and fatty acids from 70.4 to 74.7% of wax; other compounds are free acids from 13.5 to 15.0% and saturated hydrocarbons from 12.5 to 15.5%. Its specific gravity is 0.95 and melting point is 65°C. Beeswax is obtained from the capping collected during honey extraction, and from damaged and abandoned comb. In India, major portion of wax comes from dorsata comb. There are different methods of collecting wax. Generally, unused combs or washed capping can be boiled in water-bath at 65°C and collected fluid is strained through a muslin-cloth or strainer and dipped in cold-water. The wax block is obtained after solidification at the top of the water.
+
+Beeswax is mainly required by candle industry and beekeeping industry for preparing comb-foundation sheets. Wax is also an important constituent of cosmetics like cold-cream, lipsticks and rouges. Pharmaceuticals and perfume industries are also major users of wax. It is also used in ointments, capsules, pills coating and deodorants. Wax is also utilized for preparing shoe-polish and varnishes.
+
+Bee-venom
+
+Sting apparatus of the worker-bee is attached to a poison-sac where venom is stored. Normally, 2-week-old worker-bee can secrete maximum venom in her sac. Bee-venom is mainly used by bees as a defence mechanism. Composition of bee-venom is complex and is composed of many active chemicals viz., histamine, apamine, acithinase, hydrochloric acid, formic acid, orthophosphoric acid, sulphur, calcium, copper and magnesium sulphate,
+
+APICULTURE
+
+Production: Commercial method of obtaining bee-venom is by electric shock. Thin copper-wires are attached about 1 cm apart on a wooden-frame which are alternatively charged. The wired device is inserted between bottom board and brood chamber and electric current is passed through wires between 12 and 15 volts. The bees get shock when come in contact with electric wire and get irritated. They release venom by inserting sting into a thin nylon-cloth below the copper-wires. Venom is deposited on a glass-plate placed below nylon-sheet. The venom on drying is scrapped from glass- plate.
+
+Bee-venom has been reported useful for curing many human diseases and disorders. Rheumatism cannot be cured by any other system of medical treatment but can be cured through bee-venom injection to patients. Bee-venom has also useful effect in curing necrosis, endoarthiritis and neuralogia. It has stimulating effect on heart muscle and stinging decrease cholesterol level and also lowers blood pressure. The treatment through bee-venom is getting popularity, now-a-days and it is known as apitherapy. Some people may show allergic reaction to bee-venom and bee-sting may. have general indisposition, vomiting, swelling and diarrhoea but repeated stinging at intervals makes them immune. Honey is used as a healing touch. Protein antigens of bee cause hypersensitivity. Antihistamine cream or injection and adrenaline are used as anti- allergents. These are only first aids, however, physician may be consulted in acute cases.
+
+Royal jelly
+
+Royal jelly is secreted in hypopharyngeal glands by nurse-bees of one to two weeks age. It is very nutritious food and is fed to young workers and queen larva. Royal jelly is milky or light-pale. It is composed of proteins 15-18%, lipids 2-6%, carbohydrates 9-10%, and minerals 0.7—1.2%. And it contains 65-70% moisture. The proteins are mainly amino acids, and essential amino acids including others viz., alanine, arginine, aspartic acid, glutamic acid, glysine, isoleusine, lysine, methionine, pheny]-alanine, tryptophan, tyrosine and serine are present in royal jelly. Carbohydrates in royal jelly are glucose, fructose, melibiose, trehalose, maltose and sucrose. It also contains vitamins A, B, and C. Mineral elements present are iron, copper, silicon and sulphur. Royal jelly also contains some other chemical stimulants which are responsible for queen determination.
+
+Royal jelly is very nutritious for human-beings, as it increases vigour and vitality. Its production efficiency of Indian bee has not been studied yet but from Apis mellifera about 200 mg of the jelly is obtained from a queen cell. The Doolitle method for royal jelly production under mass-queen rearing technique is found productive. The queen cell is trimmed to level of royal jelly and after two or three days of grafting, larvae are gently removed with forceps, and royal jelly is collected with royal jelly-spoon. Collected royal jelly is used in refrigerated conditions.
+
+Propolis
+
+It is collected by bees from resinous exudates of trees. In bee-colony, propolis is used by bees for sticking frames, sealing cracks and crevices. Propolis is mainly composed of resins and balsams 55%, ethanol and aromatic oils 10% and pollen 5%. Propolis is obtained by scrapping it from frames. It is used as an adhesive and has quality of healing wounds, preparing ointments for treating cuts, wounds and abscesses in cattle, Mixed with vaseline, it heals burns.

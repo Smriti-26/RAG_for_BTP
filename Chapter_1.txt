@@ -1,0 +1,675 @@
+SOURCE_DOCUMENT: Chapter 1.pdf
+
+1. Evolution of Indian National Agricultural Research System
+
+Agriculture, as the largest private enterprise in India (> 10 crore farm holdings), has been and will continue to be the lifeline of the Indian economy at least in the foreseeable future. It contributes nearly 17% to the national GDP, sustains livelihood of about two-thirds of the population, accounts for 52% of the national workforce and forms the backbone of the agro-based industry. Besides, agriculture is a social sector where non-trading concerns like food and nutritional security, employment and income generation, poverty alleviation, gender equity, ecology and environment play a significant role. Contribution of agriculture to our nation’s security at the time of economic sanction and in strengthening the national sovereignty is well recognized. Yet, it has remained, so far, an unorganized sector.
+
+India through modern agricultural technologies has moved from an era of chronic food shortages and ‘begging bowl’ status during 1960s, when our annual food imports were around 8-10 million tonnes, to a level of food self-sufficiency, buffer stocks and even food exports from 1990s. With reference to 1950, the productivity gains are nearly 3.5 times in foodgrains, 1.6 times in fruits, 2.1 times in vegetables, 5 times in fish, 1.8 times in milk, and 4.8 times in egg production at present. The Indian Council of Agricultural Research (ICAR), which is the flagship of the Indian National Agricultural Research System (NARS), was awarded the “King Baudouin Development Prize International” for the best agricultural institution in the world in 1988 in recognition of its significant research contributions, and for research excellence in 2004 as a major partner of NARS-led Rice-Wheat Consortium in association with CG institutions. His Excellency, the then President of India, Shri K.R. Narayanan, while addressing the Parliament on the occasion of the Golden Jubilee of India’s independence in August 1997, cited self-sufficiency in foodgrains production as one of the most outstanding achievements of the post-Independence era.
+
+Evolving concerns
+
+“Everything else may wait but not agriculture” — these words of Pandit Jawaharlal Nehru, our first Prime Minister, bear ample testimony to the concerns of our national leadership towards strengthening agriculture. The farm productivity and production levels were quite low and import of foodgrains was a compulsion to meet the domestic needs of food items. At the time of India’s independence, the first and the foremost challenge was to overcome food shortages through enhancement in domestic agricultural production and minimum dependence on food imports. These were made possible by providing farmers with sound scientific knowledge, technology and improved inputs to enhance farm productivity. High priority was accorded towards developing national capacity wherein along with infrastructure, a far greater role of agricultural research and education was realized and emphasized.
+
+In 1950-51, the area under foodgrains cultivation was 97.32 Mha of which only 18% was irrigated, the productivity and production stood at 522 kg/ha and 51 million
+
+Nn
+
+1.25%. In 1961, population touched 439.2 million at a growth rate of 1.96%, while the foodgrains production increased only to about 82 Mt; and the gap in domestic production and demand for foodgrains had to be bridged through imports. Enhancing food production for self-reliant food security became a prime national concern. All- round research and development efforts were made during the decade of 1960s to strengthen agriculture. Among other measures the ‘miracle seeds’ of wheat and rice were introduced, improved and adopted to boost production. Simultaneously, intensive efforts were made to strengthen agricultural research and education system in the country. The technologies thus developed contributed significantly towards ushering Green Revolution in the country, thus ending the era of foodgrains imports. The stigma of ‘begging bowl’, and ‘ship to mouth’ status was shed off. The momentum of building and strengthening the infrastructure was sustained to develop an effective agricultural research and education system in the country. The Indian NARS has developed more than 3.300 improved varieties/hybrids of various field crops, and over 700 varieties/ hybrids in horticultural crops. The foodgrains production has touched 230 million tonnes, fruit 63 and vegetable production 125 million tonnes, respectively, by 2007- 08. The Green Revolution was followed by White Revolution in milk production. Today India with over 100 million tonnes is the highest producer of milk in the world. The availability of milk which was 124 g/person/day in 1950-51 is now at 245g/ person/day. Poultry sector also showed remarkable progress in production, taking annual per caput consumption of 5 eggs in 1951 to 42 in 2005-06. The fisheries sector has grown at 4.5%, ushering in Blue Revolution.
+
+If the challenge was to offset food shortages during 1950s and 1960s, there were concerns subsequently on declining factor productivity, the issues of health and judicious utilization of prime natural resources particularly water, soil and genetic resources for a sustainable development of agriculture. The situation calls for enhanced application of modem science in generation and infusion of new technologies wherein state of the art facilities as well as highly competent human resources need to put in place. The new millennium also brings forth a new global trade regime along with concerns of global competitiveness of farm produce and system sustainability that requires a sound-and-customized policy support. India’s National Agricultural Research System has been responding to constantly evolving concerns, and will continue to do so in future.
+
+However, the overarching concerns of nutritional and livelihood security, poverty alleviation, profitability, gender equity, ecology and environment, and competitiveness in terms of cost and quality will continue to be major issues before the NARS. Priority issues that call for attention include availability of water and its quality, soil-health, genetic resource conservation, insulating farm production against increasing biotic and abiotic stresses, managing climate change, diversification, post-harvest management, enhancing input-use efficiency, energy management, increasing preparedness to match rapidly evolving trade regime, reducing knowledge lag, and congenial policy environment.
+
+India presently supports 17% world’s population, 4.2% world’s water resources and 2.3% global land. Per caput availability of resources is 4 to 6 times lesser compared to world average. Foreseeably, this will further decrease due to increasing demographic
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 3
+
+pressure and consequent diversion of land for non-agricultural use. Over years, in our quest for the development we have caused serious damages to our natural resources, soil, water, climate and biodiversity, so much so that now very sustainability of agriculture has become a big challenge.
+
+The net sown area in the country increased from 118.75 million hectares in 1950- 51 to 14042 million hectares from 1970 onwards till date. The present cropping intensity of 137% has registered an increase of only 26% since 1950-51. Broad cropping pattern indicates that foodgrains occupy a major share in gross cropped area as compared to non-foodgrains. The per caput availability of the land is on the decline, signaling permanent ceiling on the horizontal expansion of cultivable area. Further, the vast area in the country, over 100 million hectares have degraded due to various causes such as salinity, water-logging, acidity, erosion, which can be put to productive use through appropriate technological interventions.
+
+Water has been prioritized to be the most crucial resource. Agriculture uses almost 85% of the total water available in the country. With existing practices, water-use efficiency may seldom increase 40%, while technological potential exists to raise it to about 90%. Inefficient use of water leads to inefficiency of all other resources/inputs like seeds, fertilizers, etc. Of the total 162 Mha of arable land, about 60 Mha is irrigated. Even if the entire irrigation potential of the country is used still about half of the cultivated land will remain rainfed. Rainfed areas presently constitute about 65% of the net cultivated area. Such areas can be made productive and profitable by devising technologies for rainwater harvesting and commensurate agricultural production practices. Moreover, over-mining of groundwater has lead to drop in water-table, intrusion of saline water near coastal areas, and also pollution by concentration of toxic ions.
+
+By 2020 we would need about 29% more water for agriculture whereas water availability is likely to be reduced by 12%. Therefore, not only sustainable development of potential sources of water, but also to augment, conserve and manage these resources through improvement in water storage, conveyance, application and crop-water-use efficiencies, without detriment to environment and natural resource base is imperative, hence enhanced effort and support is needed. Inequity in access or availability of water, its spatial/temporal variability, public/private investments and participatory management are some of the issues for research, development and policy paradigms.
+
+Next to water, nutrients are an important input for guiding sustainable growth of agriculture. Nutrients’ use efficiency ranges from 2 to 50%. In some states the farmers are using unusually high levels of nitrogenous fertilizers that has widened the gap in the N:P:K ratios; the N:P:K use in Punjab is 35:9:1 and for Haryana, it has been as high as 75:24:1, as against recommended practice of 4:2:1. There is also a negative trend of organic-carbon depletion which is a major setback to soil health and its productive potential. Such a low efficiency and imbalanced use of nutrients not only increases production cost but leads to severe environmental consequences. Therefore, maintaining fertilizer balance and fertility management would be the key to enhance productivity. There is also an increasing trend to replace inorganic fertilizer with organic or biofertilizers. Whether nutrients are applied in organic or inorganic forms, the plant takes them in ionic form only. In Indian conditions some pertinent questions that need to be answered before any large scale switch over are : Can organic farming produce
+
+enough food for everybody? Is it possible to meet nutrient requirements of crops entirely from organic sources? Are there any significant environmental benefits of organic farming? Is food produced by organic farming superior in quality as compared to the one produced by using balanced nutrient system? Is organic agriculture economically feasible and viable on a changing time scale? Is it possible to manage serious pests and diseases in organic farming? Why can’t the organic and inorganic fertilizers be used in conjunction?
+
+In view of the mounting demands of food, nutritional and environmental security, sustainability of the production system, enhancing farmers’ income and employment generation, the diversification of agriculture on a large scale is essential. Apart from varietal diversification, the diversification in terms of fruits, vegetables, mushrooms, flowers, livestock, poultry, fisheries and agroforestry has contributed to a holistic development. Improving cold storage, short period storage during transit of commodities, on farm processing, and cold chain facilities are critical for insulating farmers against risks and success of diversification. The markets have to play a decisive role for the survival and success of farming in the coming years, and to sustain thrust on diversification.
+
+Post-harvest management is an important area that needs priority attention. It is estimated that about 80-85 million tonnes of food items can become available through suitable post-harvest technologies which otherwise are lost. India is world’s second largest producer of fruits and vegetables, but hardly 2% of the produce is really processed. India’s livestock population is largest in the world but only about 1% of total meat production is converted to value-added products. Besides, the country is also the leading milk producer in the world, yet only about 15% of the total milk production is processed through organized sector. Developing technologies for agricultural waste management and also for converting by-products into main products would be essential to attain and sustain competitive edge. Therefore, technologies for effective post-harvest management need to be developed and promoted, particularly in and around the villages.
+
+Agriculture depends heavily on energy to sustain surge in needed productivity growth. Low use efficiency of energy is a matter of serious concern from economic and environmental point of view. Its inefficient use, more specifically, of fossil energy, entails country’s exchequer more on foreign exchange besides increasing cost of production and chances of global warming. Since agriculture is becoming more and more mechanized, issues related to poor mechanical efficiency are very important in energy management. Resource conservation technologies need to be further developed and extensively popularized.
+
+Insect-pests, diseases and weather-related aberrations constitute major constraints to food production. The drought of 2002 .is regarded as one of the worst droughts in the last one hundred years. American bollworm in cotton, pod borer in chickpea and pigeon pea, and of late, woolly aphid in sugarcane is the glaring examples of production losses due to insect-pests. Weeds also take a heavy toll in yield reduction. Acid soils in over 15 million ha is an impediment to harness enhanced yield. Soil salinity and water- logging are increasing in majority of the canal-command areas and are threatening agricultural productivity. Checking losses due to these is, therefore, one of the obvious strategies for increasing food supply. Pro-active or anticipatory research on crops,
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 5
+
+farming systems, animals, fisheries is needed to overcome abiotic and biotic stresses. Integrated pest management is the key for providing sustainable and environmentally sound plant-protection. For this, we have to build institutional capacity for intensive research efforts and mass-production facilities for bio-agents. And a balance between modern methods of pest control and sustainability need to be established.
+
+Membership of the WTO and its obligations makes India face stiff challenges from globalization of trade and commerce of all commodities including agriculture. India’s share in global agricultural trade, which is little over 1%, has remained quite low. The country should explore opportunities to promote exports of those products whose export in terms of value is rising at a faster rate, and simultaneously need to enhance its competitive edge to contain imports on a hanging time-scale.
+
+Global liberalization requires paradigm shift from increase in production to improvement in efficiency. Technological improvement is one of the most important sources of growth in total factor productivity and in improvement of efficiency. The twin goals of increase in productivity and efficiency can be achieved by harnessing potential of underdeveloped regions and through development of specialized pockets. India has competitive advantage in exports of high-value products, processed products, products with unique characteristics and organically produced commodities. And promoting their exports require development of value chains, new institutional arrangement for production and marketing of high-quality products, and large-scale investments in agro-processing. Quality assurance is an important issue in agriculture produce/products with high export potential, and apart from ensuring microbiological safety, aspects of residues of chemicals and antibiotics assume quite a significance. Owing to vast growing market, right in the country, these facilities would be of paramount significance for the marketing in the country as well.
+
+TRIPs (Trade Related Intellectual Property Rights) and SPS (Sanitary and Phytosanitary) measures in the World Trade Agreement would call for continued reorientation in the National Agricultural Research System to successfully counter new challenges in agriculture. Further, strong and supportive IPR- and SPS-driven policies are also imperative. Legal expertise has to be developed and different laws and regulations have to be reviewed and harmonized in relation to trade in agriculture. Thus, we need to be highly vigilant and be constantly monitoring international situation to have mechanisms for rapid counter action. The domestic measures combined with fair world trading agreement would help India to become a significant trading partner in global arena.
+
+Highly competent human resources will remain a major strength to pursue the research agenda in the coming years. To ensure high standards of agricultural education and manpower development, the accreditation of institutions of agricultural education, revision of course curricula and syllabi with inclusion of new areas such as environmental science, biotechnology, IPM, IPNS, GIS, computer applications, Bioinformatics, crop modeling, IPRs, agri-business, market intelligence, etc. are imperative. Fortunately in all 83 subjects at masters’ level and 71 disciplines at Ph.D. level has been done in July, 2009. An aggressive and state-of-the-art human resource development effort is critical. This requires establishment of ‘Centres of Excellence’ to develop schools of thought in critical areas, and also to augment our efforts in basic, strategic and anticipatory researches.
+
+Biotechnology, nanotechnology, bioinformatics, precision farming, space science, information and communication technology are to be increasingly used towards making Indian agriculture globally competitive. Biotechnology is emerging globally as an effective-and-efficient tool for attaining new horizons in crop, animal and fish productivity. In fact biotechnology has reduced the entire biological world into a big gene pool and, therefore, offers uncommon opportunities for improvements in genetic potential of plants and animals by introduction/removal of gene(s) that regulate specific traits. Establishment of DNA bank and initiation of projects like Gene discovery and allele mining are forward looking steps in right direction. The conventional breeding methods can be complimented by an array of biotechnologies that can augment production while saving on precious time and resources. The issues of bio-safety and environment need to be addressed along with application of biotechnology in agriculture. India has made appreciable progress in developing capabilities with regard to manpower and related infrastructure but still has to cover considerable grounds in areas of transgenics, genomics and bioprospecting. Massive programme has also been launched on human resource development in the country that is expected to pay dividends as we go along. The application of biotechnology is going to be one of the most critical components in agricultural transformation of the country.
+
+Electronics can be very effectively applied in development of precision agriculture technologies. Agricultural output a function of the kind and intensity of input use is equally affected and governed by macro- and micro-variations in the environment, weather and land characteristics. And electronic science can help in developing tools and package of practices to give precise information about when, how much, and how to or how not to use various inputs under well-defined weather and climatic conditions and type of soils. Site and situation specific management and use of inputs would not only be highly economical but would help in environmental protection and sustenance of its quality also. Use of modern information and communication tools and techniques can be of great service in knowledge and technology transfer and can be explored for high-tech production, marketing intelligence and prediction of trade and trends on consumer preferences. Increasing space science application in the form of GIS and remote sensing can help us to obtain advance information on the movement of trans- boundary pests and pathogens, inventorize and assess resources, for effective planning and can have decision support system. The potential of ICTs and space science has to be harnessed for benefit of farming community and country at large.
+
+AGRICULTURAL RESEARCH AND EDUCATION
+
+The Indian Council of Agricultural Research has established/strengthened research institutions for different crops, commodities and disciplines to strengthen national agricultural research, education and extension system. The first step towards science- based development of agriculture in the country dates back to 1889 when Imperial Bacteriological Laboratory was established at Pune, the precursor of the present-day Indian Veterinary Research Institute, Izatnagar. This was followed by creation of the Agricultural Research Institute at Pusa, Bihar, in 1905, which was shifted to Delhi in 1936 after a devastating earthquake, and is now called the Indian Agricultural Research Institute but still continues to be popularly known as Pusa Institute.
+
+On the recommendations of the Royal Commission Report of 1928, the Imperial
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 7
+
+Council of Agricultural Research was established on 16 July 1929. It was registered as a society under the Societies Registration Act—1860. The organization was renamed as the Indian Council of Agricultural Research (ICAR) after Independence, The schemes funded by the ICAR were executed at central and state research institutions and non government organizations. The ICAR was reorganized in 1966, and as the main executive agency it was given responsibility and considerable autonomy to plan, co- ordinate and guide research nationally and develop research partnership internationally, The Council is also entrusted with the responsibility for coordinating research with the central and state research institutions. The ICAR has been described as the research wing of the Ministry of Agriculture, Government of India, performing a variety of functions including preparation of national research policies and priorities and linking them with the government’s development objectives through its research institutions spread across the country in different agro-ecological regions.
+
+Important organizational reviews
+
+Functioning of the ICAR has been reviewed periodically to enhance its capacity to respond to highly dynamic nceds of the agricultural development in the country. A joint Indo-American Team was appointed by the Government of India in 1954, and another in 1959. The first team made a large number of recommendations on research, higher education including administration and personnel management. These recommendations inter alia laid emphasis on the methodology for utilization of research funds of the ICAR, administration and control of grant funds, development of adequate research facilities by states and their participation in schemes of regional or national significance, and development of national or regional centres in areas wherein centrally supported institutions could function more effectively.
+
+upon agricultural research programmes through (i) identification of research priorities, (ii) formation of an Agricultural Research Policy Council of the high-level technical officers to serve as Standing Advisory Committee to the Governing Body of the ICAR, (iii) strengthening of the co-ordination of all agricultural research programmes, and (iv) effecting necessary organizational changes, such as taking over of the central research institutes as well as the commodity committees under the administrative control of the ICAR. The team also recommended that projects of regional or national significance and of cross-commodity projects should alone be implemented by the ICAR, and the responsibility for local research is left to states.
+
+In October 1963, the Government of India appointed an Agricultural Research Review Team with a specific object of improving agricultural research set up in the country and for suggesting necessary changes. This team made important recommendations: (i) replacement of existing Council by a new Council for Agricultural and Food Research, with powers to develop and administer national research programmes, (ii) authorization of new Council to assume full technical and administrative controls of all the Central Agricultural Research Institutes and Commodity Committees and certain other research organizations then financed by the Government of India, (iii) taking over by the ICAR of other related institutions like the Central Food Technological Research Institute (CFTRI), and (iv) taking up of responsibility of all the extension activities by the ICAR in the country. This team
+
+8 HANDBOOK OF AGRICULTURE
+
+also suggested that the IARI, NDRI, and IVRI should be designated as the National Institutes by giving greater autonomy in their functioning.
+
+Based on the recommendations of the Research Review Team, the Government decided in March 1965, to reorganize ICAR by way of (i) bringing under the ICAR all the Central Research Institutions; (ii) reconstituting the Governing Body by making it pre-eminently a body of scientists, (iii) giving financial assistance for research to the ICAR in the form of a block grant on the model of the Atomic Energy Commission; (iv) agreeing in principle to the IARI, IVRI and NDRI being designated as the National Institutes and taking up necessary legislation therefore, (v) adoption of a personnel policy on the lines suggested, and (vi) formation of a Cabinet Committee on the Agricultural Research.
+
+The ICAR took over the administrative control of 9 research institutes on 1 April 1966; other research institutes were taken over in subsequent years. The ICAR also assumed the research functions of the Central Commodities Committees dealing with tobacco, cotton, oilseeds, coconut, lac, jute, sugarcane, areca nut, cashew nut and spices together with the control of research stations and laboratories maintained by these Commodities Committees.
+
+In June 1970 the Cabinet, approved the introduction of a legislation for: (a) declaring ICAR as an institution of national importance; (b) converting ICAR into a statutory body; and (c) conferring upon the ICAR certain functions performed by the UGC in the field of agricultural education.
+
+On the basis of the recommendations of the Dr Gajendragadkar Committee (1972), the Department of Agricultural Research and Education (DARE) was set up in 1973 in the Ministry of Agriculture to link ICAR with Central and State Governments on the one hand and international organizations on the other. The ICAR was retained as an autonomous society so as to confer necessary operational and functional autonomies in the organization of agricultural research and education. The Agricultural Scientists’ Recruitment Board (ASRB), an independent recruitment agency, was created for the selection of the scientists on the pattern of the UPSC, and an Agricultural Research Service was constituted in the ICAR. The ICAR was also delegated powers to formulate policies, develop programmes, and ensure their implementation. The constitutions of Governing and General Bodies of the ICAR were changed, and Accreditation committee and scientific panels were also set up.
+
+In 1987 a high-power ICAR Review Committee under the Chairmanship of Dr G.V.K.Rao was set up to review organizational infrastructure, personnel policies and functional role of the ICAR to meet new challenges of agricultural production and raising agricultural productivity. The Committee made several recommendations that aimed at making “ICAR tall, slim and healthy”. The Committee recommended that it should become a body with vision and vigour—vision to analyze problems of Indian agriculture, particularly issues like ecological Sustainability of Indian agriculture, economic viability of agricultural production, equity in agricultural growth, and particularly developing a system of education and training which could handle all problems of future. The Committee recommended that ICAR should primarily concentrate on planning, aiding, promoting and coordinating agricultural research in the country, and should directly involve itself in research activities that are basic and strategic in nature; and in regional problems it should intervene where SAUs lack
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 9
+
+infrastructure or capacity to do so. The ICAR institutes as a matter of fact should become Centres of Excellence, and develop their national character in real spirit. The Committee also emphasized on the need for greater functional autonomy and decentralization to make the system work efficiently. Many of the recommendations have been implemented.
+
+In August 2004, a Committee under the chairmanship of Dr R.A. Mashelkar, Secretary, Department of Scientific and Industrial Research, Ministry of Science and Technology, was constituted to examine structural framework of the ICAR and to suggest measures for according autonomy to the organization, functional flexibility to its scientists and suitable models to actively pursue identified areas of research and other research-related activities on the commercial lines. Based on the recommendations of the Committee, the Council has undertaken steps to rationalize number of research management positions at the headquarters, for strengthening of ICAR-Industry interface to promote commercialization of technologies, and for institutionalizing a system of IPR protection.
+
+The Planning Commission also constituted a Task Group on Revamping and Refocusing of the National Agricultural Research System in October 2004 under the Chairmanship of Dr M.S. Swaminathan. The Task Group has recommended, among other things, promotion of basic and strategic researches in agricultural science. In response, Government of India created a National Fund for Strategic Agricultural Research. Accordingly, the Council has set up an empowered committee consisting of eminent scientists to determine policy and priorities for fund and approval of the research projects on competitive basis to attain and sustain advantages through cutting- edge of science and technology.
+
+NATIONAL AGRICULTURAL RESEARCH SYSTEM
+
+The ICAR hasa strong institutional structure that comprises Central Research Institutes, National Research Centres, Project Directorates, National Bureaus, All-India Co- coordinated Research Projects, State Agricultural Universities and Central Agricultural University, agricultural faculties of Central Universities, with an effective mechanism to capitalize also on the strengths of general universities, voluntary organizations and private sector. The ICAR by now has established 567 Krishi Vigyan Kendras at the rural district level, and contemplate to have one KVK in each of the remaining rural districts of the country as an innovative institutional model for assessment, refinement and on farm demonstration of agricultural technologies and training of trainers/farmers. Based on the success of KVK model one in each rural districts, the Government has approved to have an additional KVK in each of the 50 large districts as well during the XJ Plan. The National Agricultural Research System (NARS) spearheaded by the ICAR is among the largest in the world with a manpower of over 25,000 scientists/ teachers.
+
+The Union Minister for Agriculture is the ex-officio President of the ICAR Society. The ICAR Society is the supreme body that meets at least once in a year and reviews progress and performance of the constituent units of the Society and gives such policy directions as may deem to be fit to the Governing Body and other constituent units of the Society.
+
+The Governing Body—the chief executive and decision making body of the
+
+10 HANDBOOK OF AGRICULTURE
+
+Mandate of Indian Council of Agricultural Research
+
+e Toplan, undertake, aid, promote and co-ordinate education, research and its application in agriculture, agro-forestry, animal husbandry, fisheries, home science and allied sciences.
+
+e@ To act as a clearing-house of research and general information relating to agriculture, animal husbandry, home science and allied sciences; and fisheries matters through its publications and information system, and instituting and promoting transfer of technology programmes.
+
+e To provide, undertake and promote consultancy services in the fields of education, research, training and dissemination of information in agriculture, agro-forestry, animal husbandry, fisheries, home sciences and allied sciences.
+
+; © To look into the problems relating to broader areas of rural development concerning agriculture, including post-harvest technology by developing co-operative programmes with other organizations such as the Indian Council of Social Science Research, Council of Scientific and Industrial Research, Bhabha Atomic Research Centre and the Universities.
+
+@ To do other things considered necessary to attain the objectives of the Society.
+
+Council—is responsible for the governance of the ICAR as a whole. The Governing Body functions as an effective decision making and policy implementation body that can discuss in depth matters requiring attention at the national level. It is chaired by the Director-General, ICAR, and is constituted of Vice-Chancellors of SAUs, Directors of ICAR institutes, eminent scientists, Managers, farmers and Secretaries of a number of important departments of Government of India. The Governing Body of the Society is entrusted with the responsibility of managing, administering, directing and controlling affairs and funds of the ICAR.
+
+The Director-General is the Chief Executive of the ICAR and is supported by Deputy Directors-General (DDGs) in technical matters and on the administrative and financial matters by the Additional Secretary and Secretary, ICAR, and Additional Secretary and Financial Advisor, DARE, respectively. At present, there are eight subject-matter divisions, viz. Natural Resource Management, Crop Sciences, Horticulture, Animal Sciences, Fisheries, Agricultural Engineering, Agricultural Extension, and Agricultural Education. A separate division of Agricultural Extension, headed by a DDG was created in 1984. Similarly, separate Horticulture and Fisheries divisions were carved out of Crop Science and Animal Science divisions, respectively, in 1987. In 1988, a division of Agricultural Engineering was carved out of the Division of Natural Resource Management. The agricultural research and education institutions under ICAR are listed as Annexures I and II, respectively.
+
+As a coordinating agency, the ICAR maintains a close working relationship with the SAUs and all other agencies involved directly or indirectly in agricultural research, education and other related activities. The ICAR has bilateral collaborative research programmes with national research organizations, such as BARC, CSIR, ICMR, ISRO, DBT etc., and Memoranda of Understanding (MoU) with CGIAR research institutes - CIMMYT, ILRI, ICRAF, IRRI, ICRISAT, IFPRI, ICARDA, CIP, IWMI and has signed MOUs with 26 countries as well.
+
+Central Research Institutes
+
+The ICAR directly administers 49 Central Research Institutes (CRIs) in the areas
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 11
+
+of crops, horticulture, soils, engineering, animal sciences, fisheries and NAARM (National Academy of Agricultural Research Management). The NAARM is a unique institution under the Council to conduct research and training in agricultural management. The CRIs carry out basic and applied researches on the problems of national importance with some focus on regional problems as well. Their activities are according to their mandate, which may authorize them to work on problems related to commodity (Central Rice Research Institute), group of commodities (Central Plantation Crops Research Institute), discipline (Indian Institute of Soil Science), geographic area (Central Agricultural Research Institute for Andaman and Nicobar Group of Islands), technology (Jute Technological Research Laboratories), or specific issue (Central Soil Salinity Research Institute). There are also multidiscipline, multicommodity institutions such as the Indian Agricultural Research Institute. Most of the CRIs have a network of regional stations, covering diverse agro-ecological areas. The IARI, IVRI, NDRI and CIFE have post-graduate teaching programmes and also enjoy the status of the deemed-to-be universities.
+
+In order to protect agriculture from the increasing abiotic stresses through technological intervention, a state-of-the-art National Institute of Abiotic Stress Management with deemed-to-be university status is established. Two more national level institutes, each on biotechnology and biotic stress management, are in offing.
+
+National Bureaus
+
+The ICAR has established 6 national bureaus to collect, conserve, evaluate and document basic resources of agriculture and initiate such measures as would lead to long-term productivity of plant, animal, fish, agriculturally important micro-organisms and soil. A national bureau on agriculturally important insects has been established at Bengaluru by reorienting Project Directorate of Biological Control in 2009.
+
+Directorates/Project Directorates
+
+Some of the AICRPs working on a single commodity or a group of related commodities have been upgraded into Project Directorates (PDs) because of increased importance and magnitude of the work involved and to ensure working in a continuom. Excepting for size and magnitude of the work, they are essentially the AICRPs with added responsibility to undertake research, which could feed into the AICRP system and help in developing location-specific technologies. The NRC for Pomegranate is one of the more recently established centres. The National Research Centres on Groundnut; Rapeseed-Mustard; Soybean; Sorghum; Oil Palm ; Cashew ; Medicinal and Aromatic Plants; Mushroom; Onion and Garlic; Floriculture; and Water Management; Coldwater Fisheries; and Women in Agriculture have been upgraded to function in a Directorate mode of operation. Thus, the number of PDs is twenty-five.
+
+National Research Centres
+
+These centres were introduced in the system in 1977-78 with establishment of the National Research Centre on Groundnut at Junagarh, Gujarat. The NRCs have been mandated for narrow concentrated mission on basic and strategic researches on the selected iopics that have direct or indirect relevance to solving national problems in a particular crop, commodity or a problem area of research. These will feed national
+
+network of research with new materials, techniques and information for subsequent adoption in different production oriented research programmes. They do not have divisional structure or regional sub-stations. The NRCs are also designated to concentrate on disciplines/sectors, viz. agricultural economics and policy. The ICAR established 30 NRCs but with upgradation of 12 to Project Directorates, their number at present is 18.
+
+All-India Co-ordinated Research Projects
+
+The ICAR has established 91 All-India Co-ordinated Research Projects (AICRPs) since 1957, and these link up research programmes in the ICAR research institutes, the state agricultural universities, and the private non-governmental institutions in a cooperative framework. These projects are a co-operative endeavour with agricultural universities, general universities, state departments, private and voluntary agencies, involved in carrying out multidisciplinary and multi-location development and testing of newly developed technologies and varieties. They were conceived as an instrument to mobilize available scientific resources to find effective solutions for the national/ regional/local problems of agricultural production through inter-institutional interactions. Their coordinating units are located either in the ICAR institutes or SAUs. The ICAR and the collaborating institutions share expenditure on 75 : 25 basis. However, the central institutes and the NGOs are funded by the ICAR on the 100% basis. These projects constitute an effective national grid of coordinated experiments by integrating different institutions and disciplines.
+
+Number of research ICAR institutions under different Subject matter Divisions
+
+Ad-hoc Research Schemes
+
+The Agricultural Produce Cess Act made provisions for the funds for the ICAR for financing research projects on the short-term and result-oriented bases. The objective of these schemes in different disciplines of agriculture, animal husbandry and fisheries is to fill critical gaps in scientific field in solving problems of limited production. They are usually of 3~5 years duration. As collection of commodity cess is stopped, new projects are not being initiated.
+
+State Agricultural Universities
+
+Based on the recommendations of the First Education Commission (1949), headed
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 13
+
+by late Dr S Radhakrishnan, and the recommendations of the First and Second Indo- American Teams, the Government of India decided to establish agricultural universities in the country, and the first SAU was set up at Pantnagar, Uttarakhand, erstwhile part of Uttar Pradesh, in 1960. The SAUs by mandate have the responsibility of undergraduate and postgraduate education. The Government of India appointed an Agricultural Universities Committee to provide a model legal basis to agricultural Universities system in the country in 1960, and its report was submitted in 1962. It proposed guidelines for developing a Model Act by the ICAR and provided sufficient details regarding legal framework in the development of agricultural education in India. In developing the Act, the concept was of a mono-campus institution within a uniform administrative and supporting system. This Act was not fully implemented. Further, based on the recommendations of the Agricultural Universities Review Committee in 1977, the ICAR took various steps to persuade state governments to adopt the provisions with a reasonable degree of success and ensured uniformity in the Acts of most of the SAUs.
+
+The ICAR, after its reorganization in 1966, established a full-fledged Division of Agricultural Education at its headquarters that gave a major thrust to agricultural education activities in the country. The ICAR had taken various measures like setting up Education Panel (1952), Standing Committee (1965) and Norms and Accreditation Committee (1974) to improve quality of Agricultural Education. An Accreditation Board was established in 1996 to improve and sustain quality of higher agricultural education.
+
+Since then, the initial goal of setting up of an SAU in each state and a Central Agricultural University in the north-east region of the country has been achieved. There are at present 45 SAUs and 1 Central Agricultural University (Imphal) with around 210 constituent colleges. Four institutes namely IARI, NDRI, IVRI, CIFE of ICAR and Allahabad Agricultural Institute, are deemed-to-be universities and four Central Universities (CUs) have distinct agricultural faculties. In addition, Indian Institute of Technology, Kharagpur, and some 100 private colleges affiliated to general and some Agricultural Universities also provide agricultural education. The system provides agricultural education facilities in 11 fields of specialization at the under- graduate level and about 95 disciplines at post-graduate level and 80 at Ph.D. level. The SAUs with a multi-faculty and multi-campus structure serve as the regional institutions for providing technological support in the development of agriculture in respective states. On land grant pattern agricultural universities have integrated functions of teaching, research and extension.
+
+Agricultural education has to evolve in tune with fast changing national and international scenario. The IV Deans Committee Report on reforms in agricultural education has been implemented. The Accreditation of 22 Agricultural Universities for assured quality of education is done. For skill development 219 Units have been established in 44 universities for Experiential Learning. An ICAR network has been put in place for connecting the libraries of 35 SAUs, 69 ICAR institutes and 182 off campus colleges. In order to further enhance capabilities of Deemed Universities and Agricultural Universities, the ICAR has launched a programme to promote Niche Area of Excellence in these institutions. Some important Niche Areas Excellence include Hi-tech horticulture, Molecular diagnostics of avian diseases, Resource
+
+conservation technology, Soil and water management, Biofuels, Buffalo genomics, Arsenic management in soils, Fin-fish farming, Immunodiagnostics, Tropical home gardens, Agro-based nutraceuticals etc. With the rapid change in technology environment, there is demand for developing graduates to harness science and technology. This requires introduction of new courses as per changing market demands and new mode of delivery with effective use of electronic media. Recognizing the need, ICAR undertook an exercise to restructure the post-graduate (master’s and doctoral) course curricula and syllabi of agriculture and allied sciences at the national level. For this purpose the Council constituted Committee of experts in July 2007 and the recommendation are implemented from the academic session 2009.
+
+Further, a new activity on overseas fellowships is put under the continuing HRD programme with a view to develop competent human resources that are trained in the best laboratories in the world (for Indian candidates) and expose overseas candidates to the best of the Indian Agricultural Universities for facilitating future cooperation with these countries. For ensuring quality research technology and human resource development Rs 421 crore is allocated for modernization of the research farm of the universities.
+
+Agricultural extension
+
+In India, Transfer of Technology (TOT) systems are: (4) first-line extension system of the ICAR; (ii) national extension system of the Union Ministry of Agriculture; (iii) rural development programme of the Union Ministry of Agriculture, and (iv) extension efforts of the Non-government Organizations. Each is having its own approach and thrusts for achieving freedom from hunger and poverty. Public sector extension is a state responsibility that has undergone several transformations since Independence. Initially, the focus was on human and community development, but it has steadily progressed towards technology transfer within the policy framework for food security.
+
+Based on the recommendations of the Education Commission (1964-66) for establishment of Agricultural Polytechnics for imparting vocational education in agriculture, and further consideration by the Planning Commission and Inter-Ministerial Committee; the Indian Council of Agricultural Research (ICAR) had appointed Dr Mohan Singh Mehta Committee in 1973. The Committee suggested establishment of Farm Science Centre, commonly called Krishi Vigyan Kendra (KVK). Basically the KVKs aim to improve technical literacy of farmers, farm women and to train field-level extension functionaries. The teaching design is based on philosophy of teaching-by-doing and learning-by-doing. While finalizing KVK model, it was also envisaged that the K VK teachers need to be practical and well versed in the technology and training skills. The first KVK was established in 1974 in Puducherry and by end of LX Plan their number was 273. In X Plan more than 275 new KVKs were established and by middle of 2009 there are 567 KVKs in the country. The project was first evaluated in 1980-81, and later the FAO-ICAR mission had also evaluated the working of the KVKs. All have recommended expanding this programme to each rural district of the country. The National Commission on Agriculture (NCA) 1976, had also given similar recommendations. The Government in 2008 has approved establishment of an additional KVK in each of the 50 large districts.
+
+The front-line extension system of the ICAR basically plays an institutional
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 15
+
+extension role, a supportive role and a catalytic role to accelerate the process of TOT. The K VK has proved to be an innovative vocational training institution, and in fact a landmark for promoting technical literacy among the farming community.
+
+In addition, general universities under the University Grants Commission (UGC), Council of Scientific and Industrial Research (CSIR), Bhabha Atomic Research Centre (BARC), National Remote Sensing Agency (NRSA), Ministry of Commerce, Department of Science and Technology, Department of Biotechnology, and Department of Ocean Development are also involved in agricultural research. The private and non-government/voluntary organizations have also started participating directly or indirectly in agricultural research and extension activities. More than 100 such organizations, besides about 105 scientific societies, are involved in agricultural research and development, and are part of the NARS.
+
+Institutional monitoring
+
+As per its rules and bye-laws, the ICAR has constituted the Institute Management Committee (IMC), Staff Research Council (SRC), Research Advisory Committee (RAC), and the Quinquennial Review Teams (QRTs) at the institutional level for guiding and monitoring the work of institutes. Quinquennial Review Team (QRT) is constituted for 5-yearly review of performance of every Institute. The recommendations of the QRT are placed before the Governing Body of the ICAR for approval prior to their implementation.
+
+Externally funded projects
+
+In the past the Council has successfully implemented externally funded projects such as the National Agricultural Research Project to strengthen the agricultural education in the country, Agricultural Human Resources Development (AHRD) for development of human resources and the National Agricultural Technology Project (NATP) that have contributed to strengthening of NARS at the critical junctures.
+
+The NATP in the history of the World Bank is the first project of mega size for agricultural research and extension, prepared and driven by the country’s NARS to solve the production system problems for which technical solutions exist. The NATP was designed to bring needed reforms towards technology generation assessment and refinement before the same was disseminated to stake holders. The NATP programmes were demand-driven, location-specific, and multi-disciplinary and were in the programme mode in system perspective with a system wide system approach.
+
+Encouraged with its performance, as a follow up, a National Agricultural Innovation Project (NAIP) was launched in July 2006 to facilitate an accelerated and sustainable transformation of the Indian agriculture so that it can support poverty alleviation and income generation through collaborative development and application of agricultural innovations by the public organizations in partnership with farmers’ groups, the private sector and other stakeholders. The project has an approximate outlay of US$ 250 million.
+
+The project has four main components. These are: (1) to build the critical capacity of the ICAR; (2) to promote ‘production to consumption systems research’ in priority areas/ themes to enhance productivity, nutrition, profitability, income and employment; (3) to improve livelihood security of rural people living in the selected disadvantaged
+
+regions through technology-led innovation systems, encompassing the wider process of social and economic change covering all stakeholders and (4) for building capacity to undertake basic and strategic research in frontier areas to meet challenges in technology development in the immediate and predictable future.
+
+Under the project, 28 value chain models were approved covering niche agro- produce like millets, cotton, pelagic and freshwater fishes, coconut, seed spices, potato, banana fibre, carps and prawns, flowers, pork, maize etc., and 26 rural sustainable livelihood security models were approved covering 82 most backward districts directly benefiting about 83,000 households. Under the NAIP 49 Basic and Strategic Research subprojects are being pursued covering some of the most potential impact making ideas like controlling the deadly arsenic problem in food chain, genetic engineering for fixation of heterosis, developing wireless sensor for effective animal management, development of single cell C-4 photosynthetic system in rice, stem cell research in cattle and buffaloes, nano-technology for higher utilization of native phosphorus in arid soils, bio-prospecting and gene mining, etc.
+
+ORGANIZATION AND MANAGEMENT REFORMS
+
+Organization and management reforms are being actively pursued by the Council in its research institutions, various operational units and for the welfare of its employees. Fully realizing potential of O&M reforms, the ICAR has initiated/implemented wide- ranging reforms relating to policy planning, research, prioritization, monitoring and impact assessment, preparation of perspective plans—2025 for ICAR institutes, installation of electronic links in a national grid, computerization of vast data, appropriate recruitment procedures to improve quality of senior entrants to the ICAR, introduction of visiting scientist and sabbatical leave schemes, revision of rules for delegation of powers, system of private sector participation, establishment of IPR and legal cell to ensure an efficient, effective, relevant and transparent system.
+
+The Guidelines for Intellectual Property Management and Commercialization of Technologies in the ICAR came into operation with effect from 2 October 2006. This system is expected to facilitate enhanced institutional partnerships in agricultural research and transfer of IPR enabled technologies; protection of IP through patents, plant variety protection and other forms of IPR; safeguarding the animal/fish genetic resources; and allow scientist entrepreneurship in a responsible manner with liberalized incentives.
+
+Realizing the need for reorienting agricultural research system with added service role in the wake of globalization, the ICAR has developed a system of fostering research partnerships, resource generation, training, consultancy, contract research/service and incentives and rewards so that techniques, technologies knowledge are generated and/ or transferred, and in the process entrepreneurship is developed, visibility assured, and goodwill generated. The salient features of the system include skill-and knowledge- based interactive mechanisms at the individual and institutional levels; competitive efficiency based system; fast track clearance; simple, implementable; and performance oriented benefit sharing as the cornerstones. In the process, the system has started generating much more resources for techniques and technologies with enhanced visibility and transparency.
+
+India’s economic security will continue to be predicated upon the agriculture sector
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 17
+
+in the foreseeable future. A steady growth of our population has necessitated that we double agricultural productivity for meeting food requirements by 2050. Efficiency- mediated improvement in productivity is the most viable option to raise production. This will call for generation of far more efficient technologies to increase farm productivity, minimize production losses through risk management, diversification, processing and value-addition, and commercialization. The research approach will have to rely on the development and application of cutting-edge science, improving quality of inputs and their use efficiency supported with state-of-the-art infrastructure, an enlightened human resource, active involvement of all stakeholders while maintaining and building on the health of the primary production base. Excellence of research in frontier areas like biotechnology, molecular biology, Geographical Information System (GIS), new IPR regime and system analysis, etc. as applied to agriculture will play a pivotal role as we go along.
+
+The National Agricultural Research System under the aegis of the ICAR has in the past served a very useful purpose and improved the national food security. Nevertheless, in the fast changing global context, managing change on a time scale, by converting weaknesses, if any, into opportunities to become internationally competitive is considered important. It is desirable to make our agricultural research system forward looking and visible with appropriate agricultural research policies in place supported by cutting-edge technologies to attain and sustain global advantages. In this endeavour, ICAR as the national apex organization for agricultural research and education, stands committed to achieve a sustainable national food and nutritional security and prosperity through excellence in agricultural research and education.
+
+Annexure-1.]
+
+ICAR Research Institutions as on July 2009
+
+Research Institutes
+
+Central Research Institute for Jute and Allied Fibres, Barrackpore
+
+Central Agricultural Research Institute, Port Blair Central Arid Zone Research Institute, Jodhpur Central Avian Research Institute, Izatnagar Central Inland Capture Fisheries Research Institute, Barrackpore Central Institute Brackishwater Aquaculture, Chennai Central Institute for Research on Buffaloes, Hisar Central Institute for Research on Goats, Makhdoom Central Institute of Agricultural Engineering, Bhopal . Central Institute of Arid Horticulture, Bikaner . Central institute of Cotton Research, Nagpur . Central Institute of Fisheries Technology, Cochin . Central Institute of Freshwater Aquaculture, Bhubaneshwar . Central Institute of Research on Cotton Technology, Mumbai . Central Institute of Sub-Tropical Horticulture, Lucknow . Central Institute of Temperate Horticulture, Srinagar . Central Institute on Post-harvest Engineering and Technology, Ludhiana . Central Marine Fisheries Research Institute, Cochin . Central Plantation Crops Research Institute, Kasaragod Central Potato Research Institute, Shimla . Central Research Institute of Dryland Agriculture, Hyderabad . Central Rice Research Institute, Cuttack . Central Sheep and Wool Research Institute, Avikanagar _ Central Soil and Water Conservation Research & Training Institute, Dehra Dun . Central Soil Salinity Research Institute, Karnal . Central Tobacco Research Institute, Rajahmundry Central Tuber Crops Research Institute, Trivandrum . ICAR Research Complex for Eastern Region, Patna . ICAR Research Complex for NEH Region, Barapani . ICAR Research Complex Goa . Indian Agricultural Statistical Research Institute, New Delhi Indian Grassland and Fodder Research Institute, Jhansi . Indian Institute of Horticultural Research, Bengaluru Indian Institute of Natural Resins and Gums, Ranchi . Indian Institute of Pulses Research, Kanpur . Indian Institute of Soil Sciences, Bhopal . Indian Institute of Spices Research, Calicut . Indian Institute of Sugarcane Research, Lucknow
+
+39. Indian Institute of Vegetable Research, Varanasi
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 19
+
+40. National Institute of Animal Nutrition and Physiology, Bengaluru
+
+41. National Institute of Research on Jute and Allied Fibre Technology, Kolkata
+
+42. Sugarcane Breeding Institute, Coimbatore
+
+43. Vivekananda Parvitya Krishi Anusandhan Sansthan, Almora
+
+Research Institutes with Deemed to be University Status
+
+44. Central Institute on Fisheries Education, Mumbai
+
+45. Indian Agricultural Research Institute, New Delhi
+
+46. Indian Veterinary Research Institute, Izatnagar
+
+47. National Academy of Agricultural Research and Management, Hyderabad
+
+48. National Dairy Research Institute, Karnal
+
+49. National Institue of Abiotic Stress Management, Malegaon, Maharashtra
+
+Bureaus
+
+50. National Bureau of Agriculturally Important Insects (NBAII), Bengaluru
+
+51. National Bureau of Agricultural Important Micro-organisms (NBAIM), Mau comprising AMAAS
+
+32. National Bureau of Animal Genetic Resources, Karnal
+
+33. National Bureau of Fish Genetic Resources, Lucknow
+
+54. National Bureau of Plant Genetics Resources, New Delhi
+
+55. National Bureau of Soil Survey and Land Use Planning, Nagpur
+
+National Research Centres
+
+56. National Centre for Agricultural Economics and Policy Research, New Delhi
+
+57. National Centre for Integrated Pest Management, New Delhi
+
+58. National Research Centre for Citrus, Nagpur
+
+59. National Research Centre for Pomegranate, Solapur
+
+60. National Research Centre for Agroforestry, Jhansi
+
+61. National Research Centre for Banana, Trichi
+
+62. National Research Centre for Camel, Bikaner
+
+63. National Research Centre on Equines, Hisar
+
+64. National Research Centre for Grapes, Pune
+
+65. National Research Centre on Litchi, Muzaffarpur
+
+66. National Research Centre on Meat and Meat Products Technology, Hyderabad
+
+67. National Research Centre on Mithun, Medziphema
+
+68. National Research Centre on Orchids, Pakyong
+
+69. National Research Centre on Pig, Guwahati
+
+70. National Research Centre on Plant Biotechnology, New Delhi
+
+71. National Research Centre on Seed Spices, Ajmer
+
+72. National Research Centre on Yak, West Kemang
+
+Directorates/Project Directorates
+
+73. Directorate of Research on Women in Agriculture, Bhubaneshwar
+
+74. Directorate of Oil Palm Research, Pedavegi, West Godawari
+
+75: Directorate of Cashew Research, Puttur
+
+76. Directorate of Cold Water Fisheries Research, Bhimtal, Nainital
+
+. Directorate of Floriculture Research, Pusa, New Delhi
+
+. Directorate of Information and Publications of Agriculture, New Delhi
+
+. Directorate of Maize Research, New Delhi.
+
+. Directorate of Medicinal and Aromatic Plants Research, Anand
+
+. Directorate of Oilseed Research, Hyderabad
+
+Directorate of Rice Research, Hyderabad
+
+. Directorate of Seed Research, Mau
+
+. Directorate of Sorghum Research, Hyderabad
+
+. Directorate of Water Management Research, Bhubaneshwar
+
+. Directorate of Weed Science, Jabalpur
+
+Directorate of Wheat Research, Karnal
+
+. Directorate on Groundnut Research, Junagarh
+
+. Directorate on Mushroom Research, Solan
+
+Directorate on Onion and Garlic Research, Pune
+
+. Directorate on Rapeseed and Mustard Research, Bharatpur
+
+. Directorate on Soybean Research, Indore
+
+. Project Directorate on Animal Disease Monitoring and Surveillance, Hebbal, Bengaluru
+
+94. Project Directorate on Foot and Mouth Disease, Mukteshwar
+
+95. Project Directorate on Cattle, Meerut
+
+96. Project Directorate on Poultry, Hyderabad
+
+97. Project Directorate on Farming System Research, Modipuram (including organic farming)
+
+All India Coordinated Research Projects
+
+98 AICRP component of NSP-Crops, New Delhi
+
+99. AICRP on Arid Zone Fruits, Bikaner
+
+100. AICRP on Vegetables including NSP Vegetable, Varanasi
+
+101. AICRP on Pesticides Residues, New Delhi
+
+102. AICRP on Agroforestry, Jhansi
+
+103. AICRP on Agrometeorology, Hyderabad (Network on Impact adaptation and Vulnerability of Indian Agriculture to Climate Change—integraed with AICRP Agrometeorology)
+
+104. AICRP on Animal Disease Monitoring and Survillance
+
+105. AICRP on Application of Plastic in Agriculture, Ludhiana
+
+106. AICRP on Arid Legumes, Jodhpur
+
+107. AICRP on Biological Control, Bengaluru
+
+108. AICRP on Cashew, Puttur
+
+109. AICRP on Cattle Research, Meerut
+
+110. AICRP on Chickpea, Kanpur
+
+HW. AICRP on Cotton, Coimbatore
+
+12. AICRP on Dryland Agriculture, Hyderabad
+
+113. AICRP on Farm Implements and Machinery, Bhopal
+
+114, AICRP on Floriculture
+
+WS, AICRP on Foot-and-Mouth Disease
+
+116, AICRP on Forage Crops, Jhansi
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 21
+
+117. AICRP on Goat Improvement, Mathura
+
+118. AICRP on Ground Water Utilization, Bhubaneshwar
+
+119. AICRP on Groundnut, Junagarh
+
+120. AICRP on Home Science, Bhubaneswar
+
+121. AICRP on Honey Bee Research and Training, Hisar
+
+122. AICRP on Human Engineering and Safety in Agriculture, Bhopal
+
+123. AICRP on Improvement of Feed Sources and Nutrient Utilization for raising animal production, Bengaluru
+
+124. AICRP on Integrated Farming System Research, Modipuram
+
+125. AICRP on Linseed, Kanpur
+
+126. AICRP on Long-term Fertilizer Experiments, Bhopal
+
+127. AICRP on Maize, New Delhi
+
+128. AICRP on Medicinal and Aromatic Plants including Betelvine, Anand
+
+129. AICRP on Micro-Secondary and Pollutant Elements in Soils and Plants, Bhopal
+
+130. AICRP on MULLARP, Kanpur
+
+131. AICRP on Mushroom, Solan
+
+132. AICRP on Nematodes, New Delhi
+
+133. AICRP on Palms, Kasaragod
+
+134. AICRP on Pearl Millets, Jodhpur
+
+135. AICRP on Pig, Izatnagar
+
+136. AICRP on Pigeon Pea, Kanpur
+
+137. AICRP on Post-Harvest Technology, Ludhiana
+
+138. AICRP on Potato, Shimla
+
+139. AICRP on Poultry, Hyderabad
+
+140. AICRP on Rapeseed and Mustard, Bharatpur
+
+141. AICRP on Renewable Sources of Energy for Agriculture and Agro-based Industries, Bhopal
+
+142. AICRP on Rice, Hyderabad
+
+143. AICRP on Salt Affected Soils and use of Water in Agriculture, Karnal
+
+144. AICRP on Sesame and Niger, Jabalpur
+
+145. AICRP on Small Millets, Bangalore
+
+146. AICRP on Soil Test with Crop Response, Bhopal
+
+147. AICRP on Sorghum, Hyderabad
+
+148. AICRP on Soybean, Indore
+
+149. AICRP on Spices, Calicut
+
+150. AICRP on Sub-Tropical Fruits, Lucknow
+
+151. AICRP on Sugarcane, Lucknow
+
+152. AICRP on Sunflower, Safflower, Castor, Hyderabad
+
+153. AJCRP on Tropical Fruits, Bengaluru
+
+154, AICRP on Tuber Crops, Thiruvananthapuram
+
+155. AICRP on Utilization of Animal Energy (UAE), Bhopal
+
+156, AICRP on Water Management Research, Bhubaneshwar
+
+157, AICRP on Weed Control, Jabalpur
+
+158. AICRP on Wheat and Barley Improvement Project, Karnal
+
+22 HANDBOOK OF AGRICULTURE
+
+Networks
+
+159. All India Network Project on Under-Utilized Crops, New Delhi
+
+160. Network Project on Tobacco, Rajahmundry
+
+161. Network on White Grubs and Other Soil Arthropods, Jaipur
+
+162. Network on Agricultural Acarology, Bengaluru
+
+163. Network on Economic Ornithology, Hyderabad
+
+164. Network Project on Rodent Control, Jodhpur
+
+165. All India Network Project on Jute and Allied Fibres, Barrackpore
+
+166. Network Project on Onion and Garlic, Pune
+
+167. Network Biofertilizers, Bhopal
+
+168. Network Project on Harvest and Post-Harvest and Value Addition to Natural Resins and Gums, Ranchi
+
+169. Network Project on Animal Genetic Resources, Karnal
+
+170. Network Project on R&D Support for Process Upgradation of Indigenous Milk products for industrial application, Karnal
+
+171. Network Programme on Sheep Improvement, Avikanagar
+
+172. Network Project on Buffaloes Improvement, Hisar
+
+173: Network on Gastro Intestinal Parasitism, Izatnagar
+
+174. Network on Hemorrhagic Septicemia, Izatnagar
+
+175. Network Programme Blue Tongue Disease, Izatnagar
+
+Others
+
+176. Central Agricultutral University, Imphal
+
+177. Department of Agricultural Research and Education
+
+178. Indo-US Knowledge Initiative
+
+179. Krishi Vigyan Kendras
+
+180. National Agricultural Innovative Project
+
+181. National Fund for Basic and Strategic Research
+
+182. Strengthening and Modernization of ICAR Headquarters
+
+183. Strengthening of Agricultural Education
+
+184. Technology Mission on Cotton
+
+185. Technology Mission on Jute
+
+EVOLUTION OF INDIAN NATIONAL AGRICULTURAL RESEARCH SYSTEM 23
+
+Annexure-1 JI
+
+Agricultural Universities in India
+
+S. No. Name of University
+
+State Agricultural Universities/Central University
+
+1. Acharya NG Ranga Agricultural University, Rajendranagar, Hyderabad, Andhra Pradesh
+
+2. Anand Agricultural University, Anand, Gujarat
+
+3. Assam Agricultural University, Jorhat, Asom
+
+4. Bidhan Chandra Krishi Viswavidyalaya, P.O Krishi Viswavidyalaya, Mohanpur, Nadia, West Bengal
+
+5. Birsa Agricultural University, Kanke, Ranchi, Jharkhand
+
+. Central Agricultural University, Imphal , Manipur lon
+
+7. Chandra Shekar Azad University of Agriculture and Techonology, Kanpur, Uttar Pradesh
+
+8. Chaudhary Charan Singh Haryana Agricultural University, Hisar, Haryana
+
+9. Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidalaya, Palampur, Kangra, Himachal Pradesh
+
+10. Dr Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli, Ratnagiri, Maharashtra
+
+11. Dr Panjabrao Deshmukh Krishi Vidyapeeth, Krishi Nagar, Akola, Maharashtra
+
+12. Dr Yashwant Singh Parmar University of Horticulture and Forestry, Solan, Nauni, Himachal Pradesh
+
+13. Govind Ballabh Pant University of Agriculture and Techonology, Pantnagar, Udham Singh Nagar, Uttarakhand
+
+14. Guru Angad Dev University of Veterinary and Animal Sciences, Ludhiana 141004, Punjab
+
+15. Indira Gandhi Krishi Vishwavidyalaya, Krishak Nagar, Raipur 492 006, Chhattisgarh
+
+16. Jawaharlal Nehru Krishi Vishwavidyalaya, Krishi Nagar, Jabalpur, Madhya Pradesh
+
+17. Junagadh Agriculture University, Moti Baug, Agricultural Campus, Junagadh, Gujarat
+
+18. Karnataka Veterinary Animal and Fisheries Science University, P.B. No. 6, Nandinagar, Bidar, Karnataka
+
+19. Kerala Agricultural University, P.O Vellanikkara, Thrissur, Kerala
+
+20. Maharana Pratap University of Agriculture and Techonology, Udaipur, Rajasthan
+
+21. Maharashtra Animal Science and Fishery University, Nagpur, Maharashtra
+
+22, Mahatma Phule Krishi Vidyapeeth, Rahuri, Maharashtra
+
+23. Marathwada Agricultural University, Parbhani , Maharashtra
+
+24. Narendra Deva University of Agriculture and Techonology, Kumarganj, Faizabad, Uttar Pradesh
+
+25. Navsari Agricultural University, Vijalpore, Navsari, Gujarat
+
+26. Orissa University of Agriculture and Techonology, Siripur, Bhubaneshwar, Orissa
+
+27. Punjab Agricultural University, Ludhiana, Punjab
+
+28. Rajasthan AgriculturalUniversity, Bikaner , Rajasthan
+
+29. Rajendra Agricultural University, Pusa, Samastipur, Bihar
+
+30. Sardar Vallabh Bhai Patel University of Agriculture and Techonology, Modipuram, Meerut, Uttar Pradesh
+
+31. Sardarkrushinagar-Dantiwada Agricultural University, Sardarkrushinagar, Dantiwada, Banaskantha, Gujarat
+
+32. Sher-e-Kashmir University of Agricultural Sciences and Techonology, Railway Road, Jammu, Jammu and Kashmir
+
+33. Sher-e-Kashmir Univ. of Agricultural Sciences & Techonology, Shalimar, Srinagar, Jammu and Kashmir
+
+34. Sri Venkateswara Veterinary University, Tirupati, Chittoor, Andhra Pradesh
+
+35. Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu
+
+36. Tamil Nadu Veterinary and Animal Sciences University, Madhavaram Milk Colony, Chennai, Tamil Nadu
+
+37. University of Agricultural Sciences, Dharwad, Karnataka
+
+38. University of Agricultural Sciences, Bengaluru, Karnataka
+
+39. UP Pandit Deen Dayal Upadhaya Pashu Chikitsa Vigyan Vishwa Vidhyalaya Evam Go Anusandhan Sansthan, Mathura, Uttar Pradesh
+
+40. Uttar Banga Krishi Vishwaviddyalaya, Cooch Behar, West Bengal
+
+4l. West Bengal University of Animal and Fishery Sciences, Kolkata, West Bengal
+
+42. University of Horticultural Sciences, Venkataramnagudem, West Godavari, Andhra Pradesh
+
+43. Rajmata VRS Agricultural University, Gwalior, Madhya Pradesh
+
+44, University of Horticultural Sciences, Navanagar, Bagalkot, Karnataka
+
+45. University of Agricultural Sciences, Raichur, Karnataka
+
+Deemed-to-be Universities
+
+Indian Agricultural Research Institute, New Delhi
+
+Indian Veterinary Research Institute, Izatnagar, Bareilly
+
+. National Dairy Research Institute, Karnal
+
+Central Institute of Fisheries Education, Mumbai
+
+i . Allahabad Agricultural Institute, Allahabad
+
+Central Universities with Agriculture Faculty
+
+I. Banaras Hidu University, Varanasi -
+
+2. Aligarh Muslim University, Aligarh
+
+3. Vishwa Bharti, Shantiniketan
+
+4. Nagaland University, Mediziphema

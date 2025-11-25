@@ -1,0 +1,273 @@
+SOURCE_DOCUMENT: Chapter 15.pdf
+
+15. Use of Low-quality Waters in Crop Production
+
+The average natural runoff in the country is estimated at 186.9 million ha-m/year (Mha-m/yr). The total utilizable contribution of the surface and groundwaters is 112.2 Mha-m/yr 69 Mha-m/yr from surface and 43.2 Mha-m/yr from groundwater constituting 62 and 38% of the total resource respectively. Nearly 83% of the presently utilized water resources are being used for irrigated agriculture. Further enhancement of productivity in the arid and semi-arid irrigated areas necessitated by increasing demands of the burgeoning populations, however, largely depends on the ability to enlarge this resource base by better management of rainwater and efficient-use or development of groundwater including low-quality waters and waters used once in other sectors of economy. It seems that competing demands for fresh quality waters from other sectors of national economy and acute shortages of drinking water supplies will force agriculture to lose its first-use right for water.
+
+In spite of large canal infrastructure, groundwaters are used to irrigate nearly half of the total irrigated area in India. Areas characterized by water scarcity are also usually underlain by aquifers of poor quality. To produce more, even brackish groundwaters are being increasingly diverted to irrigated agriculture. Land productivity in areas with conjunctive use of canal and groundwater supplies is dependent on several factors including quantity and quality of groundwaters. Groundwater surveys indicate that poor quality waters being utilized in different states range between 32 and 84% of the total groundwater development. These include areas with high aridity (arid and semi- arid parts of north-western states with less than 450 mm of rainfall), areas having high water-table and coastal areas. Indiscriminate use of low-quality waters in the absence of proper soil-water-crop management practices poses grave risks to soil health and environment. Problems resulting from salinity, sodicity and toxicity not only reduce crop productivity but also deteriorate quality of produce and limits choice of crops. Many a times the effects become so severe that lands eventually go out of cultivation. Concerted efforts at various research centres in different agroclimatic zones of the country have given rise to valuable concepts and viable technologies for sustainable irrigation with poor quality waters. Waters designated unfit for agriculture, can now be used safely with newly developed agro-techniques if characteristics of water, soil and intended cropping system are known in advance. With incorporation of factors like soil texture, monsoon rainfall, evaporative demands and crop tolerance, it has been possible to replace conservative irrigation water quality standards with site- specific guidelines. Nevertheless, appropriate selection of crops and salt-tolerant cultivars, improved management of rain and other water supplies and maintenance of
+
+Distribution of poor quality waters
+
+Irrigation with low-quality groundwaters may cause salinity, specific-ion toxicity and infiltration problems in the soils. Such effects of irrigation may adversely affect
+
+crop production. Inland saline/sodic waters are mainly found in Andhra Pradesh, Delhi, Gujarat, Haryana, Kerala, Madhya Pradesh, Orissa, Rajasthan and Tamil Nadu. While problem is limited in other states; saline waters are mainly concentrated in the north- west of Haryana, south-west Punjab and in large parts of Rajasthan and Gujarat. Alkali waters that turn soil sodic upon continuous use are primarily found in the Indo-Gangetic plains. The saline/sodic waters in coastal regions are found in Goa, Gujarat, Karnataka, Kerala, Maharshtara, Tamil Nadu, Andaman and Nicobar Islands, Diu and Pudducherry. Toxic waters are being reported from all parts of India and are a major cause of concern to human health through its direct uptake and contribution through food chain. Excess nitrate in groundwater has been reported from 148 districts in various states. Fluoride has been reported to occur in 203 districts in 20 states and Union territories. Fluoride in excess of 40 mg/litre has been reported from Rewari (Haryana), Mukatsar (Punjab) and Nagaur (Rajasthan). Arsenic contamination reported from West Bengal in 1980, has currently spread over Chattisgarh, Bihar, Jharkhand, Uttar Pradesh, Asom and Punjab. Poor quality waters used once in other sectors of economy such as domestic and industrial sectors are encountered in large quantities in and around metropolis and other class I and class II cities, causing immense problems in their disposal and reuse.
+
+Water quality criteria and their limits
+
+The most important criterion for evaluating suitability of a given water for its use for irrigation is its total salt concentration. The quantities of salts dissolved in irrigation water are usually expressed in terms of electrical conductivity (EC), mg/L, {ug/L or ppm.= 640 x EC, dS/m}or {me/L= 10 x EC, dS/m}; the former being the most popular because of the ease and precision in its measurement. Some of the irrigation waters have a tendency to produce alkalinity/sodicity hazards depending upon the absolute and relative concentrations of the specific cations and anions contained in them. The parameters for knowing potential of irrigation waters to create these hazards include:
+
+Wherein, concentrations are expressed in me/L and Cax represents Ca in applied water modified due to salinity (ionic strength) and HCO,/Ca” ratio. Groundwaters having high contents of toxic ions such as boron, fluoride, nitrate and selenium etc. also pose problems in crop production or as a consequence of their entry into human through direct uptake or through food chain. Biological Oxygen Demand (BOD), Chemical Oxygen Demand (COD) and presence of heavy metals are considered while looking at the quality of domestic and industrial wastewaters.
+
+Based on the extensive research and experience of farmers in different agroecological regions of the country, irrigation resources have been classified into good, saline, alkali and toxic waters. Depending upon the degree of restrictions, saline and alkali water classes have been subdivided each into three subgroups (Table 15.1). Since each group and subgroup needs specific treatments and practices, this classification also serves the purpose of planning their development and management at the micro-level.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION 487
+
+In the assessment of the quality of groundwaters for irrigation, however, there are inherent difficulties due to variations in evaporative demands, cropping systems, soil texture and mineralogy and rainfall patterns. It is for these reasons that different states follow different salinity classification schemes for assessing upper salt limits in irrigation water. The Bureau of Indian Standards in 1986 classified irrigation water vide IS: 11624 mainly on the basis of electrical conductivity and did not consider their sodicity hazards. According to these standards, waters with EC < 1.5, 1.5-3.0, 3.0-6.0 and > 6.0 dS/m are designated as low, medium, high and very high salinity waters respectively.
+
+The other class of groundwaters is alkali waters. These waters possess characteristic features of bicarbonate major ion chemistry. These waters have distinct characteristics as follows.
+
+¢ Waters having residual sodium carbonate (RSC) up to 4 me/L have both a low salinity (<2.0 dS/m) arid a low SAR [SAR < 10 (mmole/L)*]. When soluble salts in bicarbonate-type water increase (more than 2.0 dS/m), the residual alkalinity and SAR also increase, primarily due to the higher amounts/proportions of carbonate and bicarbonates of sodium. In waters having RSC < 4 me/L and divalent cation ratio (DCR = ©M?*/YM"™) more than 0.25, SAR is invariably less than 10.
+
+* The other categories of bicarbonate waters have SAR > 10; RSC >4 me/L and DCR less than 0.25. In the absence of canal water supplies and in regions receiving rainfall less than 500 mm, farmers generally face more problems in managing waters of this category, particularly on the finer textured soils. There is little information on the effect of irrigation waters with characteristic features of RSC >4 me/L; DCR >0.25 and SAR <10 mainly due to problems associated with their synthesis under laboratory conditions. From the above description, however, it should be clear that use of water having residual alkalinity may create alkalinity problems in some soils under certain situations.
+
+Depending on the pH of the system, ratio of CO,” to HCO," ions in groundwaters generally vary between 0.1 and 0.5. Whenever waters have high proportions of
+
+- CO, ions, the divalent cation ratio XM?*/XM™ is often less than 0.25. Groundwaters of the recharge zones often have more calcium than magnesium.
+
+This is because of greater solubility of calcite compared to dolomite. In several transitional and discharge zones, groundwaters have magnesium in higher proportions such that Mg/Ca ratio is more than 0.63. And this ratio indicates that groundwater is in equilibrium with calcite and dolomite.
+
+Saline waters generally have excess of salt load. Surveys of groundwater quality have indicated that SAR of a great majority of saline waters (EC, > 2 dS/m) is in the range of 1 <SAR <20. Marginally saline waters have low SAR, increasing with salinity. Only 10-15% of groundwaters have both a high SAR (SAR> 20) and high salinity (>10 dS/m). In the absence of residual alkalinity, naturally saline waters have Ca or Ca + Mg concentrations in nutritionally adequate amounts ranging from 2< Ca <4 or 3< (CatMg) <7 me/L. When waters have nutritionally adequate amounts of calcium, high SAR’s of waters have little effect on most crops as distinguishable from that of salinity. As such high SAR-saline waters have to be managed essentially as saline water except that soils may need additional salt leaching or a small dose of gypsum after several years of water use. Highly alkali waters may necessitate application of chemical amendment in each season. Marginally alkali waters with a divalent cation ratio of more than 0.25 can be used for several years before soils develop an alkalinity problem, and the amendment use becomes necessary.
+
+Low-quality water emanating from the domestic sector have high Biological Oxygen Demand (BOD) and high Chemical Oxygen Demand (COD) but rarely any toxic element or heavy metals unlike in industrial wastewaters that may have abundance of toxic elements and heavy metals; the exact constitution being industry specific. In spite of their adverse effects being known, such water either untreated and/or treated are being used in agriculture and provide livelihood to many resource-poor farmers through peri-urban agriculture. Since discussions on the use and disposal of such poor quality waters have been growing with voices becoming louder day by day, some guidelines are included for the safe use of such waters in agriculture.
+
+Management of saline waters
+
+Saline irrigation adversely affects plant growth primarily through osmotic affects of the excessive salts in the soil solution, and through excessive concentration and absorption of individual ions, e.g. Na, Cl, B etc., which may prove toxic to plants and/ or retard absorption of other essential plant nutrients. Reduced water availability at high salinity thus causes water deficits in plants and inhibits or retards their growth when soil solution concentration reaches a critical value referred to as the threshold salinity. In fields, first reaction of plants on using saline waters is reduced germination and uneven and poor crop-stand. Besides, ill effects may conspicuously retard plant growth similar to observed in the case of moisture stress. In other terms, complementary development of vegetative and reproductive phases is necessary for higher yields. Translocation of assimilates once formed within leaves may remain unaffected by salinity, provided environmental factors remain favourable during flowering. Long- term experiments on saline water-use have shown that an interplay of factors like nature and content of soluble salts, soil type, rainfall, water-table conditions, nature of crops grown and water-management practices, governs resultant salinity build-up vis- a-vis crop performance.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+Selection of crops/varicties
+
+One of the fortunate situations with continental monsoon climate of India is the concentration of rains in a short span of 2-3 months (July-September). Thus, if water penetrating into soils during this period exceeds evapo-transpiration demands of crops, it induces leaching of salts added through saline irrigation to winter crops or in low rainfall regions. Thus, farmers resort to fallow during monsoon for achieving favourable salt balance in arid and semi-arid regions, In arid parts of Rajasthan with scanty rainfall, cultivation every alternate year or two years to leach accumulated salts by rains before planting next season crop is a common practice. The amount and frequency of rains and soil texture basically govern salt-leaching during monsoon season. For removal of 80% of salts accumulated during the period preceding monsoons, it would require 1.85, 0.95 and 0.76 cm of rain-water per cm soil depth in fine, medium and coarse textured soils respectively. Thus, annual rainfall of 250 mm can leach 80% of accumulated salts from the surface 33 cm depth of coarse-textured soils. Also, saline waters (EC ~ 4dS/m) may cause salt toxicity to many crops, particularly to legume- crops, commonly grown in the arid region. But in areas where annual rainfall exceeds 500 mm, waters up to an EC of 16 dS/m could be gainfully utilized for crops like wheat and barley grown in coarse-textured soils. Such waters, however, should not be used for raising kharif or summer season crops.
+
+Chloride salts are 1.2-1.5 times more toxic than sulphate-rich waters. Chloride waters tend to reduce salinity tolerance limits of crops. Similarly, when soils are irrigated with waters of high SAR, more salts tend to accumulate and sodicate soils thereby reducing limits of saline water-use.
+
+Tolerance limits of crops to the use of saline waters in different agroecological
+
+regions of India are available ( Table 15.2). The general recommendations emerging for crop selection are as follows.
+
+For successful utilization of saline waters, crops should be semi-tolerant to tolerant (Indian mustard, wheat, cotton), and should have low water requirement. Crops like rice, sugarcane and berseem, which have higher water requirements, should be avoided. In low rainfall areas (< 400 mm), mono-cropping is recommended for maintaining a favourable salt balance.
+
+Accumulation of salts vis-a-vis tolerance limits to use of saline waters gets modified with soil texture, annual rainfall and ionic constituents of salinity. As a ‘thumb rule’, accumulation of salts is nearly one-half that of the irrigation water in coarse-textured soils (loamy sand and sand). It is equal to that of irrigation water in medium-textured sandy loam to loam soils and more than two times in fine-textured soils (clay and clay loam). In other terms, irrigation with water of salinity 8 dS/m would result in soil salinity of about 4, 8 and 16 dS/m in loamy-sand, sandy-loam and clay-loam soils. It is mainly due to variations in water-holding capacities of soils and prevailing evaporative demands. Thus, highly saline waters (EC, 12 dS/m) can be used for growing tolerant and semi-tolerant crops in coarser textured soils, provided annual rainfall is sufficient to leach accumulated salts. In fine textured soils, it is often better to avoid use of saline waters (EC > 2 dS/m).
+
+All crops do not tolerate salinity equally well at different stages of growth. Generally, most critical salinity-sensitive stages are germination and early seedling establishment, followed by phase changes from vegetative to reproductive (heading and flowering to fruit-setting). Therefore, use of saline waters should be better avoided in initial crop growth stages.
+
+Crop cultivars also vary in their tolerance to salinity. Such cultivars have been identified on their rating for high-yield potential, salt tolerance and stability under saline environments (Table 15.3).
+
+* Varieties are tolerant to both alkali and saline environments.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+Irrigation and leaching management
+
+Irrigation with fresh or saline water results in additional salt load to soil. Unless leached, salts may continue to gradually accumulate in root-zone to levels detrimental to growth of crop-plants. Need for additional irrigation water for salt leaching would depend on salinization rates and growth stage of the crop. Some of the following suggestions will prove helpful in preventing excessive accumulation of salts in root- zone.
+
+* Saline irrigation should be applied frequently but the total salt load should be the same. In area receiving more than 400 mm of rainfall, there is no need to apply extra leaching water with each irri gation. In years of sub-normal rainfall, a heavy pre-sowing irrigation with saline water should be applied. Higher antecedent soil-moisture content helps in leaching of salts accumulated during preceding rabi beyond root-zone during monsoon.
+
+Distribution of water and salts in soils vary with irrigation method. Shift towards micro-irrigation systems help improve control on salt and water distribution for enhancing use-efficiency of saline waters. For establishment of crops with saline irrigation, sprinkler system proves very useful as it reduces amount of soluble salts in seedbed during germination for better emergence and establishment of crops.
+
+* In saline-waterlogged soils with provision of sub-surface drainage, sprinkler systems or deficit irrigation can be helpful in inducing crop water-use from shallow water-tables through controlled drainage, and thereby reducing requirements for irrigation water.
+
+Multi-quality irrigation practices
+
+Often farmers have access to limited supplies of canal-water along with saline groundwater. In such situations, farmers have several options for using fresh and saline water supplies.
+
+* First option is to blend two supplies such that salinity attained after mixing is within the permissible limits of salt tolerance based upon soil type, climate, nature of crop and cropping system to be followed. More salt-sensitive crop in the cropping system will determine penultimate salinity of blended-water supplies. In addition to acceptable quality of resultant mixed water supplies,
+
+* Canal and saline tube-well waters, if available on demand, can be used separately in different fields, crops and growth stages or even in different seasons. The general guideline is that saline irrigation should be avoided at early sensitive growth stages/crops. In seasonal cyclic use, better strategy is to use non-saline water during crop establishment stages and switch over to saline quality waters at other salt-tolerant growth stages and leach accumulated salts with saline irrigation. Cyclic use of multi-quality water supplies in some kind of sequence offers both operational and performance advantages over mixing.
+
+* Along the sea coasts, salinity of the groundwater often increases with depth. Farmers can use the low salt content groundwater for irrigation to their advantage. For skimming of freshwater floating over brackish seawater in coastal sandy
+
+soils, improved ‘Dorouv’ technology with specially designed sub-surface water skimming system can be used to create additional water resources. With new ‘Dorouv’ technology, it is now possible to irrigate up to 5 ha. Specially designed shallow skimming wells and multiple point wells could also be used to skim the freshwater as is practised in coastal Andhra and southwest Punjab.
+
+Amendments and fertilizers
+
+Farmyard manure (FYM): FYM and other organics not only have nutritive value, they also play an important role in structural improvements for salt leaching and accumulation. Use of organics in saline environments reduces ammonia volatilization losses, and improves nitrogen-use efficiency and nutrient retention against leaching losses. Therefore, use of organics should be promoted.
+
+Amendments: Saline waters are usually rich in calcium-salts and their long-term use has no adverse effect on the soil physical properties. In such situations, amendments like gypsum are not essential. Where saline waters contain high amounts of silica and magnesium (Mg: Ca > 3), use of gypsum is recommended to overcome ill effects due to excessive magnesium accumulation.
+
+High SAR-saline waters are similar to saline waters except that in addition to salinity hazards, they also pose permeability problems due to sodicity, mainly during rainy season. Intensity of permeability problems depends upon the capacity of the soils to release salts and the nature of clay minerals. Sodicity-induced salinity build-up upon use of high SAR-saline waters has been observed to be the main cause of yield reductions in rabi crops. Yields of kharif crops depend on the temporary waterlogging and monsoon rainfall. Thus, decisions on the use of amendments on soils irrigated with high SAR-saline waters will essentially depend on the effectiveness of gypsum in improving soil properties and crop growth in relation to cost involved. As a precautionary measure, an occasional application of 1-2 tonnes/ha of gypsum prior to onset of rains should be applied to soils irrigated with saline water of SAR > 20. It helps in maintaining electrolyte concentrations for stability of aggregates during rainwater leaching and alleviating problems associated with reduced infiltrability of soils.
+
+Fertilizers: Application of nutrients is important for obtaining good yields with saline irrigation.
+
+* Response to applied nitrogen is rather reduced under saline irrigation. Thus, additional doses of nitrogenous fertilizers even though they do not materially change salinity tolerance, are recommended to compensate for volatilization losses. As stated above, organic materials should be used to improve efficiency of applied nitrogen.
+
+* Soils irrigated with chloride-rich waters respond to phosphorus application, because chloride ions reduce availability of soil phosphorus to plants. Crop requirement for phosphatic fertilizers is, therefore, enhanced by at least 25% over the recommended dose under normal conditions of low P availability.
+
+For sulphate-rich waters, no additional application of phosphatic fertilizers is required, and the dose recommended under normal conditions may be applied.
+
+For micronutrients such as zinc, the recommended doses based on soil test values should be applied.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+Other cultural practices: Owing to reduced germination, there is often a poor crop stand in fields irrigated with saline water. To ensure better populations, following measures are suggested.
+
+* Reduce inter/intra row spaces and use 20-30% extra seed than required under normal conditions.
+
++ Dry seeding and keeping surface-soil moist through sprinkler/post-sowing saline irrigation help in better crop establishment.
+
+Modifications in seedbed, e.g. sowing near the bottom of the furrows on both sides of the ridges and applying irrigation in alternate rows and to seed on the north-east side of the ridges are recommended. For the larger seeded crops, seeds can be planted in furrows.
+
++ Adoption of measures for better intake of rain-water (tillage to open up soil) and its conservation in soil via checking unproductive evaporation losses (soil/ straw mulching) is recommended during monsoon.
+
+Management of alkali waters
+
+These waters are characterized by low total salt concentration (EC < 4 dS/m); the proportion of Ca and Mg salts is much smaller. Sodium often constitutes > 70% of the total cations. Such waters usually have sodium bicarbonate as the predominant salt such that their RSC is > 2.5 me/L. In certain cases, the calcium salts may be nearly absent. Irrigation with alkali waters leads to increase in alkalinity and sodium saturation in the soils. The increase in exchangeable sodium percentage (ESP) adversely affects soil physical properties including water infiltration and soil aeration. On drying, soils become very hard and on wetting soil particles get dispersed and clog soil pores, which affect root respiration and development. Due to poor respiration, young seedlings of arable crops, e.g. wheat show yellowish appearance after first irrigation. The waters with low Ca* (<2 me/L) and high amounts of carbonates result in specific toxicity symptoms on plants. These include scorching and leaf burning at the early seedling development stage of crops.
+
+Crop selection
+
+As is the case with salinity, considerable variations also exist in tolerance of crops to sodicity (Table 15.4), and the crops may be accordingly selected as per the expected sodicity build-up from the use of particular alkali water.
+
+*Relative yields are only 50% of the potential in respective sodicity ranges.
+
+Cultivation of crops which need more water such as sugarcane and rice should be avoided with alkali waters as these aggravate sodicity problems. Use of alkali waters leads to build up of sodicity (ESP) in the surface soil layers (0-30 cm) and almost equals to adjusted SAR of the irrigation water in millet/maize—wheat rotation. In rice-wheat system, sodicity build-up is 2.6 times higher, indicating greater soil deterioration in the latter.
+
+In low rainfall areas (average annual rainfall < 400 mm), if good quality canal water is not available, it is advisable to keep fields fallow during kharif. During rabi, only tolerant and semi-tolerant crops like barley, wheat and mustard should be grown.
+
+* For areas having rainfall > 400 mm/annum, sorghum—wheat, clusterbean (guar)— wheat, pearl millet (bajra)—wheat and cotton—wheat rotations can be practiced, provided kharif crops are established with rain-water or good quality canal water. Do not apply more than three irrigations of alkali waters in kharif season.
+
+¢ Alkali waters should not be used for growing summer crops during April to June.
+
+Amendment needs
+
+Adverse effects of alkali waters on physical properties of the soil can be mitigated, provided calcium-bearing amendments like gypsum are used. Gypsum is considered as the cheapest source of calcium and is available in large quantities in the country. Acids or acid-forming substances such as sulphuric acid or pyrites can also be used; those on reaction with soil CaCO, release Ca”‘. Besides, the byproducts press mud from the sugar industries using sulphitation process to manufacture sugar and distillery spent wash (DSW) from the distilleries could alo be used to manage alkali waters. However, by virtue of its low cost and ease in handling, gypsum is by far the most suitable amendment for creating favourable sodium to calcium ratio and improving crop growth significantly.
+
+Quantity of gypsum: In the past, application of gypsum was recommended when RSC of irrigation water exceeded 2.5 me/L. New information points out that factors such as existing levels of soil sodicity, cropping intensity and crop-water requirements ultimately determine gypsum use. Field observations are that gypsum helps in maintaining yields of crops irrigated with alkali waters (RSC > 5 me/L), especially in rice-based systems with an annual rainfall of less than 500 mm. In wheat-fallow system on light textured (sandy loam) soils, gypsum application is of little value even if waters having high RSC (up to 10 me/L) are used. Once the role of amendments is established for raising crops with alkali waters, questions regarding its mode, amount and time of application can be settled on the basis of the guidelines given in the following sections.
+
+Gypsum requirement to neutralize residual alkalinity of water: The quantity of agricultural grade gypsum (70% purity) for neutralization of each me/L of RSC is 80 kg/ha per irrigation of 7.5 cm depth. The quantity of gypsum is thus determined by the water quality (RSC to be neutralized) and the water quantity required for irrigation during a growing season or on yearly basis.
+
+Gypsum requirement of soil: Determination of gypsum requirement by the quality and volume of irrigation water alone is not enough in soils that are previously deteriorated either due to irrigation with alkali water or are alkali in nature for some reasons. It is suggested that gypsum requirement of the soil should be determined
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+separately. Hence, during first year, gypsum should be added both on the basis of the soil as well as the irrigation water. Subsequently, application of gypsum is needed on the basis of the irrigation water only. Since same water has to be used year after year, application of gypsum has also to be repeated.
+
+Time of application: The best application time for gypsum is after the harvest of rabi crops, preferably in May or June, if some rains have occurred. Otherwise application should be postponed till receiving of the first good monsoon showers. Gypsum could be applied and mixed even in the standing water to facilitate leaching of reaction products and to hasten reclamation process. Proper levelling of fields is another important pre-requisite. Fields should be provided with 35-40 cm high strong bunds for retaining rain-water. Bunds also prevent entry of water from outside.
+
+of gypsum beds: Gypsum when applied with irrigation is highly effective in alleviating deleterious effects of RSC waters in rice-wheat system. Translation of these results in practical terms requires some mechanism for dissolution of gypsum in water itself. Such a practice will also eliminate the costs involved in powdering, bagging and proper storage before its actual use. In view of the costs involved, dissolution of gypsum directly in water through use of gypsum beds or its application to irrigation channels, appears an economical proposition. Dissolution of gypsum is affected by the size, distribution of gypsum fragments, flow velocity, salt content and chemical composition of water. For flowing water to pick up Ca through dissolution of gypsum, special gypsum beds have been designed. Nevertheless it is pointed here that gypsum bed water quality improvement technique may not dissolve > 8 me/L of calcium. Pyrites could effectively replace gypsum in the gypsum beds to reclaim alkali waters. DSW has been used to reclaim alkali water when applied through drip irrigation. For this purpose, ventury has been calibrated to apply 1 L of DSW for each 250 L of alkali water.
+
+Fertilizer application
+
+Since alkali waters cause a rise in soil pH that leads to greater nitrogen losses through volatilization and denitrification, extra nitrogen may have to be added to meet requirement of crops. Similarly, availability of zinc and iron is also low due to their precipitation as hydroxides and carbonates.
+
+* Application of 25% extra nitrogen is advocated as compared to normal conditions.
+
++ Zinc sulphate at 25 kg/ha should be added, particularly to rabi crops.
+
+* Phosphorus, potassium and other limiting nutrients may be applied on the basis of the soil-test values.
+
+* Some alkali waters may be rich in nutrients like nitrogen, potassium and sulphur. Such waters should be analysed and fertilizer dose of concerned nutrients should be reduced accordingly.
+
+Irrigation practices
+
+Conventional irrigation practices such as basin irrigation can be adopted. Emphasis should be to minimize irrigation with alkali waters as deterioration of soil directly depends on the quantities of irrigation water. The ‘sodic hazard’ is reduced considerably if water is used alternatively or mixed with canal-water. Besides reducing gypsum requirement of the soil, conjunctive use of alkali and canal waters will help in bringing more area under protective irrigation and also in controlling rise in groundwater-table and associated problems.
+
+Water quality guidelines for irrigation
+
+Above discussion would reveal that apart from chemical composition of water, use conditions (soil, climate, crops etc), irrigation and crop management practices have a strong bearing in assessing irrigation water quality. Because of inherent problems in integrating effects of these factors, rigid water quality standards are difficult to develop for universal use. Therefore, broad guidelines for assessing suitability of irrigation waters have been suggested from time-to-time for average use conditions. A committee of experts recommended guidelines for utilizing poor quality waters in 1990 for their wider applicability in different agroecological zones of India (Table 15.5).
+
+b. Saline water (RSC < 2.5 me/L, EC;,, ~ variable)
+
+To meet site-specific water quality objectives, factors like water quality parameters, soil texture, crop tolerance and rainfall have been given due consideration. Some of the addendum to these guidelines for using saline waters includes the following.
+
+* Use gypsum for saline water having SAR > 20 or Mg: Ca > 3 and rich in silica.
+
+* Practice fallow rabi when SAR is > 20 and higher salinity water is used in low- rainfall areas.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+Additional phosphorus application is beneficial, especially when Cl: SO, ratio is > 2.0.
+
+Canal-water preferably be used at early growth stages including pre-sowing irrigation for conjunctive use of saline waters.
+
+Use 20% extra seed rate and a quick post-sowing irrigation (within 2-3 days) for higher germination and crop-stand.
+
+When EC, < EC, in 0-45 cm soil at harvest of rabi crops, saline water irrigation just before the onset of monsoons will lower soil salinity and will raise antecedent soil moisture for greater salt removal by rains.
+
+* Use of organic materials in saline environment improves crop yields.
+
+For soils having (7) shallow water-table (within 1.5 m in kharif) and (if) hard subsoil layers, the next lower EC, /alternate modes of irrigation (canal/saline) are applicable.
+
+Alternate land uses
+
+In some cases, it is neither feasible nor economical to use saline waters for crop production especially on Jands which are already degraded. Best land use under such situations is to retire such areas to permanent vegetation or through bio-saline agriculture. To establish plantations and to improve biomass production from such lands, a system of planting ‘SPFIM? (sub-surface planting and furrow irrigation method) has been devised. Jt not only saves irrigation time and labour but also leads to addition of fewer salts in the soil-profile since irrigation is applied only to furrows covering only one-fifth to one-tenth of the total area. Irrigation water quantities equaling 10% of the open-pan evaporation sufficed for optimal growth of several tree species of arid and semi-arid areas. Preferred choices for tree species are: Tamarix aphylla; syn. T. articulata, Prosopis juliflora, Acacia nilotica, Acacia tortilis, Feronia limonia, Acacia farnesiana and Melia azadirach. Halophytic herb species like Salvadora and Sueda have been identified for bio-saline agriculture.
+
+The growth and forage production of Eragrostis species as well as Aeluropus lagopoides were good up to EC,, of 40 dS /m. The later possessed high tissue tolerance and better forage quality traits making it an ideal grass for black Vertisols of Gujarat. Saline irrigation to Panicum laevifolium and P. maximum (both local wild and cultivated), not only improved their productivity by 3-4 fold but also made fodder available during scarce periods of April-June when most nomads have perforce to move towards the adjoining irrigated areas in search of fodder. Salt grasses such as Distichlis, viny and Batis are also highly productive. ‘
+
+Horticultural plants such as gooseberry (Emblica officinalis), karonda (Carissa carandus), ber (Ziziphus mauritiana) and bael (Aegle marmelos) could be grown with water salinity of 12 dS/m. Ultra salt affected soils/water can be used for growing fruit trees like date palm, guava, ber, jamun etc. Coconut is tolerant to salinity as well as to saline water irrigation provided saline water does not stagnate for long periods. Andaman Tall and Katchal Tall can be grown on raised beds with brackish water. Recently, commercial interest has been generated in mangrove palm (Nypa fruticans) again a saline water tolerant specie for alcohol production.
+
+Medicinal plants such as isabgol (Plantago ovata), tulsi (Ocimum sanctum), Lepidium species, ashwagandha (Withania somnifera), Egyptian henbane, Cassia
+
+angustifolia (Indian senna) and aromatic plants such as vetiver, palmarosa and lemon grass could be grown with saline irrigation water. Flower plants that do not enter the food chain such as calendula (Calendula officinalis), chrysanthemum ( Chrysanthemum indicum) and German chamomile (Matricaria chamomilla), periwinkle (Catharanthus roseus) could be grown with saline and toxic waters.
+
+Aquaculture is another area where saline/sodic land and water resources could be profitably exploited. Species such as Lates calcarifer, Chanos chanos, Mugil cephalus, Etroplus suratensis, Peneaus monodon could be grown in inlands with saline water up to 40 ppt salts.
+
+Groundwater recharge and dilution
+
+Due to declining depths of groundwater in many regions, groundwater recharge is getting increasingly accepted. On the other hand, there is considerable scope to use groundwater recharge technologies to improve groundwater quality by injection through shafts/wells. Studies in Mohindergarh district in Haryana and Agra-Bharatpur region in Uttar Pradesh and Rajasthan have proved the adequacy of the recharge technologies to dilute groundwater and application of diluted groundwater to mustard/wheat crops at early growth stages. At later stages naturally occurring saline water could be used with little or no reduction in yield.
+
+By adopting proper irrigation and crop-management practices, the poor quality groundwater resources can be effectively utilized for improved crop production on a sustainable basis. This is clearly revealed from the data generated through on-field experiments (Table 15.6). Here, supplemental irrigations with saline water to wheat not only increased yields but sustained it even in low rainfall years over limited irrigations with fresh water. The demonstration of the technologies at farmers’ fields in Karanpur has proved their replicability (Table 15.7).
+
+i Average of 3 years. #The values in parentheses are increase in yield due to supplemental irrigations over average yield with BAW only.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+15.7 Impact of ORP (Operational research project) on income, and stability of crops at farm level
+
+Management of toxic waters
+
+Health hazards of toxic waters have so far focused mainly on direct uptake of contaminated waters. Contaminated water if used in agriculture could inject the toxic elements into food chain and thereby into humans is largely ignored. Besides affecting the productivity, the contaminated water may become a diffuse source of contamination if the contaminants enter the food chain. On the other hand, drinking water remains essentially a point and fixed source of contamination. Such adverse effects on crops and multiplying effect of toxicity on health due to uptake through agriculture produce are coming into limelight only recently when higher than permissible arsenic has been detected in many people having no history of drinking arsenic contaminated water. In spite of such observations, very few systematic studies have been made to arrive at a package for use of toxic water. Since the toxic contamination vary from one place to another, certain guidelines that have emerged in the use of toxic waters are listed below. :
+
+1. Selection of crops seems to be a key element to manage toxic waters. Cultivation of crops that require less water, crops that are tolerant to the toxic element and crops that absorb less toxic metal in their economic part should be preferred. While some crops such as elephant foot yam, greengram, cowpea, sesame, groundnut, cauliflower, tomato, bitter gourd accumulate arsenic, most forage crops accumulate fluoride. As far as possible, crops that do not enter the food chain such as flowers or trees of commercial and industrial importance should be selected.
+
+2. Conjunctive use seems to be one of the universal technology that fits well in case of all kinds of low quality waters be it saline, alkali, toxic or wastewater from other sectors of economy. It has been observed that the toxicity effect could be considerably reduced through conjunctive use of fresh surface and toxic groundwaters due to the dilution effect. Studies have revealed that limited number of irrigation given with nitrate-rich waters pays dividends as a part of nitrogenous fertilizers requirement is met through irrigation water.
+
+3. For boron rich water, application of gypsum seems to be a good option, since
+
+gypsum converts sodium borate (soluble) to calcium borate (Insoluble form). Arsenic rich waters, on the other hand, should not be used for rice cultivation since arsenate could be reduced to more soluble and mobile arsenite at low redox potential expected under submerged conditions.
+
+4. Incorporation of organic manure helps in managing waters contaminated with heavy metals due to increased adsorption potential of the soil.
+
+5. Groundwater recharge to reduce salinity, sodicity and even toxicity of water has emerged as a viable option to manage low quality groundwater. Recharged water dilutes groundwater and diluted groundwater could be used for crop production.
+
+6. Some weed species accumulate toxic elements several times their biomass. Such species could be used for cost effective phyto-remediation of contaminated soils. Ludwigia parviflora, Filmbristylis sp., Ageratum conyzoides, Eleusine indica could accumulate arsenic as much as 50 times their biomass.
+
+There is a growing need to improve field and laboratory protocols for measurement of heavy metals and other toxic elements in the water.
+
+Management of wastewaters
+
+In rural and peri-urban areas of most developing countries, the use of sewage and wastewater for irrigation is a common practice. Even in areas where other water sources exist, small farmers often prefer wastewater because its high nutrient content reduces or even eliminates need for expensive chemical fertilizers. Although, volumes have been written on the pros and cons of this strategy, there is no denying the fact that this technology suits in most underdeveloped and developing countries. Across Asia, Africa and Latin America these wastewater micro-economies support countless poor people. Stopping or over-regulating these practices could remove the only livelihood source for many landless people around the world. Therefore, without disturbing or curbing the current use, efforts should be made to sensitize stakeholders so as to minimize health hazards to both the growers and the consumers. Some guidelines to achieve this objective are as follows.
+
+* The irrigators should wear shoes and gloves while working with wastewater.
+
+¢ Regular treatment of farmers and their families should be with antihelmintic drugs to prevent worm infections.
+
+* Crop restrictions should be enforced avoiding crops that are eaten raw. Prefer crops that are not consumed by humans/animals such as forest plantations/ flowers. Crops that are eaten after cooking could be grown.
+
+* Practice conjunctive use of waste and fresh water.
+
+* Withholding periods prior to harvest would reduce contamination of the products or allow sufficient time for pathogen die off.
+
+* Adopt a suitable irrigation method such as drip irrigation. Even with drip irrigation, go for subsurface than surface drip.
+
+* Even when surface irrigation cannot be dispensed with, broad bed-furrow method should be adopted. While plant could be sown in or near the irrigation furrow, plants should spread on the bed so that fruits don’t come in direct contact with the wastewater.
+
+Washing/rinsing/disinfections of crop products should be before they reach the consumers.
+
+USE OF LOW-QUALITY WATERS IN CROP PRODUCTION
+
+Better information on hygiene behaviour and risks of wastewater irrigation should be to farmers, consumers and policy planners.
+
+Policy issues and costs
+
+Major stakeholders in water management include policy-makers and law enforcers at the national and state levels, irrigation management agencies, e.g. CADA, Irrigation/ water resources Departments, other departments participating in monitoring and complying with the standards, and individual farmers or farmers’ groups who manage water on day-to-day basis. The downstream groups, those affected by return flows from upstream and some environmentalists or recreational agencies are also interested in water quality management. Impact of water quality having multidimensional impacts on agricultural productivity, human health, water resources, environment and ecology calls for enactment of appropriate laws and formulation of policies at the state and national levels to maintain the pristine quality of water as well as to promote sustainable use of low quality waters. Several such regulations and policy issues have come into force in recent times, a few of them being compulsory registration of groundwater extraction structures in identified zones, enactment of groundwater laws, compulsory roof-top rainwater harvesting to maintain watertable, wastewater disposal guidelines on land and water sources and strict compliance of guidelines and rules by the pollution control boards. Besides, expansion of wastewater treatment facilities is being pursued vigorously in many river water quality maintenance programmes. Such regulations, policies and infrastructural development are necessary to address issues and problems of meeting water quality standards, ensuring a collective flow of benefits of water management in a basin leading to improved water quality or minimising water quality degradation. Some policy guidelines are needed to decide on ways of sharing costs of treatment of low-quality water by various stakeholders.

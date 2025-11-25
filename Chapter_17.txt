@@ -1,0 +1,235 @@
+SOURCE_DOCUMENT: Chapter 17.pdf
+
+17. Cropping Systems
+
+Cropping activities go on all round the year in India provided water is available for crops. In northen India there are two distinct seasons: rainy, kharif (July to October), and winter, rabi (October to March). The crops grown between March and June are known as zaid crops. In some parts of the country there are no such distinct seasons, but there they have their own classification of seasons. The village revenue officials keep plot-wise record of crops grown in each season. These are annually compiled district-wise, state-wise and on all-India basis. From these records, the relative abundance of a crop ora group of crops in a region can be calculated. These crops are grown sole or mixed (mixed cropping), or in a definite sequence (rotational cropping). The land may be occupied by one crop during one season (monocropping), or by two crops (double cropping), which may be grown in a year in a sequence. Of late, the trend is even towards growing more than two crops (multiple cropping) in a year. These intensive cropping systems may be taken either in sequence or there may be even relay cropping-one crop undersown in a standing crop. With wide-rowed, slow- growing crops, companion crops may be grown. There are various ways of utilizing the land intensively.
+
+Factors for selection of a cropping systems
+
+In any locality, the prevalent cropping systems are the cumulative results of the past and present decisions by individuals, communities or government and their agencies. These decisions are usually based on experience, tradition, expected profit, personal preferences and resources, social and political pressure. Essentially, these are answers to some of the following questions:
+
+(a) What crops with the present methods of pest-and-disease control are ecologically practicable?
+
+(b) What interactions occur among the ecologically practicable crops, and the chosen crops which must be combined in a special way (rotations) in the farming systems?
+
+(c) Are any of the ecologically feasible crops ruled out by infrastructural factors?
+
+(d) Which of the crops, now remaining of the list, are most profitable (or yield most in a subsistence agriculture)? In what combinations and at what level of input application would they make the best use of local land, climate and input resources in the short-term and long-term situations bearing in mind the degree of food and income security required by the individual farmer and the community ?
+
+(e) What operational factors rule out or amend the size and the method of any of the economically preferable crop combinations thereof ?
+
+(f) Finally, are the crop combinations, the farming systems and the input level suggested by this process for the individual farmer compatible with his own skills, enterprise preferences, health, age and capital ?
+
+558 HANDBOOK OF AGRICULTURE
+
+Agronomic diversity
+
+The climatic, edaphic and socio-economic diversity of the Indian crop-production scene is dotted with many cropping systems. With a geographic area of 329 million ha, stretching between 8°N and 36°N latitude and between 68°E and 98°E longitude, its altitude varying from the mean sea level to the highest mountain ranges of the world, India presents a range and diversity of climate, flora and fauna, with a few parallels in the world. The country presents the paradox of containing in it the place with the highest mean annual rainfall in the world; and also dry, semi-desert areas in Rajasthan. The variability of rainfall is most important in all states but especially where rainfall is low. In parts of Rajasthan and the Deccan, the variability is more than 100% of the mean. Temperatures also vary greatly, both geographically and seasonally. Northern and central parts of India in January have temperatures comparable with those in Europe in July, though with a greater daily range, but in these places in the pre-monsoon months the maximum temperatures of over 40°C are reached over a large area. Frost may occur in winter even in the plains, as far south as a line drawn through Bihar and Madhya Pradesh and may be heavy in Kashmir and areas north of Punjab.
+
+Socio-economically, the peasantry ranges from the relatively affluent Punjab farmers who operate with a high-input intensity in agriculture to the subsistent farmers of eastern and central India. The latter even today sometimes practice shifting cultivation. Between these two extremes various intensities in cultivation are practised. The outstanding factor on the socio-economic front is the smallness of the holdings; the average farm-size in most areas being lower than that most tropical countries.
+
+Agricultural regions
+
+Crop production therefore presents enormous diversity owing to differences in latitude, altitude and variability of rainfall and edaphic diversities. Thus it may not be possible to enumerate and describe here every type of cropping pattern prevalent in the country. However, some broad contours of farming, emerge. The most important element of farming in India is the production of grains, and the dominant food-chain is grain-man. On this basis, the country may be divided broadly into 5 agricultural regions.
+
+Rice region. Extending from the eastern part to include a very large part of the north-eastern and the south-eastern India with another strip along the western coast
+
+Wheat region. Occupying most of the northern, western and central India
+
+Millet-sorghum region. Comprising Rajasthan, Madhya Pradesh and the Deccan Plateau in the centre of the Indian peninsula
+
+* Temperate Himalayan region. Covering Kashmir, Himachal Pradesh, Uttarakhand and some adjoining areas. Here potatoes are as important as cereal crops (which are mainly maize and rice), and the tree-fruits form a large part of agricultural production
+
+* Plantation crops region. In Asom and the hills of southern India good quality tea is produced. There is a production of high-quality coffee in the hills of the western peninsular India. Rubber is mostly grown in Kerala. Several spices are also grown in Kerala, parts of Karnataka and Tamil Nadu. There are some large
+
+estates, but most of the growers would come under the category of small holders. Sugarcane, which in many countries is a plantation crop, is almost entirely grown by small holders in India.
+
+There had been a substantial investment in major irrigation projects in the colonial days. The post-Independence era saw many multipurpose irrigation projects. Lately, interest in the medium and minor irrigation works has increased, especially after the drought of 1966. Thus, at present an All-India irrigation potential of 51.2 million ha has been created, which is expected to increase up to 110 million ha by 2025. Irrigation, especially the minor projects, has provided a base for multiple-cropping. The All- India Co-ordinated Projects run co-operatively by the Indian Council of Agricultural Research and the state agricultural universities have generated short season, photo period-insensitive, high- yielding varieties of various crops suitable for high i ntensity cropping. The adaptability of these varieties on the farmers’ fields has been demonstrated in the National Demonstration Programme spread all-over the country. The various developmental and educative programmes, especially the High- Yielding Varieties Programme, have also resulted in newer cropping patterns involving intensive cropping. The area of rice has increased in Punjab and Haryana. Similarly, wheat is now grown in West Bengal and to some extent in the southern states of the country.
+
+All these factors have led to the present cropping patterns, which are getting more and more intensive in respect of the intensity of inputs utilized in the production of these crops. One important example of this development is rice-wheat crop rotation in the Indo-Gangetic plains, comprising Punjab, Haryana, Uttar Pradesh, Bihar and West Bengal.
+
+In pre-independence India, cropping systems approach of agricultural production received little attention except some considerations for beneficial effects of legumes crops in mixed/intercropping, green-manuring and sequential cropping. In fact, attention on natural resource management itself came into prominence only during the sixties when national policies emphasized on self-sufficiency in foodgrain production through creating adequate resource base for intensive corpping and putting the agricultural research on sound footing. With the advent of high-yielding, photo- insensitive, input-responsive dwarf varieties of rice and wheat during this decade, the entire agriculture got revolutionized in India and within a short span 7-8 years crop- cultivation concepts with respect to tillage, planting time and technique, fertilizer use, irrigation and other management practices changed greatly. Major shifts were witnessed in cropping systems, specially in irrigated eco-systems where cereal-based multiple cropping came into prominence, relegating less productive, risk-prone legumes and oilseed crops to marginal lands. This may be considered a transition phase for cropping systems research when short-duration crop cultivars fascinated the scientists to intensify the cropping activities in temporal dimension to meet the pressing demand of higher production in the country from limited land resources. However, the management approach of crop cultivation remained, by and large, component based, i.e. individual researchers were dealing each component crop of the system in isolation. It was only during the eighties when country attained self sufficiency in foodgrains and indiscriminate exploitation of resources for intensive cropping started showing its ill-effects on sustainability, that the cropping system research gained prominence.
+
+560 HANDBOOK OF AGRICULTURE
+
+Brief history of co-ordinated research efforts for developing efficient crop- ping systems in India
+
+Nearly 70 years ago, Dr A.B. Stewart of Macaulay Institute of Soil Research, Aberdeen was invited by the Imperial Council of Agricultural Research, New Delhi, to review the position in respect of soil fertility investigations, in general, and manuring in particular, and to suggest steps that might be taken to obtain optimum crop yields. His review report published in 1947, significantly changed philosophy and practice of fertilizer experimentation in the country. He stressed the need of conducting simple fertilizer trials on cultivators’ fields and complex experiments at selected centres. Prompted by these suggestions, “Simple Fertilizer Trails on Cultivators Fields” were initiated in 1953 under the Indo-American Technology Co-operation Agreement as “Soil Fertility and Fertilizer Use Project”.
+
+Subsequently in 1956, experiments on carefully selected centres called “Model Agronomic Experiments” were added to the project and started as All-India Co- ordinated Agronomic Experiments Scheme (AICAES) as an ICAR Project in continuation of Technical Co-operation Mission (TCM) of fertilizer use project. The major objectives of Model Agronomic Experiments were to study interactions of fertilizer irrigation and with other input factors, such as irrigation, sowing date and cultural practices on crop yields, and work out manurial/fertilizer requirements of important crop rotations.
+
+The scope of experimentation was expanded to include agronomic research, embracing cultural practices, irrigation and nutritional requirements, chemical weed control and multiple cropping. But the emphasis continued on soil fertility and fertilizer use as influenced by soil and climatic factors and management.
+
+Systems based research was initiated during the early seventies as a part of this programme, but it was only during VII Five-Year Plan that the All-India Co-ordinated Research Project was upgraded into full-fledged Project Directorate for Cropping Systems Research to strengthen all aspects of research in cropping/farming systems. At present, the Project Directorate undertakes research through country-wide cropping systems network, which consists of 37 on-station research centres (25 main centres and 12 sub-centres) and 32 on-farm research centres. Main centres are necessarily located at agriculture universities, whereas sub-centres are in various campuses and agricultural colleges as well as general universities. The on-farm research centres operate in different agro-climatic zones (ZARP Zones), and after every 3 years these centres are usually shifted from one zone to the other. Broad objectives of the cropping systems research network include development of economically viable and resource- efficient cropping systems, improvement in use efficiency of nutrients and other inputs and resource characterization, problem diagnosis and prioritization of researchable issues under various farming situations.
+
+An effort has been made here to collate the significant system-based information generated under All-India Co-ordinated Project on Cropping Systems Research, suitably supported by researchers done elsewhere in the country. :
+
+Predominant cropping systems
+
+The farmers’ decision on choice of crops and cropping systems is governed by several interrelated factors, viz. soil and climate, household needs, socio-economic
+
+CROPPING SYSTEMS
+
+issues, market infrastructure, post-harvest storage/processing, labour availability, technological developments etc. By and large, most of the Indian farmers resort to cultivation of a number of crops at their farm and rotate a particular crop combination over a period of 3-4 years. It results in a multiplicity of cropping systems, which remain dynamic in time and space, making it difficult to precisely determine the spread of different cropping systems using conventional methods. These limitations notwithstanding, scientists have identified more than 250 cropping systems being followed throughout the country. But it is estimated that only 30 major cropping systems are prevalent, barring the areas under mono-cropping due to moisture or thermal limitations. These 30 systems are : rice-wheat, rice-rice, rice-gram, rice-mustard, rice- groundnut, rice-sorghum, pearl millet-wheat, pearl millet-gram, pearl millet-mustard, pearl millet-sorghum, cotton-wheat, cotton-gram, cotton-sorghum, cotton-safflower, cotton-groundnut, maize-wheat, maize-gram, sugarcane-wheat, soybean-wheat, soybean-gram, sorghum-sorghum, groundnut-wheat, sorghum-groundnut, groundnut- rice, sorghum-wheat, sorghum-gram, pigeonpea-sorghum, groundnut-groundnut, sorghum-rice and groundnut-sorghum.
+
+A large diversity of cropping systems exists under rainfed and dryland areas with an over-riding practice of intercropping, due to greater risks involved in cultivating large area under a particular crop. While in areas with assured irrigation only a few cropping systems are followed, they have a considerable coverage across the region and contribute significantly to foodgrains production at national level. In regions with assured irrigation facilities the major cropping systems are: rice-wheat, rice-rice, cotton- wheat, maize-wheat, pearl millet-wheat, sorghum-wheat, soybean-wheat and sugarcane-wheat, with estimated spread of 9.77, 2.12, 1.39, 1.29, 1.03, 1.11, 0.89 and 0.54 million hectares respectively.
+
+Sequential cropping systems
+
+Sequential multiple cropping, using short-duration crop cultivars and intensive input management, is a common way of increasing land-use efficiency (LUE), specially in irrigated ecosystems. In the experiments carried out in different parts of the country, multiple cropping systems with high LUE have been identified (Table 17.1). These studies clearly established that LUE can be enhanced by choosing intensive cropping system, although for wider acceptability of any cropping system LUE needs to be linked with other important parameters like productivity and profitability. In
+
+multilocational experiments under Cropping Systems Research Project, promising cropping systems with high productivity as well as intensive land use of diverse agro- climate situations have been identified.
+
+The economic return or monetary gain per unit area and time is one of the major considerations for adoption of a certain cropping systems at farm as well as at regional level. Its relative importance decreases under subsistence level of farming but increases with increasing level of commercialization. Since profitability of the system as a whole or a component thereof depends entirely upon input costs and prices of the produce, it is highly vulnerable to change in government policies, trade and market force operating at a given point of time.
+
+Intercropping systems
+
+Extensive studies carried out under Cropping Systems Research Project have resulted in identification of several land-use efficient and profitable intercropping systems in different regicns of the country. The more remunerative intercropping systems found were those of castor + clusterbean at S.K. Nagar in arid eco-system, maize+blackgram at Banswara, sorghum + pigeonpea at Indore, pigeonpea + greengram at Bichpuri, cotton + groundnut at Junagadh : under semi-arid ecosystem; wheat + linseed at Sehore, maize + groundnut at Ranchi, rice + soybean at Jabalpur; under subhumid ecosystem: rice + groundnut at Kalyani under humid ecosystem; and wheat + mustard at Navasari, mustard + blackgram and maize. + cowpea at Karjat under coastal ecosystem.
+
+In on-farm trails, intercropping of groundnut + sunflower during kharif and groundnut + pigeonpea during rabi in Medak, Prakasam and Cuddapah districts of Andhra Pradesh; pigeonpea + groundnut in Ranchi district of Bihar; wheat + mustard and chickpea + mustard in western zone of Haryana; pigeonpea + sunflower in Bellary and fingermillet + pigeonpea in Bangalore districts of Karnataka; and wheat + chickpea, chickpea + mustard in Mandla and Morena and chickpea + mustard in Ujjan and Ratlam districts of Madhya Pradesh were found more economical than sole cropping. Simiarly, intercropping of chickpea + mustard in Udaipur and Tonk and pearl millet + greengram in Jodhpur district of Rajasthan; pigeonpea + groundnut in north central plateu of Orissa, wheat + mustard in Nasik and Dhule districts of Maharashtra; blackgram + groundnut in Chengalpattu district of Tamil Nadu; and wheat + mustard during rabi followed by maize + blackgram and pigeonpea + sorghum during kKharif in Ghazipur district of Uttar Pradesh were found more remunerative than their pure cropping under rainfed situations. In most of the cases application of recommended dose of fertilizer to main as well as associated intercrop was found desirable.
+
+Planting geometry plays an important role of optimising yield levels in intercropping systems. Normal planting of intercrop between two rows of normal-planted main crop gave higher yield than paired and skip row planting in semi-arid eco-system. In humid eco-system, paired row planting gave better results than normal and skip row planting. In general, yield of main crop was comparatively lower in skip-row planting system. Results at various centres also indicated that growing crop without any fixed geometry (crop mixture) was always inferior to intercropping with appropriate geometry of planting.
+
+CROPPING SYSTEMS
+
+Alley cropping
+
+Growing of annual crops with multi-purpose perennial shrubs/trees, known as alley cropping, is another way of increasing production potential undet fragile environments. The system is being recommended to meet food, fodder and fuel needs besides improving soil fertility. On salt-affected alluvial soil of Modipuram, alley cropping of upland rice-wheat sequence with Leucaena leucocephala was found to be economical as well as beneficial for improving soil productivity on long-term basis. The system was identified as a potential alternative cropping system for best utilization of such lands. A study on land use in semi-arid tropics revealed higher profitability and land use with 25% agroforestry and 75% arable cropping.
+
+The age-old practice of excessive tillage not only deteriorates soil structure, which is very difficult to regenerate, but also involves high amount of energy (fuel and draught animal). Tillage practices adopted in one crop influence the establishment and performance for succeeding crops. Continuous tillage at a particular depth (15-20 cm) results in the formation of plow/hard plan, which affects the distribution and growth of roots of main and succeeding crop in a system. Plow pan does not allow roots to penetrate and also restricts the movement of water and nutrient below this layer which adversely affects the growth and yield of crops.
+
+Like energy, water resources are also limited and appropriate technology is needed for rational use of water. In most of the regions, total water needs of different crops are more than precipitation, due to which the crop experiences water deficit at critical growth stages, affecting the crop yield aversely. Over-irrigation will result in more leaching of nutrients and may lead to raise in water-table. Development of efficient water-management practices in different cropping systems may reduce the water requirement without siginificant reduction in crop yields.
+
+A broad position of the major cropping systems in India can be presented by taking the major crops into consideration. To begin with, the south-western monsoon crops (kharif) are considered. They include rice, sorghum (in kharif), pearl millet (bajra), maize, finger millet (ragi), groundnut and cotton. Among the post-monsoon crops (in rabi), wheat, sorghum (in rabi) and chickpea (gram) can also be considered to be base crops for describing the cropping patterns. With such an approach the crop occupying the highest percentage of the sown area of the region is taken as the base crop and all other possible alternative crops sown in the region either as substitutes for the base crop in the same season or as the crops that fit in with the rotation in the subsequent seasons, are considered in the pattern. Also these crops have been identified as associated with a particular type of agroclimate, and some other minor crops with similar requirements are grouped under one category. For example, wheat, barley and oats are taken as one category. Similarly, the minor millets (Paspalum, Setaria and Panicum) are grouped with sorghum or pearl millet. Some other crops, viz. the plantation crops and other industrial crops, are discussed separately.
+
+Rainy season cropping systems
+
+Among the kharif crops, rice, sorghum, pearl millet, maize, groundnut and cotton are the prominent crops to be considered the base crops for describing the kharif cropping patterns.
+
+Rice-based cropping systems: Rice is grown in the high-rainfall area or in areas
+
+where supplemental irrigation is available to ensure good yields. If the crop has to depend solely on rainfall, it requires not less than 30 cm/month of rainfall over the entire growing period. However, only 9% of the area in the country comes under this category, and it lies in the eastern parts. Nearly 45% of the total rice area in India receives 30 cm/month of rainfall during at least 2 months (July and August) of the south-western monsoon and lesser during other months. In contrast, the eastern and southern regions comprising Asom, West Bengal, coastal Orissa, coastal Andhra Pradesh, Karnataka (most part), Tamil Nadu and Kerala receive rainfall of 10 to 20 cm/month in 4 to 8 consecutive months, starting earlier or going over later than in the south-western monsoon months. With supplemental irrigation 2 or 3 crops are taken in these areas. At All-India basis, nearly 80% of rice is sown during June—September and the rest during the remaining season. Area-wise, the mono-season belt (comprising Uttar Pradesh, Bihar and Madhya Pradesh) accounts for 46.4%, and belt comprising Asom, West Bengal, coastal Orissa, coastal Andhra Pradesh, parts of Tamil Nadu, Karnataka and Kerala accounts for 53.6%.
+
+On an all-India basis, about 30 rice-based cropping patterns were identified in different states. In the most humid areas of eastern India comprising Tripura, Manipur and Mizoram, rice is the exclusive crop. In Meghalaya, rice is alternated with cotton, vegetable and fruit crops, whereas in Arunachal Pradesh, where rice is not grown exclusively, the alternative crops are maize, pearl millet and oilseeds. In parts of Asom, West Bengal, Uttar Pradesh, Uttarakhand, Madhya Pradesh, Chhattishgarh, Bihar, Jharkhand, Orissa and coastal districts of Andhra Pradesh, jute forms an important commercial crop, alternative to rice. In West Bengal, besides rice and jute, pulses and maize are grown on a limited scale. In Bihar, rice is grown over 52% (3.67 million ha) of its gross cropped area (0.28% of the all-India area), and pulses, wheat, jute, maize, sugarcane and oilseeds are the alternative crops. In Uttar Pradesh, rice is grown on 40.7% (5.83 million ha) of its gross cropped area and represents 13.2% of the all- India area under this crop. Rice is concentrated in the eastern districts of Uttar Pradesh, where the alternative crops are pulses, groundnut, sugarcane, pearl millet and sorghum (jowar) in the decreasing order of their importance. Tobacco is grown in some districts.
+
+Orissa, grown on more than 50% of the area, whereas the alternative crops are pulses, finger millet and oilseed, maize and small millets. In Chhattisgarh Tice is grown on 3.6 million ha (8.12% of the all-India rice area), but the crop suffers because of inadequate rainfall and irrigation. The important alternative crops of this area are small millets, pulses and groundnut. Wheat is also grown on a limited-scale. In the southern states, viz. Andhra Pradesh, Tamil Nadu and Kerala, rice is grown in more than one season and mostly under irrigation or under sufficient rainfall. Together these 3 states have over 5.06 million ha, representing more than 11.28% of all-India area under rice. Important alternative crops in Andhra Pradesh are pulses, groundnut, sorghum, maize, sugarcane and tobacco. In Karnataka the crops alternative to rice are finger millet, plantation crops, pearl millet, cotton, groundnut, sorghum and maize. In Kerala the plantation crops and tapioca form the main crops alternative to rice. In Maharashtra rice is grown mostly in the Konkan area over 1.5 million ha along with finger millet, pulses, rabi sorghum, groundnut, sugarcane and oilseeds. In Gujarat, Jammu and Kashmir, Rajasthan, and Himachal Pradesh, rice forms a minor crop and is mostly grown with irrigation. However, in Punjab, Haryana and some parts of western
+
+CROPPING SYSTEMS
+
+Uttar Pradesh, owing to high watertable during the monsoon, rice has become a major crop on such areas. In Punjab, rice is grown in 2.16 million ha, which is 51% of its net sown area. In Haryana, rice is grown on 0.837 million ha, which is equal to 23.8% of its net sown area.
+
+Kharif cereals other than rice: Maize, sorghum and pear! millet form the main kharif cereals, whereas fingermillet and small millets come next and are grown in a limited area. By and large, maize is a crop grown commonly in high-rainfall areas or on soil with a better capacity for retaining moisture, but with good drainage. Next comes sorghum in the medium-rainfall regions, whereas pearl millet bas been the main crop in the areas with low or less-dependable rainfall and on light-textured soils. The extent of the area under these crops during the south-western monsoon seasons for maize is 5.6 million ha, sorghum (kharif) 11 million ha, and pearl millet 9.4 million ha. Though these crops are spread all over the western, northern and southern India, the regions of these cropping patterns are demarcated well to the west of 80° longitude (except that of maize). Finger millet as a kharif cereal (1.9 million ha) is mainly concentrated in Karnataka, Tamil Nadu and Andhra Pradesh, which account for more than 60% of the total area under this crop in India. The cropping patterns based on each of these kharif cereals are discussed.
+
+Maize-based cropping systems: The largest area under kharif maize is in Uttar Pradesh (1.07 million ha), followed by Rajasthan (0.91 million ha), Madhya Pradesh (0.86 million ha) and Bihar (0.72 million ha). In four states, mainly Gujarat, Jammu and Kashmir, Himachal Pradesh and Andhra Pradesh, the area under maize ranges from 0.30 to 0.38 million ha in each, whereas other states have much less area under it. Taking the rainfall of the maize growing area into consideration, over 72% of the area receive 20-30 cm/month of rainfall in at least two months or more during the south-western monsoon season.
+
+On the all-India basis, about 12 cropping patterns have been identified. They have maize as the base crop. In the maize-growing areas of Uttar Pradesh and Bihar, rice in kharif and wheat in rabi are the main alternative crops. In some areas, pearl millet, groundnut, sugarcane, finger millet and pulses are taken as alternative crops. In Rajasthan, maize is grown as an exclusive crop in some areas, whereas at other places, it is replaced by small millets, pulses, groundnut and wheat (rabi). In some areas, pearl millet and rice are also grown as alternative crops. In Madhya Pradesh, mainly the kharif sorghum is replaced by maize, whereas rice and groundnut are also grown to a limited extent. In Punjab, maize has groundnut, fodder crops and wheat (rabi) as alternative crops. In Gujarat, rice, groundnut, cotton and wheat form the alternative crops in the maize-growing areas. Rice and wheat are the main alternative crops in the maize-growing areas of Himachal Pradesh whereas in Andhra Pradesh, rice, kharif sorghum and oilseeds are grown in these areas.
+
+Kharif sorghum-based cropping systems: The area under the kharif sorghum in India is highest in Maharashtra (2.5 million ha), closely followed by Madhya Pradesh (1.01 million ha), whereas in Rajasthan, Andhra Pradesh, Karnataka and Gujarat, the area under this crop is between 0.32 and 1.4 million ha. Sorghum is mainly grown where rainfall distribution ranges from 10 to 12 cm/month at least for 3 to 4 months of the south-western monsoon, it may however also be grown where rainfall is abundant. On the all-India basis about 17 major cropping patterns were sown. In them the
+
+base crop is the kharif sorghum. Most of the alternative crops are also of the type which can be grown under medium rainfall.
+
+In Maharashtra, cotton, pulses, groundnut and small millets are sown as alternative crops. In the adjacent states of Madhya Pradesh, besides the above alternative crops, wheat and fodders are sown. In Rajasthan, wheat, cotton, pearl millet and maize are grown in the kharif sorghum tract, whereas in Andhra Pradesh, groundnut, cotton, pulses and oilseeds form the main alternative crops. Besides cotton and groundnut, finger millet is sown in the kharif sorghum tract of Kamataka, whereas in Gujarat, pearl millet, cotton and groundnut are the major alternative crops.
+
+Pearl millet-based cropping system: Pearl millet is a more drought-resistant crop than several other cereal crops and is generally preferred in low rainfall areas and on light soils. The area under the pearl millet crop in India is about 9.38 million ha and Rajasthan (4.26 million ha) shares about 45% of the total area. Maharashtra, Gujarat and Uttar Pradesh together have over 4.6 million ha, constituting an additional 38.5% area under pear! millet in India. Over 66% of this crop is grown in areas receiving 10- 20 cm/month of rainfall extending over | to 4 months of the south-western monsoon.
+
+On the all-India basis, about 20 major cropping patterns have been identified with pearl millet. However, it may be observed that sorghum and pearl millet are grown mostly under identical environmental conditions and both have a wide-specturm adaptability in respect of rainfall, temperature and soil.
+
+Considering the cropping patterns in different states, pearl millet is grown along with pulses, groundnut, oilseeds and kharif'sorghum in Rajasthan. Gujarat has a similar cropping pattem in its pear] millet areas, except that cotton and tobacco are also grown. In Maharashtra, besides having some areas solely under pearl millet, pulses, wheat, rabi sorghum, groundnut and cotton are substituted for it. In Uttar Pradesh, maize, rice and wheat form the main alternative crops to this crop.
+
+Groundnut-based cropping system: Groundnut is sown over an area of about 7.7 million ha, mostly in 5 major groundnut-producing states of Andhra Pradesh (28.6%), Gujarat (24.7%), Karnataka (15.3%), Tamil Nadu (14.4%) and Maharashtra (6.6%). Three other states, viz. Madhya Pradesh, Rajasthan and Uttar Pradesh, together have about 8.2% of the total area under this crop. The rainfall in the groundnut area ranges from 20 to 30 cm/month in one of the monsoon months and lesser in other months. In some cases, the rainfall is even less than 10 cm/month during the growth of the crop. The irrigated area under groundnut in these states is very small, viz. Andhra Pradesh (18.2%), Gujarat (7.2%), Karnataka (24.3%), Tamil Nadu (30.6%) and Maharashtra (23.7%).
+
+On the all-India level, about 9 cropping patterns are identified for this crop. In Gujarat, besides the sole crop of groundnut in some areas, pear! millet, is the major alternative crop, whereas kharif sorghum, cotton and pulses are also grown in this tract. In Andhra Pradesh and Tamil Nadu, this crop receives irrigation in some areas and rice forms an alternative crop. Under rainfed conditions, pearl millet, kharif sorghum, small millets, cotton and pulses are grown as alternative crops. In Maharashtra, both the kharif and rabi sorghum and small millets are important alternative crops. In Karnataka also, sorghum is the major alternative crop, whereas cotton, tobacoo, sugarcane and wheat are also grown in this tract.
+
+Cotton-based cropping system: Cotton is grown over 9.06 million ha in India.
+
+CROPPING SYSTEMS
+
+Maharashtra shares 33.9% (3.0 million ha), followed by Gujarat with 15.6% (1.41 million ha), Andhra Pradesh with 11.7% (1.06 million ha) and Punjab with 8.3% (0.75 million ha) of the area. Together, these 4 states account for about 69.5% of the area under cotton. Other cotton-growing states with smaller areas are Haryana with 7% (0.65 million ha), Karnataka with 7.4% (0.67 million ha.), Rajasthan with 6.7% (0.6 million ha) and Madhya Pradesh with 5.95% (0.54 million ha) area under this crop. Most of the cotton areas in the country are under the high to medium rainfall zones. The cotton grown in Madhya Pradesh, Maharashtra, Karnataka and Andhra Pradesh (5.14 million ha) is rainfed, whereas in Gujarat and Tamil Nadu (1.68 million ha), it receives partial irrigation (16 to 20% of the area). The area under cotton in Punjab, Haryana and Rajasthan (2 million ha) gets adequate irrigation, ranging from 71 to 97% of the area. These growing conditions, together with the species of cotton grown, determine the duration of the crop which may vary from 5 to 9 months.
+
+On the all-India basis, about 16 broad cropping patterns are identified. In Maharashtra, Madhya Pradesh, Andhra Pradesh; and Karnataka, the cropping patterns in the cotton-growing areas are mostly similar owing to identical rainfall. These patterns include sorghum (kharif and rabi), groundnut and small millets. Pulses and wheat are also grown on a limited area. In some pockets, where irrigation is available, rice and sugarcane are also grown. In Gujarat, rice, tobacco and maize are grown, besides the rainfed crops, e.g. sorghum and pearl millet.
+
+Winter cropping systems
+
+Among the rabi crops, wheat, together with barley and oats, sorghum and chickpea, are the main base crops..Generally, wheat and chickpea are concentrated in the subtropical region in northen India, whereas rabi sorghum is grown mostly in the Deccan. The extent of these areas in different states is given in Table 17.2.
+
+Wheat- and chickpea-based cropping systems: Wheat and chickpea are grown under identical climate and cane often be substituted for each other. The core of the wheat region responsible for 70% of the area nd 76% of production comprises Punjab, Haryana, Delhi, Uttar Pradesh and Madhya Pradesh, flanked by Rajasthan and Gujarat in the west region, and Bihar and West Bengal in the east region. This area has an extensive irrigation system, ranging from 96.6% area in Punjab to 88% in Bihar. The rainfall during the south-western monsoon is also fairly high, with over 20 to 30 cm rainfall in at least 2 out of the 4 months of the rainy season. However, winter showers are scattered and form less than 2.5 cm in each month from November to February. On the all-India basis, about 19 cropping patterns are identified with wheat and 7
+
+with chickpea. In Uttar Pradesh, maize rice, sorghum (kharif), small millets and groundnut from the main crops prceedings wheat and chickpea. Generally chickpea is grown on more moisture-retentive soils, but with the little irrigation or in areas with less of rainfall. In Madhya Pradesh, wheat is grown with stored moisture, with little irrigation and rainfall during the crop period. The crop suffers heavily for want of adequate moisture with the resultant low yields (65% of the all-India yield). The kharif sorghum, groundnut, oilseeds, cotton, small millets and fodders form the alternative crops to wheat and chickpea. In Punjab, 96.6% of the wheat area is under irrigation and therefore has rice, maize, fodders, pearl millet and cotton as the crops preceding wheat. In Rajasthan, the kharif sorghum, fodder and pearl millet precede, wheat, whereas chickpea and other oilseeds form alternative crops in winter. In Bihar, rice, maize and pulses are the main crops preceding wheat in the wheat-growing areas, whereas oilseeds and pearl millet are also grown as alternative crops. In Haryana, wheat and oilseeds are the main alternative crops in winter, whereas rice, maize, sorghum and pearl millet form the main preceding crops. In Maharashtra most of the wheat crop is gown on residual moisture; and pearl millet and other small millets or short-duration pulses form the monsoon crop in the wheat areas. Generally, heavy black cotton soils of Maharashtra and the adjacent Madhya Pradesh are left fallow in kharif for operational difficulties and wheat is grown after the cessation of rains with stored moisture. In Maharashtra, the rabi sorghum alternative to wheat.
+
+Rabi sorghum-based cropping systems: On the all-India basis, about 13 cropping patterns were identified with rabi sorghum. Maharashtra has the largest number of these cropping patterns, wherein starting with the exclusive rabi sorghum, pearl millet pulses, oilseeds and tobacco are grown as alternative crops. In Karnataka, small millets, groundnut, pearl millet, pulses and oilseeds form alternative crops to rabi sorghum. Cotton and tobacco are also grown in some parts of the rabi sorghum area of Karnataka. In Andhra Pradesh, short-duration pulses, small millets, paddy and oilseeds form the main alternative crops in the sorghum area.
+
+Plantation and other commercial crops: Crops under this category include sugarcane, tobacco, potato, jute, tea, coffee, coconut, rubber and other crops, viz. spices and condiments. Some of them are seasonal, some annual and some perennial. Generally the areas occupied by them are very limited compared with those of food and other crops. Nevertheless they are important commercially. Most of them require specific environmental conditions. As per cropping patterns, they are concentrated in some particular regions. Besides, certain horticultural crops, viz. apple, mango and citrus are important. The extent of the area and the regions in which they are grown are shown in Table 17.3.
+
+In several sugarcane-growing areas, monocropping is practised, and during the interval between the crops short-duration seasonal crops are grown. Wheat and maize are the rotation crops in Uttar Pradesh, Bihar, Punjab and Haryana. Rice is also grown in some areas. In the southern states, viz. Tamil Nadu, Andhra Pradesh and Karnataka, finger millet, rice and pulses are grown along with sugarcane. In Maharashtra pulses, sorghum and cotton are grown.
+
+In the potato-growing region maize, pulses and wheat are the alternative crops. In tobacco-growing areas, depending on the season and the type of tobacoo, sorghum, oilseeds and maize are grown in rotation. In the jute-growing area, rice is the usual
+
+CROPPING SYSTEMS
+
+alternative crop. However, onion, coriander, turmeric and ginger are grown as mixed crops with other seasonal crops.
+
+Mixed cropping: Crop mixtures are widely grown, especially pearl millet during kharif. Pulses and some oilseeds are grown with maize, sorghum and pearl millet. Lowland rice is invariably grown unmixed, but in upland rice several mixtures are prevalent in eastern Uttar Pradesh, Chhotanagpur Division of Bihar and in Chhattisgarh. During rabi, especially in the unirrigatged area of the north, wheat and barley and wheat and chickpea or wheat + barley+ chickpea are the mixtures of grain crops. Brassica spp. and safflower are grown mixed with chickpea or even with wheat. Mixed cropping was considered by researchers a primitive practice, but now many researchers regard it as the more efficient way of using land in a refined system termed as intercropping. Some of the new systems like complimentary intensive intercropping systems, which seek raising of morphologically and physiologically different crops in association, result in beneficial effects among themselves and in succeeding associations. These systems ensure an efficient utilization of sunshine and land on the one hand and helps in maintaining soil fertility and minimizing risks in crop production on the other. Breeders are developing plant types in pulses and oilseeds, having good compatibility with row crops.
+
+Future of cropping systems
+
+To feed ever-increasing population of the country extensive cropping systems have given way to intensive cropping which are exploiting natural resources. Therefore in future thrust will be more focused on efficient natural resource Management and sustainable production systems. Our emphasis so far have been addressing the issues related to crop production system only. Since the resource-management issues interact with other production system as well as, technologies related to integrated production systems involving crop, livestock, horticulture and fisheries need to be addressed. Further, with the changing economy, the value of commerce in agriculture would be appreciated and farmers’ decisions on land use would be increasingly based on comparative advantages rather than a subsistence need of the farm house hold. Therefore a major shift in agricultural reduction from foodgrains to vegetables, fruits, flowers, livestock etc is expected.
+
+Crop cultivation glossary
+
+Agri-silviculture. Growing of trees for timber but with cultivated crops grown beneath.
+
+Companion cropping. Growing short-duration crop between sugarcane rows such that it is harvested before the elongation phase of sugarcane (it is intercropping in sugarcane).
+
+Complimentary intensive intercropping. Raising of morphlogically and physiologically different type of crops in association which results in complimentary effects among themselves and also on succeeding associations.
+
+Component crops. Individual crop species that are a part of the multiple-crop system.
+
+Cropping effect. Competition of intercropped species for light, nutrients, water, CO, and other growth factors.
+
+Cropping system. Cropping pattern used on a farm and its interaction with farm resources, other farm enterprises, and available technology that determine their make up.
+
+Cropping index. Number of crops grown per year on a given area of land x 100. Cropping pattern. Yearly sequence and spatial arrangement of crops and fallow on a given area.
+
+Complementary effect. Effects of one component on another that enhance growth and productivity compared with competition.
+
+Component technology. Procedure for growing each component crop.
+
+Double cropping. Growing 2 crops per year in a sequence.
+
+Intercropping. Growing 2 or more crops simultaneously on the same field: crop intensification is in both temporal and spatial dimension; there is intercrop competition during all or in a part of crop growth.
+
+Interplanting. All types of seeding or planting a crop in a growing stand, used especially for annual crops grown under stands of perennial crops.
+
+Land equivalent ratio (LER). Ratio of the area needed under sole cropping to that under intercropping at the same management level to give an equal amount of yield, LER is the sum of the fractions of the yields of the intercrops relative to their sole-crop yields.
+
+CROPPING SYSTEMS
+
+Monoculture. Repetitive growing of the same sole crop on the same land. Mixed cropping. Growing 2 or more crops simultaneously with no distinct row arrangement.
+
+Multi-storeyed cropping. Growing together crops of different heights at the same time.
+
+Over yielding. Production of component crops in an intercrop that is higher than the sum of appropriate monoculture crops, this is indicated by an LER greater than unity.
+
+Parallel multiple cropping. Intercropping with ‘zero’ competition.
+
+Quadruple cropping. Growing 4 crops/year in a sequence.
+
+Relay cropping. Growing 4 crops/year in such a way that land is ‘passed on’ to another crop before the previous one is harvested.
+
+Relay intercropping. Growing 2 or more crops simultaneously during a part of the life-cycle of each crop; a second crop is planted after the first crop has reached its reproductive stage of growth but before it is ready for harvest.
+
+Rotation. Repetitive cultivation of an ordered succession of crops (or crops and fallow) on the same land: one rotation cycle often takes several seasons or years to complete.
+
+Ratoon cropping. Cultivation of crop re-growth after harvest.
+
+Sequential cropping. The intensification of cropping in sequence on the same field per year; the succeeding crop is planted after the preceding crop has been harvested; crop intensification is only in the time dimension; there is no intercrop competition.
+
+Strip intercropping. Growing 2 or more crops simultaneously in different strips wide enough to permit ‘independent cultivation but narrow enough for the crops to interact agronomically.
+
+Sole cropping. One crop variety grown alone in pure stand at normal density, synonymous with solid planting and opposite of intercropping.
+
+Simultaneous polyculture. Simultaneous growth of 2 or more useful plants of the same plot, this includes mixed cropping, intercropping, interculture, interplanting and relay plating.
+
+Spatial arrangement. Physical or spatial organization of component crops in a multiple cropping. .
+
+‘Triple cropping. Growing 3 crops/year in sequence.

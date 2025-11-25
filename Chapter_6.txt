@@ -1,0 +1,361 @@
+SOURCE_DOCUMENT: Chapter 6.pdf
+
+6. Desertification and its Control
+
+Desertification is a serious global problem, affecting one-sixth of the world’s population. One-quarter of the total land area in the world and 70% of all the drylands are seriously affected by adverse impact of the desertification. And 47.2% of the earth’s land surface is dryland.
+
+A total of 5.1 billion ha are made up of arid, semi-arid and dry sub-humid areas; a part of which is vulnerable and subject to degradation. These lands are the habitat and the source of livelihood for about one-fifth of the world’s population, experiencing pressures on environment caused by human mismanagement.
+
+Desertification is not only a global environmental problem but is also a serious threat to the socio-economic fabric all-over. Environmentally, it contributes to climate change, water, air and soil pollution, deforestation and soil loss. Some of the glaring aftermath effects of the environmental degradation are: loss of global biological diversity, loss of biomass and bio-productivity, exhaustion of humus reserve, disrupting normal global bio-geochemical turnover, and reduction on the global carbon-dioxide sink. More importantly, desertification contributes to climatic changes by increasing potential and decreasing actual evapo-transpiration rate, changing ground-surface- energy budget and adjoining air temperature, and adding dust and carbon-dioxide to atmosphere.
+
+Socio-economically, desertification constitutes the main cause of loss of productive land resources, thereby contributing to spread of poverty and hunger, economic instability and political unrest. It prevents achievement of sustainable development in affected regions and countries and directly threatens health and nutrition status of the populations.
+
+Desertification—meaning and concept
+
+Desertification is land degradation in arid, semi-arid and dry sub-humid areas resulting from adverse human impact. This adhoc definition was amended by following the recommendation of the United Nations Conference on Environment and Development (UNCED) in Rio de Janeiro in June 1992 as: Desertification is land degradation in arid, semi-arid and dry sub-humid areas resulting from various factors, including climatic variations and human activities. This is now internationally accepted definition of the desertification.
+
+Desertification may basically be considered a process of environmental change either naturally induced or human-made, through which an arid, semi-arid and dry sub-humid landscape suffers degradation and may become more desert-like. The mechanisms of desertification has physical, chemical and biogenetic aspects, but the consequences affect both the environment and the human society.
+
+In the definition, the term land includes whole ecosystems comprising soil and water resources, land surface, vegetation, animals and crops. And the term degradation implies reduction of resource potential by one or a combination of processes (e.g.
+
+water and wind erosion and sedimentation, long-term reduction in the amount and diversity of natural vegetation and animals and salinization). Desertification involves degradation of vegetation and soil both. Inappropriate land-use and mismanagement of soil or vegetation exacerbates risks of desertification. These also lead to severe
+
+. disturbances of fragile ecosystems in harsh environments. Soil-degradative processes— erosion, salinization and depletion of soil fertility, leading to desertification—result in (i) diminution of vegetative cover; (ii) decrease in net primary productivity (NPP); (iii) reduction in amount of biomass returned to soil; and (iv) depletion of soil-carbon pool.
+
+The exposure of carbonaccous sub-soil by water and wind erosions, can also lead to emissions of carbon-dioxide (CO,) by dissolution of carbonates.
+
+Another important aspect of desertification is reduction in soil organic-carbon pool by 8-12 megagrams C/ha. The reduction may be in the order of irrigated crop land > rainfed crop land > range land. In the definition, the main focus of desertification is on the arid, semi-arid and sub-humid dryland areas.
+
+Characteristics of arid, semi-arid and dry sub-humid areas
+
+Drylands comprise a wide range of ecosystems from hyper-arid to sub-humid. These areas are characterized by low and erratic rainfall or precipitation and a short-growing season. A principal feature of the drylands is a negative water balance, as expressed by the annual rainfall or precipitation and potential evapo-transpiration and by the high inter-annual rainfall variability. The ratio of annual precipitation (P) to potential evapo-transpiration (PET) is less than 0.05 for hyper-arid, 0.05—0.20 for arid, 0.20- 0.50 for semi-arid and 0.5—0.65 for sub-humid regions. Regarding growing days, arid drylands typically have less than 75 days, semi-arid lands have 75—120 days, and dry sub-humid regions have 120-150 days.
+
+According to the World Atlas of Desertification, the arid, semi-arid and dry sub- humid areas have the following main features.
+
+Arid areas (0.05 P/PET < 0.20): These areas have mean annual precipitation values up to 200 mm and interannual variability of 50-100%. Pastoralism is possible, but without mobility or use of groundwater resources it is highly susceptible to climatic variability.
+
+Semi-arid areas (0.20 P/PET < 0.50): These are distinctly characterized by highly seasonal rainfall regimes and mean annual values up to 800 mm in summer-rainfall areas and 500 mm in winter regimes. Their interannual variability of rainfall is high (25-50%). Despite their suitability for grazing, sedentary agricultural activities in these areas are susceptible to seasonal and interannual moisture deficiency.
+
+Dry sub-humid areas (0.50 P/PET < 0.65): These have highly seasonal rainfall regimes. Their interannual rainfall variability is less than 25%, In them agriculture is widely practised. However, they are very susceptible to degradation due to seasonality of rainfall, drought periods and increasing intensity of human use.
+
+Drought and desertification
+
+Land in many parts of the world has been degrading into desert like conditions because of drought. Consequently, drought is threatening more people than ever before. Worth noting is the fact that drought is a temporary problem and desertification is not
+
+DESERTIFICATION AND ITS CONTROL 161
+
+that temporary, and is creating a more serious problem than drought. Man can do little to prevent drought, but he can halt desertification. Drought is temporary, cyclical and can be expected in all climates, whereas desertification is insidious, unexpected and permanent. In fact, drought is considered as an engine of desertification.
+
+Drought and desertification are closely linked. Water shortages and high rainfall variabilities make desertification more acute. This, in turn, promotes drought and intensifies its effect. Ecological degradation processes are set in through excessive destruction of natural vegetation. It is only during prolonged periods of drought that the above mentioned processes lead to desertification. Ecological consequences of long-term rainfall deficits are: (7) elimination of grass-cover; (ii) elimination of some bush vegetation; (ii) drop in ground water table near the surface; (iv) an increase in shifting sands and reactivation of some old sand dunes; (v) more wind erosion of fine soil components; and (vi) increased evaporation, with drying out of soils and cracking on clay soils.
+
+Soil degradation in drylands
+
+The distinctive features of soils commonly found in dryland regions are: (i) low in organic-matter contents; (ii) low clay content (compared with soils from more humid areas), and (iii) little affected by leaching because of low precipitation levels.
+
+The general deficiency in moisture means that salts, once accumulated, tend to remain in-situ. Dryland soils have a low level to recover after degradation, and as such also dryland soils have a low resilience.
+
+Drylands are more susceptible to wind erosion than any other biome because soils are dry, poorly cemented and sparsely covered by the protective vegetation. They are also equally susceptible to water erosion because of low precipitation levels, which do not support a year round cover of protective vegetation. The soils are highly erosive when rain falls. Topography also affects susceptibility to water erosion. High relative relief encourages run-off even when only moderate areas of the ground surface have lost protection of the vegetative-cover.
+
+Some forms of in-situ degradation are commonly encountered in drylands. Salt- affected soils occur mostly where evapo-transpiration exceeds rainfall and where water is available (groundwater sources or perennial rivers). Salinity problems are more often associated with poorly managed irrigation schemes. Physical deterioration of dryland soils through waterlogging, which is intimately linked to excessive application of irrigation water combined with poor drainage, is responsible for salinization.
+
+Dryland degradation is dominated by soil erosion, followed by water erosion (45%), and wind erosion (42%). Chemical deterioration accounts for 10% and physical deterioration just for 3%. The situation, however, varies according to aridity zone. About 60% of the soil degradation in arid zones is by wind erosion, though only 21% 1s in dry sub-humid areas. In arid areas, water erosion accounts for 29% of degradation. Wetter dryland areas are more susceptible to water erosion. Water erosion is the dominant form of degradation in dry sub-humid and semi-arid zones, accounting for 63% and 51% degradation, respectively (Table 6.1).
+
+Worldwide around 1.96 billion ha are affected by human-induced soil degradation, mainly caused by water (1,094 million ha) and wind (548 million ha). Out of it, chemical “terioration accounts for 240 million ha, mainly nutrients decline (136 million ha)
+
+Source: World Atlas of Desertification, 1997, UNEP.
+
+and secondary salinization (77 million ha). Physical degradation due to compaction, sealing and crusting has occurred on 83 million ha.
+
+Assessment of desertification
+
+Global status: So far three global assessments of the status of the desertification have been made. The first assessment was made by the United Nations Conference on Desertification (UNCOD), which found that within drylands, the area affected (at least moderately) comprised 3.97 billion ha or 75.1% of the total drylands, excluding hyper-arid deserts. The second assessment made in 1984 confirmed the scale of desertification presented by the UNCOD. Land continued to be irretrievably lost through desertification or desert-like conditions at the rate of 6 million ha annually.
+
+A new assessment of the world status of desertification was undertaken by the United Nations Environment Programme (UNEP) in 1990-91. Nearly 3.6 billion ha or 70% of the total drylands have been found affected by the degradation. And 145 million ha or 30% of the total area in the world’s drylands have been found affected by the various processes of degradation, mainly waterlogging, salinization and alkalization. Nearly 216 million ha of rainfed croplands or 47% of the total area in drylands of the world (457 million ha) are found affected by water and wind erosions of the soil, depletion of nutrients and physical deterioration. The largest area of degraded rangelands occurs in Asia followed by Africa.
+
+The FAO had carried out an assessment in 1990 through the project Global Assessment of Soil Degradation (GLASOD), which showed that 19.5% of the drylands of the world were affected by the soil degradation. According to the study almost 40% of agricultural land was adversely affected by human-induced soil degradation and more than 60% was degraded to such an extent that its restoration was possible only through a major capital investments. Another study carried out by the International Centre for Arid and Semi-arid Land Studies in 1991 revealed that: (i) approximately 70% of the arid lands have showed more or less intense signs of desertification; (ii) desertification has threatened over 1.5 billion people over the world and has affected a quarter of the world’s land in more than 100 countries; and (iii) desertification is spreading at a rate of 500,000 ha/year.
+
+Soil degradation in South and South-East Asia: The Assessment of the Status of the Human-Induced Soil Degradation in South and South-East Asia (ASSOD), was conducted by the International Soil Reference and Information Centre (ISRIC). It was done in 17 countries in South and South-East Asia, out of which 7 contain areas of
+
+DESERTIFICATION AND ITS CONTROL 163
+
+susceptible drylands, where desertification is a potential problem. The assessment revealed that in total 317 million ha (34%) of China were susceptible drylands, as also 188.81 million ha (59.1%) of India, 2.33 million ha (3.5%) of Myanmar, 1.39 million ha (9.5%) of Nepal, 72.81 million ha (82.9%) of Pakistan and 1.66 million ha (6.8%) of Sri Lanka.
+
+Soil degradation scenario in India: The information on soil degradation in India was assessed by the NCA, MOA, NRSA. And one report estimated 57% of the land (187.7 million ha) in the country as potentially exposed to various degradation processes; the most dominant fraction was under water erosion (148.9 million ha; 45%), followed by wind erosion (13.5 million ha; 4.1%), chemical deterioration (13.8 million ha; 4.2%) and the rest (11 million ha; 3.6%) by physical deterioration.
+
+Demographic pressure on the land, leading to loss of vegetative cover through deforestation, has been reported to be the primary cause of degradation. Besides, lack of proper soil-conservation practices and crop rotation, non-judicious use of fertilizers, faulty irrigation and water-management practices, discharge of industrial effluents, sewage or sludge are also responsible for soil degradation (Table 6.2).
+
+Source: Vision 2020. Division of Natural Resource Management, ICAR, 2000.
+
+Desertification processes
+
+The four desertification processes that have an extensive impact on the biological productivity of the land are: degradation of vegetative cover, soil erosion, salinization and waterlogging and soil compaction.
+
+Vegetative cover serves as the direct or indirect source of human food and as the protection against soil erosion. The potential for damage to plants is greatest in the drier parts of the arid regions. The destruction of vegetation in the drier areas is more difficult to reverse. The shift in vegetational belts has led to more xerophytic vegetation supplanting mesophytic types. Increased aridity has changed potential climax vegetation from desert grassland to desert shrub. Increased soil aridity, without any climatic change, is more responsible for decreasing land productivity than is generally realized.
+
+Water erosion is the dominant type of erosion responsible for changing land surface. Erosion may be geologic (natural) or accelerated (due to man’s activities). In desertification, the concern is with accelerated erosion, which can be controlled by altering man’s activities. Wind erosion, likewise, may also be accelerated due to man’s activities. The moving sand dunes can be stabilized by revegetating them. Dune encroachment can be construed as the special case of desertification. Severity of water erosion is determined by estimating or measuring soil loss. In wind erosion, the amount of deposition indicates the loss.
+
+Salinization and waterlogging of irrigated cropland go together; the latter leading to former. Application of saline irrigation water to slowly permeable soil can Jead to salinity. Salinization poses greater threat to crop production than waterlogging.
+
+Soil compaction assumes greater importance in dry arid areas. These soils are low in organic matter and are dry to a considerable depth. The pressure of tillage machinery, the pounding of livestock hoofs, and dispersion and packing effects of rain drops striking soil can cause soil compaction. Surface-soil compaction is called soil crusting, which is widespread on grazing lands and on the cultivated lands.
+
+Broadly, soil degradation can be categorized into three principal types, viz. physical, chemical and biological (Fig. 6.1).
+
+Soil erosion by water: The soil erosion induced by water or run-off is the most serious degradation problem. On an average, 16.35 tonnes/ha/year of soil loss; totalling to 5,334 million tonnes/year takes place in the Indian continent. Soil erosion also leads to reduction in storage capacity of reservoirs by 1—-2% annually. Soil erosion through
+
+DESERTIFICATION AND ITS CONTROL
+
+accelerated sheet wash and rill or gully development occurs mainly on soils supporting rainfed agriculture with an annual soil loss of 20 to over 200 tonnes/ha/year. The north- eastern states of India have severe water erosion problem, because of the practice of jhuming (shifting cultivation), narrowing down of fallow periods, and population pressure. Sheet wash and rill or gully development as the result of water erosion also occur mainly in the Saurashtra and Kutch uplands and along the eastern margin of the Thar in Rajasthan, where average annual rainfall varies from 350 mm to 500 mm.
+
+Wind erosion: It is a serious problem in the arid and semi-arid regions of Rajasthan, Haryana, Gujarat, Punjab and coastal areas. In coastal areas where sandy soils predominate as also in the cold desert regions of Leh, wind erosion poses a serious problem. In arid and semi-arid regions of the northwest, covering an area of 28,600 km’, wind erosion in moderate to severe forms takes a heavy toll. And 68% of the above area is covered by sand dunes and sandy plains, which are prone to sand blowing by wind. Removal of natural vegetative cover because of excessive grazing and extension of agriculture to marginal lands are the two major human-induced factors, leading to accelerated wind erosion.
+
+Chemical deterioration: \t can occur in soils through a number of processes, viz. losses of nutrients or organic matter, salinization or alkalization and a pollutant. The loss of soil-organic matter is perhaps the single-most degrading factor to soil quality, particularly in hot-and-dry regions. Soil-organic matter is important because of its positive effects on the water retention, soil structure, biological activity and cation- exchange capacity. It is also the source of the large portion of the nutrients needed by the plants. In many regions, there is a net negative balance of nutrients and a steady depletion of organic matter. Jt is particularly true in the cultivated areas. Alfisols and Ultisols, in particular, are prone to chemical deterioration due to nutrient depletion. In India, 70% of the area is deficient in soil-organic-carbon; having less than 1% organic- carbon. Deficiency of phosphorus is widespread, showing 49.3, 48.8 and 1.9% of soils having low, medium and high P status. Similar is the position of available potash. There is a growing intensity of sulphur deficiency in 120 districts and micronutrient (Zn, Fe, Mn and B) deficiencies in intensively cultivated areas.
+
+It is estimated that 10.1 million ha are suffering from salinity or alkalinity problems. The salt-affected soils occur widely in arid, semi-arid and dry sub-humid zones of the Indo-Gangetic plains. Alkali soils dominate in areas having mean annual rainfall of more than 600 mm, and saline soils are dominant in arid, semi-arid and coastal regions.
+
+Physical deterioration: With the reduction in the content of the soil-organic matter, the soils become prone to crusting and to increased run-off leading to their physical deterioration. Sub-soil compaction has been reported in some intensively cultivated areas. Compaction restricts root growth and leads to reduction in crop yields. Excessive wetness due to waterlogging also causes serious physical degradation problem.
+
+Waterlogging: About 11.6 million ha are prone to waterlogging. The problem is severe in the Indira Gandhi Canal Command Areas in Rajasthan, where irrigation in the soils having gypsum-rich barriers at shallow depth and wrong drainage planning are the major causes for degradation, leading to saline-sodic water and salt-rich hard- pans. Some areas of Uttar Pradesh, Haryana and Punjab under irrigation are also affected by waterlogging problem. India losses on an average about 1.2—2.0 million tonnes of foodgrains production every year due to waterlogging.
+
+Desertification impacts
+
+Adverse impacts of desertification are varied and immense and can be viewed under two major heads—environmental and socio-economic impacts. Desertification causes irreversible damage to environment, food and livelihood security, loss of biodiversity and a perceptible decline in the quality of life; ultimately leading to poverty. In short, impacts of desertification could be stated as follows.
+
+Environmental impacts: (i) Loss of ecological stability, (ii) loss of biodiversity, (iii) reduction in carbon-sink capacity and its effect on climate, (iv) floods, drought and related losses, (v) damages to watershed, (vi) soil erosion, (vii) silting up of reservoirs, (viii) desertification and drought, and (ix) changes in hydrological regime.
+
+Social and economic impacts: Loss of (i) employment and (ii) food and livelihood security.
+
+There are some other more important impacts of desertification such as vegetative cover, losses in productivity as the result of soil erosion and inefficient water management, overabstraction of groundwater and decline in quality of life.
+
+Impacts on depletion of vegetative cover: There has been a gradual change of ecosystem through loss or replacement of one species with another. In many parts of Rajasthan there has been a gradual change in natural vegetation found in the region and its plant density. For example, in sandy areas of less than 200 mm annual rainfall zone, the grass species such as Lasiurus sindicus and Eleusine compressa are being slowly replaced with the concomitant decline in basal cover and plant density. At many places original species are being replaced by the poor quality shrubs and grasses like Crotalaria burhia and Aristida funiculata. On an average, the area with good grass species in the <300 mm average annual rainfall has declined by about 7%, and in the >300 mm average annual rainfall zone, the decline has been 8 to 12%. This has a significant effect on the potential fodder production from these lands.
+
+Soil erosion
+
+Impacts of wind erosion: Sand dunes and sandy land forms in the western part of the desert (agro-ecological sub-region, ASER, 2.1, 2.3) are more unstable and vulnerable to wind erosion than those in the east. The increasing gradient in the wind velocity from east to west further accelerates process, leading to losses of topsoil and terrain deformation. Large-scale introduction of tractor-ploughing in the sandy terrain of Thar and western parts of Haryana is increasing sand load manifold for aeolian processes. Destruction of natural plant-cover in the sandy terrain for fuel and fodder, extending areas of cultivation to less suitable sandy tracts and higher slopes of sand dunes and land levelling in the Indira Gandhi Canal command area are also accelerating aeolian processes.
+
+Impacts of water erosion: The annual rate of water erosion has been estimated from less than 5 tonnes/ha/year (for dense forests, snow-clad mountains and arid desert regions) to more than 80 tonnes/ha/year in Shivalik hills. The annual erosion rate in the Western Ghats and the coastal regions varies from 20 to 30 tonnes/ha/year, and can be as high as 60 to 70% if they are under shifting cultivation. This results in formation of ravines, which has affected an area of approximately 3.97 million ha, and occur along the banks of the rivers Yamuna, Chambal, Mahi, Tapti and Krishna, and in the regions with shifting cultivation; affecting 4.91 million ha in the north-east.
+
+The transfer of eroded soils into reservoirs results in reduction of storage capacity by 1-2% annually.
+
+Impacts of erosion on soil fertility: Soil erosion is directly linked to deterioration of soil health, which, in turn, affects crop productivity and sustainability. Erosion also takes away with it every year 14 million tonnes of such major nutrients as nitrogen, phosphorus and potassium from the country’s soil. Red and lateritic soils are particularly prone to this problem. Intensive cropping has further hastened process of nutrient removal. Soil-organic matter, a dynamic resource, is also lost, particularly in Rajasthan, Gujarat and eastern parts of Jammu and Kashmir.
+
+According to the Tata Energy Research Institute, New Delhi, the economic losses caused by lower crop yields and reduced reservoir capacity as the result of soil erosion range from Rs 89 to 232 billion based on the estimated losses of 11-26% of agricultural output.
+
+Impacts of inefficient water management: Inefficient water management not only results in losses of precious input, water, but adversely affects soil to which it is applied. Waterlogging, very often is the end-product of mismanagement or inefficient water use. The adverse impacts of waterlogging are reflected in the overall effect on ecology, reduced agricultural output, limited choice of crops, and socio-economic conditions of the affected region.
+
+Impacts of overabstraction of groundwater: The excessive pumping of groundwater for irrigation purposes in intensively cultivated areas of Punjab, Haryana and western Uttar Pradesh has caused lowering of groundwater-table in some pockets. During the past decade groundwater-table has dropped at a rate of 0.50.8 m/year Haryana and 0.2-1.0 m/year in Punjab. Overexploitation of groundwater has led to intrusion of saline water into coastal aquifers, resulting in deterioration of water quality.
+
+Impacts of desertification on decline in quality of life: Increase in collection time of fuel-wood, fodder and water is an indirect indication of the land and corresponding decline in quality of life of the rural community, particularly the women-folk. Many a women spend a life of drudgery, spending their time in collection of basic needs of the family.
+
+Impacts of desertification on migration from rural areas and urbanization: There is a well-established correlation between desertification and migration from rural areas. Forced migration to urban areas due to desertification leads to inability to adjust to exigencies of urban living and creation of slums and the associated social stress. As a result, there is increased pollution and environmental degradation and consequent decline in the quality of life.
+
+Impacts of desertification on climate: The changes in the vegetative cover due to various man-induced changes influence solar radiations and thus energy balance of the surface and the atmosphere of the earth. Any change in the surface albedo (reflection of sunlight due to loss of vegetation) will affect amount of solar radiations absorbed by the surface. Similarly, changes in the soil-moisture levels will determine portion of energy that is used in evaporation and transpiration processes, which, in turn, affect microclimate. Other factors such as wind speeds and surface temperatures influence evapo-transpiration,
+
+Causes and effects of soil degradation
+
+Human mismanagement is primarily involved in a particular area, causing its soil degradation (Fig. 6.2). Five soil degradation causes for each land unit have been recognized. These are deforestation and removal of natural vegetation, overgrazing, agricultural activities, overexploitation of vegetation for domestic use, and (bio) industrial activities.
+
+Agricultural activities that lead to degradation encompass all aspects of inappropriate agricultural land management. For example, improper use of irrigation water and poor drainage may lead to salinization. Shortening of fallow periods in shifting cultivation results in soil exhaustion; the insufficient or excessive use of fertilizers, and improper use of heavy machinery are other examples.
+
+Regarding causes of degradation in drylands, overgrazing is overriding cause. Growing numbers of livestock in Asia have been responsible for intensification of grazing, leading to degradation. Deforestation and removal of natural vegetation cover has been the primary cause of degradation in South America, affecting 41% of the 79 million ha of drylands. In North America, agricultural activities are the most important cause of dryland degradation.
+
+Arid western part of India is worst affected by land degradation. Wind erosion, water erosion, waterlogging, salinity or alkalinity and vegetation degradation have been identified as the major types of degradations. Industrial effluents and mining are also gradually becoming important factors of desertification. Here the problems also are linked to mismanagement of land by man. Sandy land-forms and sand-dunes, more particularly the new dunes, in the Thar desert are most vulnerable to wind erosion.
+
+DESERTIFICATION AND ITS CONTROL
+
+Large-scale introduction of tractor-ploughing in the sandy terrain, including dune slopes, is increasing sand-load manifold for aeolian processes.
+
+Aeolian processes are also being accelerated by other human interventions like destruction of natural plant-cover in sandy terrain for fuel and fodder, enlarging areas of cultivation to less suitable sandy tracts and higher slopes of sand-dunes, land levelling in Indira Gandhi Canal command area and also some zoogenic activities. The magnitude of soil loss due to accelerated aeolian activities has been observed to be 50-100 kg/ha of sand every year from the dune-covered tract of the desert. In the arid zone of India, soil erosion through accelerated sheet-wash and by rill and gully development occurs mainly in the eastern margin of the Thar desert in Rajasthan, where average annual rainfall varies from 350 to 500 mm. Increased ploughing of marginal lands with high slopes and shallow soils, destruction of natural vegetation for fuel and fodder, overgrazing, and other destructive uses are the major reasons for water erosion. Accelerated water erosion has assumed alarming proportion in parts of semi-arid Rajasthan, Madhya Pradesh, Uttar Pradesh and Gujarat, where ravines have affected 2.4 million ha.
+
+The salinity-alkalinity problem is spreading fast in coastal alluvial plains of Kutch and Saurashtra in arid Gujarat and in arid Rajasthan. Irrigation with saline-sodic water and profuse irrigation in ill-drained soils, having a salt-rich hard-pan at medium to shallow depth, is primarily responsible for salinity build-up in arid Rajasthan. Waterlogging and salinity-alkalinity are increasing at a faster rate in the Indira Gandhi Canal command area. Excess irrigation in soils, gypsum-rich barrier at shallow depth and poor planning of drainage are the major causes of degradation in this area.
+
+Mining is becoming a major threat in some areas of arid lands. Further, industrial effluents are also becoming major source of land and water pollution in arid Rajasthan.
+
+Vegetation degradation is yet another cause of desertification in many parts of arid Rajasthan. As a result of vegetation degradation, biomass production is becoming restricted, leading to fodder scarcity. It has been estimated that more than 60% of the grazing-land in the Thar is in poor condition, 14% is in fair condition and only 13% is in good condition.
+
+Desertification indicators
+
+Desertification indicators can serve two useful purposes: (/) estimating how much land degradation has occurred in the past, and (ii) what effect the current management practices are having on the ecosystem.
+
+Range scientists were the first to look for indicators of range conditions and trends. Soil Conservation Service (SCS) has evolved a classification system, based on the response of plants to grazing. Plant ecologists have found the concept of climax vegetation useful in analyzing plant succession.
+
+In rainfed crop-lands, soil erosion is the number one desertification problem. Indicators of desertification should, therefore, indicate changes in soil characteristics over time. Periodic measurements of the amount of removal and deposition of soil indicate amount of land degradation that has occurred in the past. Repeated measurements will also show the trends of degradation. The FAO has identified additional soil characteristics for evaluation of soil degradation. Two physical properties, viz. sealing of soil surface (surface crusting) and compaction of soil horizons
+
+(formation of plough pans, in particular), have been regarded as crucial for assessing soil degradation. Assessment of land degradation in irrigated land is mainly concerned with the measurement of soil salinity throughout the root-depth and determination of the closeness of water-table to the surface.
+
+In an earlier attempt, desertification indicators were grouped under the headings of physical, biological or agricultural and social indicators (Table 6.3).
+
+Soil can be considered as the dominant factor of desertification. In this context, the basic indicators of soil quality have to be identified and a soil-quality index need to be evolved. Soil quality can be used not only as the management tool but also as the measure of sustainability of land-management systems. Basic soil quality indicators
+
+Source: Reining P. 1978. Handbook of Desertification Indicators. AAAS, USA; Kassas. 1987. Drought and Desertification Policy 4: 389.
+
+DESERTIFICATION AND ITS CONTROL 171
+
+should be sensitive to variations in the management or climate to monitor changes in the soil quality, and propose management changes to enhance it. Of late, series of indicators related to soil erosion and water availability for defining areas vulnerable to desertification have been proposed. Based on these indicators, the land capability to withstand further degradation or the land suitability for supporting specific types of land-uses is assessed. These indicators are classified under 6 broad heads related to soil, water, vegetation, society and land management. Vegetation cover plays a key role in desertification. Reduction of organic matter in the top soil and subsequent decrease in soil-biological activity can lead to accelerated erosion, and ultimately to land-use change. Livestock in hilly areas causes land degradation and desertification, vegetation degradation and ultimately leading to soil compaction.
+
+Desertification control
+
+Regardless of the challenges involved, desertification control and restoration of degraded lands is a win-win strategy. It needs to be done.
+
+Before taking up desertification control on any dryland or area, it is necessary to assess and monitor the type and the severity of the land degradation. The causes of land degradation are also to be ascertained. Based on degradation, the selection and application of appropriate actions, will have to be taken. Whatever steps or actions are taken to combat desertification, they should aim at achieving sustainable development of the area, which can be possible with the management and conservation of the resource-base, the land, so as to meet the present and future needs of the people habitating that area or zone. The sustainable development of arid, semi-arid and dry sub-humid zones usually confronts three challenges: (i) using preventive measures, to check or prevent desertification of land slightly or not yet degraded; (ii) to regenerate, through corrective measures, the productivity of the moderately degraded land; and (iii) to restore the productivity of seriously degraded land, using rehabilitation and repair measures.
+
+The techniques for combating desertification consist of practices that are effective in controlling several desertification processes; that in aggregate represent deserti- fication. The major processes are: vegetation degradation, water erosion, wind erosion, salinization of soils and soil compaction. Some processes may be of local importance such as heavy metal pollution of soils and groundwater, pesticide contamination, lowering of groundwater levels, and some other damaging changes in the land quality. Although reclamation procedures for each of these degradation processes are known, the problems arise in using them, because they are site-specific in their application. Soils, climate and land slopes are variables, and that must be known to develop appropriate control measures.
+
+Desertification control in arid lands: Desertification is a serious problem in the arid drylands of India. It is more severe in the north-western parts of the country, especially in the desert tracts of Rajasthan and Gujarat, as also in Haryana and Punjab. Wind erosion is a major problem in part of the Rajasthan desert. Higher average wind speeds, dominantly sandy terrain, sparse vegetation cover and high human activities on the sand-dunes and sandy-plains lead to accentuation of sand-blowing. It also leads to erosion of top soil, containing nutrients and precious little organic matter as also moisture, thereby reducing soil quality required for sustainable agricultural production.
+
+172 HANDBOOK OF AGRICULTURE
+
+Standing crop-plants are damaged and good agricultural lands and infrastructures are buried as the result of wind erosion.
+
+Two major activities of wind-erosion control are sand-dune stabilization and shelter- belt plantation.
+
+Sand-dune stabilization: Two types of sand dunes, categorized into the old and new dunes, are met within the desert. Old dunes, usually higher than 10 m, are naturally stabilized with potentials to support copious natural vegetation. These dunes have extremely low rates of movement unless their ecology is disturbed by human action. The new dunes are mostly smaller than 10 m. They are bare of vegetation and have a high rate of movement.
+
+Most programmes of sand-dune stabilization have been directed towards old dunes, to restore production potentials. The activities mainly consist of: (i) protection of the area from human and livestock encroachment; (ii) creation of microwind breaks on the dune slopes, using locally available shrubs either in a checker-board pattern or in parallel strips; (iii) direct seeding or transplantation of indigenous or exotic species, (iv) plantation of grass strips or direct sowing of grass seeds on leeward side or micro- wind breaks; and (v) management of revegetated sites.
+
+Cultivation of dune slopes is a major form of land-use in the zone receiving more than 150 mm average annual rainfall. The dunes are largely owned by private farmers and as such the programme of sand-dune stabilization can succeed only with the participation of local people.
+
+Control of new dunes poses a problem, as they are devoid of vegetation and are formed currently. Biological control of such a dune has not met with much success, but chemical methods like oil-spray have met with some success. The oil spray is a costly proposition in that it may spoil land permanently. In India even barchan slopes are put to monocropping of pearl millet wherever there is monsoon rainfall.
+
+Shelter-belt plantation: Erection of shelter belts along the boundaries of crop fields helps reduce injuries to tender seedlings from sand blasting and hot desiccating winds. Wind velocity at the lee side of the shelter belt is reduced and also the losses by about 16%.
+
+Usually, a three-row wind break of Acacia tortilis, Cassia siamea and Prosopis juliflora as the side rows and Albizia lebbek as the central row is suggested. Experience at the Central Arid Zone Research Institute, Jodhpur, suggests that across-the-wind plantation of a 13 m wide tree-belt, grown in pits and interspersed with 60 m wide grass-belt, provides the best results. The shelter belt should be continuous without any gap, as the gaps have a tunnelling effect.
+
+Soil and water-conservation measures: The wetter parts of the arid zone and the semi-arid areas are more prone to water erosion. To counter crusting of soil and its subsequent erosion, a number of practices have been suggested, like contour bunding (low rainfall area) or graded bunding (medium-to high-rainfall area), contour tillage and contour sowing in the agricultural fields. In black soil area, ridge-and-furrow system has been found rewarding in reducing problem of waterlogging. In hard-pan soils, deep-ploughing at an interval of 3-4 years will ensure better infiltration of water and root growth.
+
+Mixing of crop residues and organic matter with light-textured soils helps increase soil moisture and crop yield. In Saurashtra upland and Kutch peninsula where gravel
+
+DESERTIFICATION AND ITS CONTROL
+
+forms a significant part of the surface-soil volume but the sub-surface is less stony, periodic tillage may reduce danger of water erosion, enhance moisture conservation and ensure better soil drainage. On the non-arable lands, a grass cover ensures minimum soil loss. This is not applicable to cultivated fallows.
+
+Small and medium gullies could be reclaimed through clearing and levelling of gulley beds, followed by construction of contour-bunds and check-dams, and provision of pipe outlets and ramps with suitable grasses. In deep and closely spaced gullies, gully plugging, planting of grass species like Dichanthium annulatum on gully heads and sides, and plantation of tree species like Prosopis chilensis, Acacia nilotica, Dendrocalamus strictus and Prosopis juliflora help in controlling erosion.
+
+Management of rainfed crop lands: Two cardinal practices, minimum or reduced tillage, and strip cropping, help in reducing losses due to wind erosion. A limited tillage after first monosoon shower was found ideal. In a loamy sand soil under an average rainfall regime of 300 mm, the limited tillage of one disking and sowing resulted in increased production of greengram, clusterbean and cowpea. In a sandy soil the tillage needs to be further reduced. Summer tillage should be avoided.
+
+Strip cropping, consisting mostly of a strip of crops, followed by another of grass or shrub with fodder value, has been found useful for wind-and water-erosion control. The widths of strips depend on the types of soil and crop. In sandy-loam of arid areas, the strips may vary from 6 to 30 m. In the semi-arid areas, the system helps arrest water erosion and stabilize production system. A width of 7-8 m was found optimum. Sorghum and pearl millet were found compatible with Leucaena leucocephala as fodder-crop rows.
+
+Management of pastures and rangelands: Permanent pastures are most degraded, as they do not have any basal plant-cover. Destruction of natural vegetation and encroachments have increased to an extent that original plant communities have been replaced by poor communities. These degraded pastures will have to be rehabilitated by growing grasses like Lasiurus sindicus, Cenchrus ciliaris and C. setigerus and by planting trees and shrubs like Prosopis cineraria, Ziziphus nummularia, Capparis decidua and Acacia nilotica after some soil-working. The improvements can increase carrying capacity of an average pasture from 2.5 sheep/ha to as much as 4.5-6.9 sheep/ ha in sandy soils and 9.0 to 13.8 sheep/ha in loamy sand soils.
+
+Management of waterlogged and salt-affected soils: Mismanagement of water and wrong irrigation planning have rendered many productive soils to hazards of waterlogging and salinity-alkalinity. The command area of the Indira Gandhi Canal, and the command areas of small and medium irrigation tanks in the desert are some of the glaring examples. Vertical and sub-surface drainage in the alluvial soils of Haryana and black soils of Karnataka have partly countered problems associated with waterlogging. Lining of canals, judicious use of canal-water and soil management are necessary to arrest further degradation of land.
+
+; Irrigation with high-residual sodium carbonate groundwater has spoiled much area in the central and southern parts of the desert. The soils can be reclaimed by addition of 8ypsum. With the proper choice of crops only the upper 15 cm of soil needs to be amended by Bypsum, For highly degraded illite-rich soils of Haryana, 14-15 tonnes/ha of gypsum can start Tice—-wheat rotation, in which cultivation of rice further improves soil.
+
+Rehabilitation of mine-spoils: Very poor status of plant nutrients in the overburden
+
+or mine dump, higher pH and exchangeable sodium, magnesium, sulphur and phosphorus as well as salinity-alkalinity build-up are some of the major constraints in the rehabilitation of the mine-spoils. Revegetation is a challenging job. Suitable tree, shrub and grass species will have to be identified for rehabilitation of the different kinds of mine-spoils. Mine areas with gypsum, bentonite, Fuller’s earth and clay can be rehabilitated with species like Prosopis juliflora, Salvadora persica, Acacia tortilis, Albizia amara, Parkinsonia aculeata, Dichrostachys nutans, Capparis decidua, Desmostachya bipinnata and Cenchrus ciliaris. Transplanting of 6-9 months old saplings raised in polypots should be preferred over direct sowing of seeds, as the latter provide very poor results in arid areas, Development of micro-catchments with 5% slope to ensure run-off to single row of plants, coupled with other soil-conservation practices like ridge-and-furrow system and half-moon structures helped grow shrubs and grasses with 90% success. :
+
+Management of industrial effluents: There is some scope for recycling of the toxic industrial effluent and use of the water for biomass production. Tree species that have been found to establish and grow on to textile effluent water in the arid areas are: Eucalyptus camaldulensis, Acacia nilotica, Azadirachta indica, Hardwickia binnata, Colophospermum mopane, Prosopis cineraria, Prosopis juliflora and Tecomella undulata. The prerequisites are: (/) addition of gypsum and farmyard manure at 5 kg/ pit, and (i/) adoption of double-ring method of irrigation, where irrigation is done in the outer ring, i.e. away from the sapling.
+
+Site-specific technology for desertification control
+
+About seven land-resource units, having different soils and slopes, experiencing varying moisture regimes (rainfall conditions) predominating the Indian arid zone, require site-specific ameliorative measures.
+
+Hills and rocky or gravelly pediments: \n areas receiving less than 250 mm average annual rainfall, forage and fuel-lots need to be set-up by planting Acacia senegal, Prosopis juliflora and grasses (Lasiurus sindicus) in soil cavities. A support system of water-bodies is necessary to provide supplemental irrigation during establishment phase. In areas receiving more than 250 mm rainfall, ber (Ziziphus mauritiana) could be planted in soil cavities on farmers’ lands, besides forage and fuel-lots. A tanka is necessary for providing at least one supplemental irrigation to ber during establishment.
+
+Buried pediments and older alluvial plains: Agri-horticulture (ber + mothbean or clusterbean) and agri-pasture (Lasiurus sindicus + mothbean or clusterbean) systems could be established, besides plantation of suitable trees and grasses on the field boundaries, coupled with in-situ water harvesting through construction of micro- catchments with 3% slopes or half-moon terraces in areas receiving less than 250 mm average annual rainfall, For areas receiving more than 250 mm rainfall, recommended dryland-farming technology along with plantation on the field boundaries and agri- horticulture adopting a watershed approach is recommended.
+
+Saline flat older alluvial plains: For corrective treatment of this resource unit against soil salinity or alkalinity, the following steps may be taken: (i) strong field bunding to support leaching of salts; (i/) application of gypsum as per requirement (if required), together with application of farmyard manure; (iii) growing salt-tolerant plants; and (iv) digging deep pits for planting trees.
+
+DESERTIFICATION AND ITS CONTROL 175
+
+In areas with less than 250 mm average annual rainfall, alternative land-use systems will be found rewarding and a mix of dryland farming practices and alternative land use systems, along with corrective measures would be appropriate in areas receiving more than 250 mm rainfall.
+
+On low-lying areas, fields can be kept fallow during rainy (kharif) season to support leaching, followed by growing of assured crops like mustard in winter (rabi).
+
+Sandy undulating older alluvial and inter-dune plains, and sandy undulating buried pediments: Adoption of watershed or Index Catchment approach (depending on the terrain characteristics) is absolutely necessary. In areas receiving less than 250 mm average annual rainfall, the focus has to be on silvipasture (deep soils) and pasture (shallow soils) development.
+
+Sand dunes: Details are given under sand-dune stabilization in desertification control in arid lands.
+
+Younger alluvial plains: These areas possess greater production potential with medium-to fine-textured soils and better moisture regime. They could be capitalized by dove-tailing farming-systems perspective on watershed-based management approach for sustainable production.
+
+Saline depressions: These can be utilized for forage and fuel production with appropriate measures for correcting salinity.
+
+Desertification control of degraded lands in semi-arid ecosystem
+
+The semi-arid ecosystem can be classified into dry and wet semi-arid zones. Dry semi-arid areas receive a mean annual rainfall of 500-700 mm with a growing season of 75-100 days. The soils in the northern part of the country are loamy-sand, light sandy-loams and medium black, and in peninsular region, shallow and medium black soils are predominant. The wet semi-arid region receives a mean annual rainfall of 750-1,000 mm with a growing period up to 120 days. This zone is characterized by sandy-loam and loam-soils in the north, medium to deep-black soils in the central part, and red and medium to deep-black soils in the south. Besides foodgrains, livestock production, particularly sheep and goat, has a significant role in livelihood of people in these areas.
+
+The productivity of drylands is low and unstable. Natural causes like water erosion and decline in soil fertility due to fall in soil-organic matter pose serious challenges to sustaining productivity of drylands. Integrated resource management, therefore, becomes critical for sustainable agriculture. in semi-arid tropics.
+
+Conserving soil and rain water: The twin objectives of the area are to ensure maximum in-situ moisture conservation and harvest run-off water for recycling during scarcity periods.
+
+High intensity rain storms lead to sheet and gully erosions causing significant loss of top soils both in Alfisols and Vertisols. A combination of mechanical, agronomic and vegetative practices can help in arresting soil loss and run-off in a cropped land. Resource loss (water and soil loss) is more when lands are kept fallow. Cropping the fallows will be a golden rule to save soil from erosion.
+
+Mechanical measures like contour and graded bundings and bench terracing are designed for lands of different slopes as permanent structures. Central Research Institute for Dryland Agriculture (CRIDA), Hyderabad, has evolved semi-permanent inter-
+
+terrace land treatments, which are primarily designed to minimize velocity of overland flow. Land treatments like ridging, compartmental bunding, conservation furrows, broad bed and furrows are some examples. Of late, vegetative barriers (vetiver, lemon. grass, Gliricidia and Cenchrus ciliaris) have been found useful in checking velocity of overland flow and arresting soil loss.
+
+In medium-to-high-rainfall areas, despite following in-situ moisture-conservation practices, rain-water surplus does exist, which can be harvested and recycled. The estimated potential volume of rain-water storage for small-scale, water-harvesting structures for different rainfall zones of the country is now available.
+
+Tillage is an important aspect of conservation of soil and rain water. Off-season tillage or pre-monsoon tillage has a marked impact on weed control and rain water intake. Soil moisture content is more at the planting time, if soil is tilled in off-season. Deep tillage (25-30 cm) is of special significance in problem soils having hard-pan, making them more permeable for water intake and promoting better root-system development. Excessive tillage in sandy soils accentuates soil erosion. It does not permit build-up of soil organic-carbon. Low-till farming strategies are most appropriate for good crop-stand and build-up of organic matter.
+
+Mulching and crop-residue incorporation also contribute to conservation of soil and rain-water. Mulching reduces evaporative water loss from soil surface, as also run-off from cropped fields, besides controlling weeds.
+
+These practices are, however, more useful under receding soil-moisture conditions. For heavy black soils, vertical mulching is recommended for greater intake of rain- water. Green material land cover (mulch) is promising. Gliricidia branches or tree lopping can be used as cover after planting and incorporated into soil after canopy development. The practice has resulted in reduced soil loss, improved water intake, reduced evaporation and enhanced soil quality.
+
+Soil fertility management: Management of soil organic matter at its equilibrium (with climate) level is absolutely essential in semi-arid tropics. Integrated nutrient management (INM) is the only way to sustain productivity of soils on the long-term basis. About 50% of the fertilizer-N could be replaced with the use of farmyard manure in variety of soils. In view of the limitations of availability of farmyard manure, alternative sources like green-leaf manures and crop residues need to be found.
+
+Nitrogen-fixing tree (Leucaena leucocephela) and bushes raised on either side of the bunds around the crop fields and lopping incorporated in the soil form yet another promising way of fertility build-up in drylands.
+
+Management of non-arable lands as alternate land-use systems: Lands of capability class IV and above could be best utilized for a number of alternative land- uses where self-generating grasses, legumes and perennial woody trees form major components. Agri-silviculture agri-horticulture, horti-pasture and silvi-pasture are some of the typical examples. Alternative land-uses not only provide fodder, fuel-wood and timber and fruits but also enhance quality of resource-base through greater biomass production and provide a land cover for most part of the year. Management of lands of lower capability through such interventions is the best way of integrating livestock production in semi-arid tropics region, thus contributing to the production system.
+
+Silvi-pasture is yet another land-use for marginal lands where a perennial tree like Leucaena leucocephala is planted either with Cenchrus ciliaris ot
+
+DESERTIFICATION AND ITS CONTROL 477
+
+Stylosanthes hamata. Marginal lands that are otherwise kept fallow can be used to raise improved pasture of Stylosanthes hamata or Cenchrus ciliaris. Such improved pastures can support up to 6 sheep/ha in a continuous grazing system without any supplemental feed, though the native pastures fail to support even 2 sheep/ha. Ley farming is another approach where a legume-forage is rotated with cereals. This system improves soil health, besides providing fodder.
+
+Watershed approach: Watershed is a natural hydrological unit having a common run-of outlet (drainage). By adopting this approach, it is possible to ensure: () effective implementation of conservation measures including mechanical and vegetative as per contours; (ii) using land as per its capability; and (iii) integration of entire toposequence for conservation of resources and their efficient utilization. The resources conserved could thus be put to more diverse uses in farming-systems perspective.
+
+Farmers’ participation is critical in resource management on watershed basis in the process of problem prioritization, choice of technology, implementation of project and equitable sharing benefits accruing out of resource build-up.
+
+Desertification control by sequestering carbon in arid and semi-arid eco- systems
+
+More than 50% of area in India falls under arid (hot) and semi-arid (hot) agro- ecological regions. The soils in these regions are depleted of carbon, containing less than 2% soil-organic matter. Soil orders Aridisols and Inceptisols together represent 56.3% of the total distribution of C in Indian soils. In bioclimatic regions maximum (33.1%) soil-organic carbon was found in semi-arid (hot), followed by arid hot (23.2%) and arid cold (16.6%) regions. The alluvial soils of the Indo-Gangetic plains, shrink- swell soils of central, western and southern India and ferrugineous soils of southern peninsula regions are affected mostly by C depletion.
+
+The risks of desertification are exacerbated by inappropriate land-use and by soil or vegetation mismanagement, which lead to greater disturbances of fragile ecosystems in harsh environments. Soil-degradation processes (e.g. erosion, salinization, depletion of soil fertility) leading to desertification diminish vegetative cover, decrease net primary productivity, reduce amount of biomass returned to soil and deplete soil- carbon pool. The exposure of carbonaceous sub-soil by water and wind erosion can also lead to emissions of CO, by dissolution of carbonates.
+
+There is a large scope for sequestration of organic-carbon in degraded soils through appropriate land-use planning, viz. agriculture, agroforestry and silviculture, adopting suitable soil-and moisture-conservation measures. Restoration of severely degraded rangelands and pasture lands through afforestation with quick-growing nitrogen-fixing tree species is another option of increasing content. Plantation of suitable forest species on sodic soils not only improves physical conditions of the soil but also helps in increasing organic-carbon content.
+
+Simple restoration measures with potential for C sequestration may include adoption of improved agricultural techniques, viz. use of fertilizers and organic manures, mulch farming, conservation tillage, agroforestry measures, cover crops and mixed farming Systems, and establishment of vegetative cover on denuded soil surfaces. An increasing Soil-organic-carbon content of 0.01% per year to 1 m depth (for a bulk density of 1.5 mg/m’), restoration of 10 million ha of soil in tropics has a potential to sequester C at
+
+the rate of 1.5 pg (1x10'%g)/year and decrease greenhouse effect. The soil-organic- carbon content in crop land could be improved by adopting: (i) proper cropping system involving forage or legumes, that invariably conserve soil-organic-carbon and maintain a great biological nutrient pool; (ii) practices like limited or reduced tillage, residue management, integrated nutrient management, elimination of summer fallow. These practices are known to sequester up 50 to 100 kg C/ha/year; (iii) application of organic materials with C : N ratio of 10 to 15: 1; and (iv) green-manuring and application of farmyard manure.
+
+Besides, there is also some potential of improving soil-organic-carbon content by adopting practices that improve water-use efficiency (WUE) and nutrient-use efficiency.
+
+As most water reserves in drylands are saline, some halophyters could be grown by irrigation with brackishwater. Some useful halophytes with potential to produce large biomass are known. The biomass, useful as forage or as raw material for industry, can also improve sequestration.
+
+The grazing and fallow lands along with severely degraded lands need to be brought under some kind of forests and agroforestry systems. This will contribute a great deal to meeting requirements of forage, fuel-wood and other forest products, besides increasing biodiversity, and improving quality of the environment. Soil-organic-matter content is higher under forest cover than with agricultural crops. Compared with the sole cropping, the soil organic matter content in agri-horticultural and agroforestry system has been doubled.
+
+Afforestation and agroforestry have tremendous potentials for carbon sequestration not only in above ground C biomass but also in root C biomass in deeper soil depths. Reforestation of 75 million ha of most degraded lands with suitable trees and grasses or crops may sequester about 4 pg (1<10'°g) of carbon.
+
+Desertification control of degraded lands in dry sub-humid areas
+
+Erosion problems loom large in these areas. The most serious problem is in the form of sheet erosion. Gully erosion is the most common along banks of Yamuna, Chambal and Mahi rivers. The Himalayan and lower Himalayan regions are highly degraded by intensive deforestation, large-scale road construction, mining and cultivation of steep slopes. The eastern Himalayan region is subject to serious soil- erosion hazard as a result of the practice of shifting cultivation. The ameliorative measures call for implementation of appropriate soil-and water-conservation technology. These practices are broadly divided into measures suitable for arable and non-arable lands.
+
+Measures for arable and non-arable lands: \t includes contour farming, mechanical measures like contour bunding, graded bunding, bench terracing on steep and run-off harvesting, storage and recycling. For non-arable lands, land capability classes V, VI, VII and VIII, which are unsuited for agricultural production, establishment of vegetative cover is one of the best soil-and-water conservation measures. Natural grass cover alone could reduce run-off and soil losses to negligible values compared with cultivated fallow. Tree cover also intercepts rainfall and reduces energy of rain-drops, thus reducing soil detachment. Mixed grass (Chrysopogon fulvus) and fuel-wood tree (Dalbergia sissoo) species planted on denuded classes V and VI lands could produce high grass yields (10.55 tonnes/ha/year) along with 64 tonnes/ha of fuel wood after 19 years.
+
+Ravine lands: It could be reclaimed by adopting following technologies, developed by the Central Soil and Water Conservation Research and Training Institute, Dehra Dun.
+
+Small gullies (<3.0 m). For these, clearing, minor levelling and construction of contour bunds at a vertical interval of 0.9 m need to be done. Pipe outlets or ramps with suitable grasses could be provided to drain excess run-off. At the end of the gully, a small checkdam is provided.
+
+Medium gullies (3-9 m deep). For these, clearing, levelling its bed and constructing a series of composite earthen and brick masonary check-dams at a vertical interval of about 1.2 m with an outward slope of 0.75% between two structures and bench terracing the side slope are done.
+
+Deep gullies (>9 m deep). Gully plugging (with live hedges, brush wood earthen and composite structures) is done to conserve soil moisture, control erosion and provide better growing conditions for the natural as well as planted grasses and forest sp<« Some suitable tree species for ravine lands are Prosopis chilensis, P. juliflora (bumps and side slopes), Acacia nilotica (side slopes) and Dendrocalamus strictus ( gully beds).
+
+Land slides. They affect utility services, human settlements, agriculture, tourism and trade etc. Protective, vegetative and economic measures are needed to stabilize and control land slides. Protective measures include isolation of area from man and animals. Structural measures are mainly gabion drop spillways, spurs and retaining walls. These measures control flow in the torrent and prevent further slope failures. Vegetative measures include planting trees, shrubs and grasses as well as mulching and contour wattling.
+
+Rehabilitating degraded rural commons
+
+In dry tropics and mountain areas, Rural Common Property Resources (RCPRs), community pasture, forest, wasteland, watershed drainage etc. form an important community asset in India. There has not only been a constant decline in the area of CPRs but their productivity has also been considerably reduced during the past few decades. Indifference of people towards CPRs due to their low productivity, encroachment of these lands for private purposes, and non-existence of any regulatory authority towards upkeeping and maintenance of resources are largely responsible for decline of their area and productivity.
+
+Rehabilitation of CPRs as productive social assets needs new technology focus. Technology that can enhance regeneration and increased flow of biomass, is an important requirement. Besides productivity, diversity and usability, socio-economic- based resource management problem is immense. Even natural regeneration itself can make CPRs more productive, provided controlled and regulated use of resources is permitted. It has been suggested that organization of CPR user groups is essential to rehabilitate it on a sustainable basis.
+
+Technological steps necessary for increasing the productivity of degraded CPR are: (i) protection from biotic interference; (i) soil working or grubbing of obnoxious weeds; (iii) reseeding; and (iv) management.
+
+Live fencing with either cactus, Prosopis juliflora, Acacia senegal or Clerodendrum phlomidis will suit most of the arid-zone situations. By simple fencing, the productivity could be enhanced within a year, as the rootstocks of perennials sprouts and seeds
+
+lying in the soil also germinate and shrubs would again resprout, thereby contributing to total biomass production. Once the land is protected, reseeding of appropriate grass species could be done after removing the unwanted shrubs and by working the soil. Contour bunding or contour furrowing could be done as a part of soil-and moisture- conservation activity. For increasing the productivity of reseeded grassland, application of lower doses of fertilizers would increase the dry forage yield and crude protein. For further improvement of quality, it would be desirable to introduce perennial legumes with grasses, as also top feed-tree species. This will contribute to increased carrying capacity per unit of land, besides meeting multiple needs of the users.
+
+The best option for rehabilitating the degraded CPR would be to establish an appropriate silvi-pastoral system, which not only will meet the fodder and fuel-wood requirements of the villagers but also improve the soil fertility. Experience has shown that the establishment of the silvi-pasture system on the degraded land has tremendous potential in improving soil- biochemical characters. This mostly depends on the selection of the tree and pasture species, in respect of their ability to improve soil fertility. It implies that a wide range of multipurpose species may be incorporated to achieve soil-fertility amelioration and to enable flow of diverse direct and indirect benefits to the users.
+
+As suggested earlier, the rehabilitation of CPR should be oriented more towards achievement of resource management based on socio-economic considerations as this has not been able to deliver the goods, and the situation has gone from bad to worse. The organization of User Self-help Groups seems to hold promise in management of community resources. Some features of prospective CPR user groups could include as an essential part the equity of access and benefits from CPR for all the members. The membership may comprise whole village or specific occupational group. Further, Common Property Resources User Group should be out of the purview of village Panchayats, but should have legal sanction, so as to be effective in performing its functions.

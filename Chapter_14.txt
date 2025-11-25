@@ -1,0 +1,527 @@
+SOURCE_DOCUMENT: Chapter 14.pdf
+
+14. Irrigation and Drainage Management
+
+Efficient use of water resource is basic to survival of the ever-increasing population of a country. In arid and semi-arid climatic conditions, the timing and amount of rainfall are not adequate to meet the moisture requirement of crops. Therefore, supplementary irrigation is essential to raise the crops necessary to meet the needs of food and fibre for the growing population. Scientific irrigation water management provides the best insurance against weather-induced fluctuations. This is the only way in which we can make our agriculture profitable and sustainable in the coming decades (Table 14.1). On-farm irrigation management for different crops including efficient use of poor-quality water is an essential component of water management in irrigated command areas. Drainage of agricultural lands is as essential as irrigation. Therefore, information on surface and sub-surface drainage are also included here.
+
+Water resources
+
+Precipitation is the main source of renewable water supply. India receives average annual rainfall of 1,194 mm which when considered over the geographical area of 329 M ha amounts to total annual rainfall of 4,000 km? with a variation of 100 mm per annum in western most region to 11,690 mm/year in Cherapunji, Meghalaya, of eastern region. The water resources of the country, which occur as natural run-off in the rivers, are estimated to be 1,870 km? considering both groundwater and surface water contributions. Due to various constraints, such as topography and uneven distribution of resources over time and space, about 1,122 km? of water can be put to beneficial use; of which 690 km? is through surface water and 432 km? by groundwater.
+
+Out of 690 km? of surface water, so far about 213 km’ of storage are built through major and medium irrigation projects. Another 184 km? of storage are under construction/consideration. Similarly, out of 432 km? of groundwater resource, about 360 km? of groundwater is expected to be available for irrigation, out of which present
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+usage is about 135 km?. Groundwater remains underdeveloped in regions where surface water is adequate. But it is mined in some blocks. It was estimated that in 15% of the blocks, the annual extraction of groundwater exceeds annual recharge. In 4% of the blocks it is more than 90% of the recharge. Groundwater extraction in such blocks needs to be better regulated.
+
+Ultimate irrigation potential
+
+The total ultimate irrigation potential of the country has now been estimated as 140 M ha. The share of major and medium schemes that are surface water based is 58.5 M ha, whereas that of minor schemes, based on surface water is 17.4 M ha. The ground- water-based minor irrigation schemes are expected to irrigate 64.1 M ha.
+
+Command area development
+
+There has been large-scale irrigation development but there was shortfall in utilization of the potential created. To focus attention on the efficient utilization of the created resources, a multi-disciplinary agency, the Command Area Development Authority, was launched in 1974-75. The CAD programme was initiated with 60 major and medium irrigation projects. So far 310 irrigation projects with a Culturable Command Area (CCA) of about 28.45 M ha have been included under the programme; out of which 133 projects are currently under implementation. Based on suggestions received from beneficiaries, implementing agencies and recommendations of the Working Groups of the Planning Commission on CAD Programme, the CAD Programme has been restructured and renamed as “Command Area Development and Water Management (CADWM)” Programme from | April 2004. The Programme involves execution of on-farm development (OFD) works like construction of field channels and field drains, reclamation of waterlogged areas, renovation and rehabilitation of minor irrigation tanks, correction of system deficiency, above outlets up to distributaries of 4.25 cumecs (150 cusecs) capacity. The programme also involves software activities like adaptive trials, demonstrations, training of farmers, evaluation studies, etc. Central assistance of 50% (limited to the prescribed cost norms) is provided to the State governments for construction activities and of 75% for the software activities. Warabandi or a rotation system of distribution of irrigation water is a component of the programme.
+
+Basin-wise water resource
+
+Refer Chapter 8 ‘Water Resources of India: Potential and utilization’
+
+Irrigation
+
+Irrigation is the artificial application of water to partially meet the crop evapo- transpiration requirements. It is essential for sustaining crop productivity in many regions of the country mainly because the rainfall is inadequate and unevenly distributed to meet crop-water demands. Irrigation water is a costly and scarce input, and is becoming more difficult to increase the area under irrigation to meet the demand for food, fodder and fibre of the growing human and livestock populations. The competing demands of water for other uses, viz. urbanization and industrialization, are also restricting the availability of water for crop production. Therefore it is essential to
+
+optimize the use of water according to availability on a sustainable basis in the declining water-table areas and to allow minimum loss of water by efficient water-management techniques in areas where water-table is continuously rising. This is possible through following measures of optimum and efficient use of irrigation water for crop production.
+
+Land irrigability classification
+
+All lands are not suitable for introducing irrigation. Irrigability classification is made taking into consideration soil characteristics, viz. soil texture, depth, available water capacity of soils, inherent infiltration, permeability and climatic conditions like potential evapo-transpiration (PET) and rainfall characteristics and topography of land. Assumptions are often made in classifying the soils within irrigability sub-class when soils have similar limitations. The soil salinity, sodicity, drainability and quality of groundwater are also considered on the basis of individual situations with respect to soil-water relationships, crop selection and management. The specification for land irrigability classes are given in Table 14.2.
+
+Irrigation requirement
+
+Irrigation requirement at the field level refers to the amount of water, exclusive of Precipitations, required to mature the crop (Table 14.3). It is usually expressed in depth at the given time. It thus includes the amount of water needed to meet the losses through evaporation and transpiration, both occurring simultaneously and hence termed evapo-transpiration (ET), application losses and special needs. It does not include transit losses. The term consumptive use (CU) is also used to designate the water losses due to ET plus that used in the plant metabolism. Since water used in metabolism is negligible, the two terms are used as synonyms. The irrigation requirement is
+
+IRRIGATION AND DRAINAGE MANAGEMENT 457
+
+essentially the amount of water required to replenish soil moisture deficit back to field capacity (FC) in the root zone of a crop. But water is also needed for special purposes like leaching of excess salts, puddling, pre-planting irrigation etc.
+
+Irrigation requirement (IR) of an individual crop at field head is given by the following equation:
+
+IR=E+T+B + special needs
+
+where E is, evaporation; T, transpiration; and B, water needs for building up of plant body.
+
+In the absence of water need for special purposes, the irrigation requirement is essentially ET or CU.
+
+The supply would consist of contributions from any of the sources of water, viz. available soil moisture storage (M), groundwater (GW), effective rainfall (ER), and irrigation (IR). Thus, IR can also be expressed as sources of water from which these demands are met as given in equation (ii).
+
+IR = WR-(ER + M+ GW)
+
+The IR obtained in this equation will be taken as such, if irrigation efficiency is 100%, but in actual practice, efficiency is less 100 %. Therefore, the actual IR at the field head will be obtained by adjusting for the irrigation efficiencies. Similarly, IR for an outlet or a project area will constitute the sum of irrigation needs of individual farms plus the losses taking place in distribution systems in an outlet command or project command area.
+
+Effective rainfall
+
+Effective rainfall is the part of total rainfall that is useful directly or indirectly for crop production at the site where it falls, but without pumping. It, therefore, includes ET of crop and the fraction that contributes to leaching or facilitates other cultural practices either before or after sowing without any harm to yield and quality of tne crop. The precise measurement of the effective rainfall is done by lysimeter. However, indirect methods for computation of effective rainfall are also successfully used. The effective rainfall can be estimated by ET/precipitation method developed by the United States Department of Agriculture. The relationship between average monthly effective rainfall and mean monthly rainfall is shown for different values of average monthly crop ET. Thus out of the total amount of irrigation or rainfall, the net depth of water that can be stored effectively on the root zone can be estimated.
+
+The field lysimeters (evapo-transpiration meters) of an appropriate size can give more realistic values of all the water balance parameters, viz. IR, ER, M, GW, run-off, percolation etc.
+
+Measurement of crop evapo-transpiration
+
+Accurate estimation of crop ET, is an important practical consideration for efficient water management of the crops in semi-arid regions. The principal methods for direct measurement of ET are: (i) lysimeters, (ii) field experimental plots, (iii) soil moisture depletion studies, and (iv) water balance method.
+
+Lysimeters: These are tanks filled with soil in which crops are grown under natural conditions to measure the amount of water lost by evaporation and transpiration. This method provides the only direct measurement of ET and is frequently used to study the climatic effects on ET. However, all lysimeter data are not representative of field conditions. Soil conditions inside the lysimeters must essentially be the same as those outside. Lysimeters can be grouped into the following two categories.
+
+Non-weighing types: The difference between the water supplied to the lysimeter and that which drains out, is measured. If the soil water changes in the lysimeter are measured with a neutron-moisture meter weekly, actual ET can be determined with reasonable accuracy. When PET is to be measured, frequent irrigations are applied so that drainage can occur. If daily irrigations are followed, the moisture profile remains relatively constant and estimates over | week are reasonable. Still the neutron moisture meter measurements are desirable. Many designs of non-weighing lysimeters are available ranging in size from the large-area, deep-monolith lysimeters to the small area shallow lysimeters constructed from drums. The former is used for actual ET, whereas the drum-type may be employed for PET.
+
+Weighing types: The non-weighing lysimeter cannot provide short period estimates (e.g. hourly or daily), hence several types of weighing lysimeters were developed. The lysimeter studies conducted at Karnal for 8 years provided valuable information on actual evapo-transpiration and crop coefficients of important crops for optimum and economic use of water. The following important conclusions are drawn from studies weighing types.
+
+1. The peak value of ET, for all the crops are given along with the time of occurrence so that irrigation could be planned to avoid moisture stress during these periods to minimize chances of yield reductions. The measured values of crop ET for different crops are: wheat (337 mm), rice (587 mm), maize (335 mm), sorghum (495 mm), sunflower (655 mm) and berseem (480 mm).
+
+2. The Penman-Monteith, a current standard method is useful to estimate the reference evapo-transpiration. The US Class A pan evaporation (PanE), and FAO- Radiation method are useful to estimate ET, for rabi (November to April), and FAO-Corrected Penman and FAO-Blaney and Criddle method for kharif (June to October). During summer the appropriate methods suggested are FAO- Corrected Penman, PanE and FAO-Radiation.
+
+3. Measurement of ET, and ET, were used to develop the stage-wise crop coefficients for different crops. These values were the functional variables of water consumption of the crops in relation to their biological properties and ecological conditions of the environment. The estimated values of crop
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+coefficients (K,) differ considerably from those suggested by the FAO. Therefore, for climatic conditions prevailing in the region, values of K, given in Table 14.4 should be used for estimation of crop water requirements.
+
+4. Computer model CROPWAT can be used to calculate the crop ET and irrigation requirements of different crops from crop coefficients data generated from this study and the same can be compared with those obtained on the basis of K, values reported by the FAO. The computed values of irrigation requirement of different crops using K, values developed at Karnal are very close to those obtained from lysimeter but differ significantly from the FAO suggested values. This reflects the utility of locally developed K, values.
+
+Climatological data: Evapo-transpiration is governed by evaporative demand of the atmosphere. Several climatic factors influence and decide the rate of ET. In fact when water is not a limiting factor, the rate of ET is decided by atmospheric demand of the water. The climatic factors influencing evaporation are radiation, temperature, humidity and wind speed. Attempts were made to use one or a combination of different climatological factors to calculate the potential ET. These methods include, Penman 63, FAO-Corrected Penman, Penman-Monteith, Pan-Evaporation, FAO-Radiation, Blaney and Criddle, and Thronthwaite.
+
+Water balance method: This method, also called inflow-outflow method, is suitable for large areas (watersheds) over long periods (Table 14.5). It may be represented by the following hydrological equation.
+
+Irrigation + precipitation = Evapo-transpiration + surface run-off + sub-surface drainage
+
+this method adequate measurements of all factors are necessary except
+
+transpiration. The value of evapo-transpiration is computed from the measured data. The values usually are annual totals and should not be considered applicable for shorter- term rates of water use within the season.
+
+Water-measuring devices
+
+; Measurement is the first step towards effective water management. Water-measurng devices can be grouped into four categories: (i) volumetric measurement, (ii) velocity area method, (iii) measurement structure and (iv) tracer techniques. All these devices can be calibrated for actual measurement. Standard charts and tables have been developed to estimate discharge of water from these devices for conventional uses. The commonly used water-measuring devices are V-notch, weirs, Parshall flumes, H- flumes and Orifices. The current water meter is commonly used in area velocity and it requires a well defined channel section for measurement. Normally it is used for small flows in open channels and water-course levels.
+
+Criteria for scheduling irrigation
+
+Irrigation scheduling is commonly defined as the determination of the period when to irrigate and how much water to irrigate for optimal crop production. To achieve better productivity, it is important to work out an efficient and economic irrigation schedule for water use under any given set of agro-climatic conditions. The main objectives of efficient irrigation scheduling include (i) high yield of good quality, (ii) high water-use efficiency, (iii) least damage to soil productivity, and (iv) low irrigation cost. There are several approaches for scheduling of irrigation based on crops, soil, and atmosphere and plant water relations.
+
+Physiological stages: Irrigations are based on distinct stages of growth. The growth stages of some important field crops at which irrigations are given after considering for rainfall, especially for kharif crops, are given in Table 14.6.
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+Soil moisture depletion: Soil moisture levels are based either on available soij water depletion at certain depth (zone of maximum root activity) or soil water Potential of the same depth. The magnitude of available soil water depletions at which irrigation is to be scheduled may be 25, 50, 75% etc., while in soil water potential, the values may be 0.1, 0.2, 0.3, 0.4, 0.5, 0.6 bars, etc., at some specified depth.
+
+Meteorological parameters: When soil water supply is adequate, the ET of a crop is primarily controlled by the evaporative demand of the ambient atmosphere. This approach is relatively more practical than meteorological approach of IW/E,,, [the ratio between a fixed amount of irrigation water (IW) and cumulative open pan evaporation minus rains since previous irrigation (E__)] as a basis for scheduling irrigation to crops. First find out the permissible soil water depletion, before irrigation is applied, so that yields are not reduced. Based on this approach, optimum irrigation schedules for different crops were developed.
+
+Plant indices: Any plant character related directly or indirectly to plant-water deficits and which responds readily to the integrated influence of soil water, plant factors and evaporative demand of the atmosphere, may serve as a criterion for timing irrigations to crops. Canopy temperature and relative turgidity are some of the important plant indices.
+
+Irrigation scheduling of important crops: Optimum irrigation scheduling based on scientific principles is becoming more important with scarcity of water supply due to increase in the competition for water. Thus the purpose of optimum irrigation scheduling is to ensure adequate supply of soil moisture to minimize plant water stress during critical growth stages. The farmers broadly face two type of situations with respect to water supplies, viz. (i) adequate water is available on demand and the aim is to achieve maximum yield per unit of land without wasting water, and (ji) limited amount of water is available and the aim is to maximize production per unit of water by rationalizing its distribution over available land and also applying it at more sensitive stages of crop growth. The optimum irrigation schedules for major field crops in different agro-ecological regions have been evolved.
+
+In irrigation commands, farmers generally apply irrigations larger than the required depth. In most of the crops, 6-7 cm depth of irrigation through surface irrigation methods were found optimum for efficient utilization of irrigation water. The critical growth stages of various crops were identified in respect of water demand and yield, reducing water-stress susceptibility. This approach is suitable for most of the oilseeds and pulses for scheduling irrigation at critical stages. Under limited water supply, irrigation should be applied at critical growth stages for maximizing water-use efficiency.
+
+Introduction of new, low water requiring crops in the traditional crop sequences have resulted in increased net returns (20-125%) and saving of 20-52% irrigation water over traditional crop sequences (Table 14. 7).
+
+In areas where water-table fluctuates with shallow depths and the water quality is good, the irrigation requirement of crop is considerably reduced due to substantial contribution from groundwater-table towards crop ET. Critical water-table depths have also been quantified for different crops under different agro-ecological situations. Compared to pulses and oilseed crops, cereals and millets can tolerate shallower groundwater depths. Application of irrigation along with optimum dose of fertilizer nutrients increases water-use efficiency without any increase in the consumptive use of water.
+
+Irrigation application methods
+
+Irrigation water is generally applied to crops by flooding on the field surface, applying beneath the soil surface, spraying under pressure or by applying in drops in the crop root zone. The water application method must ensure a uniform distribution of water along the cropped field as well as in the root zone of the crop with high application efficiency. The ratio of the water stored in the root zone to that delivered to the field should be maximum. There should be minimum or no wastage of water either through surface run-off or deep percolation below the root zone of a crop. Several water application methods are practised to suit different soil types, water supply and its quality, the topography of the land, crops to be irrigated and costs. These application methods are described here.
+
+Surface application method: \n this method, water is applied to the crop by flooding it on the soil surface. This method requires proper land grading for the flow of water over the land surface. This is simple in layout and operation. The overall irrigation efficiency of surface irrigation is low. The worldwide average irrigation in canal command areas shows overall irrigation efficiency of as low as 28%. Such low irrigation efficiency in surface irrigation results in waterlogging and soil salinization, besides the huge amount of water losses. More than 95% of the irrigated area in India is under surface irrigation. The surface irrigation method may be broadly classified as border, furrow and check basin.
+
+Border method: Borders are formed by dividing the field into number of strips which are separated by ridges. The length of the strips is generally more than 3 times the width. The strips are generally levelled along the width but may or may not have slope along the length. An irrigation channel runs along the upper end of the borders. The recommended design dimensions of borders based on field experiments conducted at different locations are given in Table 14.8.
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+Furrow method: The furrow irrigation is adaptable to a great variation in slope, crops and topography. Close growing crops, viz. small grains, grass and pasture, on slopes and soils that develop crust after being wet may also have to be irrigated with small furrows, which are called corrugations or rills. The main design parameters of furrow are longitudinal slope, inflow stream size, furrow spacing and furrow length. The longer furrows result in more percolation losses and less run-off, and result in greater economy in handling of farm equipment, turning of farm machinery and labour requirement and vice-versa. The length may vary from 30 m for sandy soil at lesser slope to 300 m for heavy soils at greater slope. Furrow spacing should be such that the lateral water movement of the moisture wets the ridges by the time the irrigation is complete. The lateral water movement from the furrows depends on soil type with larger value for clay soil (100 cm), and smaller value for sandy soil (60 cm). The furrow spacing for row crops is determined by agronomic requirements of row-to- row spacing (varying from 45 to 70 cm), and machine to be used for planting and cultivation.
+
+Check basin method: It consists of running water into relatively level plots surrounded by small ridges. The length of the plot is generally less than 3 times the width. Main and lateral channels irrigate the plots. The main channel is aligned along the upper end of the field and checks are made on either side of the lateral channels. The check basins are especially suitable for heavy soils with low infiltration rate or highly permeable sandy soils. The key to attain high irrigation efficiency in the design of check basin is to spread water over the entire basin as rapidly as possible. Therefore the use of large inflow stream reduces water-spread time over the basin (Table 14.9).
+
+Sprinkler and micro-sprinkler application: This system sprinkles water in a manner similar to rainfall, so that run-off and deep percolation losses are avoided and the uniformity of application is quite high. The system consists of sprinkler heads or nozzles, which are mounted on risers in lateral lines taken from main line, which is further connected to a pumping unit. In this method saving of water up to 30 to 50% is reported in comparison to surface method of irrigation. Thus by introducing sprinkler, additional area up to 50% can be brought under irrigation besides increased crop yields. Overall efficiency of the system is above 80%; and no land is wasted in making bunds and channels, and about 40-60% saving in labour compared with surface irrigation. However, it is a costly system which requires continuous maintenance and high skill for installation and operation. About 2 to 5% of water is lost through evaporation during sprinkling. Energy requirement of sprinkler system is high as sprinklers operate at water pressure ranging from | to 10 kg/cm’. A low pressure water application technique (LAWA), which uses less energy, is also being currently advocated.
+
+Performance of sprinkler system: The introduction of sprinkler irrigation leads to water saving which enables farmers to irrigate more area with the same amount of water supply. For example , the gross irrigated area of the surveyed (sampled) farmers in Haryana increased significantly from 546 ha (before installation of sprinkler sets) to 1,000 ha (after installation) showing an increase of 83.2%. Similarly, the net irrigated area, where the sprinkler sets were installed had also increased from 436 ha to 726 ha, an increase of 66.7%. Sprinkler system also entails increased irrigation frequency, which has a positive effect on crop yield. For example, in wheat crop in Haryana, number of irrigation increased from 5 (before installation) to 7 (after installation) leading to overall increase in the productivity by 24%.
+
+Micro-sprinkler has the advantages over sprinkler and drip methods. It sprinkles around the root zone with small sprinklers that work under low pressure. This method is highly suitable for tree/orchard crops and vegetable crops. In this method water is applied to the root zone area as in the case of drip irrigation, unlike to the entire field as in case of sprinkler irrigation method.
+
+Drip application: \n this method the application of water is precise but slow as discrete drops, continuous drops, tiny streams or miniature sprays through mechanical devices, called emitters or applicators located at selected points along water delivery lines. Fertilizer or other chemical amendments can be efficiently applied to individual or several plants using drip irrigation. This is useful in areas with water scarcity and salt problems. Drip irrigation system consists of main pipe line, sub-mains, laterals, valves, drippers or emitters, a riser valve, vacuum breakers, pressure gauges, water meters, filters, fertilizer tanks or venture pumps, flush valves, pressure regulators etc. Low density polythene pipes are laid along the plant or tree rows with outlets or drippers inserted at appropriate intervals. These are designed to supply water at desired rates (1 to 10 litres/hour) directly to the soil. Low pressures ranging from 0.35 to 2 kg/ cm? are sufficient for drip system. Usually 3.75 to 7 cm diameter pipes are used for mains and 2.5 to 3.75 for sub-mains. For laterals pipes of 6 to 18 mm with pressure rating of 4 atmospheres are generally used.
+
+Drip irrigation has the advantages of water saving, enhanced plant growth and yield, saving of labour and energy, more suitable to poor soils, controls weed growth, economy in cultural practices and easy operations, possible to use saline water, improves efficiency of fertilizer, flexible to operate, no soil erosion, easy installation, less land preparation, and minimum disease and pest problems. It has also the disadvantages of saline hazards, economic and technical limitations and requirement of high skill in design, installation and operation.
+
+Performance of drip system: (i) Sugarcane—The yield reported under drip irrigation was 100 tonnes/ha; 35% more than under conventional irrigation. Water saving was about 50%. Besides, other benefits like higher recovery of sugar and 50% saving in labour costs were observed compared with conventional system. Cost of system is around Rs 40,000/ha. The pay-back period is 18 months. (ii) Banana—Average yield under drip irrigation was 29 tonnes/ha; about 50% higher than under conventional method of irrigation. Additional water saving in drip irrigation was 50%. Besides, duration of the crop reduced by about 2 months. (iii) Citrus—About 80% of the fruit of good quality compared with 10% in surface irrigation, with 50% increase in yield. Water saving was about 50%,
+
+IRRIGATION AND DRAINAGE MANAGEMENT 465
+
+Due to several advantages of drip and sprinkler methods, area under these systems is increasing steadily. The state-wise area under drip and sprinkler irrigation system in India is given in Table 14.10. About 2.32 M ha (0.62 M ha under drip + 1.70 M ha under sprinkler) of cultivated land were put under drip and sprinkler irrigation systems by March 2005.
+
+Water conveyance and distribution
+
+A conveyance network is an integral part of the irrigation system, which transports, distributes and controls irrigation water from the source to the place of application. On-farm surface irrigation distribution systems are either surface channels or pipelines. Several structures are used in the system for distribution and control of irrigation water.
+
+Open channel: A field channel/ water course may be either lined or unlined. The flow rate of irrigation water through a channel is calculated as:
+
+Q=A.V
+
+where Q , flow rate/ discharge, m?/sec; A, cross-sectional area of the wetted section of the channel, m?; and V, mean velocity of flow, m/sec.
+
+Unlined earthen channels are frequently used by farmers for water conveyance in the farm. These can be constructed and maintained by unskilled persons. They should have stable side slopes and strong banks to carry required flow. Stiff clay should have
+
+466 HANDBOOK OF AGRICULTURE
+
+side slopes of % : | (horizontal, H: vertical, V) and loose sand as 2 : 1 (H : V). Normally a channel should have 0.1% bed slope. The steeper channel will have more velocity which sometimes can be erosive and slope less than 0.05% will lead to silt deposition in the channel bed. Bare channels should have maximum permissible velocity of 45 cm/sec (sand and silt) to 70 cm/sec (clay). Similarly, vegetated channel should have maximum permissible velocity of 90 cm/ sec (poor vegetation) to 150 cm/sec (good vegetation).
+
+Excessive seepage loss, unwanted weed growth, requirement of relatively more area and continuous maintenance are some of the demerits of unlined channels. Therefore lined channels are put to use in several places. Concrete, brick and stones are commonly used for lining of the channel.
+
+Pipeline: Pipeline water distribution system saves about 2 to 4% of the cultivated area which is generally occupied by open channels. Underground pipeline system operates under pressure and is ideally suited for undulating topography. It has high initial cost. Under canal irrigation, due to insufficient head available, open channels are usually preferred. Cement concrete pipes and high density PVC pipes are now widely used for irrigation water distribution. To prevent damage of underground pipelines from load acting on it, concrete pipes need to be laid with their upper surface at a depth at least 45 cm from the ground surface. Specialized structures such as inlet, gate stand, air vent, end plug, riser pipe, riser valve etc. are used in the underground pipeline system for effective distribution and control of irrigation water.
+
+Delivery and distribution of water in the canal system
+
+Canal delivery scheduling is a function of flow rate, duration and frequency of irrigation. Assuming that each of these components can be either constant or variable, a number of different types of irrigation schedules may be made. Broadly the scheduling can be categorized into three types.
+
+(i) Continuous: a constant or variable flow rate is maintained without interruption.
+
+(ii) Rotational: a constant or variable flow rate is supplied intermittently with fixed or variable duration and frequency.
+
+(iii) On demand: Flow rate, duration and frequency are variable. Water is supplied according to the demand.
+
+Several water distribution practices in the canal system are in vogue. Some of the prominent practices are rotational water distribution, Shejpali system, Block system, Localised system for paddy areas, Zonal irrigation system etc.
+
+Rotational water distribution system is otherwise popularly known as Warabandi system in Haryana, Punjab and Rajasthan and Osrabandi system in Uttar Pradesh. In this practice, water is distributed to all the farmers in proportion to their land holdings in the outlet command. The roster is prepared by dividing total operation period of the outlet (usually seven days) with the ratio of the land holdings. The distribution of water in Warabandi system is a two-tier operation in which the distributaries are operated for eight days and water courses for 7 days. In the Bhakra irrigation system, the eight days period of running of the distributaries ensures seven days running of water courses including those Jocated at most distant points from the distributry head. The time required filling the water course initially, i.e. the filling time (bharai) and the time required in completely clearing the water from the water course, i.e. draining
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+time (jharai) need to be considered while preparing the roster.
+
+Shejpali method of water distribution is practised in Maharashtra, parts of Gujarat and Karnataka. Under this system annual water budget is drawn up every year after monsoon-based on the water availability. Applications are invited from farmers for different crops and areas they wish to grow. Seasonal sanctions are then decided on pro rata basis based on water availability and after meeting the long-term commitments. If the demand exceeds the sanctions are then curtailed proportionately reducing the areas with an effort to serve the interest of a large number of farmers. Thereafter a schedule called ‘Shejpali’ is prepared for an orderly system of water supply from tail to head. In this system, a specific time period is not allotted to individual farmers which sometimes creates problem in ensuring water to each farmers during a rotation. To avoid this problem an improved system called “Rigid Shejpali” has been introduced in which a definite date and time period is allotted to each farmer.
+
+In the Block system, the entire command is divided into three to four blocks. It is practised in part of Maharashtra. In each block only one crop is grown at a time and the crops are rotated in a definite sequence among the blocks from year to year.
+
+In most of the paddy-growing areas, irrigation below the canal outlet proceeds from one field to another through surface flooding. This system of water distribution is called as “Localized irrigation system in paddy areas”. However, in Tamil Nadu and some pockets of a few other states farmers themselves have been practising rotational water distribution on one and half to four days period. Allocation of water is for a specified crop in a season and penalty is levied for any deviation.
+
+Irrigation efficiencies
+
+In planning and designing an irrigation system, a major problem is to decide what water-use efficiency to apply in calculations. Lack of basic knowledge of water-use efficiencies has several serious drawbacks such as (i) large safety margins are applied in planning and designing of the system, (ii) investments are therefore become considerably higher than would otherwise be necessary, (iii) the limited water resources are not optimally distributed and used, (iv) the low overall efficiency creates harmful side effects such as rising groundwater table and soil salinization. To control rise in groundwater table and salinization, sub-surface drainage system may be necessary which will unnecessarily increase cost of project. In water scarce condition, there is an urgent need for more economical use of water resources through more scientific ways of operating irrigation system for high degree of water-use efficiency as the primary objective.
+
+The movement of water through an irrigation system, from its source to crop, can be regarded as three separate operations: conveyance, distribution and field application. Conveyance is the movement of water from source to the tertiary off takes; distribution is the movement of water through tertiary (distributary) to the field inlet; and field application is the movement of water from the field inlet to the crop. The exact definition of various efficiency terms used are defined as follows.
+
+Conveyance efficiency: The conveyance efficiency, 1, is the efficiency of the canal from the reservoir to the off-takes of the distributaries system. It is expressed as
+
+N= (Vat VV (VAY)
+
+. where V, is volume diverted or pumped from reservoir (m’); V, , volume delivered to:
+
+the distribution system (m’) ; V, , inflow from other sources to the conveyance system (m*); V, , non-irrigation deliveries from conveyance system (m’).
+
+Distribution efficiency: The distribution efficiency, n, is the efficiency of the water distribution canals and conduits supplying water from the conveyance networks to individual fields. It can be expressed as.
+
+y= (V,+ V5 V,
+
+where, V,= volume diverted to the distribution system (m°); V,= volume of water furnished to the fields (m:); V, =non-irrigation deliveries from the distributary system (m?).
+
+Field application efficiency: The field application efficiency, n, is the relation between the quantity of water furnished between the field inlet and the quantity of water needed, and made available for evapo-transpiration by the crop to avoid undesirable water stress in the plants growing cycle. It can be expressed as:
+
+plants growing cycle. It can expressed as: n,= V,/V; ...(vi)
+
+n,= V,/V;
+
+where, V,= volume of irrigation water furnished to the fields (m*);
+
+V_, = volume of irrigation water needed, and made available, for evapo-transpiration by the crop to avoid undesirable water stress in the plants throughout the growing cycle (m*)
+
+V,,= ET - RF,
+
+where, ET. is the crop water requirement; RF, is the effective rainfall, being that part of total rainfall on the cropped area, during a specific time period, which is available to meet evapo-transpiration in the cropped area.
+
+Water used for leaching, climatic control, soil tillage, seepage, rodent control etc. is not included in the ICID standard definition of the field application efficiency.
+
+Apart from these three efficiencies, it is necessary to define several other efficiencies which are discussed here.
+
+Tertiary unit efficiency: The tertiary unit efficiency, 1, is the combined efficiency of the water distribution system and the water application process. In other words, it is the efficiency with which water is distributed and consumptively used within the tertiary unit. It can be expressed as:
+
+n,=(V,,+ V, Vy
+
+Ifthe non irrigation deliveries are insignificant compared with the volume of water delivered to maintain the soil moisture at the required level for the crop, it can be written as:
+
+Mm NaN,
+
+Irrigation system efficiency: Urrigation system efficiency is the combined efficiency the systems of water conveyance and distribution which can be expressed as
+
+n,= (V,+ V, + V5)/ (V,+ V,)
+
+If the non-irrigation deliveries are insignificant compared with the volume of water delivered to the fields, it can be written as:
+
+nN=n Ny
+
+Overall project efficiency: Independent assessment of conveyance, distribution and field application efficiencies are carried out to ascertain where the remedial measures are required to improve the efficiency of water use in the project as a whole. The overall project efficiency can be expressed as:
+
+n,=(V,,+ V,+V,)/(V,+¥,)
+
+.. (vii)
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+If the values of V,, V, and V, are negligible compared with V, and V,, then
+
+n=n. 147,
+
+The losses experimentally established (Table 14.11) in a project in alluvial plains in north India as reported by the Second Irrigation Commission are given below.
+
+The actual quantity of water used by the crops through transpiration and losses from the cropped field due to evaporation during the crop period was only 38.5% of the supply at the head of the canal.
+
+Source of loss
+
+Uniformity coefficient: The field application efficiency does not give information on the uniformity of applied water in the field. The uniformity coefficient defined by Christiansen is as given below.
+
+where, D,= depth of water applied to the field at the i* point of observation; D,= mean depth of irrigation water furnished to the field; n number of observations.
+
+The quantity in the numerator gives the average absolute deviation of the observation from the mean. Sometimes C, is expressed in percentage by multiplying its fractional value with 100.
+
+Water-use efficiency: The water-use efficiency (WUE) is commonly employed to measure productivity of the water. It is defined as crop yield per unit area per unit of water use. The crop yield could be any economic produce, may be grain or vegetation, or both. The commonly used unit is kg/ha-cm.
+
+Probably the most significant factor for increasing WUE is the selection of the properly adapted crops and varieties. There are considerable differences in the amount of water which different crops use to produce a unit of dry matter (Table 14.12). Also, there are differences in the amounts of water which different varieties of the same
+
+crop use to produce a unit of dry matter (Table 14.13). These differences are due to variations in their genetic buildup which affects both morphological traits controlling rate of transpiration and water . ; absorption by roots from the soil and physiological functions responsible for photosynthesis, respiration, translocation of photosynthates to harvested plant parts Se eon Plant Pal's having economic value.
+
+Some approaches for enhancing productivity and profitability of irrigated agriculture
+
+Conjunctive use of water
+
+Conjunctive use management is defined as the management of multiple water resources in a co-ordinated operation such that the total water use of the system over a period of time exceeds the sum of water uses of the individual components of the systems resulting from unco-ordinated operation. Conjunctive use is planned and practised with the following objectives: (i) mitigating the effect of shortage of canal water supplies often subjected to stiff variation in river flow during different periods in a year, (ii) increasing the dependability of existing water supplies, (iii) alleviating the problems of high water table and salinity resulting from introduction of canal irrigation, (iv) facilitating the use of highly saline groundwater which cannot be otherwise used without appropriate dilution, and (v) storing of groundwater basins closer to the users.
+
+Multiple use of water
+
+Multiple use of water refers to the numerous end-uses of available water in a community that are increasingly recognized as independent of the intended uses of the system. If water can be used for some activity of economic or aesthetic value with out appreciable consumptive use, then it will lead to higher water productivity of water. For example, fish require water for their growth, but there is hardly any consumptive use involved in the process. So, if water is passed through an auxiliary reservoir or stored in farm pond before being diverted for irrigation and these temporary storages are used for growing fish which is a high value commodity, then the economic productivity of water would improve considerably. These practices are in vogue, in some areas on a limited scale, but there is scope for extending this practice to other areas. The fish can also be raised in deep water paddy -growing areas without increasing water requirement of the system.
+
+Conservation agriculture in irrigated ecosystem
+
+Efforts to promote conservation agriculture for rice followed by wheat have largely been focused in the Indo-Gangetic plains. Stagnation of productivity of rice-wheat cropping system is the major factor to look for conservation agriculture in this ecosystem. The main components of this technology are (i) laser levelling, (ii) zero
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+tillage, (ii) anaerobic rice, (iv) raised bed transplanting/sowing etc. The positive effect in better crop establishment, improved efficiency of applied water and nutrient and saving of irrigation were noticed with laser leveling than the conventional leveling at farmers’ fields (Table 14.14).
+
+The results of five year study revealed that 15 to 20% benefit in term of water saving was noticed with zero tillage without reduction of grain yield of wheat. The higher water productivity was recorded with directed seeded rice (DSR) as compared to transplanted rice, but the weed population was more in DSR. It was observed that weed population in DSR can be checked and water productivity of rice also improved with sesbania co-culture as brown manuring.
+
+Use of poor-quality water
+
+With increasing competition from domestic and industry sectors, agriculture will increasingly depend on marginal quality waters for irrigation. To the extent these waters can be used for irrigation, the need of alternative freshwater supplies will be curtailed. The use of poor-quality water, however, requires special soil and water-management practices to maintain the productivity of land.
+
+Water-quality parameters
+
+Water-quality parameters include electrical conductivity, sodium adsorption ratio (SAR), residual sodium carbonate and adjusted SAR.
+
+Electrical conductivity (EC): This is a good measure of the total quantity of dissolved salts present in a given water and is expressed in desi siemens per metre (dS/m). The total dissolved salts (TDS) can be converted to dS/m units using the following equation.
+
+where, TDS is mg/litre; EC is dS/m.
+
+Sodium adsorption ratio: Various parameters are used to assess tendency of waters to produce sodic soils. Some earlier attempts used soluble sodium percentage as a parameter, with the concentration of sodium being expressed as a percentage of total cations in the water. However, at a low salt concentration, sodium may exceed 90% of the total cations present before any significant sodium hazard exists for part.cular water. Sodium adsorption ratio (SAR) is proposed as a useful measure of sodium
+
+hazard of water and is defined as:
+
+where all concentrations are in milli equivalent/litre (meq/litre). The SAR was introduced because it was found useful in estimating exchangeable sodium of irrigated soil.
+
+Residual sodium carbonate: If irrigation water has an appreciable carbonate and bicarbonate contents, calcium and magnesium carbonates would precipitate when concentration of soil solution increases through evapo-transpiration. On the assumption that their precipitation complete, the concept of residual sodium carbonate (RSC) for evaluating the quality of bicarbonate containing water has been introduced.
+
+Adjusted SAR: The SAR of irrigation water as such does not take into account changes in calcium in the soil water that takes place because of change in its solubility of calcium due to precipitation or dissolution reactions after the irrigation. Its use as such is somewhat erroneous. Recently there has been a fresh look of the SAR equation and calcium concentration of the irrigation water adjusted to the expected equilibrium value following irrigation. The adjusted calcium value (Ca,) includes the effects of carbon dioxide (CO,) of bicarbonate and of salinity water. The SAR calculated, after substituting Ca, instead of Ca originally present in water, is called adjusted SAR. This concept assumes a soil source of calcium from soil lime (CaCO,) or other soil minerals, viz. silicates and no precipitation of magnesium. The equation for calculating adjusted SAR is as follows:
+
+where Na, sodium in the irrigation water (meq/I); Ca,, a modified calcium value, which represents Ca in the applied water but modified due to salinity of water, its HCO,: Ca ratio and the estimated partial pressure of CO, in the surface few mm of soil (PCO, = 0.0007 atinosphere); and Mg, magnesium in the irrigation water (meq/litre).
+
+Water quality classification
+
+The water could be classified broadly in two classes, viz. saline and sodic (alkali) waters.
+
+Saline waters: This class includes all the waters that contain high amounts of soluble salts (EC 1-2 dS/m to 15-20 dS/m). The salts are mainly chlorides and sulphates of sodium, calcium and magnesium. A small amount of bicarbonate is also commonly present, and residual sodium carbonate (RSC) is often absent. Majority of saline waters have EC < 10 dS/m and SAR < 20.
+
+Sodic waters: In sodic waters, the EC is usually not very high (< 4 dS/m), but sodium carbonate and bicarbonate constitute a significant proportion of total salts. The RSC of sodic water exceeds 2.5 meq/litre.
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+‘Leaching needed if used; *good drainage needed and sensitive plants obtaining stands
+
+Several different measurements are used to classify suitability of water for irrigation, including EC, total dissolved solids and SAR. Some permissible limits for classes of irrigation water are given in Table 14.15. In Table 14.16 the sodium hazard water is ranked from low to very high based on SAR values.
+
+Hazards due to water quality
+
+Salts exert both general and specific effects on plants, which directly affect crop yield. Also, salts affect some soil physico-chemical properties which may impair soil capability as medium of growth. The major problems that are created by water of poor quality are salinity, sodicity and specific ion toxicity.
+
+Salinity hazards: The salinity problem arises, if salt accumulation in the root zone reaches to levels high enough to interfere with plant growth. The plants extract water from the soil by applying force higher than the one with which water is held by the soil metric potential. When salts are present in water, osmotic potential is developed and the plants have to exert more force against this additional potential force which is commonly known as osmotic effect. For all practical purposes, the potentials can be considered additive to compute the total potential. The build up of salinity in the crop root zone depends upon the salinity and nature of salts in applied water (EC,), soil types, water-table, nature of crop grown and water-management practices, leaching fraction and the leaching efficiency.
+
+Sodicity/alkalinity hazards: Sodicity or alkalinity is serious problem in irrigated soils. Long-term use of alkali waters containing high proportion of sodium (>75% of total cations) and predominance of CO, and HCO, ions relative to Ca‘? and Mg”? lead to development of high ESP as well as high pH in the soil. The high sodicity and pH adversely affect the physical properties of soil. Infiltration in such soils reduces greatly, resulting in stagnation or high run-off following the irrigation or rainfall. Generally
+
+alkali waters having low salinity, high sodium adsorption ratio and high bicarbonate create this hazard, particularly when the irrigation is followed by rainfall.
+
+Toxicity hazards: This hazard is different from either the salinity or sodicity hazards. Toxicity develops within the crop itself as a result of uptake and accumulation of certain constituents from irrigation water and may occur even when the salinity is low. Important toxic constituents are boron, fluorides, nitrate and chloride. Excess nitrate causes plants to grow vigorously, delay maturity and increase lodging and loss in sugar content. Excess accumulation of boron in plants causes leaf necrosis and decreased photosynthesis.
+
+Sewage effluents and other hazards
+
+With the ever-growing population along with fast urbanization and industrialization, the demand on water to fulfill needs for domestic use, industrial purpose and power generation and other uses would increase enormously. Since the consumptive use of non-agricultural sectors being 20-30%, complex disposal problems of urban and industrial effluents are arising in the country. Recycling of wastewater in agriculture is now viewed as a solution to conserve water resources to meet out the future shortages. As per the latest estimates out of 22,900 million litres per day of water generated, only about 26% is treated before letting out, the rest is disposed off untreated. The mode of disposal in 118 (52%) cities is indirectly into the rivers/lakes/ponds/creeks; in 63 (28%) cities to the agriculture land; in 41 cities, it is discharged both into rivers and on agriculture land. Multiple use and integrated water management of such water is required to maintain the soil quality and health of human beings. Fluoride pollution in irrigation water has also been observed in Uttar Pradesh, Rajasthan, Haryana and Bihar. The concentration of more than 1.0 mg/litre in drinking water adversely affects bones and teeth of human beings. Besides fluoride, arsenic pollution in irrigation water has also been observed, particularly in West Bengal and Bangladesh. Drinking water containing > 0.05 mg/litre of arsenic is not safe for human beings. The use of arsenic water for crop production has serious implications for human and animal health, as it gets translocated in food chain.
+
+Water quality guidelines for irrigation
+
+In view of the inherent difficulties in integrating the effects of crop, soil, irrigation and other management factors, rigid water quality standards are not only unrealistic but are also difficult to develop for universal use. Till recently, water-quality ratings, developed in US conditions, were being used in India. These water quality standards do not adequately describe the salinity and alkalinity hazards of waters on soils and crops for the monsoonal climate of our country. Water quality surveys confirmed that farmers of arid and semi-arid regions continue to use waters that would otherwise be termed unsuitable on the basis of criteria followed elsewhere. The highly conservative standards being hitherto recommended were replaced with the more realistic guidelines relevant to monsoonal climate (Table 14.15).
+
+Crops and their varieties
+
+In general, oilseed crops requiring less water can tolerate higher levels of EC, , whereas most of the pulses are very sensitive to salts. Thus, for successful irrigated agriculture
+
+IRRIGATION AND DRAINAGE MANAGEMENT 475
+
+through the use of saline waters in specific agro-climatic zones, the selection of the crops is very important because it may not be possible to change the quality of irrigation water, Late-sown crops can tolerate only lower levels of EC,, than timely seeded crops, Same crops when grown during summer show less tolerance to EC,,, ¢.g. sorghum, than monsoon grown crop. Also the salinity tolerance of the rabi crops is generally higher.
+
+Both sodium adsorption ratio and residual sodium carbonate may be given either in charge unit or in mass unit. The formula for sodium adsorption ratio is given in charge unit. Therefore, it will be appropriate to give both in charge unit.
+
+Besides intergenic variations of different crops to tolerate salinity or sodicity, there are also wide variations in the inherent salt tolerances of the crop cultivars. Several cultivars of the important crops have been tested at the CSSRI, Karnal, for their tolerance to salinity of waters. Cultivars, viz. KRL 19 and WH 1043 of wheat; CSR 27, CSR 30 and CSR 36 of rice; and MESR 16 of cotton, indicated that it is possible to breed cultivars that have both a high absolute and high relative salt tolerance. Among the aromatic and medicinal plants, ashwagandha and lemon grass were found more tolerant to salinity as compared to stevia, coleus, patchchouli and mint. Ten varieties of pearl millet were tested at Bikaner and on the basis of 2 years data varieties HHB 60, MH 419 and HHVBC were found suitable for irrigation with poor quality waters. Out of 10 genotypes of mustard tested, CS 52 and CS 54 varieties of mustard were suitable under irrigation with poor quality waters. Clusterbean varieties were screened for their salt tolerance at the water salinity 2.5 and 10 dS/m and variety RGC 978 of clusterbean recorded highest yield followed by HG 75 and GAUG 34. Vegetable crops such as fennel, spinach, turnip and cabbage were suitable up to salinity of 6-7 dS/m.
+
+Growth stages and crop tolerance
+
+All crops do not tolerate salinity equally well at different stages of their growth. Differences in salt sensitivity of crops at various growth stages (ontogeny) should help in planning appropriate irrigation management measures, especially where both saline and non-saline waters are available. In most crops germination and early seedling establishment are the stages most sensitive to salts. The other critical periods for crops are during the phase change from vegetative to reproductive, i.e. heading and flowering to fruit setting. Otherwise the general tolerance of crops to saline water usage increases with advancement in age of crops.
+
+Multi quality water use
+
+The operation strategies that permit an optimal increase in cropped area and maximize the use of all available water of different qualities can be outlined under the following two major operational techniques.
+
+Blending of waters: Different quality waters are mixed in the irrigation water supply system permitting a predetermined water quality for every field according to the tolerance of each crop to salinity, thereby either reducing total salt concentration or reducing SAR.
+
+Soil dilution: It is of 2 types, e.g. crops that are irrigated by alternating between water sources so that the dilution occurs in the root zone; and sequential application in which the water source is changed during the season according to the specific salt tolerance of crops at each growth stage.
+
+Participatory irrigation management (PIM) and irrigation management trans- fer IMT)
+
+Since 1985, Ministry of Water Resources has been inspiring farmers’ participation in water distribution and management of tertiary system in the projects covered under centrally sponsored Command Area Development Programme. The concept of involvement of farmers in management of irrigation system has been included in the National Water Policy adopted in 1987, which is as follows.
+
+“Efforts should be made to involve farmers progressively in various aspects of management of irrigation systems, particularly in water distribution and collection of water rates. Assistance of voluntary agencies should be enlisted in educating farmers in efficient water-use and management.”
+
+Objectives of PIM: The objectives of PIM are: (i) to create a sense of ownership of water resources and the irrigation system among the users, so as to promote economy in water use and preservation of the system; (ii) to improve service deliveries through better operation and maintenance; (iii) to achieve optimum utilization of available resources through sophisticated deliveries, precisely as per crop needs; (iv) to achieve equity in water distribution; (v) to increase production per unit of water, where water is scarce and to increase production per unit of land where water is adequate; (vi) to make best use of natural precipitation and groundwater in conjunction with flow irrigation for increasing irrigation and cropping intensity; (vii) to facilitate the users to have a choice of crops, cropping sequence, timing of water supply, period of supply and frequency of supply, depending on soils, climate and other infrastructure facilities available in the commands such as roads, markets, cold storages, etc., so as to maximize the incomes and returns; (viii) to encourage collective and community responsibility on the farmers to collect water charges and payment to irrigation agency; and (ix) to create healthy atmosphere between the Irrigation Agency personnel and the users.
+
+PIM Acts: Recognizing the need for sound legal framework for PIM in the country, the Ministry brought out a model act to be adopted by the State legislature for enacting new irrigation acts/amending the existing irrigation acts for facilitating PIM. In accordance with the model act eight state Governments, viz. Andhra Pradesh, Goa, Madhya Pradesh, Karnataka, Orissa, Rajasthan, Tamil Nadu and Kerala, have enacted new acts. The legal framework provides for creation of farmers organizations at different levels of irrigation system as under:
+
+a. Water Users’ Association (WUA): Will have a delineated command area on a hydraulic basis, which shall be administratively viable. Generally a WUA would cover a group of outlets or a minor.
+
+b. Distributaries Committee: Will comprise 5 or more WUAs. All the presidents of WUAs will from the General Body of the Distributaries Committee.
+
+c. Project Committee: will.be an apex committee of an irrigation system and presidents of the Distributaries Committees in the project area shall constitute General Body of this committee.
+
+The associations at different levels are expected to be actively involved in: (i) maintenance of irrigation system in their area of operation; (ii) distribution of irrigation water to the beneficiary farmers as per the warabandi schedule; (iii) assisting the irrigation department in the preparation of water and collection of water charges;
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+(iv) resolve disputes among the members and WUA; (v) monitoring flow of water in the irrigation system etc,
+
+Irrigation management transfer
+
+Irrigation management transfer (IMT) is defined as the transfer of rights and responsibilities for irrigation management activities of an irrigation system from a government agency to private or local persons or organizations. Management transfer need not be total but can be limited to specific management responsibilities or to specific portion of irrigation system. Transfer of responsibilities and ownership has been taking place by policy-makers to reduce pressures on thinly stretched government finances, to improve the irrigated agricultural production and to ensure the long term sustainability of irrigated systems.
+
+Water Users’ Association: A critical requirement for management transfer is the presence of user groups who are willing and capable of taking on the functions transferred to them. The WUA is a formal organization, through which the capacity to perform the tasks on an on-going basis is expected to be institutionalized within the community of water users. As such this organization would have to possess the ability and willingness to perform the tasks of water distribution, maintenance of field channels, management of interface with irrigation department to obtain a timely response, and day-to-day administration. The WUA may also be involved with non- irrigation activities, like arranging seeds, fertilizers, agricultural implements and credit for farmers, or construction/rehabilitation of physical-system. The recent data on state- wise number of WUAs formed are given in Table 14.17. About 13.16 M ha of irrigated land has been covered under WUA.
+
+Impact of IMT: In almost all cases the equity of water distribution has improved following the transfer. The risk of water distribution becoming more inequitable appears to be small, particularly in large gravity systems, where all the beneficiaries are aware of their rights. The transfer of smaller systems such as public tube-wells, the access to which was at the mercy of the operator, has not necessarily resulted in equitable access.
+
+Impact assessment study also reveals that water deliveries have become more predictable. The users face lesser problems in obtaining irrigation water than before. There is a greater sense of control over water distribution, and water supplies have become more reliable.
+
+Cost recovery has improved where WUAs collect water charges. Some reduction in seepage losses due to improved maintenance and repair of the systems is noticed. Transfer has been successful where investments have been made to improve control over flows. Adequate control over flows seems to be a pre-requisite to users, participation. Maintenance tends to be more effective as the users are the best judges of where and how the limited resources available for maintenance should be spent.
+
+In one of impact assessment studies in Maharashtra, it was found that due to limited progress of IMT, no impact on government finances was yet visible. However, in longer term, savings in expenditure are expected due to reduction in number of personnel engaged in the work. The results revealed increase in cultivated area, shift to higher value crops and increased yields in one of the canal systems (Mula canal system). However, in another canal system (Bhima) no increase in agricultural productivity was recorded.
+
+*Under verification; **under MI; RIDF scheme; + updated.
+
+The overall impacts of irrigation management transfer have been mostly positive. A major reason for this success is due to the fact that transfer has given a greater flexibility to farmers in controlling irrigation water and using water in cultivating the crop of their choice. Also, total control of WUAs over their own finances is the key factor for successful management and maintenance of the system. This is probably one of the key requirements of WUAs for their sustainability in the long run.
+
+Drainage
+
+Drainage is essentially a moisture control mechanism which provides desirable environment in the crop root zone by removing excess salts and water. To maintain sustained production from irrigated agriculture removal of excess water and salts from agricultural lands is essential. The recent history of Indian irrigation projects showed that the problem of waterlogging, salinity and alkalinity arise even before the full potential of projects is exploited. The sources of excess water are: (i) uncontrolled irrigation, (i) seepage losses from unlined irrigation canals or field channels, (iii) groundwater moving from shallow aquifers, (iv) non-maintenance of natural drainage, and (v) seepage water emerging in the form of springs on groundwater under artisan
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+pressure. The methods used for drainage may be grouped in two categories, viz. surface drainage and subsurface drainage, depending on the way of removal of water.
+
+Surface drainage
+
+Land surface is reshaped to eliminate ponding and to establish slopes sufficient to induce gravitational flow on land surface and into channels to an outlet, dykes and flood-ways. Provision for adequate surface drainage along with infrastructural (flood control) drainage should be an integral part of any water management planning. In the saline belt, the network of surface drains should also serve the purpose of outlets to sub-surface drainage. Surface drainage system essentially consists of (i) collection system, (ii) disposal system, and (iii) outlet. The drainage system starts at the field level and ends at the outfall. Though field drainage system is supposed to be constructed and maintained by the farmers, disposal system and outlets or outfalls are constructed and maintained by the government.
+
+Methods of field drainage
+
+The accomplishment of surface drainage of agricultural lands includes land forming, land smoothening, land grading or leveling, bedding system, open ditches and levees.
+
+Land forming: It is the process of changing the natural topography so as to control the movement of water on to or from the land surface. It includes land smoothening, land grading or levelling and shallow field drains crossable by farm machinery.
+
+Land smoothening: Flat lands where there are only minor differences in field levels, good surface drainage could be achieved by means of land smoothening. This operation is quite cheap and therefore can be repeated once every year.
+
+Land grading or leveling: These are synonymously used in surface irrigation and drainage. For efficient drainage the grade in the direction of drains can be 0.05 to 0.5% but a preferable slope is 0.1%.
+
+Bedding system: It is suitable for soils with poor hydraulic conductivity with slopes not exceeding 1.5%. The level surface of the field is converted into a sloping area by ploughing several times. The beds are always kept parallel to the greatest slope of the field such that the dead furrow serves as a field drain. The width of the bed depends upon slope, land use, soil permeability, farm machinery to be used and the nature of farming operations. The length of the bed depends on field conditions and may vary from 100 to 300 m.
+
+Open ditches: It includes 3 systems, viz. parallel field drain system, random system and parallel open ditch system.
+
+Parallel field drain system: The parallel system is used when the surface is uniform and has few noticeable ridges or depressions. The channels, in this case, are spaced farther apart than in a bedding system and have greater capacity than the dead furrows.
+
+Random system: The system is most suitable for areas where depressions are deep and it is technically or economically not feasible to fill up the depressions. The slope of the channel can be as flat as 10:1 where the depth of drains is more than 60 cm or 4:1, if fields are farmed parallel to the drains.
+
+Parallel open ditch system: \t provides surface drainage to the area as well as helps to control groundwater table. The layout of this system is very similar to the parallel field drain system.
+
+Levees: These are commonly known as embankments or dykes, and are used in conjunction with drainage works to exclude run-off from uplands entering the areas. This method of flood control (to protect the land from submergence) was very commonly used in flood plains and coastal regions. For agricultural drainage, application of this system is limited.
+
+Sub-surface drainage
+
+; Two types of man-made systems of sub-surface drainage are in vogue, viz. (i) horizontal, and (ii) vertical. The horizontal drainage involves engineering structures laid horizontally parallel to ground and vertical drainage is mainly achieved by pumping out groundwater through tube-wells. Both types of systems aim at lowering the water- table in response to recharge caused due to seepage from canal and by rainfall, irrigation and leaching etc.
+
+Vertical drainage
+
+The removal of underground water by means of a bore hole (or well) either under pressure (artisan conditions) or through pumping is termed vertical drainage. The success of a vertical drainage system depends on the presence of favourable unconfined aquifers within 50 m depth below the ground surface to permit pumping of ground- water on a sustained basis and good to moderate quality of groundwater that could be utilized for irrigation purposes.
+
+These favourable conditions are prevailing in the alkali soil areas of Haryana, Punjab and Uttar Pradesh. Good aquifers with transmissivity coefficients 400-4,000 m?/day are available at the depth of 15-30 m. As the quality of groundwater is generally good, several private and government tube-wells were installed in the last two to three decades, which has reversed the rising trend of water-table. However, such vertical drainage is possible only in fresh- and moderate-quality groundwater areas and where the aquifers occur as lenticular bodies with good transmission and bound by clay beds of variable thickness.
+
+Horizontal drainage
+
+A horizontal drainage system consists of laterals, collectors and main drains. The water entering laterals flows into the collectors, which carry it to the main drain. The laterals are connected to collectors perpendicularly (in grid iron system) or at an angle (in herringbone system) either on one side or on both sides, depending on the location of the problem area and topography. The main drains carry the water to the outlet from where it is passed out of the area either by gravity or by pumping from a sump. The various drains can either be covered or kept as open ditches. Compared with covered drains, ditches have their specific advantages and disadvantages. The installation of sub-surface drainage includes preparation of topographic map with appropriate contour interval; tabulation of groundwater information from observation wells in the area to plot observation, well hydrography; preparation of water-table contour maps; preparation of map of depth to water-table and quality and depth-wise status of soil salinity; preparation of working map, and preparation of a cross-sectional Profile in the direction of groundwater flow.
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+Mole drainage
+
+Heavy soils with low hydraulic conductivity (<0.01 m/day) often require very closely spaced drainage systems (3-5 m spacing) for satisfactory water control. With conventional pipes, the cost of such systems is usually uneconomic and hence alternative technique like mole drainage is required. Mole drains are unlined circular soil channels which function like pipe drains. The major advantage is their low cost. The major disadvantage is their restricted life, but provide favourable benefit cost ratio and hence a short life can be acceptable. Mole drainage systems are also commonly used for surface water control in perched water table situations.
+
+Interceptor drains
+
+It is a type of horizontal drainage system, which controls the excessive seepage from canals or embankments. Study conducted at Sharda Sahayak canal command revealed that single pipe interceptor drain removed 25,781 m? of seepage water and 10.9 tonnes of salts in a year. Multi-lateral interceptors are more effective in controlling the seepage as compared to single interceptor. As the water quality of seepage water is generally good, it can be used for irrigation purposes.
+
+Seepage intercepting farm pond
+
+Canal irrigation without proper provision of drainage system has resulted in water- logging and salinity/sodicity in many parts of the canal commands. Seepage from the canal system is one of the reasons responsible for these secondary induced problems. A novel method of addressing these problems has been devised. The method based on construction of farm ponds in low-lying areas along the major canal in embankments which cause lot of seepage and create waterlogging in adjoining lands. The soil excavated from the pond area is spread around the farm thus raising the surface elevation of this land. The depression created in the pond area intercepts seepage water and store it for future use. Part of this water gets evaporated and the remaining is used for irrigation of crops in the adjoining area. Since there is a continuous seepage flow, there is always some storage of water in the pond which can be used for raising fish, which is largely a non-consumptive use. This concept has been put into practice along Sharda Sahayak Canal at Kashrawan village in Raibareli district of Uttar Pradesh. The pond was excavated in 0.4 ha land with 1 m inward slope, at a depression up to 1.75 m depth. The excavated soil was spread over the 0.6 ha land putting the top soil at bottom and bottom soil at top. The results showed that (i) waterlogged sodic soil adjacent to the Sharda Sahayak canal command can be reclaimed and put to economic use by pond based farming system without application of gypsum, (ii) average 1m seepage water level in the pond could be maintained for fish production without addition of water from external source.
+
+Design of sub-surface drainage
+
+Depth and spacing of drains: The depth and spacing of drains are closely interrelated and depend upon the hydraulic conductivity of the soil, kind of crop, extent of surface drainage, outlet conditions and agronomic practices being followed. In humid areas, the water-table will rise close to the surface due to heavy rainfall and the rate at which water-table drops is important for agricultural crops. In semi-arid and arid areas,
+
+the important consideration is to maintain a minimum depth of water-table for optimum crop growth. The deeper drains result in reduced loss of land, wider drain spacing, and larger open water and soil storage. On the contrary, a deep system will have higher installation cost. The drain depth of 1.4 m and the corresponding drain spacing may result in the lowest total cost for providing drainage system in sandy-loam soils. If pumped outlet is used, the extra cost of pumping due to lower elevations also needs to be taken into account. On the basis of desirable minimum average water-table depths for various types of uses, shallow drain (1.2 -I.8 m) can be successfully used to maintain water-table at desirable depths. For Indian conditions shallow drains (depth 1.2-1.5 m) could be cost-effective in reclamation and management of saline soils.
+
+Drain materials: \t is convenient to consider drainage materials like drainage pipes, envelope, filter and surround.
+
+Drainage pipes: A drainage pipe has two quite distinct but related roles, viz. (i) it must accept the water moving from the soil and allow it to enter the pipe with the minimum of resistance, and (ii) it must transport away all the water flowing to it while still accepting water along its whole length. Drainage pipes may be of (i) clay-ware and similar rigid pipes, and (ii) plastic and other continuous or semi-continuous; semi- rigid or flexible pipes.
+
+Envelope: Any artificial imported material on or around a drain without specifying the reason for its use.
+
+Filter: An envelope used to prevent fine particle from the soil entering the drain. Polypropylene, polyvalent and polyethylene filter materials are commercially available. Fibre glass filters are manufactured from lime boro-silicate glass and are commercially available in rolls for various size drains and trench width, varying in thickness from paper thin to about 2.5 cm.
+
+Surround: An envelope is used specifically to provide a zone of hydraulic conductivity around the drain to minimize entrance losses and thus create an ideal drain. Sand and gravel filters and envelopes are used extensively in arid area with mineral soils of low organic content. Experience indicated that sand and gravel filters perform the best.
+
+Few sites that were covered under drainage pilots are listed in Table 14.18. Some of these sites are thoroughly investigated and monitored. Therefore the results of these pilot projects would have far reaching consequences in the reclamation and management of waterlogged saline lands and replication in other similar problematic areas.
+
+Reuse of drainage effluents
+
+Sub-surface drainage systems produce poor quality drainage effluent which pose a serious disposal problem and impose restrictions on reclamation of saline soils through sub-surface drainage systern. With the increasing demands on water for other purposes, reuse of saline drainage water for irrigation is the best possible option for utilizing a major part of this water that would otherwise cause environmental pollution. Drainage water of higher salinity cannot be reused directly for irrigation. So the blending strategy was studied for 6 years in a wheat-pear! millet/sorghum cropping sequence. Saline drainage water (EC 12,5-27 dS/m, sodium adsorption ratio 12.3- 17.0) was blended with canal water to obtain the required salinity levels (6, 9 and 12 dS/m) and used for
+
+IRRIGATION AND DRAINAGE MANAGEMENT
+
+irrigating wheat. A general relationship between wheat yield and applied drainage water salinities during the preceding 5 years showed that comparatively higher salinity waters (EC 9-10 dS/m) can be used in those soils which are provided with a sub- surface drainage system.
+
+In a 4-year study, wheat was grown using saline drainage water (EC 10.5-15.5 dS/ m) and canal water (EC 0.4 dS/m). The benefits of cyclic strategy were also tested in mustard and barley crops after applying a pre-sowing irrigation with canal water. Data indicated that saline drainage water could be reused for irrigation of mustard and barley without significant yield loss.
+
+The results favour the reuse of saline drainage water either directly or in conjunction with canal water or by cyclic use for irrigating rabi (winter) crops without any significant soil degradation. The extent of salt leaching and crop establishment will however, depend on the monsoon rains. If the monsoon rainfall is not adequate to leach most of the salts down the profile, a heavy pre-sowing irrigation with canal water is recommended to ensure good germination of the succeeding crops.
+
+. . . The bio-drainage system involves growing certain categories of plants that habitually draw their main water supply directly from the groundwater or the capillary fringe
+
+just below it. A number of trees are included in this group such as Eucalyptus, poplar, Tamarix, muskit and Acacia spp. Similarly, non-woody plants like bushes, sedges, grasses are called as phreatophytes. The two species of Eucalyptus namely E. tereticornis and E. camaldulensis, are commonly used as bio-drainage plant. These plants transpire luxuriantly when groundwater contact has been made. These plants obviously use much water than is necessary for normal conditions of growth.
+
+Sub-surface drainage projects
+
+Rajasthan Agricultural Drainage Research Project (RAJAD) Rajasthan: The RAJAD project was a joint undertaking funded by the Govt of India, the Govt of Rajasthan and the Govt of Canada through Canadian International Development Agency (CIDA). The subsurface drainage was installed for salinity control on a total area of 1,4925 ha using over 3.04 million metre of locally produced corrugated and perforated PVC pipes from 1991 to 1999. The drainage system resulted in an increase in the incremental income to the farmers, the benefit: cost ratio ranged from 1.28 to 2.87,a net present worth of 12,780 to 66,170 Rs/ha, a payback period of 4.5 to 6.9 year and an internal return of 18 to 35%.
+
+Haryana Operational Pilot Project (HOPP), Haryana: The HOPP, a joint Indo- Dutch collaborative project, was launched in 1994 to install subsurface drainage by machinery on a pilot basis. Under HOPP, Subsurface was installed in 1,946 ha. As a result, the cropping intensity increased from 140% (1991-92) to 185% (1995-96), besides a shift in cropping pattern towards more remunerative crops and a remarkable increase in crop yield. Due to saucer shape topography of the state, disposal of drainage water in rivers and lakes poses limitations.
+
+The field experiences from these projects have shown that subsurface drainage technology can be successfully adopted for use in reclaiming saline and waterlogged lands. Despite the fact that the benefit: cost ratio of adopting drainage technology was greater than two, the apparently high initial investment restricted its rapid expansion. The key challenge therefore is to lower the cost of installation so as to make it financially more attractive to farmers.

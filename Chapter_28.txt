@@ -1,0 +1,271 @@
+SOURCE_DOCUMENT: Chapter 28.pdf
+
+28. Marketing and Trade
+
+Marketing includes various activities involved in taking produce from the point of production to the ultimate users at the time and in the form and quality desired by the end- users. When the produce is taken beyond national borders, it is referred as trade. As development proceeds, and commercialization, specialization and division of labour increases, marketing and trade become more important and complex. Their role also expands beyond the physical and facilitating functions of transferring the goods from producers to end-users to new roles like (a) linkage between farm and non-farm sectors, (b) price discovery, and (c) transmission of price signals. Similarly, as the importance of purchased inputs increases in agricultural production, the domain of agricultural marketing is extended to input marketing. The significance of agricultural marketing and trade increases further with liberalization of trade, which expands markets to global level and provides new competition and newer opportunities. This chapter looks at the development of marketing and trade in the country, examines various dimensions and problems related to marketing and trade, and discusses the contemporary and emerging issues concerning them.
+
+AGRICULTURAL MARKETING
+
+Agricultural marketing in India till mid 1960s was almost in full control of private sector. Public intervention was minimal except in the emergency situation and for cash crops. Most of the produce was sold in the village itself to itinerary merchants, who then took that produce to markets in towns and cities. A minor fraction of produce that was brought to market was subjected to numerous malpractices involving exploitation of producers. This left little incentive with the farmers to generate a surplus and participate in the market. The situation has seen a sea change after mid 1960s, when new high- yielding varieties of rice and wheat became available for cultivation in the country. Since then the government has taken active interest in the development of infrastructure for marketing and trade and in influencing the structure and conduct of marketing. Besides physical measures, this has been done through institutional mechanisms, legal framework and regulations, and direct intervention in the market by public-sector agencies.
+
+General characteristics of agricultural marketing
+
+Indian agriculture is dominated by small sized peasant cultivators undertaking crop and livestock production on their own land or land partly or wholly leased in from other households. Except for cash enterprises, commodities produced at such farm are meant partly for family use and the remaining part is exchanged. This surplus is disposed off in three ways: (a) direct sales to consumers, (b) sale in village itself to travelling merchants, and (c) sale in the nearby market. Sales in categories (a) and (b) are termed informal channels of marketing and those in category (c) are termed formal channel of marketing: As the communication and transport facilities have improved and the
+
+market network expanded and reduced the distance between market and production points, the sales within the village have sharply declined and the proportion of surplus sold in the market has increased. Another mode of sale of farm produce is direct sale by farmers to a commercial firm (engaged in processing or organised retail trade or export) under an arrangement like contract farming. This method of sale has gained considerable popularity after contract farming has been institutionalised under Model APMC Act.
+
+Precise information about marketed surplus is not available, but the estimates of marketed surplus ratio (MSR) derived from cost of cultivation data collected from major producing states under the auspices of Directorate of Economics and Statistics, Ministry of Agriculture, Government of India, are used as indicator of surplus. These estimates show a progressive increase in proportion of output that enters into market. There was a big increase in per cent of production brought for sale between 1950-51 and 1988-89, and this continued even after 1988-89. The recent estimates show that more than 70% of maize and paddy and more than 63% of wheat production enters into market (Table 28.1). In pulses 79-94% produce is meant for sale. The marketed surplus ratio for oilseeds is above 88 %. In cash crops like cotton and sugarcane, more than 94% of production reaches markets.
+
+These indicators of MSR show that market orientation of Indian agriculture has reached quite high in the recent period. Not even half of the produce of major crops is retained for self use. In other words, the share of subsistence agriculture is much less than that of commercialized agriculture. Average for all the crops included in Table 28.1 (arrived at by taking ratio of value of marketed surplus to value of production estimated at implicit prices used in National Accounts Statistics) comes to 78.9%.
+
+NA, Not available.
+
+MARKETING AND TRADE
+
+The size of market for various commodities can be seen from the quantity of their marketed surplus (Table 28.1). Market size for rice is about 6 crore tonnes and for wheat it is 4.34 crore tonne. Among coarse cereals 108 lakh tonnes maize, 55 lakh tonnes bajra and 39 lakh tonnes jowar is transacted between producers and buyers. Among pulses, gram ranks first with 42.8 lakh tonnes marketed surplus. The quantity of oilseeds sold by farmers during 2004-05 was 68 lakh tonnes for rapeseed-mustard, 60 lakh tonnes for groundnut and 65 lakh tonnes for soybean. Among all the crops, sugarcane comes at the top, with marketed surplus of more than 23 crore tonnes.
+
+There is considerable variation in the MSR of different crops in different states depending on the degree of commercialization of production (Table 28.2). About 98% of rice produced by farmers in Punjab and Haryana was meant for market, whereas in Asom more than half of the production was retained by farm households for self use. In wheat 94% production in Gujarat, 81% in Punjab, 75% in Haryana and Madhya Pradesh was taken for sale during 2004-05. Maize has also emerged as highly commercial crop in Karnataka, Andhra Pradesh, Uttar Pradesh, Bihar and Madhya Pradesh. In some of the states quantity retained at farm for self use is not even sufficient to meet requirement in the next season, which shows that farmers might be buying the seed from market rather than use their own produce for seed.
+
+A comparison of recent MSR with estimates of MSR in 1950-51 shows that except cash crops the farmers had very small proportion of produce for sale in the market (Table 28.1). The reasons were several like low production, poor infrastructure and low monetization of rural economy. Besides poor infrastructure the other reasons discouraging producers to bring their produce for sale in the market are exploitation of producers in the market by various market functionaries by putting excessive charges claimed from producers, weight manipulation and undervaluation of produce. For checking such unhealthy practices and to get fair treatment for farmers, the government took steps to bring all agricultural markets under the regulations of Agricultural Produce
+
+Market Regulation Act (APMRA). These markets are called regulated markets and their principal objective is to safeguard the interest of producers and to raise the standard of local markets where the exchange of agricultural goods takes place. This act removed several practices that worked against farmers and introduced standard weight and measures, rationalized market charges and specified methods for sale transaction and market conduct to impart competition, efficiency and transparency into the market. Further, the Act renders illegal any sale and purchase of agricultural produce outside the regulated (specified) market or market yard except where exemptions are granted. APMRA has been enacted in all the states except Jammu & Kashmir and Mizoram.
+
+Role and functioning of regulated markets
+
+Under APMRA the sale or purchase of agricultural produce is carried out in the market area, yards or subyards as per the provision of the Act. Every regulated market has a market committee called Agricultural Produce Market Committee consisting of representatives of farmers, traders, commission agents, local bodies and state government. This has changed the character of market from dominance of traders to representation of all interest groups and institutionalized market conduct. Day to day operations of market committees are looked after by administrative staff, comprising market secretary and auction supervisors. Regulated markets are also required to be equipped with pucca auction place, rest house for farmers, parking place, cattle shed, and should provide other amenities to producers to encourage them to bring their produce to the market.
+
+Prices in the regulated markets are fixed by open auction in a transparent manner in the presence of an official of market committee. Market charges like commission of the commission agent, labour charges for cleaning the produce, market fee etc. are clearly defined and therefore no other deduction can be made from the sale proceeds of farm producers. Any dispute regarding prices or sale transaction is settled by the subcommittee of market committee. Market charges vary from state to state and for horticultural and other produce. Specific information on market charges for selected states is provided in Annexure 28.1.
+
+Establishment of regulated markets has considerably improved the functioning of primary markets for agricultural produce. This arrangement for transparent and orderly marketing, along with progress in the number of regulated markets, has attracted farmers to bring higher proportion of marketed surplus to these markets. This has also improved the price incentives for raising farm production. However, experience in some states, especially in agriculturally less developed regions, shows that mere regulation does not help improve the market performance in the absence of adequate infrastructure. One-third of regulated markets in the country do not have common auction platform. Infrastructure for marketing of perishables like fruits and vegetables, which require special facilities like storage and processing, is awfully inadequate. Less than 10% of regulated markets in the country are equipped with facilities like storage and processing. Even grading infrastructure is available in less than one-third of regulated markets.
+
+Market infrastructure
+
+; Infrastructure is a key factor for performance and for improving the efficiency of any system. Marketing infrastructure involves physical and institutional infrastructure.
+
+MARKETING AND TRADE
+
+Further, physical market infrastructure can be put under 2 categories: (a) directly related to marketing, and (b) indirectly related to marketing. The first category includes the network of market, and facilities for storage, processing and grading. The second category includes rural roads, transport facilities and communication facilities. These are not directly involved in marketing activity but play an important role in promoting marketing and improving its efficiency.
+
+Physical infrastructure
+
+The foremost marketing infrastructure is the network of well-established and regulated markets. There were around 1,000 regulated markets in India in the beginning of Green Revolution period i.e. in 1966. Since then the number of regulated agricultural produce markets has risen to 7,566 (Table 28.3). This expansion of markets has greatly reduced the distance between production points and market, and had also resulted in vast expansion in space for market transactions needed to accommodate increase in the market supply due to production growth and increase in proportion of marketed output in total output. At present there is one regulated market in 434 sq. km area on an average.
+
+Besides the network of regulated agricultural produce markets, there are 27,000 periodic rural markets, known as haats, shatties and shandies.
+
+Proper storage is necessary to maintain the quality and to reduce losses. Proper storage provides protection against losses from moisture ingress, insect-pest infestation and damage by the rodents. Considerable progress has also been made in creating storage facilities. Storage is of two types. The first category of warehousing, which is used for keeping the bulk produce of non-perishable commodities like foodgrains, oilseeds, cotton and similar products. Information about warehouse capacity is available only for public sector agencies like Food Corporation of India and Central Warehousing Corporation (CWC) and State Warehousing Corporations (SWC). These 3 agencies have capacity for storage of about 22, 10 and 19 million tonnes respectively. The total capacity with these public agencies of their own is 51 million tonnes.
+
+Violent fluctuations in global food prices, food crisis and other global changes like climate change seen in the recent period indicate that global shocks are likely to become more severe, more frequent and more unpredictable. This would require coping up strategy particularly for staple food. The storage capacity with our public agencies is not sufficient to face production and market fluctuations. This often results in distress sale due to inadequate storage or import at exorbitant prices. These can be avoided if there is adequate storage capacity with public agencies.
+
+The second type of storage is cold storage meant primarily for perishable and semi- perishable commodities. Cold-storage facility was meager till mid 1960s (Table 28.3) —615 units with storage capacity of 6.82 lakh tonnes. According to the recent estimates there are 5,316 units in the country with a capacity for storage of 233.3 lakh tonnes of agricultural produce. Out of this, more than 95% capacity is with private sector.
+
+With the rising income and standard of living as well as shift in the tastes or preferences, most of the products are demanded throughout the year though the demand is uneven. Second, per head demand for perishables like fruits, vegetables and livestock products is rising in the country. These changes in demand require fast increase in the development of cold-storage infrastructure. National Horticulture Board is providing
+
+assistance under a Central scheme for the construction or renovation of cold storages in the country.
+
+Road connectivity plays a crucial role in connecting the production points with market and through speedy and efficient movement of produce. Lot of emphasis was placed on constructing good-quality roads in the country. The length of surface roads had increased from 3.38 lakh km in 1971 to 14.2 lakh km in 2002.
+
+Huge investment is needed in market infrastructure to meet the changing requirement of marketing and increase in supply and demand of agricultural produce.
+
+Working Group on “Agricultural Marketing Infrastructure and Policy Required for Internal and External Trade” for the XI Plan has given estimates of physical and financial requirement that would be needed during the XI Plan to meet requirement of marketing and trade. The group proposed outlay of Rs 5,400 crore for upgradation of wholesale agricultural markets in the country. The Group recommended setting up of 1,000 livestock markets, 750 new wholesale markets, 35 terminal markets and 1,152 apni mandi type markets for direct sale of produce from producer to consumer. Realizing the need for storage the Working Group recommended physical target of 6.67 mt storage capacity and 4.5 mt cool chain capacity. Total outlay for the infrastructure investment during the XI Plan was estimated of the order of Rs 64,312 crore (Table 28.4).
+
+Institutional infrastructure
+
+Physical infrastructure alone is not adequate to improve the marketing performance. This needs to be supported by appropriate institutional infrastructure to meet the desired goals from agricultural marketing system. As private trade in India was underdeveloped and not equipped to meet the needs of growing economy, the government had set up several public-sector institutions and co-operative marketing organizations after
+
+MARKETING AND TRADE
+
+Independence to improve the market structure, conduct and performance and to help growers in marketing and realization of better returns for their produce. These institutions are:
+
+1. Public sector institutions such as
+
+(i) Food Corporation of India (FCI),
+
+(ii) Cotton Corporation of India (CCD,
+
+(iii) Jute Corporation of India (JCI),
+
+(iv) National Dairy Development Board (NDDB),
+
+(v) Commodity Boards for various plantation crops,
+
+(vi) Special marketing / processing corporations, and
+
+(vii) Commission on Agricultural Costs and Prices (CACP).
+
+2. Co-operative marketing institutions such as
+
+(i) National Agricultural Cooperative Marketing Federation (NAFED). ?
+
+(ii) State-level Agricultural Cooperative Marketing Federation,
+
+(iii) State-level Agricultural Marketing Boards,
+
+(iv) Primary, Central - and State-level marketing societies or unions,
+
+(v) Special marketing or processing societies, and
+
+(vi) Tribal Cooperative Marketing Federation (TRIFED).
+
+Food Corporation of India and Agricultural Prices Commission (later renamed Commission on Agricultural Cost and Prices) were established in January 1965 under the Act of Parliament. The main role of APC or CACP has been to suggest and recommend to government what should be the minimum support prices (MSP) of various agricultural commodities in each harvest season or year. Food Corporation of India undertakes procurement of foodgrains, mainly paddy (rice) and wheat, and maintains buffer stock of foodgrains. JCI and CCI undertake procurement of jute and cotton from the farmers. Commodity Boards are mainly confined to plantation crops (tea, coffee, rubber, spices, cardamom, cashewnut, arecanut, coconut) and tobacco. These boards carry broad range of functions relating to production, processing and marketing of concerned commodities. Special marketing and processing corporations include undertakings like Horticultural Processing and Marketing Corporations in Himachal Pradesh (HPMC) and Jammu & Kashmir (J&K HPMC) and North Eastern Regional Agricultural Marketing Corporation. National Dairy Development Board was established in 1965 through an Act of Parliament with headquarters at Anand (Gujarat). The main task of NDDB was to create infrastructure and facilities for (a) raising milk production, (b) marketing of milk, and (c) promotion of dairy industry.
+
+The main role of co-operative marketing institutions is to mop up agricultural surplus from farmers and its sale at the best price possible. Co-operative marketing organizations compete with private trade to ensure better prices for agricultural produce. NAFED is the apex organization of marketing co-operatives in the country. State level marketing federations are its constituent members. Over time NAFED has expanded its functions to procurement, processing, storage and distribution of selected agricultural commodities. It also undertakes price support operations for pulses and oilseeds on selective basis.
+
+Some innovative marketing mechanisms have been developed to eliminate the share of middlemen in some states, which involved direct sale of farm produce to the consumers. These include Apni mandi in Punjab and Haryana, Rythu bazaar in Andhra Pradesh and Uzavaar sandies in Tamil Nadu. Under these arrangements the farmers are allowed to sell their produce as retail to consumers in the towns on selected days and time. The scale of operation of these marketing arrangements is quite low, because only some farmers located in the vicinity of big towns take interest in this form of marketing.
+
+Marketing policies
+
+Agricultural marketing policy in pre Independence India was one of /aissez faire and the state intervention was minimal. This approach was based on the assumption that state intervention to stabilize prices through buffer stock and such policies would be fatal to the growth of private sector, considered so essential for long-term growth and seJf- reliance of marketing system. However, exigencies of natural events, exploitative nature and limited capacity of private sector, and the innovations in agricultural production technology brought about a sea change in public policy towards ‘agricultural marketing in the country. The government has been intervening in agricultural marketing in three ways, viz. (a) by developing and creating market
+
+infrastructure, (b) through legal framework, and (c) through direct intervention in markets.
+
+Legal instruments
+
+Legal instruments are used to regulate market conduct to safeguard the interest of producers and consumers and to raise the standard of agricultural markets. These instruments are put in force and revised from time to time by the Central government and state governments. The most important regulations are Essential Commodities Act (1955) enacted by Central government, and Agricultural Produce Market Regulation Act enacted by states.
+
+Essential Commodities Act applies to any commodity declared essential by the central government. Almost all agricultural commodities like cereals, pulses, edible oilseeds, oilcakes, edible oils, raw cotton, sugar, gur and jute are included in the list of essential commodities. The Act provides for instruments like license, permits, regulations and orders for price control, storage, stocking limits, movement of produce, distribution, disposal, sale, compulsory purchase by government and sale (levy) to the government. A very large number of control orders have been put into force by the Central government and state governments under the ECA.
+
+Apart from ECA and APMA of various states, several other legal instruments are used to regulate activities of market functionaries, viz.
+
+(i) Essential Commodities Act, 1955;
+
+(ii) Prevention of Food Adulteration Act, 1954,1964,1976 and 1986;
+
+(iii) Prevention of Black Marketing and Maintenance of Supply of Essential Commodity Act,1980;
+
+(iv) Standard of Weights and Measures Act, 1976;
+
+(v) Solvent Extraction Oil, Deoiled Meal and Edible Oil Control Order, 1967;
+
+(vi) Vegetable Oil Products Control Order, 1977;
+
+(vii) Fruits Products Order 1955 and 1997;
+
+(viii) Meat Food Products Order, 1973;
+
+(ix) Pulses, Edible oilseeds and Edible Oil Storage Control Order, 1977;
+
+(x) Consumer Protection Act, 1986;
+
+(xi) Milk and Milk Products Order, 1992; and
+
+(xii) Food Safety and Standards Act (2006).
+
+To order to encourage quality and to promote the consumers’ confidence in agricultural products, another Act known as Agricultural Produce Grading and Marketing Act, was passed in 1937. It defines standards of quality and prescribes grade specifications with regard to scheduled products. The Act authorizes Agricultural Marketing Advisor in each state to grant certificate of authorization to persons or corporate bodies who agree to grade agricultural produce as prescribed under the Act to use AGMARK grading. The AGMARK grade specifications have been prescribed for 123 agricultural products, but the use of AGMARK has remained quite low despite rising importance of quality attributes among the consumers. Another Act closely related to this is Food Safety and Standard Act. The mandate of new Food Safety and Standards Acct is to establish and improve regulatory frameworks for food control and quality assurance compatible with international requirements, based on scientific principles, and to supply the technical advice and expertise for the development of
+
+integrated food control systems.
+
+The main aims of various regulations were: (a) to keep a check on exploitation of producers and consumers by private trade through collusion, hoarding etc., (b) price stabilization, and (c) to raise the standards of markets and to improve market performance. Lot of changes have taken place in marketing and trade environment since these regulations were framed. Development of transport and communication network, expansion of marketing and increased competition in economic activities have facilitated increased role of private sector in agricultural marketing. A feeling has emerged that numerous regulations have led to excessive control and intervention by the government, which are hampering participation of private trade in agricultural marketing and are proving counter productive. To increase the participation of private sector in agricultural marketing, some changes have been made in ECA to remove the requirement of licensing of dealers and restrictions on storage and movement of foodgrains, sugar, oilseeds and edible oils. Similarly, Sugar Control Order and Milk and Milk Product Order have also been amended to allow more freedom and increased participation by private sector in marketing of these commodities.
+
+Recent initiatives
+
+Marketing requirements of agriculture have been changing with the passage of time, and new alternatives and new actors have emerged for marketing farm produce. In order to facilitate progress of new mechanisms in agricultural marketing and to cater to emerging needs of producers and consumers some major initiatives have been taken by the government in the recent years. These include Model APMC Act, removal of many agricultural commodities from the list of Essential Commodities governed by ECA 1955, facilitation of Producers Company and incentives for investments in food processing sector. The Model APMC Act allows direct transactions between producers and buyers for sale/purchase of produce, and is meant to pave the way for contract farming. The Act also allows private and co-operative sectors to set up agricultural market; which would act as an alternative option in addition to state mandies. Amendments in ECA are meant to remove restrictions on private trade to participate in marketing of all agricultural commodities. All these initiatives aim at promoting competition in the market, reduce middlemen’s margin, and improve vertical and horizontal market integration, to ultimately benefit producers and consumers.
+
+Direct government intervention
+
+The principal components of direct government intervention in agricultural markets during the last 4 decades have been the following:
+
+(i) Price support and procurement,
+
+(ii) Maintenance of buffer stock and operational stock,
+
+(iii) Public distribution system, and
+
+(iv) Open market operations.
+
+The system of minimum support prices was started in 1965 to provide remunerative price environment to the farmers to encourage them to adopt new HYVs of wheat and paddy and to invest in modern inputs. Overtime the commodity coverage of minimum support price has been expanded to include paddy (rice), wheat, sorghum, pear! millet, finger millet, maize, ragi, barley, gram, pigeonpea, greengram, blackgram, pigeonpea,
+
+MARKETING AND TRADE
+
+rapeseed-mustard, foria, groundnut, sunflower, soybean, sesame, nigerseed, cotton, jute, copra and tobacco, whereas sugarcane is covered under statutory minimum price (SMP).
+
+Under this system, CACP advises the government on MSP for various crops based on the cost of cultivation of various crops and some other relevant economic considerations. MSP is then announced for 24 commodities. To ensure that market prices do not fell below MSP, public agencies procure or purchase the farm produce from the market.
+
+The MSPs have been very effectively implemented for some crops and in some regions through procurement of produce by the official agencies. These include procurement of paddy and wheat by FCI and other official agencies in the states or regions that were early adopters of Green Revolution and offered sizable marketed surplus like Punjab, Haryana, western Uttar Pradesh, Andhra Pradesh, Tamil Nadu and some parts of Rajasthan and Madhya Pradesh. Procurement operations are now being extended to other states where sizable surplus of rice and wheat has emerged. Guaranteed prices have also been implemented for sugarcane by according statutory status to MSP, under which sugar factories have to pay the price recommended by the government. Besides serving the purpose of MSP, rice and wheat are also procured to maintain buffer stock for intei-year price stability and to maintain operational stock for public distribution system. Though wheat is directly procured by FCI and other public agencies, a part of rice is procured through the system of levy, under which rice millers are required to give back some percentage of rice from the paddy purchased by them to the government at levy price derived from MSP.
+
+The government maintains buffer stock of rice and wheat to guard against adverse impact of annual fluctuations in domestic output on price stability and food security. The norms for buffer stock are changed from time to time. The current minimum norms for buffer stock of foodgrains are 16.8 million tonnes on 1 January, 15.8 million tonnes on 1 April, 24.3 million tonnes on 1 July and 18.1 million tonnes on 1 October.
+
+Foodgrains procured by the government are used in various ways. These include, one, supply to: (a) public-distribution system, (b) various social welfare works and schemes like food for work, and (c) mid-day meal, Annapurana and Antyodaya schemes to help in food and nutrition needs of weaker sections of society; two, open market sales to stabilize prices; and three, exports.
+
+The government also procures cotton and jute through Cotton Corporation of India and Jute Corporation of India, and oilseeds and pulses through NAFED to achieve the objectives of price policy for these crops.
+
+Current issues in agricultural marketing
+
+During the last decade economic and policy environment in India has undergone significant changes mainly due to new economic policy started with economic reforms in 1991, and domestic and global liberalization. This has raised new kind of issues in agricultural marketing and necessitated changes in the existing regulations and system. Strong need is felt to increase private-sector participation in agricultural marketing. There are also serious concerns relating to regional and crop-wise benefits of MSP. Government intervention in the form of remunerative prices needs to be extended to hitherto neglected agriculturally underdeveloped regions, which have vast unexploited
+
+potential for agricultural growth. Linking small holders to market and development of various types of value chains are the biggest challenges facing agricultural marketing.
+
+Consumers are now attaching more value to quality, safety and product specificity like grades. There is also tremendous pressure and scope to reduce midddleman’s margin through supply chain management. A traditional marketing channel for agricultural products consists of different fragments usually involving different actors. A well-functioning supply chain can reduce the cost of marketing by linking farmers more closely to processing firm and consumers and guide the production to meet changing consumer preferences. Modern supply chain also often involves private standards and their enforcement — that help coordinate supply chains by standardizing product requirements for suppliers over many regions or countries, enhancing efficiency and lowering transaction costs. The concept of supply chain is more beneficial to small holders who dominate India’s agricultural production and this concept needs to be promoted.
+
+There is a lot of concern about new technology not getting adopted at farmers field, and this is often attributed to weaknesses in the extension system. A realisation is occurring that without information on market for produce farmers are not much enthused to adopt attractive innovations. This calls for developing and strengthening marketing extension, and integrating market related information with production technology. ;
+
+In some states taxes on agricultural produce are quite high. There are reports that to avoid these market charges the produce is diverted without entering into regulated markets. These charges need to be rationalized and should commensurate with the services rendered in the market.
+
+Globalization and liberalization are throwing serious challenge to domestic agricultural marketing system. National marketing system is now required to compete in some cases with MNCs. This underscores the need for improving market efficiency through changes in regulations and improvement in infrastructure. Massive investments are needed in transport network, storage and cold storage, processing and packaging services, and in modern infrastructure like refrigerated vans particularly because importance of perishables and processed products growing for their production and consumption.
+
+AGRICULTURAL TRADE’
+
+Foreign trade of India before Independence, during British rule, was dictated by the colonial interest. Raw material for British industry and foodstuff formed the exports and manufactured products formed the imports. Even coercive methods were used to force Indian farmers to produce items of import interest to Britain. More exports and less imports were the feature of colonial period and trade, which created favourable trade balance in this period. On attaining Independence, growth and development of domestic economy and establishment of sound industrial base were accorded top priority. The broad objectives of this policy have been: (i) import substitution to provide protection to domestic industry; (ii) expansion of exports; (iii) to insulate domestic economy from external as well as internal economic shocks and to provide stability to domestic economy; and (iv) to bring in technology improvement and improve efficiency of domestic production. To achieve these objectives, the government intervened
+
+strongly in agricultural trade. It created public sector agencies for trading like State Trading Corporation (STC) and Agricultural Produce Export Development Authority (APEDA) and adopted several measures like licensing of trade, import or export ban, quantitative restrictions, high tariffs, etc.
+
+A feeling emerged in early 1980s that though the policy of ban and restriction on the consumer goods and the policy of import substitution have helped in making notable achievements, the absence of competition from foreign producers was turning Indian industry inefficient and it had no pressure to upgrade the technology. Towards late 1980s evidence was produced that trade policy was in fact providing strong protection to industry by restricting imports but it was providing disprotection to agriculture by restricting agricultural exports, because international prices of several agricultural commodities were higher than the domestic prices.
+
+The first major attempt at liberalisation of imports was made in 1985, when export- import policy was announced on a 3 years basis. Under this, import of 53 items that were in the list of Open General License (OGL) were decanalized and 200 items whose import was either banned or restricted were placed on OGL list. The list of items whose import was liberalised under OGL system or through decanalization was further increased during 1988 and 1990, when import restrictions were also relaxed to some extent. These changes in trade policy did not extend to agriculture till 1991, and agricultural exports and imports in the country continued to be strictly regulated through quantitative restrictions such as quotas and licenses or channelled through some trading organization or some combination of both. With the new trade policy initiated in 1991, three major changes were affected in agricultural export-import, viz. (#) channelling of trade was abandoned and government stopped determining the value or nature of the import or exports, except for exports of onion and import of cereals, pulses and edible oils; (ii) most of the quantitative restrictions on agricultural trade flows were dismantled; and (iii) some reduction in the tariff was also announced.
+
+While India started liberalizing agricultural trade slowly in the beginning of 1991, new multilateral round on General Agreement on Trade and Tariff known as Uruguay Round, was concluded in 1994. It led to establishment of WTO on | January 1995 and included Agreement on Agriculture in GATT for the first time. The agreement requires WTO member countries to follow some market opening commitments. These are: (i) establishment of tariffication, i.e. replacing all quantitative restrictions (QR) with tariffs; (ii) reduction in tariff; and (iii) binding of all agricultural tariffs by fixing upper ceiling. India was having QRs on 2,700 products, which included 800 agricultural products. The QRs have been removed on all these products and trade is now mainly regulated through tariffs. Role of public agencies in undertaking import and export has been almost eliminated and trade is now left to private sector.
+
+Importance of agricultural trade in GDP and total trade
+
+Traditionally coffee, tea, spices, tobacco, raw cotton and marine products were the major agricultural exports, and foodgrains were the most important agricultural imports by India till mid-1960s. Around 1960s, India’s imports used to exceed its agricultural export and the sector was a drain on foreign exchange of the country. With the adoption of Green Revolution technology in late 1960s, self-sufficiency in foodgrains improved considerably, which led to decline in agricultural imports. Due to this, agriculture
+
+866 HANDBOOK OF AGRICULTURE
+
+turned out to be net foreign exchange earner for the country by 1970-71. During the decade of 1970s both agricultural imports and exports witnessed sharp increase but growth in the exports was much higher than in the imports. This raised the share of agricultural exports in GDP on agriculture from 2.50% during 1970-71 to 4.07% by 1980-81 (Table .28.5). During the next decade, agricultural imports decreased to half but exports increased by about 27%. This raised the net foreign exchange earning of farm sector to $2,600 million. The increase in agricultural imports during the 1970s and decline during the 1980s was mainly due to changes in import of edible oils, which increased substantially during 1970s but declined more sharply during 1980s.
+
+By early 1990s, the level of imports turned out to be less than 1% of GDP in agriculture, whereas the share of export was around 4%. Between 1970-71 and 1990- 91 the share of agricultural imports in total national imports plummeted from 25% to below 3% . Due to faster growth in non-agricultural exports, the share of agricultural exports fell from 32% to 18.5% in the two decades after 1970-71. Rising surplus of export over imports and relatively small decline in its share in total export shows that agriculture has played an important role in generating foreign exchange for the country. With the beginning of economic reforms, conditions were made more favourable for export due to devaluation and depreciation of Indian rupee. This, along with liberalization of trade, led to fast increase in agricultural imports and exports. Between 1990-91 and 1995-96 agricultural exports increased by more than 80% to reach peak level of $ 610 crores. In the post WTO period international prices of agricultural commodities followed unprecedented decline because of which import rose much faster than export which caused adverse impact on India’s foreign exchange earnings of agriculture. However, the situation started changing from 2003-04 onwards, following improvement in international prices. Agricultural exports from India more than doubled in $ terms in four years after 2003-04. Year 2007-08 was exceptionally good for agricultural export and ratio of export to GDP crossed 10% mark for the first time (Table 28.5).
+
+MARKETING AND TRADE
+
+Composition of export
+
+Since the beginning of the reforms, composition of agricultural exports witnessed important changes (Table 28.6). Marine products continued to top the list with steady growth till a few years back but lost their primacy to rice during 2005-06 to 2007-08. Oilmeals ranked second during early 1990s, after which they reached third place after rice and marine products. Non-Basmati rice has emerged as a major item of agricultural exports during the last decade, and exports of Basmati rice has also witnessed increase.
+
+India occasionally export large amount of wheat, but wheat trade is marred by violent fluctuations and the country is not having regular surplus for exports and in some years it has gone for large imports. Exports of sugar and cotton also follow large fluctuations. Despite being deficit in pulses, India’s pulse exports has been growing. India exports superior quality pulses and imports much larger quantity of average and low grade pulses than what it exports. Traditional items of export like tea, spices, coffee and tobacco continue to be major export products, but except of spices their exports in recent years have declined. Export of livestock products, processed products and horticultural products has shown modest to high growth since 1991-92. Exports of raw cotton seems be almost banishing.
+
+Data on export of some important agricultural commodities in quantity terms are presented in Table 28.7. Like their value, export of non-Basmati rice and wheat in terms of quantity showed sharp fluctuations. When export of rice was first liberalized
+
+*Includes wheat flour.
+
+during 1995-96, India's exports suddenly rose to more than 4 million tonnes. Since then it turned out to be the second most important exporter in the world after Thailand in many years.
+
+In wheat, India sometimes used to import big lot and sometimes it used to have large surplus for export depending upon the domestic production and stock management. This happened mainly due to production fluctuations and level of buffer stock in excess or short of the country's requirement. This causes lot of cost to state exchequer sometime because of excessive stock and their liquidation below economic cost of foodgrains and sometime costly import. There is a need for reorienting food policy that helps in market stabilization in a cost effective manner.
+
+Exports of cotton almost dried up in the initial years of the new century because of setback to domestic production. India exported 3.74 lakh tonnes cotton (lint) during 1990-91, which remained highest till 2004-05. As the cultivation of Bt cotton led to tripling of cotton production in five years after 2002-03, the export also witnessed sharp increase. During 2006-07 and 2007-08 India exported more than 1 million tonne of cotton lint.
+
+Sugar export followed the usual pattern of some time very big export and some time meagre export. Sugar export reached 5.5 million tonnes during 2007-08 but India is set to go for import of sugar during 2009-10. It is irony that trade in sugar and some other commodities like cotton and wheat show huge fluctuations between export and import, due to factors like weather shock which are not under control.
+
+Agricultural imports are defined to include food and live animals, chiefly for food, and vegetable oils, oilseeds, raw cotton and wood and wood products. Out of these, food items account for 70-80% of the total imports. Since 1994-95 vegetable oils have remained the biggest item of agricultural imports. Their import in the recent years have risen very sharply and reached $ 2.24 billion (Table 28.8). During 1997-98 to 2002-03 import of vegetable oil accounted for about two-third of total import of food items. During the recent years India imported close to 5 million tonnes of vegetable oil by spending about Rs 10,000 crore/year. At these levels of imports, India meets almost half of its edible oil consumption from imports. The level of imports was below
+
+MARKETING AND TRADE
+
+Less than 1 million $.
+
+2.5 lakh tonnes during early 1990s. There is also a big increase in the imports of pulses, which increased from $ 129 million in early 1990s to $ 435 million in the beginning of next decade. Average import of pulses during 2005-06 to 2007-08 was $915 million. Import of wood and wood products has increased five-fold from $ 248 million during 1994-95 to 1996-97 to $ 111million during the triennium ending with 2007-08.Import of cotton show large fluctuations from one period to another period.
+
+Fruits and nuts and cashewnut are also major items of imports, which steadily increased over time. In cashewnut a large part of import is exported back after processing. Import of spices has also shown steep increase, whereas that of cereal preparations showed modest increase during last 10 years. In last few years India imported large amount of sugar and wheat to meet serious shortfall in domestic supply.
+
+Emerging trade scenario
+
+International trade and prices have witnessed important changes after 1995 with the implementation of Uruguay Round General Agreement on Trade and Tariff and due to economic reforms initiated by several countries. Global markets have become somewhat more open, and there is also increased global competition for exports. India’s agricultural exports are highly elastic to the price received for export. When price is favourable, India’s exports grow faster than world export, and when prices turn adverse the India’s exports decline faster than world trade. This adversely affects the prices fetched by India’s export. There is a need to devise mechanisms to check excessive decline in export when international prices turn unfavourable.
+
+In the new international trade environment, India performed much better in exporting horticultural, livestock, processed and other products, whose demand is more income elastic. This would further improve if SPS issues are addressed properly.
+
+Prices of several commodities considered to be important for export from India show neither rising nor a declining trend in dollar value, and the year-to-year fluctuations in agricultural prices are mainly of cyclical nature without any secular trend. This implies that to compete in international market, real cost of production in
+
+agriculture must also decline, otherwise India or any other country would lose its competitive edge. In some commodities, where domestic prices remain lower than international prices even when international prices are low, the cyclical movement towards trough only narrows down the margin but the commodities remain exportable. The more serious problem is with these commodities where international prices at their low level turns lower than the domestic prices, as for rice, wheat, sugar and soybean. There are only two options in such cases, e.g. (i) improve the efficiency of production and other market-related operations such that supply price does not turn higher than the international prices when they are low; and (ii) to support the export during low international prices through mechanisms like price-stabilization funds.
+
+Domestic factors are the key to improve trade competitiveness. The most important is improvement in efficiency that helps in cutting prices for export. Equally important is output growth to generate surplus or to replace imports. Improvement in efficiency is the sufficient condition for promoting export. If output growth is taking place through rising average cost that would not help in competing in the international market. Thus, under liberalized environment, trade requires paradigm shift from “output growth” to “efficient growth or growth accompanied with improvement in efficiency”. Further, improvement in efficiency does not involve only the reduction in real cost of production. Equally important are the other costs and processes that reflect into price such as the cost of marketing, cost of transport and cost of processing. Domestic liberalization is very important as an alternative to encourage private-sector participation in marketing and trade of the farm produce.
+
+MARKETING AND TRADE
+
+MARKETING AND TRADE

@@ -1,0 +1,863 @@
+SOURCE_DOCUMENT: Chapter 30.pdf
+
+30. Agricultural Extension
+
+The use of the word ‘extension’ was derived from an educational development in England during the second half of the nineteenth century. Around 1850 discussion began in the universities of Oxford and Cambridge about how they could serve the educational needs of the rapidly growing population in the industrial urban area near to their homes. Initially most of the lectures given were on literary and social topics, but by 1890s agricultural subjects were covered by peripatetic lectures in rural areas. During the first two decades of that century, the extramural work of the Land Grant college, concerned with serving the needs of farm families, expanded dramatically and became formally organized, but the use of the term ‘extension’ continued and has persisted as the designation for the work.
+
+Extension education is an applied behavioural science, whose knowledge is applied to bring about desirable changes in the behavioural complex of human beings, usually through various strategies and programmes of change and by applying the latest scientific and technological innovations. Extension education has now developed as a full-fledged discipline, having its own philosophy, objectives, principles, methods and techniques which must be understood by every extension worker and others connected with the agricultural and rural development. It may be mentioned here that extension education, its principles, methods and techniques are applicable not only to agriculture but also to veterinary and animal husbandry, dairying, home science, health, family planning, etc. Based upon its application and use, various nomenclatures have been given to it, such as agricultural extension, veterinary and animal husbandry extension, home science extension, public health extension and family planning extension.
+
+Difference between formal education and extension education
+
+When extension education is put into action for educating the rural people, it does not remain formal education. In that sense, there are several differences between the two (Table 30.1).
+
+Objectives of extension education
+
+The objectives of extension education are the expressions of the ends towards which our efforts are directed. An objective means a direction of movement. Before starting any programme, its objectives must be clearly stated, so that one knows about the final goal and what is to be achieved. The fundamental objective of extension education is the overall development of the people.
+
+Agricultural extension in our country is primarily concerned with the following main objectives.
+
+1. The dissemination of useful and practical information relating to agriculture, including improved seeds, fertilizers, implements, pesticides, improved cultural practices, dairying, poultry, nutrition etc.
+
+AGRICULTURAL EXTENSION
+
+2. The practical application of useful knowledge to farm and home.
+
+3. To get feedback from the people about the latest scientific technology transferred to them through different media, and to improve all aspects of the life of the rural people with the framework of the national, economic and social policies, involving the population as a whole.
+
+Principles of extension education
+
+The extension work is based upon some working principles, whose knowledge is necessary for an extension worker. A principle is a statement of policy to guide our decisions and actions in a consistent manner. Some of these principles, as related to agricultural extension, are mentioned below.
+
+Principle of interests and needs: Extension work must be based on the needs and interests of the people. These needs and interests differ from individual to individual, village to village, block to block, and from state to state, therefore, there cannot be one programme for all the people.
+
+Principle of cultural differences: Extension work is based on the cultural background of the people with whom the work is done. Improvement can only begin from the level of the people where they are. This means that the extension worker has to know the level of the knowledge, and the skills of the people, methods and tools used by them, as well as their customs, traditions, beliefs, values, etc. before starting the extension programme.
+
+Principle of participation: Extension helps people to help themselves. Good extension work is directed towards assisting the rural families to work out their own problems rather than giving them ready-made solutions. Actual participation and experience of people in these programmes create self-confidence in them, and also they learn more by doing. It has been seen that people become dynamic if they are permitted to take decisions concerning their own affairs, exercise responsibility, and are helped to carry out projects in their own villages.
+
+Principle of adaptability: People differ from one another, one group differs from another group and conditions also differ from place to place. An extension programme should be flexible, so that necessary changes can be made whenever needed, to meet the varying conditions.
+
+Principle of grass-root organization: A group of rural people in local community should sponsor extension work. The programme should fit in with the local conditions. The aim of organizing the group is to demonstrate the value of the new practices or programmes so that more and more people participate.
+
+Principle of involvement of local leadership and institutions: Extension work is based on the full utilization of local leadership for increasing the speed of extension work. The selection and training of local leaders to enable them to help carry out the extension work is essential for the success of the programme. People have more faith in local leaders, who should be utilized to put across a new idea for acceptance with the least resistance.
+
+Principle of whole family approach: Extension work will have better chance of success if the extension workers have a whole-famly approach instead of piece meal approach or separated and unintegrated approach. Extension work is, therefore, for the whole family, ic. for men, women, adults and the youth.
+
+Principle of co-operation: Extension is a co-operative venture. It is a joint democratic enterprise in which rural people co-operate with village, block and state officials to pursue a common cause.
+
+Principle of people’s satisfaction: The end-product of the effort of extension teaching is the satisfaction that comes to the farmers, his wife or youngsters as the result of solving a problem, meeting a need, acquiring a new skill or some other changes in behaviour. Satisfaction is the key to success in extension work, because ‘a satisfied customer is the best advertisement’.
+
+Principle of learning by doing: Extension education is based on the practical principle of learning by doing. In extension work, people should be encouraged to learn new things by doing and by direct participation. Learning remains far from perfect unless people get involved in actually doing the work. Learning by doing is most effective in changing the people’s behaviour and developing the confidence to use the new methods in future. People must learn what to do, why to do, how to do and with what results.
+
+Principle of trained specialists: It is very difficult for a multi-purpose extension worker to keep himself abreast with all the latest findings of research in all the branches of science. He has to deal with day to-day activity. Trained specialists have to be provided at different levels of extension organization who keep themselves in touch with their respective research institutes on the one hand, and extend to the extension
+
+AGRICULTURAL EXTENSION
+
+worker in meaningful terms the latest scientific developments that have scope for adoption in particular areas on the other.
+
+Principle of applied science and democratic approach: Applied agricultural science is not a one-way process. The problems of the people are taken to the scientists, who do the experimentation necessary to find out the solutions. The extension worker translates the scientific findings of the laboratories in such a way that the farm families can voluntarily adopt them to satisfy their own needs.
+
+However, extension work is democratic both in philosophy and procedure. It aims to operate through discussion and suggestion. Facts about a situation are shared with people. All possible alternative solutions are placed before the participants, and their merits are highlighted through mutual discussions. Ultimately, the people are left free to decide their line of action and the methods to be adopted in the local situation with their own resources and available government assistance.
+
+Principle of evaluation and improvement: Extension is based upon the methods of science, and it needs constant evaluation. All extension programmes must be evaluated at regular intervals against objectives, to know what has been achieved and what remains to be done. Evaluation should indicate gaps and the steps to be taken for further improvement. The effectiveness of the work should be measured in terms of the changes brought about in the knowledge, skill, attitude and adoption behaviour of the people but not merely in terms of achievement of physical targets.
+
+Learning and teaching
+
+Extension is an educational process for bringing about the desirable changes among the people, which involves both learning arid teaching and needs some tools or methods commonly known as ‘extension teaching methods’. It is, therefore necessary to understand what is meant by learning, teaching, learning situation, learning experience and extension methods.
+
+‘Learning’ is the process by which an individual, through his own activity, attains a change in his behaviour. It is an active process on the part of the learner. The essential role of an extension worker is to create effective ‘learning situations’. An effective learning situation requires the following essential elements.
+
+(i) An instructor (an extension worker, e.g. an extension officer or a village level worker);
+
+(ii) learners (the farmers, the farm women and the youth);
+
+(iii) subject-matter (the recommended improved practices, such as the seeds of high— yielding varieties, fertilizers, balanced diet, etc.);
+
+(iv) teaching equipment and supplies (a flannel board, a chalk board, charts, models, samples, slides, film strips etc.); and
+
+(v) physical facilities (sitting accommodation, good visibility, well lighted lecture room etc.). ‘
+
+The extension worker should skillfully manipulate the elements of the learning situations and provide satisfactory learning experiences for the people. The farmer, the farm women or the farm youth are the focal points in the learning situation. The main aim of an extension worker is to bring about a change in the behaviour of the people with the help of a judicious combination and use of different elements. All the teaching should be carried out according to the needs and resources of the local
+
+community or group. Learning experience is the mental and physical reaction that one makes through seeing, hearing or doing the things to be learnt, through which one gains meaning and understanding of the material to be learned.
+
+‘Teaching’ is the process of arranging or providing situation in which the things to be learnt are brought to the notice of the learners, their interest is developed and desire aroused, i.e. they are stimulated into action.
+
+For example, if one wants to teach the farmers the use and the advantages of chemical fertilizers, it is done by conducting demonstration on their fields, showing them how the fertilizers are applied, and comparing the yield of the fertilized crop with that of the crop to which no fertilizer has been applied. After seeing the beneficial effect ofa fertilizer, the farmer is convinced and motivated to action and starts using fertilizers regularly.
+
+Extension teaching methods
+
+The extension teaching methods are the tools and techniques used to create situations in which communication can take place between the rural people and the extension workers. These are the methods of extending new knowledge and skills to the rural people by drawing their attention towards them, arousing their interest and helping them have a successful experience of the new practice. A proper understanding of these methods and their selection for a particular type of work are necessary.
+
+Classification of extension teaching methods
+
+According to use: One way of classifying the extension methods is according to their use and nature of contact. In other words, whether they are used for contacting people individually, in group or in mass. Based on the nature of contact, they are divided into individual, group and mass-contact methods.
+
+Individual contact method. Extension methods under this category provide opportunities for face to face or person-to-person contact between the rural people and extension workers. These methods are effective in teaching new skills and creating goodwill between the farmers and the extension workers.
+
+Group contact method. Under this category the rural people or farmers are contacted in a group, which usually consists of 20 to 25 persons. These groups are usually formed around a common interest. These methods also involve a face-to-face contact with the people and provide an opportunity for the exchange of ideas, for discussions on
+
+problems and technical recommendations, and finally for deciding the future course of action.
+
+Mass-or community-contact method. An extension worker has to approach a large number of people for disseminating a new information and helping them use it. This can be done through mass-contact methods conveniently. These methods are useful for making people aware of the new agricultural technology quickly.
+
+Important extension teaching methods under these categories are listed in Table 30.2.
+
+According to form: Extension teaching methods are also classified according to their forms, such as written, spoken, visual, spoken and visual. Some of the important methods under each of these four categories are given in Table 30.3.
+
+Extension methods
+
+A brief description of some of the extension methods commonly used by extension workers is given here.
+
+Farm and home visit: Farm and home visits constitute the direct or face-to-face contact by an extension worker with the farmer or the members of his family. During these visits, information is exchanged or discussed. The visits may be to get acquainted with the problems of the farmers, or to organizational purposes. Such visits provide an opportunity for a two-way communication.
+
+Result demonstration: Result demonstration is an educational test to prove the advantages of recommended practices and to demonstrate their applicability to the local condition. It is conducted by a farmer under the direct supervision of an extension worker. It is designed to teach others, in addition to the person who conducts the demonstration. It helps the farmers learn by seeing and doing. This method can be used to show the superiority of practices, such as the use of fertilizers, insecticides and pesticides, and of high-yielding varieties of seeds.
+
+Method demonstration: Method demonstration is used to show the technique of doing things or carrying out new practices, e.g. preparing a nursery bed, treating seed with insecticides and fungicides, line sowing, taking a soil sample, grafting fruit trees etc. This method is usually used for groups of people.
+
+Frontline demonstration: Frontline demonstrations are conducted by researchers on the farmers’ fields to show how production can be increased per unit area and per unit time. These demonstrations usually include the system of multiple cropping and the use of high-yielding varieties, along with the best package of practices.
+
+Group discussion: All the farmers cannot be contacted by extension workers individually because of their large number. It is convenient and feasible to contact them in groups. This method is commonly known as group discussion. It is used to encourage and stimulate the people to learn more about the problems that concern the community through discussion. It is a good method of involving the local people in developing local leadership and in deciding on a plan of action in a democratic way.
+
+Exhibition: An exhibition is a systematic display of information, actual specimens, models, posters, photographs and charts in a logical sequence. It is organized for arousing the interest of the visitors in the things displayed. It is one of the best media for reaching a large number of people, especially illiterate and semi-literate people. Exhibitions are used for a wide range of topics, such as planning a model village, demonstrating improved irrigation practices, soil- conservation methods, showing the high-yielding varieties of seeds and plants, new agricultural implements and the best products of village industries.
+
+General meeting: General meetings are usually held for passing on certain information to the people for future action. Extension workers give lectures to the people on certain pre-selected items of work, such as the celebration of Van Mahotsav or a national festival.
+
+Campaign: Campaigns are used to focus the attention of the people on a particular problem, e.g. rat control, village sanitation, plant protection and soil testing etc. Through this method the maximum number of farmers can be reached in the shortest possible time. It builds up community confidence and involves the people emotionally in a programme.
+
+Conducted tours: Conducted tours for farmers are used to convince them and to provide them with an opportunity of seeing the results of new practices, demonstration of skills, new implements etc. and to give them an idea regarding the suitability and application of these practices in their own area. Such tours may also be arranged to enable the rural people to visit places and institutions connected with the problems of rural life, such as research institutions, training, agricultural universities, model villages, areas of advanced development, leading private farms, exhibitions, and agricultural and cattle fairs.
+
+Printed matter (literature): Newspapers, magazines, bulletins, leaflets, folders and pamphlets are another set of mass media for communicating information to a large number of literate people. They are used for communicating general and specific information on a programme of technology or a practice. Small folders, leaflets and pamphlets are used to give specific recommendations about a practice, such as the use of fertilizers, vegetable cultivation, green manuring and the growing of individual crops, e.g. wheat, barley, gram and sugarcane.
+
+Radio: Radio is a mass medium of communication that can reach large number of people at any given time involving the least expense. Extension workers use the radio for communicating information on new methods and techniques, giving timely information about the control of crop pests and diseases, weather, market news etc.
+
+AGRICULTURAL EXTENSION
+
+For this purpose talks, group discussions, folk-songs, interviews, question-answer sessions, dialogues and dramas are usually organized.
+
+Television: Television is one of the most powerful media of communication, It has come into vogue only in the recent years. It combines both audio and visual impacts and is very suitable for the dissemination of agricultural information. It is more useful in communicating information on how-to-do a specific job.
+
+A beginning has been made in India for using this medium for development programmes since 1967, and now its use has become more extensive. The information is supplemented with transparencies, film strips, video recordings, posters, charts, slides, models and graphics.
+
+Motion pictures (movies): Movie is an effective tool for arousing interest among the people, because it involves seeing, hearing and action. It is the most suitable medium for drawing bigger audience. A film show can be followed by a discussion with the villagers.
+
+Agricultural clinic: An extension worker, in collaboration with a team of subject matter specialists, sets up an agricultural clinic in a village on a predetermined day and place, where they discuss, diagnose and prescribe treatment to farmers’ problems who meet them one by one.
+
+After a schedule of visits is worked out, advance publicity is done through village watchman and by displaying posters at important places in a village. Farmers are requested to visit the clinic on the appointed day and place, where they meet the extension worker, who fixes then assignments with various subject-matter specialists based on the nature of their problems. The specialist prescribes the treatment or provides guidance in writing, as is done in a medical clinic. Last 2 hours are left for the concerned specialist to visit the site for on-the spot diagnosis and guidance to the farmers, whenever necessary. Although very expensive, this method is very helpful in providing specialized guidance to farmers and for farmer specific technology transfer.
+
+Flag method: During field visits, an extension worker may come across a field or a garden with a particular problem. If the farmer is not available to discuss it, he should plant a flag in the field. This gives an indication to the farmer that he should visit the extension worker as soon as possible to seek guidance for solving the problem. This method, very frequently used in some Latin American countries, can be used in India also. Before using this method, awareness should be created amongst farmers about the message of flags. Whenever a flag is planted, the extension worker must record it in his diary, so that when the farmers come to discuss about it, he can refer to the observations made by him in his diary.
+
+Peripatetic team visit: Under this method, a team of three to five subject-matter specialists, led by an extension worker, visit a village on pre-drawn schedule, present ideas on some timely topic to a group of farmers present, seek and answer questions, and later provide advice to farmers individually by examining their problems, crop samples and even may visit their problematic fields, sites.
+
+Definite schedule for such visits is drawn for each month. A poster indicating the date, Place and time of the visit is displayed at important places in the village 4 to 5 days in advance. Village leaders are contacted and announcements about the visit are made a day earlier with the help of the village watchman. Farmers are asked to bring Crop or other samples on which they may need any guidance.
+
+On the day of the meeting, one of the village leaders is made the chairperson, but the proceedings are co-ordinated by the extension worker. The proceedings include explaining the purpose, and brief presentations by subject-matter specialists, followed by question-answer session and later providing guidance on individual problems either by examining samples, fields or farms.
+
+Agricultural games: Several agricultural games have been developed in the past few years, and more can be developed by the extension workers themselves. These games are intended to be played by the people on their own, helping them to learn something while they are enjoying themselves. They can also be used to develop problem solving abilities by setting situations that will prompt people in using the mental faculties required for problem solving.
+
+According to Dr M.S. Swaminathan, games that will encourage exploration and discovery, require application of learned principles and facts, provide practice in skills, involve choice and judgement making etc. can be devised to build up scientific attitude and judgement making. For using these games, two important points should be kept in view: (i) both the form and the content of the games should be adopted to suit local situations; and (ii) the making and designing of such games is in itself a worth-while educational activity.
+
+Snake and-ladder game: This game has been developed to teach the cultivation of maize, planned on the lines of snakes and ladders played by children. Up to 4 persons can play this game at a time. The player throws the dice and then moves the token forward, depending on the number he gets. When the token reaches in a square with the foot of a ladder on it, it jumps to the head of the ladder. The ladder indicates the desirable practices to be followed. Similarly, when the player reaches a sequence in which the head of a snake is located, he has to come down to the square where the tip of the tail lies, indicating the extent of damage because of following a wrong practice. Similar, games have been developed in the area of forestry and nutrition. These games are widely used to teach children at the school level.
+
+Visual aids
+
+Visual aids are the tools of teaching through the sense of sight. They are supporting materials and they alone cannot generate learning. They should be considered only a tool that helps in doing a job in a better way.
+
+Visual aids are of different types. The following are the more commonly used ones in India:
+
+a Poster: A good poster creates awareness and interest among the people. It inspires and takes people towards actions. It consists of three main parts: (7) the first usually announces the purpose or the approach; (ii) the second sets out the conditions, and (iii) the third recommends action. A poster should be bold enough to attract the attention of the people, and should communicate only one idea at a time. It should have simple letters that are clear and forceful. The size of a poster should not be less than 50 cm 75 cm.
+
+; ; Chart: Charts are a combination of materials that together are most likely to represent clear visual summaries of important facts, concepts and their relationships. Charts may be defined ‘as a combination of graphic and pictorial media designed for the orderly and logic visualizing of relationships between key facts or ideas’. Charts
+
+897 AGRICULTURAL EXTENSION
+
+are a visual symbol for contrasting or performing other helpful services in explaining subject matter. Charts may be tree chart, flow chart or outline chart.
+
+Flannel graph: Flannel graph serves as a good teaching aid. When a piece of sand paper is fixed to the back of a picture, a photograph, a letter etc., it can be made to adhere easily to a piece of thick flannel cloth fixed on a board. They are used as an aid for group methods like informal talks or lectures.
+
+Graph: Graph may be defined as a visual representation of numerical data. A table of figures may contain a wealth of valuable information, but a graph of the same data presents the gist of that information for quick and easy grasping. Further, graphs are more interesting than numerical tabulation. Facts presented through graph become more understandable. Commonly used forms of graphs are line, bar, pie and pictorial graphs.
+
+Flash cards: Flash cards are a set of small compact cards, 30 to 45 cm in size, used to bring home an idea such as the benefits of smokeless chulha, cultivation of hybrid maize, compost-making and other practices. Pictures on the theme are drawn on these cards in a logical sequence, which are flashed before the audience. Seeing them, the villagers are able to follow a story more easily.
+
+Puppet: Puppets are very popular and especially suitable for village situations. Puppet shows can be effectively organized to gather the rural people. For a puppet show, short, brief scenes and quick dialogues are necessary. Such shows can teach a lesson about health, literacy, agriculture or home-making.
+
+Slide: A slide is a transparent picture or photograph in an individual mount. For viewing the image, the picture is projected through a slide projector, which brings the enlarged image into focus on a screen. Slides are an excellent aid of illustrating talks and showing people concrete activities and aspects of development. They can be effectively used to show different situations and methods of carrying out an activity. They can be arranged in series, for giving an illustrated talk on improved agricultural practices, cultivation of crops etc.
+
+Film strip: Film strips are a series of black-and-white or coloured pictures depicting a single idea. Instead of being individually mounted, they are printed on single length of strip of 35 mm film. Such strips can be shown to an audience of about one hundred people. The additional advantage in using the film strip is that the film can be stopped any time during the show to explain or discuss a difficult or interesting point.
+
+Model: Models create a sense of realism in a person. Models of new farm equipment, compost pits and sanitation devices, and animals are mostly prepared for those people who are not in a position to see them in the actual form. They are used to create interest, promote understanding and influence the people to adopt a certain practice.
+
+Object: The term 'object' refers to samples or real things minus the natural setting. They are very valuable visual aids for both formal and adult education. Collection of stamps, coins, weights, minerals, boxes, insect parts, diseases and other agricultural products are the objects. Their effectiveness can further be increased by using such devices as photographs, films, models etc.
+
+Bulletin board: A bulletin board can serve the purpose of making announcements, displaying events of short duration and photographs of local activities. The information should be written in simple language.
+
+Mock-up: A mock-up is three-dimensional imitation of a thing in certain aspects only for the purpose of learning, and hence it may not be similar in appearance. A more common example is the mock-up of a driver seat in training schools.
+
+Photograph: Photographs are a very simple visual aid. Good photographs show some action and catch the feelings and emotions of the people. They are so arranged that they tell a story. They are displayed on a bulletin board at a common meeting place where a large number of people can see them. They should be clear, and bold in composition with proper captions.
+
+Chalk board: Chalk boards provide a writing and drawing surface for chalk. They are usually used in schools, colleges and meeting-places. They make possible the use of sketches, drawings, word symbols of a combination of them to emphasize a point. Chalk boards are most useful in group teaching methods.
+
+Cultural programme: Local cultural programmes, such as folk-songs and dramas, are used as an effective medium of communicating the message of development programmes. Dramatization of a theme or story creates a lively interest among the audience. Folk-songs and dances related to the subjects of local interest and importance, when acted on the stage, bring home the point more forcefully.
+
+For an effective use of extension-teaching methods, it is not enough to know these methods and their techniques. What is more important is the appropriate selection of method or combination of methods for a particular situation. In fact, when a farmer is exposed to a new idea several times by different methods or a combination of methods, he is likely to accept it more quickly. Farmers learn about new practices through several stages. These stages are known as: (i) the awareness stage, when a person comes to know of a new practice but lacks the complete information; (ii) the interest stage—when he becomes interested in a new idea and wants to know more about it, (iii) the evaluation stage, when he mentally applies the new idea to his present situation and evaluates it; (iv) the trial stage, when he applies the new idea of practice on a small scale to determine its utility under his own situation; and (v) the adoption stage, when he decides to continue the full use of the practice or discontinue the practice. Thus it is the cumulative effect on people through exposure to an idea repeatedly that results in action.
+
+New communication technologies
+
+New communication technologies have emerged in past two decades. The micro- computers, cable TV, teleconferencing, teletext and desktop publishing are all examples of advances in communication technology. Many of these technologies use miniature forms of erstwhile larger equipment and offer opportunities of interaction, viz. computer-assisted instruction, interactive video, and compact disc-read only memory (CD-ROM).
+
+Micro-computers: Computers are classified as main-frames, mini-computers and micro-computers, based on their power, speed of executing as a set of instructions and the amount of memory available to store data as well as the degree of inter-connectivity the computers offer. In India micro-computers were introduced in 1978. Uses of micro- computers are, e.g. (i) it can process all kinds of information and keep its record to be retrieved as and when needed; (i) it can be a repository of various experiences, cases and research information on required topics; (ii) a training institution may keep all its
+
+AGRICULTURAL EXTENSION
+
+records on training courses and trainees for evaluation and reporting; (iii) such information can be used for monitoring purposes by headquarters. Besides these, its important utilities are given below.
+
+1. It can publish information material at reasonable cost for extension purpose.
+
+2. Micro-computers can communicate with each other if linked together. With the help of same hardwares, i.e. micro-computer, modem (a device that translates computer signals into phone signals and vice-versa), a printer, telephone and microwave or satellite, computers can enable users to access the data from anywhere through micro-computer and phone. AGNET, a computer network designed for use by extension agents, farmers and extension clientele, was introduced in North Dakota Extension Service in USA in 1977. AGNET is used for problem solving, information sharing and communication. Farmers can get answers to their everyday management problems through, its problem-solving function. Information sharing keeps extension agents up-to-date on information. An electronic mail system serves the communication function by speeding up distribution of messages among staff.
+
+3. Accounting function can be greatly facilitated by use of computer by designing more detailed financial record in less time.
+
+Video text: Video text or view data is an electronic text service transmitted from central computer to home TV set via telephone network or cable system. It is interactive in the sense that viewer has option to access the desired data. Video text and teletext have common features and uses except the mode of transmission, which in teletext is through broadcast system. It is one-way system. The components of video text system are as follows.
+
+Host computer system. Each video-text system has a host computer. The size of computer system varies according to the number of users, amount of storage and the speed of access required.
+
+Composing and data entry. It is the process through which text is composed and entered into video-text system.
+
+Transmission system. It consists of transmission via telephone or cable line. Display system. A video monitor specially designed for the purpose is used to deliver video-text data.
+
+User retrieval system. Users have to decode to retrieve information from the system. It may be a terminal key-board to select pages or communicate with the system.
+
+Electronic mail: Electronic mail or e-mail is a mail system that passes information electronically from sender to receiver. Thus it is a simple way to communicate between two people through computer. The e-mail is like surface mail in which a message is typed into computer and sent to another computer via telephone. The message is stored there until the receiver asks for it. Thus the computer acts here as a post office. The message in e-mail can be one of many forms e.g. voice to text image or drawing. An e-mail system provides for mail box, which the user can see by using personal computer and modem connected to telephone. The e-mail has following advantages.
+
+1. It connects two busy people. The sender may not know where the receiver is located. Sender may refer to user-code address, which the user may retrieve at convenience.
+
+900 HANDBOOK OF AGRICULTURE
+
+2. It makes communication faster, as it eliminates the time spent to type, edit, despatch and deliver.
+
+3. It is cheaper than sending message by telex or fax.
+
+Interactive video: Interactive video refers to a video system that is a combination of computer and video. It uses multimedia approach, i.e. text, stills, video, audio, slides, overheads etc. The messages stored in various forms are retrieved by the user according to choice. The user’s response to the system determines the action to be followed. The various levels of interactive video are as follows.
+
+Level I. The simplest design consists of video player tape or disc and a television set or a monitor. The user operates the player to review the material. The amount of interactivity is limited by the function of the player. A remote control is included for ease of operation.
+
+Level II. In this level the video-disc player along with an internal micro-processor is included, which is programmed to perform certain playback sequences and respond to the viewer’s choices during the programme. The programme control is encoded on the disc.
+
+Level II. It involves a computer that responds to the user’s input. The computer controls all other devices such as video-tape or video disc player and audio devices. This level of interactivity provides all the benefits of computer aided instruction (CAI) such as branching, user-controlled pace, lesson management, record keeping and feedback. This level can involve special accessories such as tough screens, light, pens, bar code readers and devices that allow simulated equipment adjustment. Major functions of extension, are— information delivery, education delivery and problem solving. Interactive video can provide information of choice or train farmers in pesticide-application technique or help in identifying the fertilizer to use for a particular crop. It is a very useful medium for training, providing individualized instruction at one’s own pace. If used properly, interactive video can be very cost-effective than traditional one-to-one training.
+
+Its advantages are: (i) there is no need for teacher; (ii) it has self-paced learning; (iii) it has powerful video and sound; (iv) it has multimedia effect; (v) it allows for interactive learning; (vi) delivery costs of multimedia are greatly reduced; (vii) it has 3-D graphic simulation, real life situation etc; and (viii) it is long lasting.
+
+Teleconferencing: Teleconferencing is interactive group communication. Teleconferencing refers to a system for creating dialogue between geographically dispersed participants. Advances in telecommunication and computer have made it possible to hold meetings without travelling long distances. Teleconferencing can help physically distant people talk together.
+
+AUDIO TELECONFERENCING— The simplest form of teleconferencing is the use of amplified speaker phones to join groups of people at each end of a telephone conference. High-quality audio reception and transmission can be achieved.
+
+ComPUTER CONFERENCING— Computer conferencing is a variation of electronic mail, which enables multiples users, geographically isolated, to carry out dialogue. Information is transmitted through a computer with an elaborate store-and-forward message-handling system. In a computer conference the participants need not be involved simultaneously. One participant may send a message at any time and it may be read by others whenever they have time. A computer conference is basically a group activity. A group can select to participate. Each participant may put his/her
+
+AGRICULTURAL EXTENSION
+
+message and read others contributions. Messages are stored, thus allowing those who join late to retrieve and catch up with the conference.
+
+Video conferencing is like television. It allows for increased participation and dialogue between the group members. The cost and time spent in travel are minimized. Non-intensive and focused dialogue is possible.
+
+Programme
+
+The word ‘programme’ means a proclamation, a prospectus, a list of events, a plan of procedures, a course of action prepared or announced beforehand, or a logical sequence of operation to be performed in solving problem. An extension programme should present not only what is to be done, but why it is to be done. It is generally a statement of situation, objectives, problems and solutions. It should have clearly defined, consciously conceived objectives or ends derived from an adequate analysis of the situation which are to be achieved through extension teaching activity.
+
+Planning
+
+Planning is designing a course of action to achieve ends. Efficient planning is that which under given conditions leads to maximization of the attainment of relevant ends. In conceptual thinking, efficient planning refers to reaching decision through the implementation of a rational planning model. The most effective planning effort would be that which achieves the greatest degree or performance of the actions, motions or operations implied by a set of planning concepts that depicts the ideal process.
+
+Programme planning
+
+The first step in any systematic attempt to promote rural development is to prepare useful programmes based on people’s needs. The development of programmes that harmonise with the local needs—as the people see them and with national interest with which the country as a whole is concerned—is an important responsibility of extension personnel at all levels national, state, district, block and village.
+
+Programme-planning is the process of making decisions about the direction and - intensity of extension education efforts of the extension service to bring about social, economic and technological changes. ‘Effective rural development results from choice, not from change; design and not from drift; a plan and not by trial and error’. The basic purpose of programme-planning is to have this design, a kind of blue-print for action.
+
+Principle of extension programme planning
+
+A principle may be defined as a statement of policy to guide decisions, and actions in a consistent manner. It is a universal truth that has been observed and is true under varying conditions and circumstances. The planning of an extension programme is also done on the basis of some well-recognized principles, which should be clearly understood and followed by extension workers. The main principles are the following:
+
+(i) The programme planning should be based upon the careful analysis of a factual situation.
+
+(ii) In a good programme planning, problems for action are selected on the basis of recognized needs.
+
+902 HANDBOOK OF AGRICULTURE
+
+(iii) A good programme planning provides objectives and solutions that are feasible and offer satisfaction.
+
+(iv) The programme should be permanent and flexible to meet a Jong-term situation, short-time changes and emergencies.
+
+(v) A sound programme should have both balance and emphasis.
+
+(vi) A good programme has a definite plan of work.
+
+(vii) Programme planning is a continuous process.
+
+(viii) Programme planning is a co-ordinating process.
+
+(ix) Programme planning should be educational, directed towards bringing about improvement in the ability of the people to solve their own problems individually and collectively.
+
+Programme planning process
+
+The programme planning process has been defined as a continuous and co-operative activity, involving the local people and the extension staff; in which the facts are collected and analysed, problems are identified, objectives are set forth and action is taken to achieve the objectives. The steps involved in this process are described below.
+
+Collection of facts: Sound plans are based on the availability of relevant and reliable facts. This includes facts about the village people, physical conditions, existing farm and home practices, trends and outlook. Besides, other facts about customs, traditions, tural institutions, people’s organisations operating in the area etc. should be collected. The tools and techniques for collecting data include systematic observation, a questionnaire, interviews and surveys, existing governmental records, census report, of the Planning Commission and Central Bureau of Statistics, and the past experiences of the people.
+
+Analysis of the situation: After collecting the facts, these are analysed and interpreted to find out the problems and needs of the people.
+
+Identification of problem: Analysis of facts, real important gaps between ‘what is’ and ‘what should be’ and the problems leading to such a situation are located. These gaps represent the peoples’ needs.
+
+Determination of objective: Once the needs and problems of the people have been identified, they are stated in terms of objectives and goals. The objectives represent a forecast of the changes in the behaviour of the people and the situation to be brought about. The objectives may be long-term as well as short-term, and must be stated clearly.
+
+Development of the plan of work: To achieve the stated objectives and goals, the means and methods of attaining each objective are selected and the action plan, i.e. the calender of activities, is developed. It includes the technical content, ‘who should do what’, and the time limit within which the work will be completed. The plan of work may be seasonal, short term, annual or long term.
+
+Execution of the plan of work: Once the action plan has been developed, arrangement for supplying the necessary inputs, credits, teaching aids, extension literature etc. is to be made and the specific action has to be initiated. The execution of the plan of work is to be done through extension methods for stimulating individuals and groups to think, act and participate effectively. People should be involved at every step to ensure the success of the programme.
+
+AGRICULTURAL EXTENSION
+
+Evaluation: Evaluation is done to measure the degree of the programme in terms of the objectives and goals set forth. This is basically done to determine the changes in the behaviour of the people as a result of the extension programme. The evaluation is done not only of the physical achievements but also of the methods and techniques used and of other steps in the programme planning, so that the strong and weak points may be identified and necessary changes can be made.
+
+Reconsideration: The systematic and periodic evaluation of the programme will reveal the weak and strong points of the programme. Based on these points, the programme is reconsidered and the necessary adjustments and changes are made to make it more meaningful and sound.
+
+Programme planning is not the end product of extension activities but is an educational tool for helping people identify their own problems and make timely and judicious decisions.
+
+From the above-mentioned cycle, it is clear that the planning of an extension programme comprises a logical series of consecutive steps. The first four steps form the programme phase; the steps 5 to 7 form the action; and the step eight, reconsideration, the two phases together, where it leads to the fact collecting step, thus beginning once more the never ending or continuous process of planning the extension programme.
+
+The importance of programme planning has been realized in India since Independence, as evident from the establishment of the Planning Commission in 1950, and the initiation of the series of Five Year Plans as the basis for development and economic growth. The procedure followed for planning extension programmes, including agricultural development programme, is as follows.
+
+A state government indicates to the districts and blocks the tentative outlays proposed in respective areas under the various heads and the expected financial and other assistance. The blocks prepare their respective annual plans, taking into account the special local problems and the local contributions as well as the finances available. These are then consolidated district-wise, on which the state plan is formulated. The plans are prepared by the panchayat samities for the block and the zila parishads for the districts. The outlay of the state plans are finally approved by the Planning Commission.
+
+Role of extension in agricultural development
+
+Agriculture is a well integrated sector of economy throughout the world, and extension education is the core around which the framework of agricultural development is built. Extension education plays a vital role in technology transfer and human-resource development.
+
+The important roles played by extension education with respect to these two aspects may be considered on the basis of the points indicated below.
+
+1. Extension education helps in adoption and diffusion of new technology. It motivates the people to adopt new innovations. The innovations are of no use unless they are practically used by the farmers. Extension education transmits the desired information in an effective manner to its ultimate users, i.e. farmers.
+
+2. Extension uses democratic method in educating the farmers. It respects the individuality of people in making their own decisions with the help of extension
+
+workers. By this way the people grow both in status and self-respect and are able to take rational decisions, themselves.
+
+3. Extension helps the farmers organize their farming into a profitable business. It helps them to have an insight or self-analysis of their own situations and available resources, and select the relevant technology or practice for obtaining higher yields and supplementing their income.
+
+4. Extension helps train the farm leaders and progressive farmers. There are always some farmers who are consulted by other farmers as a source of valuable information. The role of extension therefore is to identify such farm leaders, give them suitable training and encourage them to adopt modern farm technology, so that they become the torch-bearers for diffusing this technology among other farmers. The extension workers also organize special training programmes for progressive farmers, farmers belonging to special interest groups, young farmers and farm women.
+
+5. Extension helps in decision making process. It studies the individual farm situation and helps the farmers in doing the appropriate and relevant technology or situation according to their needs and aspirations.
+
+6. Extension helps to get the necessary inputs. In a developing country like India where the supply and services are limited, extension is also required to get the necessary inputs and other requirements needed for agricultural production.
+
+7. Extension provides the desired information to the farmers. It creates a congenial learning situation in which people learn ‘What to do’ and ‘How to do’, and are able to work out ways and means to satisfy their felt needs with the desired information.
+
+8. Extension helps to change the attitude, knowledge and skills of the farmers. The knowledge so imparted brings about behavioural changes in the desired direction. The farmers improve their skills through ‘learning by doing’.
+
+9, Extension helps in improving technical know how of the extension personnel. Apart from rendering services to the farming community, another function of extension is also to up date the extension personnel with the latest advancements in agricultural development.
+
+Finally, the main function of extension is to bridge the gap between the scientists and the farmers. This is done by taking the new technology to the door-steps of the farmers and helping them to adopt it. At the same time the feed-back and problems of the farmers are also converged back to the scientists for technology refinement for the new generation. The function of extension is quite challenging. In the current perspective of fast developing agriculture and its diversification, the scenario is going to become more complex, further mounting pressure and creating new challenges. People’s expectations are changing with the change in agricultural scenario and on economic front. This has made the work of extension more difficult. For this purpose the extension worker is required to be in constant touch with the research institutes, agricultural universities and other credible sources of knowledge and information.
+
+Programme evaluation
+
+Evaluation is a process of systematic appraisal by which the worth, value, progress of impact of a programme or its part is determined. Since extension education is
+
+AGRICULTURAL EXTENSION
+
+basically concerned with the bringing about of behavioural change among the people, the process of extension evaluation is essentially the one of determining the desirable behavioural change, i.e. change in the knowledge, skill, attitude and adoption-behaviour of the people.
+
+In extension work the evaluation is done at different levels of behaviour of both extension workers and their clientele, and at different stages of planning and implementation of the extension programme. The major levels are: (7) the establishment of a bench-mark to serve as a base from which the progress of the programme can be determined; (i’) the evaluation of the process of planning and implementation of the programme; (iii) the evaluation of the various kinds of extension-teaching methods used; and (iv) the evaluation of the progress or the final attainments made by the learners (farmers).
+
+COMMUNITY DEVELOPMENT (NOW RURAL DEVELOPMENT) AND EXTENSION SERVICE IN INDIA
+
+The Community (rural) development programme in India aims at the all around development of the rural people through a network of extension service organization. The above programme and administrative set-up to extension service is the outcome of several efforts and reforms made over the years. The evolution of this programme and its set up are observed in four stages.
+
+Stage I Pre-Independence era (1866-1947)
+
+Stage II Post-Independence era (1947-1953)
+
+Stage III Community Development and National Extension era (1953-60)
+
+Stage IV Intensive Agricultural Development era (1960 onwards)
+
+Pre-Independence era
+
+During the Pre-Independence era, various scattered and short-lived efforts were made towards rural development in various parts of the country by individuals or some organisations. Notable among these were Daniel’s Scheme for Rural Reconstruction, Mahatma Gandhi’s work at Sevagram, Tagore’s work at Shantiniketan, Spencer Hatch’s efforts at Marthandam, F.L. Brayne’s work at Gurgaon, Rural Reconstruction Movement in Baroda, Firka Development Scheme in Tamil Nadu, Indian Village Service etc. It was during this period that the Department of Agriculture came into being in June 1971 and started functioning in skeleton form. Recognizing the need for new and improved methods of cultivation based on agricultural research, the then Government of India also set up an Institute of Agricultural Research at Pusa in Bihar in 1905. In 1920, Imperial Agricultural Research Institute was established at Pusa (Bihar), which was the beginning of organized agricultural research in India. Though valuable work was done there and useful information was obtained due to agricultural research, and attempts were made from time to time to carry the results of investigations to the farmers field, the progress was very slow. The bulk of new agricultural knowledge and skill remained unknown to the tillers of the soil because of the lack of an effective extension service. The villages continued to remain neglected and disorganized. The yields of crops were low, the animals remained underfed with very low productivity. The villages, on the whole, presented a gloomy picture.
+
+In fact, a number of reforms took place in India during this period. To avoid the recurrence of famines, Famine Commissions were appointed from time to time and they made very valuable recommendations. But it was the Royal Commission- on Agriculture (1928), which established a firm foundation for co-ordinated research and effective agricultural administration. On its recommendations the Imperial Council of Agricultural Research (now Indian Council of Agricultural Research) was established in 1929. The main recommendations of this Commission were:
+
+(i) Full measures of success cannot be achieved unless the organization is based on research. Interchange should be freely permitted between the administrative and the research and teaching branches in the earlier years of service. Promotions to research posts in the superior provincial agricultural services from provincial agricultural services should be in cases of outstanding merit.
+
+(ii) There should be a body for agricultural research at the national level for promotion, guidance and co-ordination of agricultural research work in India. It will also take up training of research workers, impart information to agricultural and veterinary workers, and arrange for the publication of scientific papers.
+
+(iii) The director of agriculture should have in him the combination of an administrative capacity and high scientific qualifications.
+
+(iv) The field recruitment to the superior provincial agricultural services in any province should not be restricted to the province itself or to India.
+
+In 1935 the rural development work was transferred as a state subject and as a result several states established their rural reconstruction departments. Besides the agricultural departments, there were other development departments, such as health, education, irrigation and animal husbandry, but all those departments were working in isolation and reaching the people directly without any co-ordination among themselves.
+
+Post-Independence era
+
+Several projects were initiated during this period. The summary of these projects is given below.
+
+Grow More Food Campaign: The urgent need of stepping up food production was realized even in the pre-Independence period, and as a result Grow More Food Campaign was started. Under the campaign, targets for increased agricultural production were laid down for the first time on an all-India basis.
+
+But the campaign failed to achieve its targets. Soon after Independence (1947), the Central Government re-defined the objectives of the Grow More Food Campaign as the attainment of self-sufficiency in foodgrains by 1952, and simultaneously increased the targets of production of other crops to meet the shortfall as a result of the partition of the country. At the same time, arrangements were also made for the integration and co-ordination of the entire campaign for increasing agricultural production. Some state governments associated the public with the working of the campaign by setting up non-official committees at village, taluk, a district and state levels. The plans were revised from time to time to make the campaign more effective.
+
+Grow More Food Enquiry Committee report: Though efforts were made to revitalize the Grow More Food Campaign, it was observed that the system was not functioning properly and the cultivator’s response to the programme was very poor.
+
+AGRICULTURAL EXTENSION
+
+As a result, the Government of India in 1952 appointed a committee, the Grow More Food Enquiry Committee, to examine the working of the Grow More Food Campaign. The findings of this committee revealed that the problem of food production was much wider than the mere elimination of food imports, and that agricultural improvement was a very important part of a much wider problem of raising the level of rural life in the country. The committee came to the conclusion that it was only by bringing about an appreciable improvement in the standards of rural life to make it fuller and richer that the rural masses could be awakened to take interest in not only increasing agricultural production but also improving their own conditions and creating a will to live better. The committee also pointed out that: (i) all aspects of village life were interrelated, (ii) improvement could be brought about by a number of detached programmes operating independently, (iii) there was lack of unity of effort, (iv) the available finances were not adequate, and (v) the rural community as a whole did participate effectively in the campaign. In short, “the movement did not arouse nation- wide enthusiasm and did not become a mass movement for raising the level of village life”.
+
+In its recommendations, the committee proposed the formation of development block, each consisting of 100 to 120 villages, and the appointment of revenue officers as development officers or extension officers, assisted by technical officers for agriculture, animal husbandry, co-ordination and engineering. For actual work in villages, the committee suggested the appointment of one village-level worker for every five or 10 villages. “He will be the joint agent for all development activities and will convey to the farmer the lessons of research, and to experts the problems of the farmers, and arrange supplies and services needed by the farmers, including preliminary assistance in animal and plant diseases”. The committee also described broadly the functions of the extension service, the manner in which the extension organization would operate, the arrangements required for the training of the staff, and the way in which non-official leadership should be associated with the work of village development at the village, taluka, district and state levels. The need for setting up an independent organization for the evaluation of results, the financial implication of the suggestions made, the manner in which assistance should be rendered to the state governments as well as to the villagers for development work, and the role of the central and state governments in this effort were emphasized by the committee.
+
+Based on these recommendations, the Planning Commission, which was set up earlier by the Government of India to prepare a plan of development consistent with the available resources, gave the highest priority to the development of agriculture and irrigation in the Five.Year Plan. The Commission fixed substantially high targets of internal production and decided, as recommended by the Enquiry Committee, that the drive for food production should form a part of the overall agricultural development, and that agricultural improvement in tur should form an integral part of the much wider efforts for raising the level of rural life. The Commission described “Community Development’ as the method for initiating the process of transformation of the social and economic life of villages, and ‘Rural Extension’ as its agency.
+
+Etawah Pilot Project: The idea of intensive all round development work in a compact area was put into practice as a pilot Project in Rural Planning and Development in the Etawah district in Uttar Pradesh in 1948, which can be regarded as a forerunner
+
+of the Community Development Project in India. Albert Mayor, an American Engineer, played the key role in the initiation and implementation of the project, The programme was based on the principle of self-help, democracy, integrated approach, felt needs of the people, rigorous planning and realistic targets, institutional approach, cooperation between governmental and non-governmental organizations, close co-ordination between the extension and the supply agencies, and the collaboration by technical and social scientists. After an initial period of trial and error, a new administrative pattern was evolved. It percolated to the village level, The activities of different nation-building departments were channelled through one common agency, and a multipurpose concept of village level worker was introduced. Each village-level worker looked after 45 villages. The project was supervised by a district planning officer, assisted by four specialist officers and other supporting staff.
+
+Community Development Project (1952): The Grow More Food Enquiry Committee Report and the successful experience of the Etawah Project, resulted in initiation of 15 Pilot Projects in 1952 in selected states with the financial assistance received from the Ford Foundation. Besides helping to increase agricultural production and improving the overall economic condition of the farmers, these projects were meant to serve as a training ground for the extension personnel. It was soon realized that for the creation of an urge among the rural population to live a better life and to achieve permanent plentitude and economic freedom in the villages, a much bolder and dynamic effort was called for. It was recognized that the success of this new effort depended upon the whole-hearted co-operation of the beneficiaries, government officials and non-officials at every stage, the education of rural masses in the technique of rural development and the timely provision of adequate supplies of the needed inputs and other requirements.
+
+For undertaking this new programme, the Government of India entered into an operational agreement with the Government of the USA under the Technical Co- operation Programme Agreement. Under this Agreement, 55 Community Development Projects were started in different parts on the country on 2 October 1952 for 3 years.
+
+The projects covered nearly 25,260 villages and 6.4 million people. Each project, in turn, consisted of about 300 villages covering 400-500 square miles and having a population of about 2 lakh. The project area was divided into three development blocks, each comprising 100 villages and a population of 60,000 to 70,000. The development blocks, in turn, were divided into groups of 5—10 villages, each group being in the charge ofa multifunctional village level worker. The main aims of these projects were to increase agricultural production by all possible means, tackle the problems of unemployment, improve village communication, foster primary education, public health and research, improve housing, promote indigenous handicrafts and small-scale industries; and to improve the villagers’ lot through their own primary effort. In short, the programme aimed at achieving overall socio-economic transformation of the rural people.
+
+Community development and national extension service era
+
+In view of a very enthusiastic response received from the rural population in the projects and the keenness shown and the demands made by the people for community development programmes, the Government of India decided to extend it rapidly to other parts of the country. However, owing to limited financial and technical manpower
+
+AGRICULTURAL EXTENSION
+
+resource, it was also decided to launch, along with the community development project, a programme that was somewhat less comprehensive, and to integrate both under one comprehensive service, the National Extension Service, which was inaugurated on 2 October 1953. Though, under the Community Development Project intensive development work was taken up in all fields, the scheme of National Extension Service was designed to provide the essential basic staff and a small fund for the people to start the development work essentially of the people on the basis of self-help. The operational unit of this service was N.E.S. Blocks comprising about 100 villages and 60,000 to 70,000 people. The N.E.S. Blocks were later on converted into Community Development Blocks, which had bigger budget provisions to take up more intensive development programames. The pattern of Community Development Programme was further revised (Modified with effect from 1 April 1958). According to this pattern, there were four stages.
+
+Pre-extension stage: At this stage there was a budget provision of Rs 18,800 for | year. The staff consisted of a block development officer, one agricultural extension officer and five village-level workers, whose main duties were to survey the whole block area, to prepare the ground work for the intensive stage and conduct agricultural demonstrations.
+
+Stage-I blocks: After 1 year of the pre-extension stage, the block stepped into stage I, with a budget provision of Rs 12 lakh for 5 years for intensive development. During this period provision was made to have one block development officer, eight extension officers, 10 village-level workers (VLWs), two gram sevikas, three stockmen (veterinary), one physician and three-four midwives, one compounder, a sanitary inspector and the necessary office staff. It was generally expected that because of intensive work during this period, the programme would gain momentum and the people would subsequently follow up the programme on their own accord.
+
+Stage-II blocks: In this stage, the staffing pattern was more or less the same, but there was a difference in the budget provision. The budget in this stage was five lakh of rupees for 5 years, i.e. Rs | lakh per year.
+
+Post-Stage-II Blocks: This was the permanent stage. It was meant for the follow- up work. The budget was Rs | lakh per year. At this stage, all the developmental activities as in stage II under the various heads, such as agriculture, animal husbandry and cooperation, were to continue.
+
+Starting with 55 Community Development Projects in 1952, the entire country was covered with the CD Programme by 1963. There are total 5,263 such blocks, besides 101 tribal development blocks. A block is the unit of planning and development. This is a new administrative unit meant for tackling the problems of the rural people in their entirety and in a concerned and co-ordinated manner.
+
+In this new set-up of Community Development Blocks, all the nation building government departments were brought together, and to ensure co-ordination at block level, a new post of the Block Development Officer was created. This officer is the co-ordinator of the programme and thus leader, supported by an Extension Officer drawn from the development departments. They were one each from the fields of agriculture, animal husbandry, co-operative, panchayat, rural industry, rural development, social education, and the welfare of women and children. Each normal block was provided with 10 Village Level Workers and two Gram Sevikas (lady VLWs).
+
+910 HANDBOOK OF AGRICULTURE
+
+In this set-up the block was treated as an administrative unit for all the development departments, and the Village Level Worker was the contact person between these departments and the people.
+
+Panchayati Raj system
+
+After the initiation of the Community Development Department and National Extension Service in India and its working for some time, it was realized that the people’s participation was not coming forth to the desired extent.
+
+The objectives of a planned development programme such as that of CD, could be achieved only if the latent energies of the people were released to revive the village communities, so that local leadership might develop and enable the local people to take up the planning and implementation of development programme themselves. To achieve this objective, it was decided in 1958 to introduce the Panchayati Raj, as recommended by the Balwant Rai Mehta Committee. This system envisages a three- tier system at the district, block and village levels. District level-Zila Parishad; Block level-Panchayat Samiti; Village level-Village Panchayat.
+
+The Panchayati Raj system emphasized the importance of planning from below, so that the needs and aspirations of the local people may be viewed in the context of the local resources and what the government can provide.
+
+According to this system, a Panchayat will be established in each village. These village Panchayats would be responsible for the planning and implementation of the Community Development and Extension Programmes at the village level. At the block level the Panchayat Samities consisting of all the Presidents of village Panchayats in the block and some co-opted members are constituted. The Panchayat Samiti is in complete charge of the planning and implementation of the Community Development Programmes. The BDO is the chief executive officer of the Samiti and all Extension Officers are subordinate to him. The President of the Samiti is incharge of the administration of the entire staff and of the programme, as approved by the Samiti. The financial resources of the Samiti consist of money derived from land revenue, taxes, funds allotted for Community Development, funds received from All India Boards etc., and the contributions from Panchayats and the people.
+
+The third tier of the Panchayati Raj is the Zila Parishad, consisting of all the presidents of the Panchayati Samitis in the district, the people’ representatives such as the Members of the Legislative Assemblies, Members of Parliament and the District Collector, and some co-opted members. The Zila Parishad consolidates plans prepared in respect of all the blocks in the district and co-ordinates activities of the Samities.
+
+Organizational set-up for community development and extension service
+
+The organizational set-up for the Community Development Programme runs from the national level through state, district and block levels to the village level. Three main constituents of this new set-up: (i) the direct-line staff State Development Commissioner, District Collector/District Planning Officer, BDO and Village Level Worker; (i/) the auxiliary or specialist staff—heads of technical departments at the state and district levels and extension officers at the block level; and (iii) Panchayati Raj System — the Zila Parishads, Block Samitis and Village Panchayats.
+
+National level: At the national level programme the policies are formulated by the
+
+AGRICULTURAL EXTENSION
+
+National Development Council presided over by the Prime Minister of India. Membership of the Council consists of the Central ministers of the concerned ministries, Chief Ministers of all the states, and Members of the Planning Commission. The Planning Commission provides guidance for Plan formulation and gives its approval to annual and Five-Year Plans of the states and of the Centre. The Ministry of Agriculture and Irrigation is responsible for giving national guidance, policy formulation and technical assistance in regard to Agricultural Extension and Community Development (now Rural Development Programme). In the Agriculture Department, the Agricultural Commissioner, Government of India, assisted by a number of Assistant Commissioners and Directors with the supporting staff, is the incharge of all Agricultural development programmes at the national level. Within this Department, special mention may be made of the Directorate of Extension Training responsible for the training of Extension Officers, VLWs, instructors of Village-Level Workers’ Training Centres and the Directorate of Farm Information, which is concerned with the dissemination of new agricultural technology and innovations through various media.
+
+State level: At state level there is a State Development Committee, presided over by the Chief Minister of the state with the other concerned ministers as its members. This Committee is responsible for the state’s plan and programmes and for fixing the targets for regions and districts. Besides this committee, there are a number of other advisory or technical committees.
+
+For the actual administrative functioning, the State Development Commissioner is the top-level executive, responsible for directing, co-ordinating and providing overall guidance for development programmes and maintaining a two-way channel of communication between the State Governments and the Central government. He co- ordinates the activities of agriculture, animal husbandry, co-operation, panchayati raj, health, education, irrigation, power and electricity. The heads of these technical departments are responsible for planning and implementing the technical programmes and for providing the necessary technical guidance, manpower and support.
+
+District level: At district level also, there is usually a District Development or District Planning Committee, presided over by the District Collectoror/Deputy Commissioner. The other members of this committee are the heads of the departments in the district, chairman and vice-chairman of the district boards, representatives of voluntary organizations, local bodies and Members of Parliament and State Legislatures.
+
+In the states where Panchayati Raj is operating, the Zila Parishads are responsible for planning, co-ordinating and consolidating the development programmes in the district.
+
+The District Collector is the key official, who co-ordinates the activities of all the development departments at the district level. The district-level technical heads of agriculture, animal husbandry, co-operation, panchayats, public health, irrigation, education and rural industries are responsible for planning and implementing the development programmes relating to their departments. Administratively, they are responsible to the District Collector on the one hand and to their State Heads of the Development Departments on the other.
+
+Block level: A district is subdivided into a number of community development
+
+912 HANDBOOK OF AGRICULTURE
+
+blocks, which are the basic operational units for development programmes. The block development officer is the head of the block team and co-ordinates all the activities of the development departments at the block level. He is assisted by eight extension officers from agriculture, animal husbandry, health, co-operation, panchayats, engineering, social education and rural industry.
+
+At the non-official level in the states, where the Panchayati Raj has been implemented, the Panchayati Samiti (also called the Block Samiti) has the statutory powers for formulating and executing development programmes. The Samiti is assisted by the BDO and the extension officers. Wherever the Panchayati Raj is not working, there are block development advisory committees.
+
+Village level: At the village level the multi-functional Village Level Worker is the main extension staff. He is the last extension functionary in the administrative hierarchy and is the main contact person. He is responsible for all the development works at the village level and forms a connecting link between the various technical departments and the rural people. Usually, in a normal community development block, there are 10 Village Level Workers. Their number is double in the Intensive Agriculture Development Programme ([ADP) blocks.
+
+On the non-official side, usually there is a Panchayat in every village or for a cluster of villages, which is responsible for planning and implementing the community development programmes and ensuring people’s participation in them.
+
+Agricultural universities
+
+While the various administrative set-ups, as described earlier, were tried and adopted, another notable innovation for improving the standard and quality of agricultural education, research and field extension (extension education) was introduced in India in the form of agricultural universities in various states. The first University established in 1960 was Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, formerly Uttar Pradesh. Subsequently, in each state one (in some states more than one) agricultural university was established and at present there are 45 such universities in India. In these universities teaching, research and extension education are integrated. For extension education programme and activities, each of these universities has a Directorate of Extension Education, headed by Director, supported by a team of subject-matter specialists from agronomy, animal husbandry, soil science, entomology, plant pathology, horticulture, vegetables, agricultural economics, agricultural engineering and extension education. The Directorate of Extension Education of the university is primarily responsible for keeping the extension personnels of the state department of agriculture up-to-date with new agricultural technology, communication of this technology to farmers, the training to farmers, farm women, and extension personnel, bringing out suitable extension literature for the use by the farmers and carrying out extension education programmes and developmental activities in selected areas.
+
+Intensive agricultural development era
+
+Under the Community Development Programme the production efforts and the
+
+AGRICULTURAL EXTENSION
+
+available resources were diffused over the entire country. The educational extension efforts among the millions of farmers to be tackled remained thin and restricted. By the middle of the Third Five Year Plan, it became increasingly evident that agricultural development was not making a satisfactory progress. As a result of the report of the Ford Foundation Team, Indias Food Crisis and Steps to Meet It, a significant departure took place during the period and a new programme known as the Intensive Agricultural District Programme (I[ADP)—based on the principles of concentration and better management of resources and efforts in potential and responsive areas, with assured water supply—was started in 1960. Since then at least one district in each state had been covered under this programme. The scheme not only involves the adoption of a package of new practices, but also ensures the availability of credit and production inputs, adequate research information, the training and education of the farmers and extension personnel, storage and marketing arrangement and price assurance that would encourage the farmers to adopt scientific methods of farming. Each district was under the charge of a Project Officer, who was assisted by an Assistant Project Officer, four or five subject-matter specialists and other supporting staff. At the block level, besides a Block Development Officer, there were four agricultural extension officers, two co- operative extension officers and a few officials from other fields. The number in a team was 20 in each block. As a result of the programme the demand for fertilizers doubled and the yield of crops increased by 10-20%. Later a similar programme, though less in intensity and thinner in staffing pattern, was started in 1964. This programme was known as the Intensive Agricultural Area Programme (IAAP). Now about 10% of the total cultivated area in the country is under the [ADP and IAAP. The objective of programme was to increase the production and productivity of main crops in the selected areas through inter se efforts.
+
+High-yielding varieties programme
+
+A new dimension that was created in the community development programme has been the Agricultural Production Programme, known as High-Yielding Varieties Programme. It was evolved and introduced in the country in 1965-66 for wheat and paddy and the hybrids of maize, sorghum and pearl millet. To start with, 100 districts were selected for this purpose, but later on it spread to other areas also. The Programme aimed at covering 13 ,162 million ha by 1970-71. This significant development had a vital bearing on increasing of agricultural production, and led to bumper harvest of over 108 million tonnes of foodgrains during 1970-71.
+
+Multiple-cropping programme
+
+Yet another strategy introduced in the country was of multiple cropping, which aimed at maximizing production per unit of land and per unit of time by taking three or four crops from the same piece of land in a year. This had been made possible because of the availability of new short-duration, high yielding varieties and improved agricultural technology.
+
+Small farmers’ development agency
+
+SFDA were established in 1971—72 on the recommendations of all the Indian Rural Credit Renew Committee report (1960). The aims of the SFDA were to identify
+
+914 HANDBOOK OF AGRICULTURE
+
+the problems of the small farmers, to prepare appropriate programmes to overcome them and to ensure the availability of inputs and credit. In all about 50 SFDA projects were established throughout the country under the Fourth Five Year Plan, and Rs 68 crore were allocated for these projects during this period.
+
+Marginal farmers and agricultural labourers agency
+
+The principal objective of the MFALA scheme was to assist the marginal cultivators in making the maximum productive use of their small holdings by undertaking horticulture, animal husbandry and dairying. Efforts were also to be directed towards bringing in larger incomes by channelling credits, improved inputs and improved practices. Under this scheme, 41 MFALA were established throughout the country in the Fourth Five Year Plan to cover farmers having holdings of not more than 1 ha and agricultural labourers having a homestead and earning mainly through agricultural wages. Each project aimed at covering about 20,000 households during the Fourth Five Year Plan, of which about two-thirds were supposed to be from the marginal farmers and the rest from agricultural labourers.
+
+Integrated area development programme
+
+Most of the programmes for agricultural development had lacked a totality of approach and had been concerned with one or only a few aspects of the given agricultural situation. A recent thinking therefore has been going on in the country for some time and some states and agricultural universities have already taken the initiative for the integrated area development in agriculture, which implies planning for a given geographic area with respect to all aspects of agricultural development, with a more comprehensive approach, built around Krishi Vigyan Kendras and generating viable tural technologies.
+
+Education and training for implementing agricultural strategy
+
+The acceptance of a progressive democratic approach based upon science and technology implied that the extension workers and the farmers in the whole process of change would work as equal partners. The training of farmers was therefore emphasized from the very beginning of this programme. A number of special kinds of institutions were opened in the country, including gram sevaks and gram sevikas training centres, orientation and study training centres, extension wings in the colleges of agriculture, veterinary and home science, extension education institutes, national institute of community development, panchayati raj training centre. The principles and concepts of selective areas pattern and intensive agriculture pattern threw a new challenge, and as a result integrated training programme for the farmers, farm women and young farmers has recently been initiated throughout the country through farmers’ training centres. The agricultural universities and research institutes are also playing a very important role in organizing and conducting training programmes for farmers and extension workers.
+
+National Demonstration Project (1965-66)
+
+The performance of high-yielding varieties of cereals was very promising, but its full production potential was not demonstrated on a large scale to the farmers. Higher
+
+AGRICULTURAL EXTENSION
+
+yields obtained on the research stations did not impress the farmers, who preferred to see the performance of these varieties on their own farms. Moreover, the scientists were looking for scientific feedback from the fields, which could ultimately help them further refine the technology. At this juncture in 1965-66 the Ministry of Agriculture, Government of India initiated a nation-wide programme in which demonstrations were conducted on farmers’ fields. This was the beginning of the National Demonstrations Project (NDP). Demonstrations under this project were carried out mainly by the scientists of the state agricultural universities and the ICAR institutes in neighbouring villages. The scientists were required to demonstrate the potentiality of new seeds and package of practices on an area varying from 0.4 ha to 1.0 ha on farmers’ fields. To carry out this programme, the scientists had the choice to select the most co-operative farmer who could carry out all the instructions for obtaining the maximum yield out of the new varieties. These were single-crop demonstrations conducted on crops like wheat, paddy, sorghum, pearl millet and maize.
+
+In 1967 multiple cropping was introduced to derive maximum benefits from the new agricultural technology. At this time it was also realized that this concept should be introduced in the national demonstrations project also. This made the demonstrations more scientific in nature, because the technology had already become sophisticated and the farmers could no more afford to delay its adoption. It was therefore visualized that the national demonstration programme should become a part of the transfer of technology system of the ICAR. The responsibility of conducting these demonstrations was given to a team of four subject-matter specialists, who studied the factors contributing to higher yields and also convinced the farmers of the production potentialities of the new high-yielding varieties and the related package of practices on their own farms. The direct involvement of scientists in national demonstrations reduced the time lag between introduction of the new technology and its adoption by farmers. The main purpose of these demonstrations was to evaluate the production techniques of important high-yielding varieties of food crops on the farmers’ fields and at the same time to provide the farm scientists a direct source of feedback, as they themselves were involved in the crop- production process.
+
+Objectives: The National Demonstrations were intended to show the production potentiality and the economic viability of new technologies and influence the farmers as well as the extension agencies. The specific objectives of the project were:
+
+(i) to demonstrate to the farmers and the extension workers the genetic production potentialities for major crops per unit area of land, per unit time, and encourage them to adopt or popularize these technologies for accelerating production;
+
+(ii) to fully exploit these demonstrations for the purpose of training farmers and field extension workers in improved cultivation practices;
+
+(iii) to provide the research workers a first-hand knowledge of the problems being faced by the farmers in adopting high-yielding varieties and practising recommended package of practices;
+
+(iv) to determine the income and educate the farmers and extension workers about it; and
+
+(v) to influence the extension systems (state departments of agriculture, voluntary organisations etc.) in the country by demonstrating the yield gaps and pointing out the operational constraints.
+
+To ensure that these objectives are met, the National Demonstration Project followed a targeted yield approach. A demonstration has to be conducted on 0.4 ha land for full I year. Yield target of 9 tonnes of foodgrains for two crops per year and 11 tonnes for three cereal crops per year per ha had been fixed. If achieved, the difference in the yield levels show the gap that exists between how much is produced and how much can be produced by the farmers. A sum of'Rs 500 per year for three crops (multiple demonstrations) was given for meeting the cost of critical inputs. For the first crop the amount was Rs 200 and for subsequent crops Rs 150 each had been earmarked.
+
+A sum of Rs 50 per demonstration was also given for display board. The quantum of amount sanctioned for the Entire Farming System Demonstrations and the Problem Soil Demonstrations was Rs 1,000 per demonstration per year.
+
+The National Demonstration Project was implemented at district level by a team of four subject-matter specialists, who were entrusted with the responsibility to conduct the demonstrations on farmers’ fields. These specialists were from areas of agronomy, soil science, plant protection, and agricultural engineering or animal husbandry. They shared the responsibilities related to crop demonstration and looked after different aspects of crop growth. The subject matter specialists in animal husbandry helped in entire farming system demonstrations. The team of specialists stayed at district headquarters and operated under direct supervision of the team leader, who was the senior most member of the team. They also organized field days at the time when important field operations were performed. Thus a large number of farmers got educated about the new technology demonstrated on the farmers’ fields.
+
+In all 25 demonstrations per season were laid on the farmers’ fields in each district. Thus the total number of single-crop demonstrations varied from 50 to 75 per year. These demonstrations included technology related to multiple cropping, single-crop production, rainfed agriculture, reclamation of problem soils etc. Five demonstrations were conducted on the whole-farm basis which were known as Entire Farming System (EFS), which were operated for 3 years at one location.
+
+Drought-prone area programme
+
+The DPAP, initially designed Rural Works Programme, was started during 1970— 71. After mid appraisal of the Fourth Five-Year Plan, the programme was re-designated as Drought-Prone Area Programme. It is now under implementation in 947 blocks of 155 districts in 13 states. The local area covered under the programme is 746 lakh ha.
+
+Basic objectives: The basic objectives of this programme are: (i) promoting a more productive dryland agriculture on the basis of the soil, water and climatic resources of the area; (ii) development and productive use of the water resource of the area; (ili) soil and moisture conservation including promotion of proper land use practices; (iv) afforestation including farm forestry; and (v) livestock development including development of pasture and fodder resources.
+
+The main components of the programme are irrigation, soil conservation and dry - land farming, afforestation and pasture development, and the livestock and fisheries development.
+
+Tribal area development programme
+
+Acentral sector Tribal Area Development Programme was started in 1972 in selected
+
+AGRICULTURAL EXTENSION
+
+tribal areas of Andhra Pradesh, Madhya Pradesh, Bihar and Orissa, for 5 years. The strategy adopted was to have integrated economic development programme, comprising: (i) safeguarding the rights of the tribals over their land; (i/) introduction of improved agricultural practices to ensure high returns; (iii) provision of subsidiary occupations; (iv) better utilization of land and water resources; (v) marketing facilities to sell the produce at fair prices; (vi) supply of articles of dairy use and inputs, (vii) freeing the tribals from money lenders; and (viii) developing basic infrastructure.
+
+Under this programme, Special Tribal Development Agencies are studying in depth the problems of tribal areas relating to communication, administration, social service and economic development, especially agriculture. The tribal people are encouraged to adopt poultry, dairy, apiculture and fisheries.
+
+Command area development programme
+
+The programme was initiated during 1974. Its aim is to reduce the wastage of water and to adopt crops in consonance with available water, soil, topography etc. The programme is meant to harmonise rhythm of water, rhythm of crops and rhythm of soil. The components of the programme are: modernization of irrigation system, construction of field channels or drains, land shaping and levelling, installation of tubewells, enforcing suitable cropping patterns, farm plans and input supply, and strengthening extension services.
+
+Training and visit system
+
+It is a reorganized Agricultural Extension Service introduced in India in 1974 with World Bank Assistance by Daniel Benor. The basic extension technique is a systematic progrmame of training the VLWs and AEOs combined with regular visits by them to the farmers’ fields. Every VLW receives an intensive training, a day in every week, and on the remaining days of the week he visits the groups of contact farmers in his circle. Every Agricultural Extension Officer supervises 6-8 extension personnel under him. The number of families a VLW covers is 500-800 depending upon the intensity of population, cropping intensity and diversity of crops grown. All the farm families under the VLW select 10 contact farmers and educate them on the same day of the week or fortnightly.
+
+The characteristics of T & V System are professionalism, single line administration, clear and specific functions and close supervision. The VLWs have latest knowledge and their training is regular, full-time responsibility of agricultural extension worker, their regular visits to farmers, duty to inform about 3 to 4 crucial points, and the co- ordination between research and extension. The operational area of a VLW has been decreased, beginning with a single feature and developing into complex feature over time, relying more on local resources, strong feed-back mechanism and greater emphasis on management practices. ;
+
+Krishi Vigyan Kendra
+
+Based on the recommendation of the Education Commission (1964-66) and further consideration by the Planning Commission and inter-ministerial committee, the ICAR decided for establishment of Krishi Vigyan Kendra (Farm Science Centre). The first KVK was sanctioned at Puducherry in 1974 in favour of Tamil Nadu Agricultural
+
+University, Coimbatore. The KVK was established mainly to impart vocational skill training to the farmers and field-level extension workers. The concept of vocational training in agriculture through KVK grew substantially due to greater demand for the sophisticated improved agricultural technologies by the farmers. They required not only knowledge and understanding of the intricacies of technologies, but also progressively more skills in various complex agricultural operations for adoption on their farms.
+
+The mandate of the KVK has been further revised aiming at assessment, refinement and demonstration of technology/product. The activities include on-farm testing to identify the location specificity of agricultural technologies under various farming systems, frontline demonstration to establish the production potentials of improved agricultural technologies on the farmers’ field, training of farmers to update their knowledge and skills, and training of extension personal to orient them in the frontier areas of technology development. A large number of extension programmes were organized by the KVKs to create awareness about imporved agricultural technology among the farmers during XI Plan. The KVK has been proposed to work as resource and knowledge centre of agricultural technology for supporting the initiatives of public, private and voluntary sector for improving the agricultural economy of the district.
+
+During XI Plan the Government has approved for establishment of additional 116 KVKs which include one additional KVK in 50 larger districts taking in to account the geographical size of the district, farming population, net sown area and growth potential inclusive of diversification to facilitate under coverge of KVK activities in these districts. The total number of KVKs approved for establishment during XI Plan is 667.
+
+In order to facilitate better functioning of the KVK activities, provision for serveral additional facilities have been approved by the government during XI Plan. These include-linkage of KVKs with technologies generating initiations for availability of all technology related information by the farmers at the KVKs, facilities for soil and water testing, plant health diagnostics and minimal agro-processing; demonstration units on rainwater harvesting structure with micro-irrigation system, portable carp hatchery, and integrated farming system. The provision has been made for mobile diagnostic-cum-exhibition units at directorates of extesion of Agricultural Universities for its use by the KVKs, continuation of support to the Directorates for knowledge empowerment and technological backstopping, and stay facilities of the farmers at the headquarters of agricultural universities for wider exposure of the farmers to the latest agricultural technologies after their training at the KVKs.
+
+As far as the co-ordination and monitoring mechanism of the KVK project is concerned, the division of Agricultural Extension of the ICAR monitors the project at the central level. At the zonal level, the project is monitored through eight zonal co- ordinating units, located in different parts of the country. The Directorates of Extension of the Agricultural Universities provide support for knowledge empowerment and technological backstopping, besides a Scientific Advisory Committee at the level of KVK. Keeping in view the large number of KVKs, higher budgetary allocation and the need for higher level for co-ordination with the agencies engaged in the task of agricultural research, technology development and dissemination. The Government has approved for converting eight zonal co-ordinating units to eight project directorates
+
+of Technology Assessment, Refinement and Demonstation during XI Plan.
+
+Operational Research Projects
+
+Based on the experience gained in the National Demonstrations, a need was felt to extend this concept on area basis. Thus it was suggested to undertake a few operational research projects on area basis having an integrated approach for food production. The objectives were: (i) to test, adopt and demonstrate the new agricultural technology on farmers’ fields on area basis; (ii) to calculate critically the profitability of new agricultural technology; (iii) to identify the socio-economic bottlenecks; and (iv) to assess the credit-worthiness of agri-technology. These are ICAR Projects, which have been taken up by the State agricultural universities and research institutions. Each project works under the leadership of Operation Research Officer with the collaboration of extension agencies, banks and rural institutions.
+
+Whole-village development programme
+
+From both special and functional integration of all programmes connected with agricultural production and reduction of unemployment, a new programme, called Whole village development programme, was started in 1975-76. The basic components of the programme were consolidation of holdings, overall land development through maximum water control and moisture preservation in dry areas, to maximize irrigation support and restructure the cropping pattern for best use of irrigation and for ensuring control of irrigation drainage.
+
+Desert development programme
+
+The DDP was started to control diversification and development of conditions for raising the level of production, income and employment of people of the areas covered under it. The DDP is under implementation in 227 blocks of 36 districts in seven states. Total geographical area covered under the programme is 457 lakh ha. The major activities covered are: (i) afforestation, grassland development and sand dune stabilization; (ii) ground water development and utilization; (iii) construction of water harvesting structures; (iv) rural electrification for energizing tubewells or pump-sets; and (v) development of agriculture, horticulture and animal husbandry.
+
+Training of rural youth for self-employment
+
+The TRYSEM was started as a centrally sponsored scheme on 15 August 1979. It aims at providing technical and entrepreneurial skills to rural youth in the age group of 19-35 years of farm families below the poverty line to enable them to take up self- employment and to an extent employment in any of the economic sectors. Training is intensively practical, and learning and doing are the chief methods used. Need-based training is provided at training institutions such as polytechnics, Krishi Vigyan Kendras, Nehru Yuvak Kendras, Khadi and Village Industries, Boards, State Institutes of Rural Development, Extension Training Centres and institutes run by voluntary agencies or master craftsmen functioning from their own place of work. The duration of training is flexible and is decided at the district level for courses up to 6 months and at State Jevel for long duration courses. Willing TRYSEM trainees on successful completion of training are provided financial assistance under IRDP. Trainees also receive stipends
+
+920 HANDBOOK OF AGRICULTURE
+
+during their training and are provided suitable tool kits free of cost. Payment is also made for purchase of raw material.
+
+Integrated Rural Development Programme
+
+Recognising the low asset base and limited access to institutional credit, the Integrated Rural Development Programme (IRDP) was launched in all the blocks of the country on 2 October 1980 as a major credit linked self-employment programme for alleviation of poverty. The objective of the programme is to identify rural poor families living below the poverty line to augment their income and cross the poverty line through the acquisition of credit-based productive assets, which would provide self-employment on sustained basis. Assistance is given by the government in the form of subsidy, and term credit is advanced by financial institutions (commercial banks, co-operative and regional rural banks) for income generating activities in the primary, secondary and tertiary sectors of the rural economy. The programme is implemented in all the blocks of the country as a centrally sponsored scheme funded on 50: 50 basis by the Centre and the States. The target group consists of small and marginal farmers, agricultural labourers and rural artisans. The programme is implemented at the State level through the Department of Rural Development and Panchayats and at the district level through District Rural Development Agencies (DRDA) in co-ordination with other development departments and financial institutions functioning in the respective areas.
+
+Jawahar Rozgar Yojana
+
+Jawahar Rozgar Yojana (JRY) was started in 1989 by merging National Rural Employment Programme (NREP) and Rural Landless Employment Guarantee Programme (RLEGP). Its primary objective includes the generation of additional gainful employment for the unemployed and under-employed men and women in rural areas. The secondary objectives are: creation of sustained employment by strengthening the rural economic infrastructure, creating community and social assets, creating assets in favour of the rural poor for their direct and continuing benefits, and overall improvement in the quality of life in rural areas. The expenditure under the Yojana is shared between the Central and State Governments in the ratio of 80: 20. Under this Yojana, 30% of the employment opportunities are reserved for women. It aims at providing additional gainful employment to the rural unemployed and under- employed. This is done by taking up works as per the requirement of the local population. DRDA or Zila Parishad is responsible for implementation of the programme at the district level and the Gram Panchayat at the village level.
+
+Employment Assurance Scheme
+
+The EAS was launched in October 1993 in the rural areas of 1,778 blocks of 261 districts, in which the Revamped Public Distribution System (RPDS) was in operation. The primary objective of the scheme is to provide assured gainful employment during the lean agricultural seasons of 100 days of unskilled manual work to the rural poor who are in need of employment and are seeking it. The secondary objective is the creation of economic infrastructure and community assets for sustained employment and development. The assurance of 100 days extends to all men and women over 18
+
+AGRICULTURAL EXTENSION
+
+years and below 60 years of age and normally residing in the villages of the blocks covered by the Scheme. A maximum of two adults per family are provided employment under the Scheme.
+
+National Rural Employment Guarantee Act
+
+The National Rural Employment Guarantee Act, (NREGA) was notified on September 7, 2005.The objective of the Act is to enhance livelihood security in rural areas by providing at least 100 days of guaranteed wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work: (i) Strong social safety net for the vulnerable groups by providing a fall-back employment source, when other employment alternatives are scarce or inadequate; (ii) Growth engine for sustainable development of an agricultural economy. Through the process of providing employment on works that address causes of chronic poverty such as drought, deforestation and soil erosion, the Act seeks to strengthen the natural resource base of rural livelihood and create durable assets in rural areas.Effectively implemented, NREGA has the potential to transform the geography of poverty; (iii) Empowerment of rural poor through the processes of a rights-based Law; (iv) New ways of doing business, as a model of governance reform anchored on the principles of transparency and grass root democracy. Thus NREGA fosters conditions for inclusive growth ranging from basic wage security and recharging rural economy to a transformative empowerment process of democracy.
+
+The Act was notified in 200 districts in the frst phase with effect from February 2nd 2006 and then extended to additional 130 districts in the financial year 2007-2008 (113 districts were notidied with effect from April 1st 2007, and 17 districts in UP were notitied with effect from May 15" 2007). The remaining districts have been notitied under the NREGA with effect from April 1, 2008. Thus NREGA covers the entire country with the exception of districts that have a hundred per cent urban population. Salient features of the act are: (i) Adult members of a rural household, willing to do unskilled manual work, may apply for registration in writing or orally to the local Gram Panchayat; (ii) The Gram Panchayat after due verification will issue aJob Card. The Job Card will bear the photograph of all adult members of the household willing to work under NREGA and is free of cost; (iii) The Job Card should be issued within 15 days of application ; (iv) A Job Card holder may submit a written application for employment to the Gram Panchayat, stating the time and duration for which work is sought. The minimum days of employment have to be at least fourteen; (v) The Gram Panchayat will issue a dated receipt of the written application for employment, against which the guarantee of providing employment within 15 days operates; (vi) Employment will be given within 15 days of application for work, if it is not then daily unemployment allowance as per the Act, has to be paid, liability of payment of unemployment allowance is of the States; (vii) Work should ordinarily be provided within 5 km radius of the village. In case work is provided beyond 5 km, extra wages of 10% are payable to meet additional transportation and living expenses; (viii) Wages are to be paid according to the Minimum Wages Act 1948 for agricultural labourers in the State, unless the Centre notifies a wage rate which will not be less than Rs 60/day. equal wages will be provided to both men and women; (ix) Wages are to be paid according to piece rate rate. Disbursement of has to be done
+
+basis and not beyond a fortnight in any case; (x) At least one-third beneficiaries shall be women who have registered and requested work under the scheme; (xi) Work site facilities such as créche, drinking water, shade have to be provided; (xii) The shelf of projects for a village will be recommended by the Gram sabha and approved by the zila panchayat; (xiii) At least 50% of works will be allotted to Gram Panchayats for execution; (xiv) Permissible works predominantly include water and soil conservation, afforestation and land development works; (xv) A 60:40 wage and material ratio has to be maintained. No contractors and machinery is allowed; (xvi) The Central Government bears the 100% wage cost of unskilled manual labour and 75 % of the material cost including the wages of skilled and semi-skilled workers; (xvii) Social Audit has to be done by the Gram Sabha (xviii) Grievance redressal mechanisms have to be put in place for ensuring a responsive implementation process and (xix) All accounts and records relating to the Scheme should be available for public scrutiny.
+
+Rashtriya Krishi Vikas Yojana: The National Development Council (NDC), in its meeting held on 29th May, 2007 resolved that a special Additional Central Assistance Scheme i.e. Rashtriya Krishi Vikas Yojana (RKVY) be launched. The NDC resolved that agricultural development strategies must be reoriented to meet the needs of farmers and called upon the Central and State governments to evolve a strategy to rejuvenate agriculture. The Department of Agriculture, in compliance of the above resolution and in consultation with the Planning Commission, has prepared the guidelines for the RKVY scheme, to be known as NADP (RKVY).The RKVY aims at achieving 4% annual growth in the agriculture sector during the XI Plan period, by ensuring a holistic development of Agriculture and allied sectors. The main objectives of the scheme are:
+
+(i) To incentivise the states so as to increase public investment in Agriculture and allied sectors.
+
+(ii) To provide flexibility and autonomy to states in the process of planning and executing agriculture and allied sector schemes.
+
+(iii) To ensure the preparation of agriculture plans for the districts and the states based on agro-climatic conditions, availability of technology and natural resources.
+
+(iv) To ensure that the local needs/crops/priorities are better reflected in the agricultural plans of the states.
+
+(v) To achieve the goal of reducing the yield gaps in important crops, through focussed interventions.
+
+(vi) To maximize returns to the farmers in Agriculture and allied sectors.
+
+(vii) To bring about quantifiable changes in the production and productivity of various components of Agriculture and allied sectors by addressing them ina holistic manner.
+
+The planning process of RKVY: Each District will formulate a District Agriculture Plan (DAP) by including the resources available from other existing schemes, District, State, or Central schemes such as BRGF, SGSY, NREGS, Bharat Nirman etc. The District Agricultural Plans shall not be the usual aggregation of the existing schemes but would aim at moving towards projecting the requirements for development of Agriculture and allied sectors of the district. These plans will present the vision for Agriculture and allied sectors within the overall development perspective of the district. The District Agriculture Plans would present the financial requirement and the sources
+
+of financing the agriculture development plans in a comprehensive way. Since RK VY is conditional to proper District Planning and since Planning Commission has already circulated guidelines for District Planning in line with Constitutional requirements, these requirements should be adhered to by the state as far as possible. The states will have to specify the institutional mechanisms evolved by them for District Planning as resolved in the NDC and submit a status report at the stage of the Annual Plan exercise. The SLSC will monitor and ensure this. The DAP will include animal husbandry and fishery, minor irrigation projects, rural development works, agricultural marketing schemes and schemes for water harvesting and conservation etc keeping in view the natural resources and technological possibilities in each district.
+
+Technology assessment and refinement through Institution Village Link- age Programmes
+
+The Indian Council of Agricultural Research launched an innovative technology assessment and refinement programme, called Institutions Village Linkage Programme (IVLP) during 1995. The concept is based on participatory mode, ensuring greater linkage between scientist and farmer in a bottom up approach. It ensures access to agricultural technologies generated by the entire ICAR institutes or SAU or by the entire agricultural research in the country to the farming community in a village or a cluster of villages representing around 1,000 farm families.
+
+Objectives
+
+The specific objectives of the Technology Assessment and Refinement Programme are:
+
+are:
+
+(i) to introduce technological interventions, with emphasis on stability and sustainability along with productivity for small farm-production system;
+
+(ii) to introduce and integrate appropriate technologies to sustain productivity and profitability, taking environmental issues into consideration in a comparatively well defined production system;
+
+(iii) to increase the agricultural productivity with marketable surplus in commercial farm-production system with on-and-off farm-value addition;
+
+(iv) to facilitate adoption of appropriate post-harvest technologies for conservation and on-farm value addition of agricultural products, by-products and wastes for greater economic dividend;
+
+(v) to facilitate adoption of appropriate technologies for removal of drudgery, increased efficiency and higher income of farm women;
+
+(vi) to monitor socio-economic impact of the technological intervention for different production systems; and
+
+(vii) to identify extrapolation domains for new technology or technology modules based on environmental characterization at meso and mega levels.
+
+Specific aims of the project: In this programme there is change in the concept and Philosophy as well as in application of methodologies that are different from the Conventional methods and tools used in the research process. In this paradigm the concept of agro-ecosystem analysis using participatory rural appraisal (PRA) tools are used instead of conventional survey research. Its basic idea is that community itself based on its rich experiences should characterize its own resources, situations
+
+and problems; should identify the areas of activity, keeping its own goals and requirements into consideration; should develop the programme for technology assessment, and should finally refine the technology suiting its own conditions and requirements.
+
+Agricultural Technology Information Centre
+
+In this information age the role of appropriate information package and its dissemination as an important input has increased its importance. The kind of information and the way it is to be used are critical factors for the growth of agriculture. This is also worth noting that it is not enough now for the research to generate information but also to see that the required information is delivered to the end users at one place direct clear understandable and without providing any scope for distortion, Hence, the establishment of Agricultural Technology Information Centre will provide such a mechanism beyond individual unit of research institution for dissemination of information. This will serve as a single window delivery system for services and products of research for the areas in which the concerned institute is involved.
+
+The cornerstone of India’s agricultural revolution is due to availability of improved varieties of cereals and pulses; breeds of livestock including poultry and fisheries; horticultural plant materials and improved management practices for increased productivity; sustainability and stability of various crops and livestock enterprises. It has been felt that often the farmers are not aware of the person to whom and where to approach for field problems and in this context the facility of single window approach at the entrance of ICAR institute or SAU will enable them to have the required information for the solution to their problems related to the areas in which the concerned institute is involved.
+
+The rationale for establishment of ATIC is (i) to provide diagnostic services for soil and water testing; and for plant and livestock health; (i7) to supply research products; (iii) to provide information through published literature and communication materials as well as audio-visual aids; and (iv) to provide an opportunity to the institutes or SAUs to generate resources through the sale of their technologies.
+
+Role of extension education in agricultural development
+
+In a democratic set-up like ours, the decision to accept a new technology and transform subsistence agriculture into remunerative scientific agriculture are to be made voluntarily for adoption by the millions of farmers. For this purpose, extension education has been recognized as the most vital means to bring about these changes. The important role of extension education, therefore, is to bring about material and non-material changes, as summarized below.
+
+1. Extension education makes the adoption of a new technology possible. The first and foremost role of extension education is to help the farmer accept new agricultural technology for obtaining higher yields and changing the age-old concept of low yields. This is being done remarkably well, as is evident from the fact that new technology, in general, has been accepted by the farmers of different categories. Their willingness to augment their farm income by adopting sophisticated improved agricultural practices is to be regarded as a most remarkable change in their behaviour.
+
+2. Extension helps farmers to visualize farming as a profitable occupation. It helps farmers understand their own situation and, resources and critical analysis helps them take rational decisions for the best use of the available resources.
+
+3. Extension shows cultivators to set what they want. Once the farmer’s need is determined, the extension helps him find out the necessary technical know-how as well as inputs and apply this technology to their own situation. For this purpose, the extension workers should possess not only the knowledge and skill of extension methods but also the ability to make their right selection according to the situation.
+
+4. Extension helps train the farm leaders. In any community, there are always farmers who are consulted by other farmers as a source of valuable information. The function of extension therefore is to identify such farm leaders, give them suitable training, and to encourage them to adopt modern farm technology, so that through them it may be diffused among other farmers. Besides training the farm leaders, extension workers helps organize special training programmes for progressive farmers, farmers belonging to special interest groups, young farmers and farm women.
+
+5. Extension helps get the necessary inputs. The main function of extension is education in a developing country like India, where the supply and services are limited. However, extension is also required to get the necessary inputs and other requirements needed for agricultural production.
+
+6. Extension is of much help in the decision making process. Due to the introduction the LADP, the high-yielding varieties, and the multiple cropping system, there is a growing emphasis now on the planning of individual farm production. Extension helps the farmers studying the individual farm conditions to take rational decisions according to their needs, aspirations and resources.
+
+7. Extension helps to change the outlook. All the material developments can be achieved only if there is a change in the entire outlook and attitude of the people. It is well known that the unfavourable attitude of the village has hindered the adoption of a number of practices. Extension helps bring about this change through education.
+
+Finally, it may be said that the main function of extension is to bridge the gap between the scientists on the one hand and the farmers on the other.This is done by taking new farm technology and innovations to the farmers’ door-steps and help them adopt these useful innovations. Extension also brings the farmers’ problems to the research stations for further investigation, and back to the farmers for their adoption after solution by the scientists. The farmers’ problems are brought to the research stations for further investigation and to find out the required solutions.
+
+The extension work is quite challenging. It is more important at the present stage of a fast developing and sophisticated agricultural technology and the growing thirst the farmers to know more and more of the new technology and make use of it. The recent energy crisis and the short supply of critical inputs fertilizers, plant-protection chemicals, power supply for irrigation and the high cost of inputs have made the task of an extension worker more difficult. He is not only required to know the agricultural technology with all its refinements and precision, but also to possess a thorough knowledge of efficient and economical use of these inputs. For this purpose he is required to be in constant touch with the research institutes, agricultural universities
+
+926 HANDBOOK OF AGRICULTURE
+
+and other credible sources of knowledge and information to be able to communicate these effectively among the farmers for deriving proper advantage and increase the agricultural production.
+
+Emerging concepts in transfer of technology
+
+Development of new technologies and their integration into farmers’ social systems are of paramount importance to developing nations with predominantly agricultural economy. New view-points are regularly coming up to mitigate the imbalances caused by new technologies among a large majority of the small farms. Thus the emphasis of agricultural research and extension is shifting. The segregation of research and extension organizations from the farmer is being questioned. There is increasing concern on holistic understanding of farmers’ farming as well as socio-political environment to be able to unravel several connections of technology. Such understanding requires close proximity and participatory methods of working together. Thus, many new concepts and approaches are emerging to give new direction to transfer of technology. The first departure from conventional discipline-based research has been noticed in the farming system research and extension. Participatory technology development (PTD) is a new strategy for the development of intervention that fully acknowledges the superiority of rurals people’s accumulated wisdom and benefits of scientists. The strategy emphasizes on community based organisations to strengthen people’s capabilities for technology development and extension. Besides, such approaches call for new methods of working with people. Rapid rural appraisal (RRA), participatory rural appraisal (PRA), indigenous technical knowledge (ITK), networking, etc. are increasingly being talked about now-a-days to support the new approaches. An attempt has been made here to discuss such emerging concepts.
+
+Farming systems research or extension
+
+FSR/E evolved in 1970s as an alternative to conventional research and extension, propagated the technologies requiring high external inputs. The standard role of extension was to disseminate packages of practices. Such technologies were not beneficial for resource-poor farmers in risk-prone areas. As a result, several undesirable consequences were observed in many parts of the country. Rural strife, migration of labour forces to industrial areas and pauperization of marginal farmers were observed in many Asian countries. Thus an alternative approach for generation and dissemination of technology was tried at several International Agricultural Research Centres (IARC) to make farmers as collaborators rather than passive recipients and generate technologies that can solve their problems. Such an approach also supports integration of research and extension.
+
+Characteristics: The FSR/E is a farmer-based, problem-solving, comprehensive, interdisciplinary, complementary, interactive, dynamic and responsible approach to the society.
+
+Farmer-based. FSR/E implies its interest in farmers’ situation and perception through its close contact, using observation, discussion, trial etc. The farmer’s reactions are taken into account at every step.
+
+Problem-solving. \t categorizes farmers on homogeneous characteristics and investigates problems. Emphasis is placed on priority aspects with conditions of farmers in view.
+
+Comprehensive. It does not work in piece-meal on specialized areas as agronomy, plant protection or processing, but takes into consideration total setting in which farms operate.
+
+Interdisciplinary. Farmer has to perform many functions of farm and home. Thus the team of researchers offering solution also comprises various related disciplines including sociology and economics to understand interrelation of complex farming problems.
+
+Complementary. It supports on the research, production and extension work of many other related disciplines. :
+
+Interactive. It facilitates continuous learning and changes due to interaction and quick work.
+
+Dynamic. It is not only a single, well-planned, carefully thought-out master plan but also a gradual process that continually re-evaluates research results in view of farmers’ conditions.
+
+Responsible to society. It considers not only farming problems but also the broader interests of the society as well.
+
+Activities: The FSR/E involves a set of activities beginning from target and research area selection to problem diagnosis and development of relevant agenda, planning and design of on-farm research and extension of research results. As a part of the basic elements of the scheme, constant collaborations and rapport among researchers, extension personnel and farmers have important role to play at each of the steps of FSR/E.
+
+Basic activities of FSR/E. Five basic activities of the FSR/E are as follows:
+
+Step 1. A location of the target area, stratifying into sub-areas, according to critical physical, biological and socio-economic factors to get reasonable degree of homogeneity in conditions to ensure applicability of technologies. Research site is selected, keeping effectiveness of the site for conducting research in view. The extension agents can pass the knowledge of local conditions in this regard.
+
+Step 2. Interdisciplinary research team scouts new areas, reviews secondary data and conducts quick reconnaissance surveys, on-farm experiment as well as formal survey to identify problems and opportunities for improving. These build knowledge of the research area.
+
+Step 3. This sets the stage for on-farm research programmes. Research teams review the problems and opportunities, identified from the earlier activity, evaluate their organization’s capacity, consider applicability of available technologies, make assumptions above near-term condition and set research priorities. Extension staff can contribute a lot here in terms of knowledge about local environment.
+
+4. Three types of on-farm research are conducted, viz. research managed trials, superimposed trials and farmer managed tests. (i) The first is similar to the research conducted at experiment stations, except that it is conducted on farmers’ fields with the intent of learning how technologies are suited to farmers’ conditions (ii) Researchers identify the condition in farmers’ fields that are ripe for improvement.(iii) In the third, the manner in which the experiment is managed by the farmers reveals the farmers reaction to the
+
+928 HANDBOOK OF AGRICULTURE
+
+proposed changes. It is a useful information and liaison to the FSR team. The modification of the experiment by the farmer to suit individual requirement is as important as the experimental results of the scientists. Monitoring of on-farm research to keep track of biological results as well as learning from productive activities. Records of farmer follow-up survey of household and farmer’s production practices on experimental research under controlled conditions. Extension staff assists in monitoring and involving farmers in the process.
+
+Step 5. In the extension of results, the technologies are further investigated before their transfer. The aim is to know how it can fare well in a broad and more intensive scale. Multilocation testings are required for this purpose.
+
+Participatory technology development
+
+Keeping in view the limitations of new agricultural technologies to solve the production problems of a large majority of small farmers, there has been frantic search for an alternative approach to develop useful technologies. There is a call to make farmers more active partners in technology-development process. PTD is a process of bringing together the local communities with their own knowledge and capacity for research on one platform with the researchers and other professionals. PTD process is aimed at strengthening the existing experimental capacity of farmers in search of sustainable innovation-generation system.
+
+Farmers, like anyone else, are a curious lot who keep on trying new ideas. There are many cases of successful solutions offered by the farmers to agricultural problems in the past. However, in practice this trait of farmers is never encouraged. The PTD helps in systematizing farm-based spontaneous research by the actual workers who are experienced about the area and cultivation practices. Moreover, they have a stake in this research. In promoting farm experimenters many obstacles emerge due to traditional attitudes and training of professionals. Professionals with agricultural expertise need to acquire social skills and exposure to anthropological and social tools. It requires respect for indigenous technical knowledge (ITK) embedded in local society. The ITK is rooted in concrete reality of day-to-day living. This also gives farmers equal status as on expert. The ITK is distributed among various economic groups, ages and gender. The ITK may have potential for development through research. PTD has been tried extensively through Institute of Development Studies, Sussex, UK. Five categories of activities have been reported in most documents dealing with PTD.
+
+1. How to get started? This requires one to build rapport with farmers and other partners in research process. Encouragement is needed to build trust and discuss problems and situations. The idea is to build a common platform for understanding the conditions and locate problems to work on.
+
+2. Looking for things to try: Identification of indigenous technical knowledge and formal knowledge screening and selecting topics, using criterion leading to optimal use of local resources need to be explored.
+
+3. Joint collaboration: Trying out development of joint capacity for experimen- tation, plan and implementation of results and their evaluation.
+
+4. Sharing results: Communication of results with other local and scientific networks to scrutinize and interpret them and incite others to adopt and test.
+
+AGRICULTURAL EXTENSION 929
+
+5. Sustaining and consolidating the system: Creating favourable conditions for farmers’ organizations, local institutions and support at policy level. Establishing physical infrastructure and other facilities for local experiment and management of research.
+
+These steps are only suggestive and not rigid. The PTD is still evolving organizational development, training and other institutional issues.
+
+Rapid rural appraisal
+
+Planning for rural development requires authentic information to provide the right solution. Experiences of development in the past showed that experts need better method to collect accurate and relevant information. Short visits to rural areas or lengthy surveys often do not provide the realistic picture of the situation. To meet such needs, RRA evolved as cost-effective and appropriate approach. Thus the RRAs came to be a handy tool for collecting local insight and quality information needed for the experts from outside to plan solutions to rural problems. These methods valued traditional knowledge and wisdom of people, which local people possess naturally as they belong to the culture, and outsiders can easily obtain these through RRA.
+
+The RRA is a process of collecting and analysing information from field in a short period of time. It uses multiple methods and involves people to collect and validate information and does not rest on any single method.
+
+Special features
+
+1. Use of RRA demands respect for ITK. The local people operate in the existing situation by virtue of their understanding of the environment. They have their own reasons and approach to cope with the situation. Experts must feel respect for basic knowledge that the people possess.
+
+2. Experts must learn from people in terms of their (peoples’) perception of things. One has to become a learner and appreciate the criteria and categories of the people in describing things. This requires forgetting much of the technical jargons and advanced techniques.
+
+3. It allows for natural learning that can take place through observation and interaction. It is an informal, flexible and creative way of gradual learning. 4. It requires experts to come in direct contact with people and area.
+
+5. It allows one to try different methods in order to get closer to the truth.
+
+RRA methods
+
+Use of éxisting information: There is a wealth of information already existing in every area in the form of reports, books, students’ researches and'government records. Local newspapers and magazines are also rich sources to look for.
+
+Learning local knowledge: Rural people know their soil, weather, plants, cultural Practices and ways to live in difficult situation. This may be explored to understand the rationale, validity and values.
+
+Direct observation: There is no substitute to observation for verification of the information. One can always take time to see and check how things operate. This may Validate the observation collected from other sources.
+
+Key information: There are always people in every society who possess a wealth of information by virtue of their occupation, interest and experience. They may also like to interact and share such information. It is better to get more accurate information from these people than from those who may live but are not well acquainted themselves. It takes time to locate such people and open up with them. It requires checking with other people as well.
+
+Group interview: A group has the power to legitimize. Thus people open up and talk more forcefully of ideas supported in a group. Many local pieces of information are hard to get individually. People feel less threatened when in a group.
+
+Rapid rural appraisal appears to be just plain common-sense and many experts might not consider it worthwhile to use. However, it is a natural way to gain insights about the local area.
+
+Participatory rural appraisal
+
+Participatory rural appraisal (PRA) grew out of a general feeling of users of the PRA that the farmers or rural people are being extracted for information. Farmers do not truly learn or participate. The question then was of evolving field data that at the same time could benefit people to learn about their problem, analyse it and gain awareness. Hence certain elements were required to make PRA more participatory and empowering.
+
+What is PRA? The PRA is a methodology for interacting with villagers and seeking their participation in putting forward their points of views about problems, analysing them and utilizing the information to acquire learning. It takes into account the people’s indigenous knowledge. It is learning through participation about livelihood system and interaction of various facts. It helps in joint evaluation of problems and opportunities.
+
+Features of PRA: The PRA is concerned with collecting information through participation.
+
+1. It helps farmers to communicate their perception in their own language and mode of communication. Thus the of use symbols, maps and drawings is made not in standard forms of art but in a manner villagers can understand and do naturally.
+
+2. It requires living and looking at life from close quarters, using methods that enable participation and learning. It lays emphasis on listening to people’s experiences, history, culture, priorities and performance.
+
+3. It encourages multidisciplinary investigation, using multiple methods for cross- checking to allow different perspectives.
+
+4. Attitude of listening, learning and respect for rural people is essential for conducting PRA to enable mutual learning and understanding.
+
+PRA methods
+
+Diagram: The diagrams help in easy communication between researchers and villagers. It helps in cross-checking of information. It generates interest and more detailed discussions. Use of villager’s own symbols and method of drawing gives them confidence and co-equal status to share their perceptions. This helps in building rapport. Diagrams encourage groups to critically discuss and give their own opinions.
+
+However, diagram if too complex may defy its explanation and understanding among the learners.
+
+Transact walk. Participatory transact walk is a group activity of villagers and researchers to walk along various agro-ecological zonés of the village and discuss about land-use pattern, problems and rural ecological conditions. The experiences of the participating villagers about their perceptions are discussed by the group. This would unravel the perception of people about natural resources of the village.
+
+Ranking and scoring. These methods provide a chance to rural people to express their preferences and reasons for liking certain items. Here preference ranking, pair- wise ranking, wealth ranking and relationship between two factors are explored. It involves preparation of list of households and assigning a number to each. Then key informants are asked to rank individually according to their own criteria. The criteria used by them are discussed later. Final wealth classification is prepared on this basis.
+
+Do it yourself. The activities of rural people can be understood better if experts also get opportunities to practise them and realize their actual utility. It gives real ideas and helps in getting along with the people. They would appreciate such gestures of physical help.
+
+Maps and models. Participatory maping releases creativity of people and reveals their ways of using symbols. People open up with enthusiasm on using local materials and discussion becomes easier.
+
+Indigenous technical knowledge
+
+Every society has a stock of knowledge generated within socio-cultural system to solve problems unique to it. Such indigenous knowledge is not only enonomical but also locally feasible. Undesirable consequences of new and exogenous technologies have drawn attention of experts to indigenous technical knowledge (ITK). However, varied information of ITK is highly localized and is restricted for outsiders because of indigenous nature. It is passed on from one generation to another through word of mouth. Such knowledge is the product of trial and error, natural selection and keen observations through centuries. Much of the traditional knowledge in agriculture is always targeted for productivity, sustainability, stability and equality. Inventory of farm operations associated with indigenous knowledge (IK) or TK (traditional knowledge) includes cutting and burning, adjusting the density or depth or time of planting, flooding, planting without tillage, multiple cropping, crop rotation, biological control of crop pests etc. It is essential to document and analyse ITK because: (i) solution to problems specific to various agro-ecological conditions can be recorded, analysed and communicated; (ii) people in general are losing interest in ITK as an outdated knowledge and hence it is necessary to preserve such a precious knowledge; (iii) sharing the accumulated knowledge with the farmers’ support will restore their pride in their innovative potential; (iv) scientific investigation of ITK will provide it validity and encouragement; and (v) farmer-to-farmer communication and learning would become feasible if ITK of one region is shared with that of the other region. Traditional agricultural knowledge has the following characteristics: (i) it has
+
+would become feasible if ITK of one region is shared with that of the other region. Traditional agricultural knowledge has the following characteristics: (i) it has minimum risk factor; (ii) it relies heavily on genetic and physical diversity; (iii) it exploits optimum utility of local resources; (iv) it is environmentally friendly; (v) it takes a holistic world view; (vi) it is readily available and easily understandable;
+
+(vii) it is labour intensive; (viii) it fits into local farming system and is adaptable to meet multipurpose needs; (ix) it is based on cultural values of community; and (x) it is confirmed by evidence from trustworthy sources.
+
+It is thus essential to document traditional agricultural knowledge to understand its rationale and increase awareness among the general masses. However, it is not easy for outsiders to document such an information. For it descriptive and narrative methods as used in anthropology are more appropriate.

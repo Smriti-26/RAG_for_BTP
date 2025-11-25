@@ -1,0 +1,475 @@
+SOURCE_DOCUMENT: Chapter 10.pdf
+
+10. Soil and Water Conservation
+
+Land, water and vegetation are precious natural resources and the source of human sustenance and security. Since economic stability and scientific use of the land and water resources are inseparable, judicious planning of these resources is essential for sustaining productivity and ensuring sustainable healthy environment and life-support system of our planet. The magnitude of the problems associated with conservation of these resources is immense and need to be addressed urgently. Some of these are as follows.
+
+1. A wasteful use of our natural resources and accelerated abuse due to explosion of human and cattle population and a neglect of appropriate land use has confounded the problem. The protective forest cover has been destroyed over large hilly and mountainous regions due to overgrazing by cattle, sheep and goat and exploitation for other economic gains. Extensive deforestation due to increased demand for fuel and timber, and for bringing more land under cultivation are other contributory causes. Shifting cultivation practised by the tribal people over vast areas in Asom, Bihar, Orissa and Madhya Pradesh also causes an extensive destruction of forest and land resources. In the Khasi and Jaintia Hills of Meghalaya, shifting cultivation (jhuming) is a highly wasteful practice, leading to 40-80 tonnes/ha/year soil loss. Short jhuming cycles, a fall-out of diminishing land : man ratio, have further aggravated the problem of land degradation. Up and down cultivation of pineapple in north-eastern states and of potato in Nilgiri Hills in Tamil Nadu even on steep slopes causes soil erosion.
+
+2. The most glaring examples of soil erosion in India are the ravines along the Yamuna and Chambal rivers in the Uttar Pradesh, Rajasthan and Madhya Pradesh; korar lands in Gujarat, chos (the rainy-season torrents) in Hoshiarpur; and landslides in Shivaliks and Himalayas, where annual soil loss sometimes exceeds 80 tonnes/ha year.
+
+3. The problem of soil and water conservation though not so serious, is equally important in the extensive cultivated fields of Punjab, Madhya Pradesh, Maharashtra, Rajasthan, Andhra Pradesh and Karnataka. These tracts are characterized by erosive rainfall, high wind velocity, undulating topography, and generally shallow soils. Heavy downpours in July-August, when land has scarce vegetation cover, causes heaviest erosion in these regions. The annual soil loss in these states ranges from 5 to 20 tonnes/ ha/year. Defective drainage and waterlogging result in large areas going out of cultivation every year and thus increasing the erosion hazards.
+
+4. Wind erosion has been responsible for destroying the valuable top soils in western Rajasthan, Gujarat, Haryana and coastal regions of the country. An extreme example of sand movement from the coast can be seen in the Saurashtra region of Gujarat, where the once-flourishing ports are now covered with advancing sand-dunes.
+
+5. Besides these, considerable road-side erosion also takes place owing to uncontrolled grazing of pastures, waste-lands, defective highway engineering, un- regulated mining and related activities. Mass wasting is phenomenal in hilly regions due to landslides, mining and slope failures.
+
+SOIL AND WATER CONSERVATION
+
+SOIL EROSION
+
+Soil erosion is the wearing away of land surface by the action of natural agencies, viz. water and wind. It involves detachment, transportation and deposition of soil particles by the action of these natural forces. Erosion can also be caused by living organisms such as burrowing animals and is referred to as bio-erosion.
+
+Natural or geologic erosion is a normal feature of any landscape. Physical, chemical and biological weathering of rocks and parent material is a pre-requisite for soil formation. Geologic erosion takes place steadily maintaining an equilibrium between the removal and formation of soil. Unless the equilibrium is disturbed by some outside agency, the mature soil preserves more or less a constant depth and character, indefinitely. Accelerated soil erosion is removal of the surface soil from any area denuded of its natural protective cover as a result of human and animal interference. It takes place at a rate faster than that at which soil is built up by the soil-forming processes. This accelerated detachment rapidly ravages the land, which is of serious concern. At normal geological pace, nature requires 1,000 years to build up 2.5 cm of top soil, but wrong forming methods may take only a few years to erode it from the lands of average slope. A fraction of a millimetre (about 1 tonne soil/annum) is added on to 1 ha, though the loss of 100 tonnes/ha/year is not uncommon from undulating terrains.
+
+Extent of soil erosion
+
+A precise estimation of the extent of land affected by soil erosion is still lacking. As per earlier estimates, out of 305.9 million ha of the reported area of the country, 50% (145 million ha) needs conservation measures and about 25% of reported utilizable land is precariously degraded, needing immediate soil-conservation measures. This includes sub-humid and per-humid regions, Western Ghats, coastal and north-eastern hills region afflicted with severe erosion, facing 20-40 tonnes/ha/year soil loss.
+
+Agricultural land in the major parts of the country suffers from decline in fertility due to loss of soil matrix which produces run-off. These areas need conservation measures for sustaining production. For example, in Maharashtra over 70% of the cultivated land has been affected by erosion in varying degrees and 32% of the highly eroded land is no longer cultivable. In the Sholapur district, nearly 17% of the land of medium depth (> 45 cm) has converted into shallow soils (<45 cm) during 1870 to 1945. Similarly, in Akola, Buldhana and Yeotmal districts, the number of fields with less than 37.5 cm soil depth increased during the same period by 54, 16 and 8%, respectively. As much as 2.68 million ha is already under ravines scattered all over India and are a constant threat to the adjoining fertile cultivated land.
+
+In the Himalayan region, landslides and landslips pose a very serious problem due to improper land management. The landslide disasters in the winter of 1969 in the Darjeeling district of West Bengal, and in 1998 in Pithoragarh district of Uttarakhand are eye-openers of future potential hazards. The erosion problem along the mountain roads is assuming alarming proportions. The Border Road Organization spends huge money to stabilize the slopes along the highways for keeping these important lines of communication serviceable.
+
+Consequences of soil erosion
+
+Soil erosion has both on-site and off-site effects. It is the severest form of land
+
+degradation, which has assumed national as well as global importance.
+
+Land degradation: The 32.7% of total geographical area of India is degraded, of which water and wind erosion account for nearly 65% of land degradation (Table 10.1).
+
+Mat . . Siltation of reservoirs: Multipurpose reservoirs constructed at huge cost under the river-valley projects are getting silted at an alarming rate due to excessive soil ‘ an . erosion. The 5,334 million tonnes of soil (16.35 tonnes/ha/annum) is lost annually, which is 4-foldhigherthanthepermissible soil loss (4—S tonnes/ha/annum). About 29% of the eroded material is permanently lost to the sea, 61% is dislocated from one to another place and 10% is deposited in
+
+*Ministry of Agriculture, New Delhi (1994); ** Included in other categories.
+
+the reservoirs, resulting in loss of storage capacity by 1-2% per annum. The data on river valley projects on 17 medium and small reservoirs in India showed that the rate of inflow of annual sediment rate is 3-fold (9.17 ha-m/100 km?) when compared with their designed rate of 2.93 ha-m/100 km?/annum, thus reducing their life expectancy and hydro-electric power generation to only one-third.
+
+Floods and flood plains: The soil erosion, siltation and reduced transport capacity of rivers, chos and drains, serious catastrophies, viz. floods and landslides cause large- scale damage to human as well as animal life and property. Productive agricultural land might go out of cultivation in flood plains due to silt deposition as was observed during 1988 floods of Punjab.
+
+Productivity of agricultural lands: The reversibly degraded 160 million ha land (more than 11% of world’s crop land) needs immediate attention. Relationships between productivity and erosion are lacking. The effect of land degradation on productivity revealed that lightly or moderately degraded lands yielded 10% less than their non- degraded counterparts. In strongly degraded lands, the production loss rises to 18% while the land may turn non-produtive in extreme cases. In deep alluvial silty loam soils at Dehra Dun, each centimetre desurfacing of soil caused 76 kg/ha decline in maize yield. This reduction is likely to be more severe in shallow soils.
+
+Environmental pollution: Sediment is one of the major pollutants. In India, the situation is still worse, since the sediment load from agricultural lands not only continues unabated, but is also on the increase due to fast rate of our developmental activities. If erosion is permitted to continue at its present rate, we shall be left with the reclamation of soil rather than its conservation and management.
+
+Changing forest cover: India has 2% land, 10% forests and 0.5% grazing area of the world but has the burden of supporting 18% human and 15% cattle population. The recorded forest area of the country is 77 million ha, but the actual forest cover may be only about 64 million ha. Out of this 11.73% is under dense forest with more than 40% canopy, 7.61% under open forest and 0.13% under mangrove forest (State
+
+SOIL AND WATER CONSERVATION 301
+
+of Forest Report, 1997). About 39 million ha area is under degraded forests. The forest cover is declining due to the degradation of permanent pastures and open forests in the desert and arid regions.
+
+Loss of biodiversity: It is one of the major global concerns today. India’s biodiversity is unique in the world. As many as 45,000 species of wild plants and over 77,000 of wild animals were recorded, which comprise 6.5% of the world’s known wildlife. An assessment of the loss of wildlife habitat in tropical Asia in 1986 showed that the country had only 615,095 km? out of its original wildlife habitat of 3,017,009 km’, i.e. loss of 20%. Loss of seeds and propagules in the erosion fluxes, washing away of nutrients, run- off etc. deplete the biodiversity. In the last few decades, India has lost at least half of its forest, polluted over 70% of its water-bodies and degraded most of its coasts.
+
+WIND EROSION
+
+It occurs in arid and semi-arid areas devoid of vegetation, where the wind velocity is high. The single-grained sandy soil particles on the land surface are lifted and blown off as dust-storms. When the velocity of the dust-bearing wind is retarded, coarser soil particles are deposited in the form of dunes sometimes rendering fertile lands unfit for cultivation. The finer particles are carried away to farther distances. Fertile soil is blown away by winds and the subsoils is exposed, as a result the productive capacity of the soil is considerably reduced. Areas susceptible to wind erosion were delineated on global as well as country level. Thar desert of Western Rajasthan shows high soil losses due to wind erosion. Deep ploughing of sand plains lost more than 3,000 tonnes soil/ha during a sand storm of 1987, whereas similar areas with 10-12% plant cover or with higher cloddy surface suffered negligible soil loss.
+
+Wind erosion mechanism and processes
+
+Saltation: The major portion of the soil carried by the wind moves ina series of short bounces, called ‘saltations’ carrying fine particles of 0.1 to 0.5 mm in diameter. It is caused by the direct pressure of wind on soil particles and their collision with other particles. After being pushed along the ground surface by the wind, the particles leap almost vertically in the first stage of saltation. Some grains rise only as short distance, others leap 30 cm or higher, depending directly on the wind velocity and rise from the ground.
+
+Suspension: Very fine soil particles, less than 0.1 mm in diameter, are carried into suspension, being kicked up into the air by the action of particles in saltation. The movement of fine dust in suspension is completely governed by the characteristic movement of the wind. The suspended material is carried long distances from its original location and is thus a complete loss to the eroded area.
+
+Surface creep: Soil particles, larger than 0.5 mm in diameter but smaller than 1.0 mm, are too heavy to be moved in saltation, and are pushed along the surface by the impact of particles in saltation to form a surface creep. The soil moved in saltation and surface creep usually remains within the eroded area, especially when erosive winds are from different directions.
+
+About 90% of soil] movement in wind erosion is below the height of 30 cm, and about 50% of it is within 5 cm of the ground level. The control of wind erosion is mainly based on the reduction or elimination of movement in saltation. Land-surface modification, viz. clods, crop stubbles and grasses, are very effective in reducing wind erosion.
+
+LANDSLIDE OR SLIP EROSION
+
+A landslide is an outward and downward movement of the slope-forming material, composed of natural rocks, soil, artificial fills, etc. Landslides occur due to slope failures, due to weak geomorphologic topographic and other physical factors. The immediate cause of a slide may be an earthquake, or a heavy rainfall, which unduly saturates the ground.
+
+WATER EROSION
+
+Soil erosion caused by water can be distinguished mainly into (/) sheet erosion, (ii) rill erosion, and (iii) gully erosion.
+
+Sheet erosion
+
+The erosion in which soil matrix is lost but remains undetected for long period and removes a thin venier of soil from large areas uniformly during every rain, event producing a run-off is called sheet erosion. It is generally neglected, although the soil deteriorates slowly and imperceptibly. Its existence, however, can be detected by the muddy colour of the run-off arising from the fields.
+
+Rill erosion
+
+When sheet erosion is allowed to continue unchecked, the silt-laden run-off forms a well-defined, minute finger-shaped grooves over the entire field known as rill erosion. These rills do not pose any obstruction to farm machinery. Generally these rills vanish after cultivation but may reappear with ensuing rains.
+
+Gully erosion
+
+When rill erosion is neglected, the tiny grooves develop into wider and deeper channels known as gully erosion. Gullies obstruct the operation of farm machinery. The gullies tend to deepen and widen with every heavy rainfall. They cut up large fields into small fragments and in course of time, make them unfit for cultivation.
+
+Stream-bank erosion
+
+It is caused by rivers, streams and torrents, also called chos, cutting their banks and adjoining fields. Torrents are hill streams characterized by wide-spreading beds on emergence from the hills with ill-defined banks, flashy flows and swift currents. These are dry water-courses, except during rainy season, when with every heavy downpour in their catchment, they get swollen with flood and subside almost to their normal tiny size immediately after the storm is over.
+
+These sudden and violent flows are responsible for moving immense quantities of detritus, comprising boulders, shingle, sand and silt material. The debris gets deposited in the torrent bed as scattered islands owing to the sudden widening of the torrent channel after its emergence from the hills, owing to the flattening of the gradient in the lower reaches, or because of vegetation obstructions. The bed level of the torrent is raised by these deposits, which in turn, reduces the transporting capacity of the torrent, causing overflows and the meandering of the water course, subjecting banks and adjoining lands to further erosion.
+
+SOIL AND WATER CONSERVATION
+
+Pedestal erosion: Protection by tree roots or stone against splash results in pedestal capped by resistant material. Height of such pedestals is a good indication of the magnitude of soil loss due to erosion.
+
+Pinnacle erosion: High pinnacles in gully sides and bottom are associated with deep vertical rills in the gully sides, cutting back rapidly to join one another to leave isolated pinnacles. A more resistant soil layer and gravel often caps a pinnacle.
+
+Piping: It is caused by infiltration of surface water through porous layers when encountered by less permeable layers. It carries with it fine material as well.
+
+Slumping: It is a geological process significantly contributing to gully formation. When head of the gully has worked backup to the crest and beyond and there is no inflow at the gully head, flood flow causes slumping of sides and head and erosion continues by slumping, leading to bank collapse.
+
+Water erosion mechanism and processes
+
+Soil erosion caused by rainfall is the result of the impact of energy from (/) falling rain drops obliquely or vertically from above, and (ii) surface flow more or less horizontally along the ground surface. The chief role of the falling rain drops is to detach the soil particles (called splash) whereas that of the surface flow (outside the rills and gullies) is to transport the soil, which gets accelerated on sloping topography.
+
+PRINCIPLES OF EROSION
+
+The amount of soil erosion, therefore, depends upon a combination of the power of the rain or wind to cause erosion and the ability of the soil to withstand the impact. In mathematical terms, erosion is a function of the erosivity (of the rain) and the erodibility of the soil:
+
+Erosion = f (erosivity) x (erodibility)
+
+Erosivity can be defined as the potential ability ofthe rain to cause erosion. Erodibility is defined as the vulnerability of the soil to erosion, which depends on inherent characteristics of the soil—its mechanical, chemical and physical composition —the attributes that can be measured in laboratory, and on land treatment and crop management, which forms the basis of parameters of the universal soil-loss equation (USLE).
+
+Though many process-based mathematical models are in use to quantify and predict soil erosion, USLE has been widely used in India to predict soil erosion from agricultural fields or watersheds. The equation is easy to understand and is useful in conservation planning. The soil-loss equation is:
+
+where A, the computed soil loss per unit area, expressed in the units selected for K and for the period selected for R, generally computed in tonnes/ha/year.
+
+R, the rainfall-erosivity factor, is the number of rainfall erosion index (EI,,) units for a particular location.
+
+K, the soil-erodibility factor, is the soil loss rate per erosion index unit for a specified soil as measured on a unit plot, 21.13 m long at 9% slope continuously in clean-tilled fallow land use,
+
+L, the slope-length factor is the ratio of soil loss from the field slope length to that from a 21.13 length under identical conditions.
+
+S, the slope-steepness factor is the ratio of soil loss from the field-slope gradient to that from a 9% slope under otherwise identical conditions.
+
+C, the cover and management factor, is the ratio of soil loss from an area with specified cover and management to that from an identical area in tilled continuous fallow.
+
+P, the support practice factor, is the ratio of soil loss with a support practice like contouring, strip-cropping, or terracing to that with straight-row farming up and down the slope.
+
+* Source: 1. Sonawane, M.G., Bangal, G.B. (1989). Effect of irregular slope shapes on runoff and soil loss. Indian Journal of Soil Conservation 17 (3): 6-10.
+
+2. Gore, K.P., Pendke, M.S., Gurunadha Rao, V.V.S., Gupta, C.P. (1998). Groundwater modelling to quantify the effect of water harvesting structures in Wagarwadi watershed, Parbhani district, Maharashtra, India. Hydrological Processes 12 (7): 1043-1052.
+
+3. Tripathi, M.P., Panda, R.K., Raghuwanshi, N.S., Singh, R. (2004). Hydrological modelling of a small watershed using generated rainfall in the soil and water assessment tool model. Hydrological Processes 18 (10): 1811-1821.
+
+4. Pandey, V.K., Panda, S.N., Sudhakar, S., Raghuwanshi, N.S. (2005). Watershed modelling using GIS, remote sensing and SWAT2000. Proceedings of the 2005 Watershed Management Conference - Managing Watersheds for Human and aoe Impacts: Engineering, Ecological, and Economic Challenges. pp. 1217- 18,
+
+SOIL AND WATER CONSERVATION
+
+The research has been conducted to standardize and evaluate the universal soil-loss equation parameters for Indian situations which are summarized in Tables 10.2 and 10.3.
+
+Factors Influencing Erosion
+
+Precipitation: The intensity, duration and frequency of rainfall govern the rate and the volume of run-off. A light rain that can be easily absorbed in the soil causes no run-off and soil loss. When the intensity of rain is more than infiltration it causes run- off and soil loss. Apart from the intensity and duration of rainfall, the antecedent soil moisture at the time of the event is also important in determining the run-off and soil loss. The principal effect of rain drops is to detach soil (splash) and the principal effect of surface flow is transportation of detached particles. The interaction of kinetic energy ['4 mass velocity?] and rainfall intensity say I,, expressed as erosion index EL, could be best related with rainfall erosion.
+
+where EI,,, erosion index; KE, kinetic energy of storm, 210.3 + 89 log I; I,,, maximum 30 min intensity of storm; and J, rainfall intensity (cm/hr) can be computed through automatic raingauge charts.
+
+Degree and length of slope: The speed and the extent of run-off depend on degree and length of slope of the land. If the land slope is increased 4-fold, the velocity of the water flowing on the slope is approximately doubled. If the velocity of the run-off water is doubled, its energy, i.e. erosive power, is increased 4-fold, because the latter varies as the square of the velocity. Similarly, the quantity of the material of a given size that can be carried is increased 32-fold (varies as the fifth power of the velocity), and the size of the particles that can be transported by pushing or rolling is increased 64-fold (varies as the sixth power of the velocity).
+
+Types of soil: Soil structure, texture, organic matter, infiltration and permeability influence the run-off and soil loss. Fine soils are more susceptible to erosion than coarse soils. Various empirical equations like dispersion ratio and erosion ratio based on ratio of sand + silt to clay and nomographs, have been used to estimate erodibility of soil. In India, the deep lateritic soils at Ootacamund (Tamil Nadu) and red soils at Deochanda (Bihar) have the lowest rate of run-off; the alluvial soils at Vasad (Gujarat) and Dehra Dun (Uttaranchal) have a very high rate of run-off and the black soils have an intermediate rate of run-off, but this rate of run-off is still high.
+
+Nature of ground cover and land use: A thick mantle of plants reduces erosivity of rainfall and most of the water either quickly percolates through the soil or moves
+
+over the surface with non-erosive velocity. Areas not protected with thick cover of plants are unable to absorb water effectively, because the falling rains scatter the soil surface, the fine soil particles go into suspension and the thick mixture of water and soil quickly fills and clogs the tiny interspaces in the soil, reducing infiltration and consequently increasing the run-off and soil loss. The effect of canopy is more when it is closer to the land surface. Hence mulches being directly in touch with land surface are most efficient in reducing the runoff and soil loss followed by grasses and crops.
+
+If the land is left undisturbed under a natural cover, the run-off and soil loss are the least, which increased steeply when the vegetation is removed and the land is cultivated (Table 10.4).
+
+*Source: 1. Sargaonkar, A. (2006). Estimation of land use specific runoff and pollutant concentration for Tapi River Basin in India. Environmental Monitoring and Assessment 117 (1-3): 491-503.
+
+2. Gore, K.P., Pendke, M.S., Gurunadha Rao, V.V.S., Gupta, C.P. (1998). ’ Groundwater modelling to quantify the effect of water harvesting structures in Wagarwadi watershed, Parbhani district, Maharashtra, India. Hydrological Processes 12 (7): 1043-1052.
+
+Along with the loss of run-off water and soil, considerable amounts of plant nutrients are also lost, which are generally not accounted for. The loss of plant nutrients in alluvial soil at Kanpur increased with an increase in the degree of the slope, and the increase was high when the degree of slope increased from 1.5 to 3.0%.
+
+SOIL AND WATER CONSERVATION
+
+SOIL AND WATER CONSERVATION MEASURES
+
+The aim of soil and water conservation measures is to minimize soil and water losses for sustainable productivity. Watershed has been universally accepted as unit of land management. Land capability forms the basis of land-use planning for integrated watershed management; the motto being—utilize land according to its capability and treat as per its need.
+
+Land-capability classification
+
+This classification is a systematic arrangement of different kinds of land according to the properties that determine the ability of the land to produce common cultivated crops and pastures on a permanent basis. Land capability is determined by:
+
+(a) Inherent soil characteristics: texture of top soil, effective soil depth, soil permeability, coil reaction, salinity, alkalinity and nutrient-supplying capacity;
+
+(b) External land features: slope, erosion, waterlogging, overland flow and flooding;
+
+(c) Environmental factors: rainfall, temperature etc.
+
+The land-capability map is normally prepared by interpreting a standard soil-survey map.
+
+map.
+
+Land-capability classes: The 8 land capability classes are based on the intensity of hazards and the limitations of use. These range from the best and most easily formed land to that which has no value for cultivation, grazing or forestry, but may be suited to wild-life, recreation or for watershed protection. There are two broad groups of lands, viz. arable land and non-arable land.
+
+Arable land: Suitable for cultivation and other land uses (classes I to IV lands).
+
+Class I (Green): Soils have very few or no limitations that restrict their use. Land is nearly level and the erosion hazard is low. The soils are deep, well-drained, easily worked, hold water well and are either fairly well supplied with plant nutrients or are highly responsive to the application of fertilizers. These soils are not subject to damage because of overflow. The local climate must be favourable for growing many of the common field crops. The soils may be placed in class I, if the limitation of the arid climate were removed by relatively permanent irrigation works.
+
+The soils need ordinarily one or more management practices, viz. fertilization, liming, green-manuring, crop rotation and residue management, to maintain productivity. Double-cropping sequence can be adopted on such lands. Soils in this class are suited to a wide range of plants and may be used for cultivated crops, pastures, forests and wildlife, food and cover crops.
+
+Class II (Yellow): Soils in class II have some limitations that reduce the choice of plants or require simple conservation practices. The limitations of soils in class II may result from the effects of one or more of the following factors: (i) a gentle slope, (ii) slight susceptibility to erosion, (iii) less than ideal soil depth, (iv) occasional damaging overflow, (v) wetness that can be corrected by drainage but existing permanently as a moderate limitation, (v/) slight to moderate amount of sodium, easily corrected but likely to recur, and (vii) a slight climatic limitation on soil use and management.
+
+The soils require careful management. Most common management options include: strip-cropping, contour cultivation, water-disposal area, vegetation cover, crop rotation, cover and green-manuring, stubble mulching, artificial fertilization, manure and liming
+
+etc. These soils may be used for growing cultivated crops, raising pastures, forests and wildlife, food and cover crops.
+
+Class IIT (Red): Soils in class III have moderate limitations, which reduce the choice of plants and require special conservation practices. For cultivated crops, the conservation practices are usually more difficult to apply and to maintain.
+
+Limitations of soils in class III may result due to one or more of the following factors: (i) moderate land slope, (ii) moderate susceptibility to water or wind erosion, (iii) frequent overflow accompanied with some crop damage, (iv) very slow subsoil permeability, (v) wetness or continued waterlogging after drainage, (vi) shallow soil depth, hard pan or clay pan limiting the rooting-zone and the water storage, (vii) low moisture-holding capacity, (viii) moderate salinity or sodium, and (ix) moderate climatic limitation.
+
+The soils can be used for raising cultivated crops, pastures, forests and wild-life. Class IV (Blue): Soils have severe limitations that restrict the choice of plants and require more careful management, when cultivated. The restrictions in the use of these soils are greater than those of class III and the choice of plants is more limited. The conservation practices are more difficult to apply and maintain.
+
+The use of these soils for cultivated crops is limited as a result of the effect of one or more permanent features, viz. (i) steep slopes, (ii) severe susceptibility to water and wind erosion, (iif) severe effect of past erosion, (iv) shallow soils, (v) low moisture holding capacity, (vi) frequent overflow accompanied with severe crop damage, (vii) excessive wetness with a continuing hazard of waterlogging after drainage, (viii) severe salinity or sodium, and (ix) moderately adverse climate.
+
+The soils can be used for crops, pastures, forests and wild-life, food and cover crops.
+
+Non-arable land: Not suitable for cultivation, but suitable for other land uses (classes V to VIII lands).
+
+Class V (Dark green or uncoloured): Soils have little or no erosion hazard, but have other limitations, whose removal is not practicable. They are used largely for pastures, forests and wildlife, food and cover crops.
+
+Such land is nearly level and is not subject to more than slight wind or water erosion. Cultivation is not feasible because of one or more limitations, viz. overflow, stoniness, wetness or severe climate. Examples of class V land are: (i) soil of lowlands subject to frequent overflows that prevent normal production of cultivated crops, (ii) nearly level soils with growing season that prevent normal production of cultivated crops, (iii) the level or nearly-level stony or rocky soils, and (iv) ponded areas where drainage for cultivated crops is not feasible but soils are suitable for grasses or trees.
+
+Tnese dark green or uncoloured lands are not suitable for raising cultivated crops, but are suitable for perennial vegetation (grazing and forestry, with few or no limitations). Pastures can be improved, and benefits may be derived from proper management through seeding, liming, fertilizing and water control with contour furrows, drainage ditches, diversions of water spreaders, etc.
+
+Class VI (Orange): Soils have very severe limitations that make them generally unsuitable for cultivation and limit their use largely to pasture, forests or wild-life. The limitations that cannot be corrected are: (i) a steep slope, (ii) very severe erosion hazard, (iii) very severe effect of past erosion, (iv) stoniness, (v) shallow rooting-
+
+SOIL AND WATER CONSERVATION 309
+
+zone, (vi) excessive wetness or overflow, (vii) low moisture capacity, (viii) salinity or sodium, and (ix) severe climate.
+
+Class VII (Brown): Soils have very severe limitations that make them unsuitable for cultivation and restrict their use largely to grazing, forestation or wildlife. The soils in this class are subject to severe limitations or hazards under either grazing or forestry use. It is not practicable to adopt pasture improvement and water-control practices.
+
+Class VIII (Purple): Soils and land forms in class VIII have limitations that preclude their use for commercial plant production and restrict their use to recreation, wildlife, watershed protection or for aesthetic purposes. Limitations that cannot be corrected may result from the effects of one or more of the following factors: (i) erosion or erosion hazard, (ii) severe climate, (iii) wet soil, (iv) stones, (v) low moisture capacity, and (vi) salinity or sodium.
+
+Bad lands, rock outcrops, sandy beaches, marshes, deserts, river wash, mine tailings and other nearly barren lands are included in purple soil of class VIII. It may be necessary to provide protection and management for plant growth to soils and landforms in class VIII to protect other more valuable soils to control water, or for wild-life or aesthetic reasons.
+
+Landa-capability subclass: A land-capability class is determined by the degree of limitations in land use together with the hazards involved. Within a land-capability class, the subclasses are determined by the kind of limitation or hazard. For example, in class III land, the land is suitable for cultivation but subject to moderate hazard of water erosion because of a steep slope, wind erosion, waterlogging or overflow and a shallow depth to the bed-rock. Each of these hazards will form a separate subclass. Four kinds of limitations are recognized at the subclass level.
+
+Erosion (e): Susceptibility to erosion and damage due to past erosion; excess water (w): poor soil drainage, wetness, high water-table and overflow; soil(s): root zone, viz. the shallowness, stoniness, low moisture-holding capacity, low fertility and salinity or alkalinity; and climate (c): It includes temperature or low or erratic rainfall.
+
+The land-capability subclass is designated by the small letters (subscript) that follow the land-capability classes indicated in Roman numerals, e.g. Il, III, V,. Capability class I has no subclasses. Whereas two kinds of limitations can be modified or corrected and are essentially equal, the sub classes have the following priority e, w, s, c. Where soils have two kinds of limitations, the dominant one is shown first.
+
+SOIL AND WATER CONSERVATION ON AGRICULTURAL LAND
+
+The soil and water conservation measures fall into two categories, viz. agronomic measures and mechanical protection measures.
+
+Agronomic Measures
+
+These practices help intercept rain drops and reduce the splash effect; improve better intake of water by the soil by improving organic matter and soil structure, and reduce run-off through the use of contour cultivation, mulches, close and dense crops, strip cropping and mixed cropping.
+
+Contour farming
+
+A simple conservation practice of farming operations, viz. ploughing, cultivation
+
+*Sources:1. Sahu, R.K., Mishra, S.K., Eldho, T.I., Jain, M.K. (2007). An advanced soil moisture accounting procedure for SCS curve number method. Hydrological Processes 21 (21): 2872-2881.
+
+2. Panda, B.K., Panda, R.K., Sarangi, P. (2007). Impact of watersheds development on dryland farming in KBK districts of Orissa. Journal of Rural Development 26 (2): 189-206.
+
+and planting across the slope, keeping the same level, as far as possible, called contour farming, has many beneficial effects. The ridges and furrows and the rows of the plants placed across the slope form a continual series of miniature reservoir and barrier to the water moving over the soil surface. The barriers are small individually, but as these are large in number, their total effect is great in reducing the run-off, soil erosion and loss of plant nutrients (Table 10.5). Much less power is required to be exerted by men, animals and machines, less wear and tear of implement and loss of time, if the cultivation is done on the contour instead of along the slope.
+
+Contour farming reduces run-off and prevents soil erosion, conserves soil fertility and increases crop yields compared with the up-and-down cultivation in the major groups of soils in India, viz. alluvial soils, black soils and deep lateritic soils.
+
+On alluvial soil at Kanpur (2.2% slope) contour farming conserved 11.3 kg N, 11.7 kg P,O,, 44.4 kg K,O, 398.1 kg CaO and 118.1 kg MgO in one season. The practice produced 490 kg of sorghum grain and 273 kg of stalks more than the up-and-down cultivation at Kanpur. Each millimetre of rain water conserved by contour farming gave 22.5 kg sorghum (jowar) grain and 12.5 kg sorghum straw.
+
+Cover management to reduce run-off and soil loss
+
+Legumes, being erosion resistant, provide better cover and hence better protection to land against erosion than ordinary wide-row, erosion permitting crops. Cowpea, greengram (mung), blackgram (urd), groundnut, soybean, sunnhemp and dhaincha have been good cover crops, which effectively reduce soil erosion. Nearness of canopy to land surface and extent of cover determine the erosion control. Factors, viz. inoculation with Rhizobium or fertilization with super phosphate, prove beneficial. Cropping management factor ‘C’ for crops of different regions is given in Table 10.2.
+
+SOIL AND WATER CONSERVATION 311
+
+Mulching
+
+Surface mulches are used to prevent soil from the blowing and beating action of rainfall, reduce evaporation, increase infiltration, keep down weeds, improve soil structure and eventually increase crop yields. Mulching is the most effective measure of soil and water conservation but the non-availability of material due to competition for animal fodder poses serious limitation in its adoption, which calls for strategies of in situ mulching or utilization of weed biomass for mulching. At Dehra Dun mulching with maize residues did not Significantly influence the yield of the succeeding wheat crop. However, at Kota mulching gave a higher yield of wheat. At Bellary (Karnataka) mulching with paddy husk, Encap Esso, grass, jowar stubble did not improve the yields of cotton and jowar crops, while at Ranchi straw and Encap Esso mulch improved infiltration rate, soil moisture and yield of wheat, barley, chickpea and linseed and succeeding maize crop on eroded soils,
+
+Mulching in kharif crops was found very effective in reducing the run-off and soil loss and help better germination or stand of rabi crops, which may improve yield. Mulching @ 2 tonnes/ha mulch covering only on one-third of land surface also reduces erosion significantly.
+
+In situ mulching and green-manuring in maize: Growing of sunnhemp green- manure in 60 cm wide contour strips between maize rows and recycling after | month as surface mulch reduces erosion and controls weed growth. Incorporation of mulch after maize improved the wheat yield due to moisture conservation and nutritional effect (Table 10.6).
+
+Conservation
+
+Conservation tillage, encompassing residue management, is a well-tested strategy of soil and water conservation in the USA. Low-intensity tillage favours consolidation of soil, and imparts erosion resistance through better consolidation, structure, infiltration, pore distribution and depression storage. Zero tillage with plot weeded in
+
+312 HANDBOOK OF AGRICULTURE
+
+30 cm strips and weeds cut and spread over inter-row spaces as mulch before seeding was found the best practice for curtailing run-off and soil loss at Dehra Dun (Table 10.7).
+
+Cropping systems
+
+Cropping sequence and rotation have considerable bearing on production and conservation. Clean cultivated bidi tobacco resulted in the maximum soil and water losses, which were reduced when a cover-cum-green manure crop was grown during the early monsoon before tobacco (Table 10.8). The inclusion of a cover-cum-green manure crop increased the yield of tobacco from 1,585 to 1,850 kg/ha and reduced nitrogenous fertilizer dose by 45%. Pearl millet + green gram cropping also reduced the water loss considerably.
+
+*3 years average; **average 4 years.
+
+Groundnut reduces both the soil and water loss, whereas blackgram permits run- off and soil loss, like maize. Intercropping of maize with urd or arhar did not reduce the soil and water loss.
+
+Strip cropping
+
+The importance of strip cropping in controlling run-off, erosion and thereby maintaining the fertility of the soil is universally recognized. Strip cropping, in effect, uses several good farming practices, including crop rotation, contour cultivation, proper tillage, stubble mulching, cover cropping etc. °
+
+Contour strip cropping is the growing of erosion-permitting crop in strips of suitable widths across the slopes on contour, alternating with strip of soil-protecting and erosion
+
+SOIL AND WATER CONSERVATION
+
+resisting crops. It shortens the length of the slope, checks movement of run-off, helps desilt it and increases the absorption of rain-water. Dense foliage of the erosion-resistant crops prevents the beating action of rain. It is better to rotate f F the strip planting by sowing a non- resistant crop, followed by erosion- resistant crop and vice-versa with suitable widths (Table 10.9). Recommendations
+
+of Dry Farming Research Station, Sholapur on strip cropping are as follows:
+
+(i) Groundnut, mothbean and horsegram are the most efficient and suitable crops for checking erosion. .
+
+(ii) The normal seed rates of leguminous crops, other than groundnut, do not give sufficiently dense canopies to prevent rain drops from beating the soil surface in such cases. The seed rate should be doubled or trebled to get better cover.
+
+(iii) The most effective width of the contour strips for cereals, viz. sorghum (jowar) and pearl millet (bajra), is 21.6 m and for legume 7.2 m.
+
+Field strip cropping: It is the planting of farm crops in more or less parallel strips across fairly uniform slopes but not on exact contours.
+
+Wind strip cropping: It consists of planting tall-growing crops, viz. sorghum, pearl millet or maize, and low-growing crops in alternately arranged straight and long but relatively narrow, parallel strips laid out across the direction of the prevailing wind, regardless of the contour, for minimizing wind erosion.
+
+Permanent or temporary buffer-strip cropping: The strips are established to take care of critical, i.e. steep or highly eroded slopes in fields under contour strip cropping. These strips do not form a part of the rotation practised in normal strip cropping, and are generally planted with perennial legumes, grasses or shrubs on a permanent or temporary basis.
+
+Mixed cropping
+
+The main reasons for the lack of interest in strip cropping in India is the small size of the holdings. Indian farmers have been practising mixed cropping for better land cover protection against beating action of the rain, soil erosion and assurance of crop under adverse climate. This is a common practice in semi-arid regions to provide an insurance against complete failure of a given crop during adverse climatic years.
+
+At Kota out of 5 years, wheat crop failed in 1 year due to drought, and gram failed in 1 year due to wilt. In all these years mixed crop was successful, thus ensuring at least 1 crop to the farmer. The wheat + gram mixture gave a consistently higher yield (439.7 kg/ha) than the pure crops of wheat (314.9 kg/ha) and gram (314.6 kg/ha). The increase in net profit as a result of mixed cropping was 89% and 183% over the pure crops of wheat and gram, respectively.
+
+Intercropping
+
+The line-sowing of mixed crops gives rise to the practice of intercropping. Intercropping of sorghum and pigeonpea in | : | ratio has proved to be a sustainable
+
+system in semi-arid regions of south-eastern Rajasthan. Application of 25 kg N/ha to sorghum rows and 40 kg P,O, + 30 kg K,O/ha both to sorghum and pigeonpea produced the yield of 1.7 tonnes/ha of sorghum grain, 0.5 tonne/ha of pigeonpea and 13 tonnes/ha of stover.
+
+Mechanical Measures of Erosion Control
+
+Mechanical or engineering measures are first line of defence and play a very vital role in controlling erosion on highly eroded situations as well as on agricultural land. Vegetative measures are adopted to support mechanical measures as a long-term strategy for soil-erosion control. These measures include basin listing, sub-soiling, contour bunding (also called level terraces, ridge-type terraces, absorptive-type terraces), graded bunding and bench terracing on steep slopes.
+
+Basin listing
+
+It consists of making of small interrupted basins along the contour with a basin lister. Basin listing helps retain rainwater as it falls and is specially effective on retentive soils having mild slopes.
+
+Sub-soiling
+
+It consists of breaking the hard and impermeable subsoil by a subsoiler to conserve more rain water. It does not involve soil inversion and promotes greater moisture penetration into the soil, reduces both run-off and soil erosion. The subsoiler is worked through the soil at a depth of 30-60 cm at a spacing of 90-180 cm.
+
+Contour bunding
+
+This practice consists of making a comparatively narrow-based embankment at certain intervals across the slope of the land on a level that is along the contour. It is an important measure that conserves soil and water in arid and semi-arid areas with high infiltration and permeability. The practice is commonly adopted on agricultural land having light-textured soils, slope up to 6% and receiving 600 mm rainfall. The cross- sections of bunds adopted in the dry areas of Maharashtra were maximum in medium heavy soils followed by medium soil, shallow soils and very shallow soils (Table 10.10). Information from other soils is given in Table 10.11.
+
+The spacing between the bunds should not exceed 150 cm vertical drop or 67.5 m horizontal spacing, whichever is less. Where the rainfall is more than 625 mm and moisture conservation is important, bunds may be constructed at shorter intervals. The spacing between contour bunds, adopted in Maharashtra, showed slope (%)
+
+. SOIL AND WATER CONSERVATION 315
+
+Source: 1. Pawar, P.B. (1999). Vetiver: A miracle grass for watershed Ye g teal roan study—in sub-mountain and scarcity zones of Nashik district, (a halen India. Investing in the protection of our environment. Proceedings 0} ere: 30, Nashville, 1999. (International Erosion Control Association), pp. noff ru!
+
+0 to 1, 1 to 1.5, 1.5 to 2, and 2 to 3 having vertical drop (m) as 1.05, 1.20, 1.35, and 1.50 respectively. It can be used as a fair guide. F
+
+In the alluvial soils of Gujarat, a vertical interval of 1.83 m and a cross-section of 1.3 m? were found suitable for land with 6-12% slopes, and for slopes less than 6% contour bunds with cross-sections of 0.9 to 1.3 m? spaced at 0.9 to 1.2 m vertical interval were found effective.
+
+Studies at Sholapur, Bellary and Kota showed that even in semi-arid climate, contour-bunding in deep black soils, with montmorillonitic type of clay is not suitable. The low rates of permeability and infiltration in these soils cause a prolonged impounding of water on the upstream side, and the crops are consequently damaged. Swelling-shrinking properties of clays lead to cracking of bunds and frequent failures.
+
+Graded bunding or channel terraces
+
+Graded bunding has been generally, used in areas receiving rainfall more than 600 mm/year, irrespective of the soil texture. In clay soil graded bunding has to be used even for areas having less than 800 mm annual rainfall. Graded bunds may be narrow-based or broad-based. A broad-based graded terrace consists of a wide-low embankment constructed on the lower edge of the channel from which the soil is excavated. The channel is excavated at suitable intervals on a falling contour with a suitable longitudinal grade. Broad-based terracing is recommended where farming is practised with tractors.
+
+At Dehra Dun, studies on the channel terraces in the alluvial soils of the valley with 4% slope have shown that two vertical intervals (V.I.), viz. 0.3 (S/2+2) and 0.3 (S/2+3), did not show much difference in run-off, whereas the soil loss per mm of run-off was more from the V.I. = 0.3 (S/2+3). However, the annual soil loss was within the permissible limits and therefore V.I. of 0.3 (S/2+3) can be adopted safely.
+
+The channel grades of 0.4% and 0.6% did not show any signs of scouring. The broad-based and narrow-based cross-sections functioned well without any special maintenance.
+
+On black soils of Bellary at 1% slope in the semi-arid climate, a vertical interval of 0.6 m was better than that of 0.75 m and that the channel terrace with a variable grade showed less run-off and soil loss than that with a uniform grade.
+
+At Kota, graded bunds of 0.7 to 1.0 m? in cross-section and with 0.1 to 0.5% channel grade were found suitable for clay loam to black clayey soils.
+
+Bench terracing
+
+It consists ofa series of platforms having suitable vertical drops along contours or on suitably graded lines across the general slope of the land. Terracing is usually practised on slopes ranging from 6 to 33%. The vertical drop may vary from 60 to 180 cm, depending upon the slope and soil conditions, as also on the economic width required for casy cultural operations. The material excavated from the upper part of the terrace is used in filling the lower part. A 30 cm high shoulder bund is constructed along the outer edge of the terrace. Bench terraces may be table top or sloping outward or inward with or without a slight longitudinal grade, according to the rainfall of the tract and permeability of the soil. On steeply sloping and undulating land, intensive farming can be practised only with bench terracing. The bench terracing helps retain the soil, moisture, manure and fertilizer better and facilitates the application of irrigation, if available. The initial cost of bench terracing is more than that of bunding.
+
+Studies at Ootacamund showed that the length of bench terraces did not influence significantly the run-off, soil loss and the total yield of potato. However, on benches longer than 91.5 m, the farther ends of the terraces were significantly drier than those near the cross-disposal drains. Thus bench terraces of about 100 m length are recommended in the Nilgiris (Table 10.12).
+
+The run-off and the soil loss increased significantly with the increase in the grade. However, the maximum run-off was only 0.9% of rainfall and the soil loss was only 0.3 tonne/ha under the maximum grade of 0.84%, both of which are negligible. The differences in the yields of the potato crop from bench terraces of various grades were also not significant. Similarly, the effect of the inward grades of the bench terraces (viz. 1, 2, 4, 6, 8 and 10% on the yield of potato) were not significant under Nilgiris receiving low intensity, evenly distributed rainfall.
+
+Grassed waterways
+
+Grassed waterway is a safe disposal structure for concentrated run-off, thereby protecting the land against rills and gullies. Waterway is constructed according to a proper design and a vegetative cover is established to protect the channel section. In Doon valley Panicum repens was the best suited grass, followed by Brachiaria mutica, Cynodon plectostachyus, C. dactylon and Paspalum notatum.
+
+Evaluation of effects of soil and water conservation on agricultural land The beneficial effects of conserving the soil moisture by constructing bunds and
+
+SOIL AND WATER CONSERVATION 317
+
+leveling the land were extensively demonstrated in the semi-arid alluvial plains of Uttar Pradesh, where 35, 63 and 98% increase in the yields of kharif and rabi crops were obtained by bunding alone, leveling alone and bunding-cum-leveling, respectively. Bunding increased the yields of Setaria, cotton and sorghum by 18, 11 and 17%, respectively, in large-scale field trials in Tamil Nadu.
+
+GULLY EROSION — CONTROL AND RECLAMATION
+
+About 2.3 million ha land in India is affected with severe gully erosion. Besides causing severe land damage, they are a menace to the adjoining levelled lands. Also, the ravine lands are one of the chief sources of sediment, which chokes the reservoirs in the country. The geo-morphological causes of gully formation are less understood. In general, gently sloping nature of the land, the loamy sand, sandy loam and silty loam texture of the soil, intense rains in the monsoon, improper land use, deforestation and overgrazing are the chief causes of gully erosion all over India. Influence of back- water and slumping of slope in its recession further aggravates gullying during rainy season.
+
+Classification of gullies
+
+A system of gullies has an independent catchment, with a regular stream, which is termed as the drainage system. In each drainage system, the gullies with defined side slopes, bed width and depths occur in a regular order. In the upper reaches of the drainage system the gullies are wide and shallow, with varying side slopes. The middle part of the drainage system is usually deeper, wider and has uniform side slopes normally up to about 15%. The lower portion of the drainage system nearer to the main river is usually very deep, has steep side slopes and is associated with intricate branch gullies. The gullies have been classified into four categories (Table 10.13).
+
+The specifications for land-capability classification about the ravine lands, as influenced by the slope of the land and the gully-erosion hazards, are given in Table 10.14.
+
+e, Stands for damage by the past erosion, the present hazard and the future susceptibility to gully erosion.
+
+Control of gullies and their reclamation for various land uses
+
+Closure to grazing and other biotic interference: Biodiversity and succession studies of the natural flora of the ravines and eroded areas showed that only poor types of annual and unpalatable grasses overtake desirable climax associations, which should normally exist in the prevailing soil-climatic environment. At Valsad in Gujarat, the closure to grazing and other biotic interference resulted in—
+
+(a) Aristida funiculata and Themeda triandra were first replaced by Apluda mutica (a tall annual grass) and then by the perennials, viz. Eremopogon foveolatus, Heteropogon contortus, Dichanthium annulatum and Cenchrus,
+
+(b) the loss of soil and water progressively decreased from the area with improvement in the natural vegetation, and
+
+(c) there was not only qualitative but also quantitative increase in the yield of grasses.
+
+Similar results were reported on the clay loam and clay soils of the Chambal ravines, where closure to grazing and biotic interference resulted in the qualitative and quantitative increase of useful species, viz. Dichanthium annulatum, Cenchrus ciliaris and Apluda mutica. In the upper Damodar catchment, closure to grazing reduced the soil loss from 3.3 to only 0.6 tonnes/ha.
+
+In the Yamuna ravines at Agra the grasses were the pioneer species and there were differences in the trends of species occupying different topographical positions-—
+
+(i) Ravine top: Apluda mutica, Cenchrus ciliaris, Cymbopogon jwarancusa, Aristida cyanantha, Boerhavia and Vicoa indica;
+
+(ii) Ravine slopes: Cymbopogon jwarancusa, Eremopogon faveolatus, Apluda mutica, Vicoa indica, Crotalaria fillips and Enicostesema verticillatum, and
+
+SOIL AND WATER CONSERVATION 319
+
+(ii) Ravine bottom: Desmostachya bipinnata, Cenchrus ciliaris, Heteropogon contortus, Pluchea lanceolata, Ichnocarpus frulesia, Dalbergia sissoo and Balanites aegyptiaca. Cenchrus ciliaris, an excellent fodder source, was widely occurring on both ravine top and bottom, showing its wide ecological adaptability and its potential use as fodder resource for the region.
+
+Vegetation succession in eroded environments and changes in biodiversity as a result of rehabilitation of mines, ravines and other degraded sites after 15 years of rehabilitation showed that vegetation species (both natural and introduced) has established themselves in their preferred habitats. Acacia catechu, Wendlandia exserta, Saccharum spontaneum, Eriophorum comosum, Adhatoda vasica and Woodfordia fruticosa has become confined to dry, slightly xeric sites with very poor soil cover and debris of old mined material. In the lower reaches with good moisture regimes, mesophytic species, viz. Leucaena leucocephala, Mallotus philippensis, Toona ciliata, Murraya koenigii, Adhatoda vasica and Thysanolena maxima (broomgrass) had been recorded.
+
+Checking growth of gullies
+
+After the closure of the ravine lands, construction of contour and peripheral bunds of various cross sections were found ideal. In Gujarat, for alluvial soils the contour and peripheral bunds should be of 0.9 to 1.2 m? in cross-section and should be spaced at 90 to 120 cm horizontal intervals. The contour and peripheral bunds are stabilized by sodding with Dichanthium annulatum, Cenchrus ciliaris and Panicum antidotale. Land directly under bunds can give a net annual income of Rs 1,000-1,200/ha from the sale of these grasses. The excess run-off is safely disposed off through grassed ramps or pipe outlets. In the Chambal ravines, where the soils are relatively fine and the rainfall is more, graded bunds in association with grassed waterways and chute drop structures for the safe disposal of water were found to be better than the contour bunds.
+
+Gully plugging: Erosion and deepening of gully beds can be prevented with gully plugs. Gully plugs protect the gully beds by reducing the speed of run-off water, redistributing it, increasing its percolation, encouraging silting and improving the soil- moisture regime for establishing plant cover. Gully plugs of various materials e.g. brushwood live hedges, earth, sand bags, brick masonry and boulders, have been tried. The size and material for the gully plugs depends on the width, length and the bed slope of a gully and the anticipated run-off. All types of gully plugs are effective either in retaining or retarding the run-off. Earth is the cheapest and most readily available material, and it is therefore easier and economical to construct the earthen gully plugs, wherever possible. Boulder gully plugs are equally effective if the material is available.
+
+Brushwood is often available, but there is likely shortage of wooden posts. Moreover, brushwood gully plugs cannot survive the severe attack of white ants, despite their coating with tar, and they disintegrate in a few years. In the long run they prove costly. For the same considerations of short life and high costs, the sand-bag gully plugs are not recommended. Gully plugs of brick masonry are constructed at the confluence of all gully branches of a compound gully. For gullies where no runoff is expected from the top, earthen gully plugs of 1.2 m? cross-section (with a grassed ramp, 22.5 cm
+
+below the level) and spaced at 45-60 m horizontal intervals are suitable. For gullies in which run-off from the top is expected, an earthen gully plug of 2.2 m? cross-section with a pipe outlet is to be provided. The diameter of the pipe shall be determined by the catchment area (15 cm diameter RCC spun-pipe is suitable up to a discharge of 2 to 3 cusecs from an effective catchment of 1.6 ha). A composite check dam of earth and brick masonry (spillway portion) is necessary for larger catchments (more than 1.6 ha). This is located at the confluence of a big compound gully with the main drainage system, in the bed of the main drainage system at 1.2 m vertical intervals or 120 m horizontal intervals.
+
+Reclamation of gullies for cultivation
+
+Small and medium gullies can be conveniently, safely and economically reclaimed for cultivation, whereas deep and narrow gullies should be retired to a permanent vegetative cover of grasses and trees as their reclamation is expensive.
+
+Reclamation of small gullies: Small gullies are reclaimed by clearing, minor levelling with bulldozers and constructing diversion-cum-check bunds of 1.5 m? cross- section spaced at horizontal intervals of 30-45 m. Grassed ramps are provided for the disposal of excess run-off at the ends of bunds near the gully sides. Consecutive grassed ramps are kept diagonally opposite to one another, so that the path of run-off is increased and its flow velocity is reduced so as not to cause any scouring. At the end of the small gully, a composite check dam of earth and brick masonry spillway portions is highly recommended.
+
+Reclamation of medium gullies: A small gully gets transformed into a medium gully along the length of the main drainage system. A medium gully is reclaimed by clearing and leveling the bed and constructing a series of composite earth and brick masonry check dams at vertical intervals of 1.2 m (a horizontal interval of 120 m on 1% slope of the gully bed); side slopes are terraced.
+
+Design of composite check dams: The design discharge (maximum run-off) through the drainage channel is computed from the empirical formula.
+
+Q = 0.0028 C.LA.
+
+where Q, run-off (m?/sec): C, run-off coefficient: I , rainfall intensity (mm/hr): and A, watershed area (ha)
+
+The length of spillway is determined by Q = 1.70 LH?/2
+
+where L, length of the weir notch (m); and H, height (m) of water flow above the spillway level.
+
+Terracing of side slopes: The uneven 8—15% side slopes of the medium gullies are bench terraced into level terraces at 0.9 to 1.2 m vertical intervals. The terraces are given a back slope of | to 50 and a longitudinal grade of 1 in 200 towards the grassed outlet. A ridge bund of 0.3 m? cross-section is provided at the edge of each terrace. Terrace faces are given a slope of 1.5: 1. Bench terraces are constructed when the gully sides are having a uniform slope for a length of at least 120 m to justify the cost of terracing. The terrace faces, grassed outlets and earthen check dams are stabilized by sodding or growing suitable grasses. Dichanthium annulatum and Cenchrus ciliaris were found suitable for this purpose, specially in Gujarat and in the ravines on the banks of the Yamuna river. Bench terraces and the check dams
+
+SOIL AND WATER CONSERVATION 321
+
+require careful maintenance for the first 2 years in view of the unsettled conditions of the soil.
+
+Reclamation of deep and narrow gullies: The best land use of this kind of ravine lands is to retire them to permanent vegetation comprising grasses and trees. This type of land use is essential from conservation and economic considerations for the deep and narrow gullies.
+
+Afforestation with a number of naturally occurring species has been tried. Acacia nilotica, Feronia limonia; syn. F. elephantum, Ailanthus excelsa, Albizia lebbeck, Azadirachta indica, Dalbergia sissoo, Dendrocalamus strictus, Eucalyptus camaldulensis, E. citriodora, E. hybrid, Pongamia glabra, Phyllanthus emblica, Salmalia malabarica and Tectona grandis are quite promising species for ravines in Gujarat. With closure to grazing and other biotic interferences, these species make very good growth, which is further helped by silvicultural operations, viz. climber- cutting and thinning.
+
+For the afforestation of ravines along the banks of Yamuna river at Agra, Dalbergia sissoo, Acacia nilotica, Azadirachta indica, Albizia lebbeck, Pongamia pinnata, Holoptelea integrifolia, Dendrocalamus strictus and Eucalyptus hybrid were found to be the most suitable species. In Kota (Rajasthan), Dendrocalamus strictus and Salix tetrasperma in gully beds and Acacia nilotica on the top and marginal lands were found very suitable.
+
+Landslide control: Landslides pose a serious threat to highways, village habitats, agricultural lands, and communication lines, etc. The problem of landslides is more serious in the Himalayan region than anywhere else in India. Based on the observations on the landslide control, the control methods may be adopted depending on the kinds of materials available in the area, the cause of the problem, and the type and rate of movement of the slide. These factors vary so greatly from slide to slide that details of remedial measures are required to be tailored for each slide.
+
+One landslide about 4 ha in area in Nalota Nala watershed at Dehra Dun was rehabilitated with efforts of the Central Soil and Water Conservation Research Institute, Dehra Dun. This landslide was controlled by protecting it against the scouring action of the torrent by training the lower reaches of the torrent and stabilizing the debris cone and the middle reaches of the torrent and through stabilizing the landslips and landslides (by wattling to provide temporary support to bare erodible slopes with grasses and brush, by planting deep-rooted shrubs and grasses, viz. Pennisetum purpureum, Ipomoea carnea, Vitex negundo and Pueraria hirsuta).
+
+WATERSHED MANAGEMENT
+
+Watershed is a natural unit draining run-off water to a common point. It can be demarcated based on ridge and valley lines. The size of the watershed can be selected depending upon the possibilities of developing it completely within 3-5 years. Mini- watersheds and sub-catchment could be defined on the basis of planning and execution requirements. The aim of watershed management measures is not only to control erosion and conserve moisture, but also to use land according to its capability and get sustained yields of crops per unit area per unit time.
+
+The adoption of soil and water conservation practices on a watershed basis is considered essential because nearly 6,000 million tonnes of soil are displaced and
+
+transported annually; most of it is lost to the sea. Soil loss from the Himalayas was worked out to be 28.2 tonnes/ha. The main soil-erosion problems are sheet erosion on about 72 million ha of red soils (4-10 tonnes/ha/year) and 88 million ha of black soils (11-43 tonnes/ha/year); gully erosion on 4 million ha (more than 33 tonnes/ha/year); and hillside erosion on 13 million ha (more than 80 tonnes/ha/year). Owing to these hazards, major Indian river basins regularly suffer from severe floods with high sediment loads (28 tonnes/ha/year). For proper utilization of available resources in the watershed, engineering and agronomic measures are to be executed depending upon agro-climatic and other characteristics of the region (for details see Chapter 13).

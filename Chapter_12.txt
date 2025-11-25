@@ -1,0 +1,643 @@
+SOURCE_DOCUMENT: Chapter 12.pdf
+
+12. Water Management and Crop Production
+
+only 2.7% of the global water available only 30% is available to meet water demands of the human and the livestock population both of which are increasing in an alarming manner. The rest of the freshwater is locked up in glaciers and snow cover. On 2.3% of the world’s land, India supports almost 17% of the world’s population with only 4% of world’s freshwater resources. Not only per caput land availability but also per caput water availability is decreasing day by day. It was more than 5,300 m? in 1951, had already decreased to 1656 m? in 2007, and is likely to be less than 1,500 m3 by 2025. Per caput availability of water less than 1,700 m? is considered as a stress level. Below this level, availability of water is classified as scarce and considered a severe constraint on socio-economic development and environment quality. Considering wide spatial and temporal variations in the water availability within the country, several regions are already facing a severe water crisis. It is also a fact that with almost 60 million ha of net irrigated area, India now tops world in this aspect but average yields of irrigated areas at slightly more than 2.5 tonnes/ha are pathetically low. This could easily be raised to around 4 tonnes/ ha. Even the yield in rainfed areas can be easily enhanced by 50% or even doubled with proper management of inputs, especially soil and water. If average yields from current levels could be raised to 4 tonnes/ha in irrigated areas and 1.5 tonnes/ha from unirrigated areas with appropriate management practices, achieving a target of more than 450 million tonnes by 2050 ap is a distinct possibility. It is also a fact that even when all water resources have been developed for irrigation, almost 50% area will remain rainfed. But whether it is irrigated or rainfed agriculture, water holds the key for enhancing and sustaining agricultural production. Rain is the primary source of water, be it irrigated or rainfed agriculture. It is the precipitation in the catchment’s area that finally fills up dams and reservoirs so vital for irrigation, and it is rainfall again that recharges groundwater. India is endowed with a climate that is favourable for crop production throughout the year, unlike countries in the higher latitudes where for up to six months in a year crop production is not feasible due to harsh winter and snowfall. The favourable Indian climate, however, puts tremendous pressure on the water and the land resources being utilized for crop production. The water resources are globally adequate but their primary source, the rainfall, has high spatial and temporal imbalances due to monsoon features of the climate over India. High imbalance exists from year to year, within a year and within monsoon season. The land resources are finite and degradable due to natural causes such as soil erosion, high evaporation induced salinity or due to man-made interventions such as irrigation induced salt affliction, waterlogging and other unplanned developmental works. At
+
+Narada Smriti, an ancient Indian scripture, in its |9th verse of Chapter 11 mentions,
+
+“No grain is ever produced without water, but too much water tends to spoil the grain. An inundation is as injurious to growth as dearth of water.”
+
+Agriculture was practised around 7000 sc in the basins of the rivers Tigris and Euphrates in Iraq and in parts of the Indus Valley. The first irrigation based civilisations arose and stabilised in the Nile valley of Egypt, the Indus valley of India and Pakistan and the valleys in north-central China. They all built irrigation systems to make fallow land productive. The Sumerian, the Babylonian and the Assyrian civilisations were irrigation based, and they arose between 2000 and 6000 years ago. Civilisations failed when water supplies failed and when irrigation water was improperly utilised. Many historians believe that Sumerian civilisation of Mesopotamia fell because of poor irrigation management. They could not achieve the desired salt and water balance in the irrigated lands. The salts and excess water damaged their crops registering a gradual decline in productivity, ultimately leading to barren and unproductive land. The enlightened ancient rulers of India paid considerable attention to irrigation systems management. Megasthenes, the Greek ambassador in the court of Emperor Chandragupta near Patna in 300 ac wrote:
+
+“The whole country was very prosperous because two crops were grown in the year with irrigation facilities. The district officers measure the land and inspect the sluices by which water is distributed into the branch canals (water courses) so that everyone will get his fair share of water.”
+
+Unfortunately, the large irrigation projects constructed during the 19th century did not receive due attention on water management. On the improper water management of the Upper Ganga Canal Project, which was constructed during 1836 to 1854 ap, Jim Corbett wrote:
+
+“The districts of Saharanpur and Muzaffarnagar, where irrigation from the Ganges Canal has been largely practised of late years (the canal was opened about 20 years ago), have become notoriously unhealthy, and special inquiries and reports have been made on the causes of unhealthiness of these districts, which previous to the opening of the canals were as healthy as any in upper India”. “The results of the inquiries and reports is a recommendation that these districts, which formerly did not suffer from excess of water, should have their surface drainage or natural drainage channels improved. This is being done, and the result must be that the rain falling on these districts, or such part of them as have their surface drainage improved, will more quickly find their way to the rivers”. “Improved surface drainage is the popular cry of the present time in India”
+
+India has a geographical area of about 329 million hectares (Mha). The average annual rainfall over this vast area varies from as low as 100 mm in the west to as high as 11,000 mm in the north-east. The average annual potential evapotranspiration varies from 1,239 mm in the north to 2,052 mm in the south-central region. To mitigate ill effects of uncertain rainfall on crop production, great emphasis has been given to develop irrigation potential, which has increased from 22.6 Mha in 1951 to 90 Mha by 2004, The ultimate irrigation potential is considered as 139.5 Mha, comprising surface water-based irrigation in 58.5 Mha under major and medium projects, 15 Mha under minor projects and groundwater based irrigation in 66 Mha. Some of the above areas amounting approximately to 15 Mha have been degraded due to development of waterlogging and salinity, and their production potential has decreased as compared
+
+WATER MANAGEMENT AND CROP PRODUCTION 373
+
+to that in the irrigated good lands. Besides, there are about 40 Mha flood-prone lands where kharif crop production suffers during most of the years.
+
+Owing to several constraints, irrigation development beyond the ultimate potential 139.5 Mha is not considered feasible at present, Thus, crop production in about 41% of the arable land amounting to 97 Mha will remain dependent on rainwater in the foreseeable future. Rainfall being uncertain, crop production under rainfed agriculture also suffers due to inadequate levels of other inputs such as good seed, fertilizers, insecticides, pesticides, machinery, labour etc., which in association with assured water supply under irrigated agriculture give higher production. Water, therefore, is a key input for crop production. The average productivity of irrigated lands is a little higher than 2.5 tonnes/ha and that of rainfed area is only about 0.8 tonne/ha. There is a good scope of increasing irrigated area productivity through input management, including water management. There is also a good scope of stabilizing productivity of rainfed agriculture at a higher level through rainwater management, ensuring reduced runoff losses and increased conservation of rainwater in the soil or in the suitable structures. In addition, if the irrigation induced waterlogged and salinized agricultural lands could be reclaimed through land drainage restoring their production potential, the cumulative benefit of rainwater management, irrigation water management and land reclamation will ensure agricultural production sustainability at the higher level.
+
+Plant roots need a favourable environment to extract nutrient solutions from the soil. For most crops, soil moisture ranging from the field capacity to 50% of field capacity in the root zone is considered ideal. Only a few crops such as rice and jute need standing water on the field at certain growth stages. Chemically, a neutral in reaction and non-saline soil is ideal for proper growth and yield of most of the food crops. Excess water or high salinity in the root zone or at the land surface adversely affects plant growth and yield. In the extreme cases of waterlogging and salinity, the plants may wilt permanently, as in the case of soil dryness.
+
+Water management encompasses all activities centered on key input of water, including rainfall and irrigation water, such that it is judiciously utilized for enhancing crop production on a sustainable basis and does not degrade land resource due to its misuse. Importance of water management for crop production will increase many folds in the coming years due to growing and competitive demand of water from industry and for drinking water supply, besides increased demand for food and fibre from an ever-increasing population.
+
+WATER BUDGET OF INDIA
+
+The water budget of India as existed during 1974 and as anticipated during 2025 is given in Fig. 12.1.
+
+The water utilization towards the end of the last century (year 2000) stood at 60.6 million ha-m of which, close to 83% was consumed in irrigation, leaving respectively, 5, 3, 6 and 3% for use by domestic, industrial, energy sector and other consumers. In future years, the water available for irrigation will reduce to meet increasing demands by other consumers. This calls for increasing utilization efficiency of water from all sources for crop production. The sources are rainwater (fulfilling partial crop-water need), surface water and groundwater (used in irrigation). As all the waters are input over the land surface, the efficiency of water use and application is linked with land
+
+All figures in million ha-m
+
+preparation. Water management and land management are complimentary activities. For a sustainable use of the water resources, avoiding land degradation is also important. Hence, management of excess water and salinity in agricultural lands are relevant issues linked with efficient water management.
+
+RAINWATER MANAGEMENT
+
+Over 60% of annual rainfall, irrespective of a region receiving scanty or high, occurs in 8 to 10 rainfall events, owing to the monsoon climate over India. Thus, even in a
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+low rainfall region, large amount of rains are received in short duration. This inevitably causes runoff loss and water scarcity during a long monsoon break. Seeds sown with the onset of monsoon and thus germinated using the soil moisture cannot sustain due to lack of soil moisture at the later stages, and they either wilt or give low yield. Rainwater management comprises conservation of rainwater to the extent feasible and reduction of runoff losses. With a reduction in runoff, soil erosion is also controlled. Contour bunding, graded bunding and bench terracing are the measures for water conservation and erosion control. Selection of a measure depends mainly upon rainfall and its intensity, soil type and land slope. These features vary with time or space or both. Accordingly, for adoption of water and soil conservation measures in a region, the average values of these features over time and space are considered.
+
+Measurement of rainfall
+
+Rainfall is measured by using either a non-recording rain gauge or a recording rain gauge. The former is most commonly used in India and gives the total rainfall in 24 hr, usually from 8.30 am of a day to 8.30 am of the next day. Recording type rain gauges are few and they record the time distribution of rainfall, useful for calculation of rainfall intensity. Rainfall data are recorded and maintained by the India Meteorological Department (IMD), State Governments, Railway Administration, Airport Authorities, Command Area Development Authorities and other agencies. The average density of rain gauges is one rain gauge station for every 328 sq.km. of the geographical area. The approximate number of non-recording rain gauges is 10,000 and that of the recording rain gauges is 276.
+
+Non-recording rain gauge: The IMD non-recording rain gauge has a receiving funnel (catch) and a container below it, each of 127 mm diameter. The rainwater in the container is poured into a graduated measure glass pre-calibrated to read the depth of rainfall. In this way, rainfall can be measured to the nearest 0.1 mm. The measure glass has a capacity to read 25 mm of rainfall. If rainwater more than this has been collected in the container, more than one measurement is needed to know the total rainfall. This daily total may comprise rains from more than one rainfall event.
+
+Recording type rain gauge: The IMD recording type (or automatic) daily rain gauge has a catch diameter of 203 mm and a float chamber capacity of 323.5 mL. This is equivalent to 10 mm of water depth over a circular area of 203 mm diameter. A pen fixed to the stem of the float marks a chart, which is wound over a clock-driven drum, revolving around a vertical axis once in 25.5 hr. The chart has numbered vertical lines at | hr interval and unnumbered vertical lines for every 15 min (= 0.25 hr). The horizontal lines on the chart are spaced at a distance equivalent to 0.5 mm rainfall depth. As the rainfall accumulates in the float chamber, the float rises and the pen marks the chart. When 323.5 m of water (or 10 mm of rain) has been collected in the float chamber, the float and the pen rises to their topmost position and the collected water is drained by a siphon, which brings the float and the pen back to their initial lowermost position. In the recorder chart, a no rainfall period is marked as a horizontal line, a period of low intensity rainfall is marked as a slowly rising line and a period of intense rainfall is marked as a single or a group of steeply rising and falling lines within a close time interval. A near vertical line from top to bottom of the chart
+
+376 HANDBOOK OF AGRICULTURE
+
+represents siphoning of water. The chart is changed once a day, at a fixed time, usually between 8.30 and 9.00 am.
+
+There are other types of recording rain gauges such as the weighing type and the tipping bucket type. The siphon type is the one mostly used in India.
+
+Calculation of average and dependable rainfall
+
+The rainfall measured in a rain gauge is referred to as point rainfall, i.e. the rainfall at a particular point in the space. To know the rainfall over a region, a number of rain gauges are to be placed over the region in a well-distributed manner and the average rainfall is computed considering all the point rainfall values. There are three common methods to calculate average rainfall, namely, arithmetic average method, Thiessen Polygon method and isohyetal method.
+
+Arithmetic average: It is calculated by adding rainfalls recorded in several rain gauges and dividing total by the number of rain gauges. The variation in the aerial distribution of rainfall is not considered in this method. The arithmetic average is biased towards extreme values. This causes difficulty in assessing the water yield from watershed and interpreting runoff data. This simple average is useful for any work if the rainfall distribution over a space has been reasonably uniform.
+
+Thiessen polygon: This method consists of sub-dividing the total watershed area in which several rain gauges are located, into sub-areas surrounding each raingauge in such a way that any point in the sub-area will be nearest to the inscribed raingauge. There is a specific way to define the sub-areas (the Thiessen polygons). The rain gauge locations are marked on a scaled map of the watershed. These locations are joined by straight lines and their perpendicular bisectors are drawn to form a certain number of polygons, equal to the number of rain gauges. If P, is the rainfall in sub- area A,, P, is the rainfall received in sub-area A, and so on, then the average rainfall (P) over the watershed is calculated as:
+
+P= {(P,)(A,) + (P,)(A,) +... + (PA)(A, +A, +... FAY)
+
+In this method, the rainfall at a rain gauge is attributed to a certain part of the total area and it is assumed as the representative of the rainfall over the polygon area inscribing the raingauge. In other words, in this method some weightage is given to the areal distribution of rainfall. The weightage is, however, fixed. It does not take into consideration the variations in areal distribution of rainfall from time to time or due to other influencing factors such as presence of a barrier, wind direction and so on. Further, if a raingauge is either removed or added, the polygons are to be redrawn. This method is, however, widely used.
+
+Isohyetal method: It is also a method to calculate weighted average rainfall. Isohyets are the imaginary lines representing equal rainfall (similar to contour lines of a map). Such lines are drawn on the basis of the rainfall distribution as indicated by the rainfalls recorded by the different rain gauges. To be meaningfully different than the other two methods, the isohyets must be drawn based on sufficient knowledge about the presence of natural barriers, wind effect and directional variability of rainfall. Isohyets drawn by linearly interpolating between two rain gauges may not result in any improvement in the calculated value of the average rainfall by other methods. To calculate average rainfall, the area between the adjacent isohyets is planimetered and multiplied by the
+
+WATER MANAGEMENT AND CROP PRODUCTION 377
+
+average value of the encompassing isohyets; these products are added and then divided by the total area.
+
+Dependable rainfall: Rainfall is a stochastic hydrologic variable occurrence is associated with chance or probability. Though average rainfall is used to design rainwater-conservation measures, a better alternative is to use dependable rainfall. For annual rainfall, a 90% dependable rainfall is that value which is expected to occur 90% of the years or in 9 out of 10 years. A 40% dependable annual rainfall is expected to occur in 40% of the years or in 4 out of 10 years. The same concept applies to seasonal rainfall also. Higher is the dependability, the lower will be the rainfall and vice-versa. The simplest way to find dependable rainfall from the most commonly available daily rainfall data is to use a Ranking Method. The daily rainfall values are first added to get annual or seasonal total rainfall. Several years (at least 10 years) of these rainfall values are cast in a descending Order table. For ‘n’ years of record, the highest value is assigned rank | and the lowest value is assigned rank n. The probability pis calculated by p = m/(n + 1), where m is the rank number. The Recurrence Interval (RI) is calculated as RI = 1/p years. The dependability in percentage is expressed as the product (100)(p). RI is the average interval in years in which the indicated rainfall is expected to occur or exceed at least once. Calculation of probability, recurrence interval and dependable rainfall is explained in Table 12.1 using monsoon season total rainfall of 29 years of a certain rain gauge station. The first column of Table 12.1 shows the monsoon season rainfall values cast in descending order. Labelling rainfall with the corresponding year is not required in this analysis.
+
+From Table 12.1, the monsoon rainfall with 2, 5 and 10 year RI are, respectively, 646, 876 and 986 mm. The result can be interpreted as a monsoon rainfall of 646 mm is likely to be equalled or exceeded at least once in 2 years, and so on. It is also seen that a 40% dependable rainfall is 733 mm and a 90% dependable rainfall is 435 mm. If the desired dependence level is not in the calculation Table, linear interpolation
+
+method is used. Thus, from Table 12.1, the 75% dependable rainfall by linear interpolation between the rainfall values corresponding to the probabilities of 0.7333 and 0.7667, is found as 533.5 mm.
+
+Rainwater conservation
+
+To partially meet crop-water requirement in the rainfed areas, the rainwater is to be conserved. It is done by enhancing infiltration of rainwater to fill-up soil pores. This may be called in-situ (at the site) water conservation of rainwater. Infiltration depends on soil texture at the surface, which cannot be changed. Hence, the land is configured to reduce runoff and give more time to rainwater and runoff to infiltrate. The other method is to collect runoff in small storage structures, which are called water-harvesting ponds, small farm reservoirs, farm ponds or percolation ponds. The percolation ponds have specific purpose of recharging groundwater and pond water as such is not much used for direct irrigation to crops. Some groundwater recharge also takes place as a result of in-situ rainwater conservation or storing runoff in farm ponds. However, their primary purpose is to meet the crop water requirement. By in-situ conservation, the stored soil moisture meets crop-water requirement as long as it is not depleted.
+
+Land configuration: A sloping land produces more runoff and a flatter land conserves rainwater. This leads to necessity of land levelling and grading to a slope
+
+Table12. 2 Effect of supplemental irrigation using pond water on crop yield in monsoon season
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+that does not produce excessive runoff and also does not result in surface waterlogging. The land slope steeper than 0.5% does not permit adequate infiltration of rainwater or runoff, which flows out quickly. Constructing terraces and erecting small bunds along the terrace end breaks the slope length. If the bunds are along a contour, the bund is a contour bund and the terrace is a contour terrace, where cultivation is practised. If the bund is constructed between two contours, it is a graded bund, and the terrace is a graded terrace. Terraces or bunds may be staggered over the desired region of moisture conservation. Further detailed information on this may be found elsewhere in this publication (for details see Chapter 11).
+
+Water harvesting structures: Water harvesting structures (referred to as farm ponds hereafter) are designed with a capacity to store a certain portion of runoff. If it is planned to use pond water sufficiently after its storage, the pond inner surface is treated by compaction or lining to reduce seepage losses. There is no foolproof method of evaporation reduction from the pond. Evaporation losses are directly dependent upon the exposed water surface area. Hence, for a given volume of water storage, a deeper pond will have lesser surface area and hence, lower evaporation loss than a shallower pond with a larger water surface area. The pond depth is, however, to be kept limited as, otherwise, the pond water has to be pumped up to deliver it to the cropland and that requires energy input. The pond depth is determined in relation to the elevation of the ground where the pond water is to be used. Most ponds are partially excavated and are partially embankment types. This allows upper part of the stored water to be delivered to the cropland under gravity without using pumps and the remaining water at the deeper level is maintained to rear fish or left for groundwater recharge.
+
+lands of about 2 ha area each. Table 12.3 gives water balance components in each of the two farm ponds. Table 12.4 gives certain simple economic parameters to highlight benefit of adopting water harvesting ponds for providing supplemental irrigation to crops in a rainfed region and certain other benefits, with respect to the ponds mentioned in Table 12.3.
+
+WATER RESOURCES AND THEIR AVAILABILITY
+
+The National Water Policy (2002) document very categorically states that water is a prime natural resource, a basic human need and a precious national asset. It further states that it is one of the most crucial elements in developmental planning. Agriculture
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+(Table 12.5 concluded)
+
+Source: Report of the National Commission for Integrated Water Resources Development (Vol. l), September, 1999.
+
+sector in India has been and is likely to remain the major user of water (Table 12.5) but the share of water allocated to irrigation is likely to decrease by 10 to 15% in the next two decades. As a consequence of this we have to produce more per unit amount of water applied and for this, an integrated approach to water management is warranted.
+
+Undoubtedly, irrigation has been one of the pillars of green revolution and the key factor in imparting resilience and drought proofing to Indian agriculture. This is very well illustrated by the fact that when in 1987-88, the rainfall dropped below 18% below normal, the food production declined by only 2% compared to the previous year. While in 1965-66, when the June to September rainfall was 20% below normal, the food-grain production had declined by 19% at the national level compared to the previous year’s production.
+
+Irrigation potential Major and medium (surface water) Ultimate 58.50 million ha Created (up to 2005-06) 40.85 million ha Utilized (up to 2005-06) 33.45 million ha
+
+Groundwater
+
+Ultimate 64.0 million ha Created (up to 2005-06) 66.22 million ha Utilized (up to 2005-06) 47.93 million ha Total (surface and ground)
+
+India is one of the few countries which is richly endowed with water resources with an average annual rainfall of 1,170
+
+mm (Tables 12.6 and 12.7). It is worthwhile to mention that barring a few states level of groundwater development is less than 50% (Table 12.8).
+
+Realizing the importance of this resource and the role it would play in enhancing agricultural production in a sustainable manner, the Government has wisely invested huge sums in developing irrigation resources (Table 12.8a) and the information related
+
+Source: Central Water Commission (2008), P & P Directorate and Ministry of Water resources (Minor Irrigation Division)
+
+to the irrigation resources developed source-wise is given in Table 12.6. Table 12.8b gives the information related to the total area and irrigated area of some important crops in the country. State-wise cropped and irrigated area has been presented in Table 12.8c. Development of irrigation projects have played a key role in bringing resilience and drought proofing of Indian Agriculture and they have been listed in Table 12.8d.
+
+When we consider irrigated agriculture, there are two major aspects worth considering. The first aspect deals with delivery system, i.e. the system that brings water from reservoir to farmers’ fields. A very significant amount of water loss occurs in conveyance when it is transported from sources through main canal, branch canal, distributory, minors, water courses and field channels. These losses if allowed to continue unabated can contribute significantly to environmental degradation and shrinkage of area under irrigation. As much as 50% of the water released at the project head-works is lost in transmission to canal outlets. Additional losses occur in water
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+Source: Central Ground Water Board (2005) Note : Totals may not tally due to rounding off
+
+Ww 2 3 z g iB Fa 3 o $
+
+courses which are directly proportional to their lengths and duration of water flow. Lining of water courses reduces these losses to bare minimum and has found favour with farmers of command areas. Lining of main canals may also be considered if losses are excessive or there is a threat of water-logging and soil salinization. Where groundwater can be exploited for irrigation, there is hardly any justification for lining as the farmer has better control over groundwater so essential for timely water application. Where groundwater is unfit for irrigation, seepage from canal network can play havoc with soil productivity. In irrigated agriculture, provision of adequate drainage is crucial for efficient water management.
+
+The judicious and scientific management of water resources for optimum crop production involves understanding role that soil plays in the whole process. The amount of water to be applied, when and how best to apply without any adverse impact on the environment, require knowledge of soil-water-plant relationships. These relationships have been explained briefly in the following sections.
+
+SOIL-WATER AVAILABILITY TO PLANTS
+
+Soil has been defined as a threc-dimensional, dynamic, natural body occurring on the surface of the earth that is a medium for plant growth and whose characteristics have resulted from forces of climate and living organisms acting upon parents material, as
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+UoeBy yUeHOdU| pect aiqey
+
+w c P = re) c z 5 Z 8 a S <
+
+(papnjouos pez! a/qeL)
+
+modified by relief, over a period of time. To serve as a favourable medium for plant growth, soil must store and supply water and nutrients in addition to anchorage it provides.
+
+Soil is a porous medium, therefore, due to geometry of the pore spaces between the soil particles and the nature of the surfaces, soil has the capacity to hold water. This property of soil enables it to retain precipitation or irrigation water in the root zone to be used by plants over time. The amount of water held depends upon the porosity and pore size distribution and the capillary pressure of the water in the soil. The force by which the water is held by soil (soil water suction/tension) is the force that the plant roots have to overcome for extracting water retained by soil. It is expressed in the units of pressure. Earlier, it was generally expressed in bars (or atmospheres) but is now expressed in Pascals (Pa). The relationship between the various units is as follows:
+
+*Pressure exerted by a column of water 1,020 cm high.
+
+Conventionally, the soil-water potential is expressed in terms of hydraulic head, i.e. soil-water potential expressed in terms of height of water column. For example, if the soil water tension is 1 bar (soil water potential of —1 bar), in terms of water column height, it will be 1,000 cm or 10 bars would be 10,000 cm. Since these are fairly large numbers and handling such numbers is cumbersome, use of ‘pF’ was suggested, which was defined as the logarithm of the negative pressure (tension or suction) head expressed in centimetres of water column. A tension head of 10 cm of water would be pF of l,a tension head of 1,000 cm would be pF of 3.
+
+Soil-moisture constants
+
+There are many terms that are associated with the water that is contained or retained by the soil. The common ones are saturation, field capacity, permanent wilting point and hygroscopic coefficient.
+
+Saturation: Soil is a porous medium and when all the pores of the soil are filled with water, it is referred to as saturated soil.
+
+Saturation percentage or the water held by soil can be determined by bringing soil core/soil sample in contact with water column at a height the mid-point of the sample and determining the moisture held by soil, or by using the formula for porosity:
+
+P = { 1-BD/PD } x 100
+
+where P is the porosity in percentage, BD is bulk density (g cm) and PD is particle density (g cm”) of soil. PD is generally assumed to be 2.65 (g cm’).
+
+It can also be estimated by determining moisture content of the core of which saturated hydraulic conductivity has been determined without allowing any water to drain out of the sample.
+
+Field capacity: \t is the term used to describe the maximum amount of water that a soil will retain after allowing free drainage. It does not generally correspond to a fixed soil-water suction (or potential), varying from 1/10 bar for coarse-textured soils to 1/3 bar for fine-textured soils. It is, therefore, best estimated in the field by saturating
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+the root zone and determining soil moisture after free internal drainage ceases. It takes about 24 to 36 hr in coarse and 2-3 days in medium textured soils.
+
+Permanent wilting point (PWP): It is the soil-water content at which sunflower or some other indicator plants wilt permanently even when placed in a humid environment. It is considered equivalent to the water held by the soil against an applied pressure of 15 bars. It is generally estimated in the laboratory using either a pressure plate or a pressure membrane apparatus. It consists of a chamber in which saturated soil samples either disturbed or intact in cores, are placed over a ceramic-plate or cellulose membrane, which is connected to atmosphere. Compressed air is then forced into the chamber (called the extractor). Pressure is maintained at the desired level e.g. 15 bars till the outflow of water ceases, i.e. the soil is in equilibrium with the applied pressure. The moisture content is then estimated gravimetrically.
+
+Hygroscopic coefficient: It is the water held by the soil at 31 bar (3.1 MPa). Soil moisture held at this tension is determined using a pressure membrane assembly meant for higher pressures. It can also be approximated by allowing an oven dry soil to absorb moisture from air till constant weight is attained.
+
+The water between saturation and field capacity is called gravitational water. It flows out under the influence of gravity and is considered unavailable to plants. The water between field capacity and hygroscopic coefficient is referred to as capillary water as it is bound to the soil by capillary forces. The water held by the soil between field capacity and permanent wilting point is termed as available water for plants while the water held between permanent wilting point and hygroscopic coefficient is considered unavailable to plants. Some plants are able to survive even at moisture contents below PWP for short periods.
+
+Field capacity can also be determined in the laboratory with this equipment using an applied pressure of 1/3 bar for clayey soils and 0.1 to 0.2 bar for sandy to sandy loam soils. Field capacity is considered as the upper limit of available water to plants and permanent wilting point as the lower limit.
+
+This relationship between the amount of water held in a soil and the force by which it is held (capillary pressure or suction or tension) is depicted in the form of a curve commonly referred to as the soil-water characteristic or release curve or simply the pF curve. Two points of this curve are of particular interest to agriculturists, i.e. the field capacity and the permanent wilting point.
+
+Soil water storage and availability to plants
+
+The soil water storage capacity is generally expressed in terms of available water capacity (AWC). The total available water in soil is regarded as the difference between soil moisture content of field capacity and wilting point.
+
+It is customary to express available water capacity in terms of depth dimensions so that it can be considered with irrigation, evaporation rate, rainfall and irrigation water quantity, which are generally expressed in terms of depth. The available water capacity of specific layers, generally available as percentage by weight, can be expressed as ‘cm’ if bulk density values and depth of soil layer of the root zone are also determined as illustrated below:
+
+D,= {(FC-PWP) x BD x D,}/100
+
+In which, D,,, depth of water contained in a specific soil layer (cm); D,, thickness
+
+392 HANDBOOK OF AGRICULTURE
+
+that soil layer (cm); BD, bulk density of the particular soil layer (g em); FC, soil water content at field capacity (% by wt); and PWP, soil water content at permanent wilting point (% by wt). The value of D, is computed for each soil layer and then added up for the entire profile.
+
+However, the values of BD, FC and PWP vary from soil to soil and location to location even under the same major soil group for the simple reason that there will be a variation in soil depth and available water capacity limits also. Therefore, as already emphasized earlier the actual determination has to be made for specific soil under consideration.
+
+A school of thought maintains that soil moisture is available for plant growth equally over the range between field capacity and permanent wilting point. According to this view, transpiration/plant growth is unaffected by the magnitude of soil moisture content unless PWP is reached when water suddenly becomes non-available. Another view point states that the water held by the soil becomes progressively less available with a linear decreasing trend as the water content decreases from FC to PWP. Yet another school of thought maintains that transpiration/plant growth is unaffected by the magnitude of soil moisture content from field capacity up to certain threshold value below which almost linear decrease in rate of transpiration occurs. The magnitude of the threshold value would, however, depend upon a variety of factors related to soil, plant and atmospheric conditions. This approach is the one generally subscribed to by most workers for its practicality.
+
+Different views regarding availability of water to plants appear apparently contrasting, however, they can be reconciled if consideration is given to water transmission characteristics of soils, crop rooting depth and density, and evaporative potential of atmosphere. In general, a greater soil water depletion can be tolerated by plants under the conditions of low evaporativity, deep and dense rooting system and medium-to-fine textured soils. In contrast, under the conditions of high evaporativity, sparse rooting and coarse textured soils, only a small depletion of soil water can be tolerated by plants and frequent light irrigations will be needed to maximize crop growth. Irrigation schedule needs to be optimized in terms of time and amount of irrigation on the basis of the permissible water depletion for a given combination of crop, soil and climate. Under limited water supply situations, crop water deficit may be planned by identifying optimal and sub optimal water deficit sequences.
+
+The soil-water relationships as well as related soil physical properties are closely related to soil texture. These values can be used as fair estimate if only soil texture is known and other methods for their direct determinations are not employed.
+
+Water transmission characteristics
+
+Hydro-physical properties of soil, moisture-retention characteristics and hydraulic conductivity, decide about the availability of water to plant roots. As suction increases, i.e. moisture content decreases, hydraulic conductivity decreases more steeply in coarse- textured soils than in fine-textured soils (Table 12.9). Not only the amount of moisture retained in a coarse-textured soil is less, but also the movement of moisture from bulk soil to site of moisture absorption, i.e. the root surface, is much slower as compared with the fine-textured soil.
+
+Water retention curves for soil plotted in terms of percentage depletion of available
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+water suggest that a coarse-textured soil large extent even at a relatively lower water tension while a fine textured soil would retain a considerable portion of available water even ata relatively higher tension. Thus, availability of water in a coarse-textured soil would decrease further (Table 12.10).
+
+; . Crop rooting behaviour
+
+Crop rooting behaviour influences soil-water availability to a very large extent. In general, the greater the
+
+proliferation and density of roots, the lesser the sensitivity of the crop to soil-water depletion. Moreover, compared with roots in the upper layers, the lower lying roots, although less abundant, are more effective in water uptake because of being younger, less crowded and often growing in a better soil-moisture regime.
+
+Evaporation potential of atmosphere
+
+The extent of soil-water depletion that leads to the reduction in the rate of transpiration, depends on the evaporative conditions of the atmosphere. As explained earlier soil-water depletion can be tolerated by plants without any adverse effect on growth when they grow under conditions of low evaporative potential of the atmosphere. But permissible depletion would be less when plants are exposed to high evaporative potential. According to a report, the actual ET of maize began to fall below potential rate at a suction value of 0.3 bar under an evaporative potential of 1.4 mm/day. Information has been compiled showing critical value of available water fraction in the root zone at the given environmental setting below which water availability to crops is constrained (Table 12.11).
+
+When one has control over the amount and time of irrigation within the constraints of water supply at hand, crop-water deficit may be planned by identifying optimal and suboptimal water deficit sequences. An optimal water deficit sequence results in minimum yield reduction while a sub-optimal one gives lower yields depending upon the ET deficit sequences. Thus maximization of water-use efficiency under limited water supply condition can be achieved by planning water deficit to correspond with optimal water sequence based on the experimentally determined water deficit crop yield reduction relationships and applying fertilizers at the rate which will not promote
+
+crop growth more than available water can sustain till maturity.
+
+When crops are raised with stored soil water, fertilizer application increases crop yields not only by correcting nutrient deficiency but also by enhancing water use. An increase of 4.6 cm in water use by wheat with application of 80 kg N ha‘! indicates
+
+increase of 4.6 cm in water use by wheat greater sub-soil water extraction compared with unfertilized control (Table 12.12). However, fertilizer application must be proportional to soil-water availability, as excess application might cause luxuriant vegetative growth in the earlier phase and development of stress in later growth resulting into lower yield.
+
+Measurement of soil water
+
+Water present in the soil is always in a dynamic state. The fluctuations observed under field conditions are brought about by changes in one or more components of the water balance like evaporation, precipitation, transpiration etc. The soil-water content measurement is necessitated because it helps in the determination of: (i) available water in the root zone; (ii) scheduling of irrigation; (iii) soil-water potential; (iv) changes in physical and chemical properties of the soil due to changes in water content.
+
+Methods used for determination of the soil-water content can be classified into two groups.
+
+Direct methods
+
+Techniques, which involve either direct measurement of water present in a soil sample or the loss of water from a soil sample, are called direct methods. These methods involve removal of water from soil samples by evaporation, leaching or chemical reaction. In each of these methods, soil and water are separated with the amount of water removed being measured or changes in weight of the soil estimated due to moisture loss. Gravimetric methods fall in this category.
+
+Gravimetric or oven drying method: This is still the simplest and most widely used method, It also forms the basis of standardizing all other techniques. The moist- soil samples are taken from the field from various depths using augers or tube samplers. The samples are brought from the field to the laboratory in air-tight aluminium cans. The samples are weighed and kept in a hot-air oven at 105°-110°C till constant weight of the dry sample is attained. Twenty-four hours are generally considered sufficient to
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+completely dry most soils. The samples are weighed again to estimate the amount of water lost by the soil. This method of estimating water of soils is simple, reliable, unaffected by salt content and can be used through complete range of soil water. The disadvantages are that it is very time-consuming, laborious and sampling is destructive.
+
+There are several other direct methods like alcohol burning method, rapid moisture determination using an infra-red lamp, calcium carbide and gypsum sorption plugs. But except the oven drying method, other methods are seldom used.
+
+Indirect methods
+
+They can be further classified into techniques that measure (a) soil water content, and (5) soil matric potential.
+
+Soil water content: Indirect methods involve measurement of some property of the soil, which is affected by the soil-water content, or determination of a property of some object placed in the soil, which undergoes change due to changes in the soil- water content. All these methods require an initial calibration. Indirect methods are preferred over direct methods because they are non-destructive, less time-consuming and permit more frequent observations. The three methods currently in use are described here.
+
+Electrical resistance blocks. The electrical resistance (porous) blocks were initially made using gypsum (Plaster of Paris) and they are still most commonly used. A gypsum block comprises a solidified block of gypsum with two embedded electrodes at a specified distance, usually 1 cm. A common size of the block is a cube 2 cm wide, 3 cm long and 3 em in height. The block is snuggly placed in the soil at the depth where moisture content is to be determined with the lead wires from electrodes jutting out of the soil. The block soon comes to equilibrium with the soil moisture. Current from a battery source is passed between electrodes. The water present in the block, assumed to be in hydraulic equilibrium with the soil water, offers resistance to current flow. At higher moisture content, the resistance is less and at lower moisture content, the resistance is high. The resistance is calibrated with soil-moisture content determined in the laboratory to know soil moisture status from the resistance readings. The wires connected to the two electrodes are brought above the soil surface to facilitate taking resistance reading using a portable meter. Electrical resistance blocks do not work in wetter Nylon and fibre glass are the other materials used.
+
+- Neutron moisture meter. As the name indicates, this technique uses interaction of neutrons with water molecules as the basis of monitoring soil-water content. The instrument is also referred to as a Depth Moisture Gauge. Fast neutrons emitted by a mixture of a stable element and a radioactive source, are slowed down by repeated collisions with nuclei of the surrounding elements and brought to the same thermal level as atoms of other substances. This process is called thermalization and neutrons are called thermal neutrons. The neutrons lose maximum amount of energy when they strike an atom having almost the same mass as that of a neutron (unit atomic weight). Hydrogen atoms are similar in mass to neutrons and thus contribute maximum in thermalizing them. This forms the basis of monitoring the soil-water content using a neutron moisture meter assuming that the H atoms are part of the water molecules. Neutron moisture meter consists of a probe consisting of a detector and source that is lowered into the soil inside an aluminum access tube. The radioactive source is the
+
+mixture of the radioactive element and the stable element and their interaction supplies a continuous stream of fast neutrons. In an americium/beryllium source, Americium is the radioactive component while beryllium is stable element. The reactions occur as follow.
+
+Reaction I
+
+241, denotes the atomic weight of the element; Am, the symbol of element americum; 95, the atomic number of the element americum.
+
+Reaction IT
+
+Reactions I and II occur within the source resulting in the creation of fast neutrons. Some of the thermalized neutrons (fast neutrons slowed down by repeated collisions) enter detector, which is placed just behind the source. The detector consists of a metallic tube containing boron tri-fluoride (BF,) gas enriched with boron". The thermal neutrons react with the boron and alpha particles are produced by this reaction which occurs inside the detector.
+
+Reaction III
+
+The detector is able to register thermal neutrons only. The alpha particles thus produced in the detector cause ionization which generates electrical pulses. This pulse is amplified by a pre-amplifier housed in the probe itself and then transmitted to the scalar. The scalar counts the number of pulses (or neutrons) in a pre-set time interval.
+
+Time domain reflectometry (TDR). TDR is relatively new method for measuring soil-water content, based on the high dielectric constant of water. A dielectric, in general, is a non-conductor of electricity, that is, a substance that, when placed between two charged surfaces, allows no net flow of electric charge but only a displacement of charge. The dielectric value of water is normally 81, and that of solids varies between 4 and 8 and that of air is about 1. As more water is present in the soil, the dielectric constant of the mixture increases. Time-domain reflectometry (TDR) determinations involve measuring propagation of electromagnetic (EM) waves or signals. Propagation constants for EM waves in soil, such as velocity and attenuation, depend on soil properties, especially water content and electrical conductivity. The dielectric constant, measured by TDR, provides a good measurement of this soil-water content. This water content determination is essentially independent of soil texture, temperature and salt content.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+TDR consists ofa probe connected to a signal receiver, and lowered into soil directly or via an access tube as in the case of the neutron probe. The soil around the probe serves as the dielectric medium. When a step voltage pulse or signal is propagated around the probe, the signal is reflected and returned to TDR receiver. A device then measures the time between sending and receiving the signal. For a fixed line length, the time interval relates inversely to the propagation velocity of the signal in the soil (time interval increases with soil wetness).
+
+The approximate equation given by Topp and Davis (1985) is:
+
+v= Cie)
+
+where C is propagation velocity of an electromagnetic wave (speed of light) in free space (3 x 10% m/sec), €, is the dielectric constant, and v is the propagation velocity of the signal in the soil.
+
+where L is the length of the probe and tonnes is the time period between the sending and receiving of the signal
+
+The following empirical equation relates dielectric constant with volumetric water content of soil.
+
+Soil matric potential: Tensiometer. A tensiometer, as the name indicates, measures tension (or suction, i.e. negative pressure) at which moisture is held in the soil. Below saturation, the water is held in the soil at sub-atmospheric pressure. The tensiometer is a tube fitted with a porous ceramic cup at the lower end and a vacuum gauge at the top end. When the tube is filled with water, the vacuum gauge shows a ‘zero’ reading. When the porous cup is snuggly placed in a soil of less than saturation moisture content, the soil around the cup draws water from tensiometer tube causing a decline in pressure of the water in the tube to sub-atmospheric level. The vacuum gauge measures this pressure (also called suction or tension) directly, and no calibration is required but moisture measurement of the soil around the cup by gravimetric method establishes a correspondence between vacuum gauge reading, which is soil moisture tension and soil moisture content. The tensiometer tube can be selected of a suitable length to allow soil moisture measurement at the desired depth. The vacuum gauge can also be replaced by a mercury manometer. The tensiometer has the limitation of functioning only up to a suction of 0.85 bar.
+
+SUITABILITY OF SOIL FOR IRRIGATION
+
+For most crop plants, except rice, ideal soil for irrigation is that which is deep, without any water-table, has high water-holding capacity, infiltration rate and permeability and low salt content. The loams and clay loams are generally good soils for irrigation, since the run-off, the number of irrigations necessary and the investment for drainage in them are low as compared with those of other soils. Any soil can be put under irrigated agriculture permanently but only with due care and caution which, on certain soils, may be beyond economic limits. The heavy soils often need surface as well as subsoil drainage. The light sandy soils involve a high application of costly inputs
+
+besides a considerable wastage of water.
+
+In rice, the soils with low percolation rates are ideal for economizing on water. Land submergence has been found beneficial practice for obtaining high rice yields. But during this submergence, huge quantities of water, as high as 60-70%, are lost through deep percolation. In India, nearly half the water resources are diverted to rice alone. The proper selection of land for growing rice is, therefore, vital for utilizing water resources efficiently and economically.
+
+PLANT AND WATER ABSORPTION
+
+A plant extracts water from soil with hairs on the absorbing surface of their elongating roots, through osmosis and diffusion. Inside plant, water moves along the concentration gradient across root tissues to xylem vessels, and from there upwards to stem and leaves. On the surface of the leaf, there are numerous openings, the stomata, through which water is lost in the form of vapour on account of the incident heat energy. The accumulated water vapours around leaf tissues are further carried away by the wind into the atmosphere. The process of loss of water from plants through stomata and plant surface is known as transpiration. Huge amounts of water, practically all that is absorbed, is lost in this way by the plants continuously throughout their life. The quantity of water utilized in metabolic activities by a plant is insignificant as compared with the amount lost through transpiration. The primary cause of transpiration is the solar energy available for vaporization of water from leaf surface. Water is pulled out as a continuous film from root hairs to leaf surface because of the sink strength of the atmosphere.
+
+Stomata are photosensitive cells and are open only during the day in most of the plant species. They close at night and hence there is practically no nocturnal transpiration. The stomata regulate transpiration to some extent by closing their apertures when soil is dry and there is a shortage of moisture in the atmosphere. The exchange of gases for photosynthesis also takes place through stomata and, hence, closure of stomata means no photosynthesis, i.e. no growth and accumulation of dry matter.
+
+Plant nutrients also move primarily through water in the plants and are translocated to different plant parts along with the transpiration stream. The closure of stomata, therefore, also reduces nutrient uptake.
+
+QUALITY OF IRRIGATION WATER
+
+Irrigation water never exists as pure water as some amount of salts are always dissolved in it. Since water is being lost continuously through evapotranspiration, salts are being left behind in the soil. If water is not used judiciously, the pace of salt build up will accelerate and lands will become salt affected. There are several regions in the country, where only poor quality water is available and there is no alternative except to use those waters for irrigation. Apart from the total concentration of the dissolved salts, the concentration of some of the individual salts, and especially of those which are most harmful to crops, is important in determining suitability of water for irrigation. The constituents usually determined by analyzing irrigation water are electrical conductivity for total dissolved salts, soluble sodium percentage, sodium absorption ratio, the boron content, pH, cations, such as calcium, magnesium, sodium, potassium, and anions, such as carbonates, bicarbonates, sulphates, chlorides and nitrates (Tables 12.13-12.15). The accepted limits for boron, residual carbonates and some other
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+specific ions are given in Tables 12.16 and 12.17. Monitoring of water quality, therefore, assumes greater importance from the stand point of crop production and its impact on environment.
+
+The important parameters associated with water quality are: electrical conductivity (EC); sodium adsorption ratio (SAR); residual sodium carbonates (RSC); specific ion effects.
+
+Crop production is an integrated effect of weather, soil, crop, irrigation and other management options and, therefore, guidelines laid out initially are continuously under modification. For example, water unsuitable for clayey soil may be suitable for sandy soil. The guidelines reported here are for conditions of average use.
+
+In the proposed limits of water quality rating (Table 12.14) it is presumed that the ground water table at no time of the year is within 1.5 m from the surface. If the water table comes up within the root zone, the limits need to be reduced to half. Similarly, if the soil has impeded internal drainage because of the presencé of hard pan, unusually high amounts of clay or some other morphological features, the limit of water quality should again be reduced to half.
+
+Improving quality of water
+
+The quality of irrigation water can be improved by adding amendments, such as sulphuric acid or sulphur to reduce pH to desired level. Gypsum or pyrites, which are available commercially, can be applied to soil or mixed with water where poor-quality water, containing a high concentration of sodium salts, is used for irrigation. The permeability of soils can be improved by incorporating organic matter into them to
+
+ECiw, Electrical conductivity of water; TDS, total dissolved salts; and SAR is sodium adsorp- tion ratio. .
+
+1. Total cations (or anions), meq/l = 10*EC dS m*; 2. Total salt concentration, mg/l = 640*EC dS m; 3. Osmotic pressure, atmosphere at 25°C = 0.36"EC dS m~; 1 dS m-! = 1 mmhos cm".
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+facilitate leaching down of salts beyond root zone.
+
+Choice of crops and varieties under soil or water salinity
+
+Crops have been broadly grouped according to their salt tolerance limits as follows: Tolerant species (over 5,000 ppm salts)
+
+Barley, sugarbeet, date-palm, rape, kale, cotton, Rhodes grass, sesbania
+
+Peas, cabbage, vetch, beans, gram, peaches, grapes, orange, grape-fruit, potato, tomato
+
+The limits of relative tolerance of crops to boron are as follows:
+
+Date-palm, sugarbeet, lucerne, onion, turnip, cabbage, carrot and lettuce
+
+Wheat, maize, barley, cotton, sunflower, potato, tomato, peas, beans and sweet potato
+
+Sensitive crops (0.3 to 1.0 ppm)
+
+Apple, apricot, grape, orange, grapefruit, plum, pear, cherry and walnut
+
+Other cultural practices to ameliorate poor quality of water
+
+Emergence from soil, seedling phase and flowering are three very critical stages in the growth of most of field crops in presence of salinity. Frequent irrigation and in amounts in excess of the storage capacity of a soil are essential for maintaining low moisture stress and to leach down salts.
+
+Row crops should be grown near furrow bottom where salt concentration is low. The plant population should also be enhanced by increasing seed-rate and by reducing spacing to compensate for poor performance of individual plants.
+
+Water, if only saline, can be used by either diluting it or in a cyclic manner with good quality water. If case of a sodic soil, there will be a permeability problem and it would be necessary to replace the sodium by calcium by applying suitable amendments like gypsum and organic matter for allowing more water to penetrate soil, so that salts can be easily leached down beyond root-zone. Adequate arrangements for drainage should be made to lower water-table and to maintain a satisfactory salt balance in the root-zone. Fertilizer releasing nitrogen slowly with a calcium base may be preferred and applied in split doses by placement.
+
+Planning water management
+
+The water-management system on a farm includes farm inlet and outlet structures, conveyance lines, laying out of irrigation and drainage ditches, erecting of water- control structures, such as water-gates, diversion-boxes and drop-structures, and grading or leveling of the land. It may also include construction of storage tanks and the installation of pumps (Table 12.18).
+
+After a proper assessment of the water, soil and crop related factors and topographic survey, a farm is divided into a convenient number of blocks and plots. Each block should have an independent irrigation and drainage channel and an approach road. There should be minimum wastage of land under field bunds and channels. The water flow in the channel should be non-silting and non-erosive.
+
+Water can be conveyed from storage point or farm inlet to point of use through earthen or lined water-courses or through metallic, canvas, cement or plastic pipes, hoses or tubes. Several lining materials of varying costs and durability are now available. These are mud, cement, bitumen, asphalt, bricks, plastic membranes, sodium compounds, etc. Conveyance losses are extremely high, especially in light soils, and lining is essential for using water economically. Water-courses should be at the higher elevation than field level.
+
+HOW MUCH TO IRRIGATE?
+
+Measurement of irrigation water
+
+Application of precise quantities of irrigation water not only ensures a hi gh efficiency of water use by crops, but also reduces nutrient losses through leaching and results in better aeration of soil. Irrigation water is measured under two conditions, viz. at rest and in motion. The units commonly used for expressing volume of water at rest are litres, cubic metres, hectare-metres, etc. The rate of flow is expressed in terms of units of volume per unit of time, e.g. litres per second, cubic metres per minute, hectare- metres per day, etc.
+
+The rate of flow of small streams on the farm can be directly measured by using a container or a bucket. The time needed to fill container gives the rate of flow. This method can be used to determine discharge rate of pumps and other water-lifting devices. The rate of flow of water into or out of a reservoir of known dimensions can also be directly made just by measuring change in the water level of the reservoir with respect to time. Several types of water-meters are commercially available. They can be used for measuring volume of water directly.
+
+The rate of flow of water at the point in a straight ditch or in an open channel can also be determined by multiplying cross-sectional area of water at that point by average velocity. Under field conditions, it is impossible to maintain a uniform cross-section and, thus, a uniform velocity at various points.
+
+The other devices commonly used for measuring irrigation water on a farm are orifices, weirs and flumes of various predetermined shapes and sizes. In most of these devices, the head of water on the upstream side is measured. The rate of flow is calibrated to it. Standard formulae, tables and calibration charts can be used to calculate discharge of water through these devices. The commonest among these devices are the 90° V-notch weir and Parshall flume.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+Depth of irrigation
+
+The quantity of water needed for net irrigation on different soil types per metre depth of soil profile at 50% of soil-moisture availability is given in Table 12.19 as a general guideline.
+
+crop. When rains are anticipated, it is better to under irrigate field crops to accommodate rainfall and reduce amount of irrigation water to be applied. Important crops are classified with respect to their maximum root system on a normal well-drained soil (Table 12.20).
+
+Recently conducive to higher yields than a lower irrigations instead of heavy irrigations at longer intervals. The advantage from this practice is due to the increased uptake of nutrients, which are normally in the surface layers of the soil profile, and also due to smaller losses through leaching.
+
+The new varieties and cultivars do not need higher quantities of water during their growth periods than old ones, but they do require timely irrigation, since their productivity per day is very high. Generally, they are more sensitive to
+
+moisture stress and delayed irrigation or moisture deficiencies which affect them more severely, resulting in heavy losses in yield (Table 12,21).
+
+- Fertilizer applications do not increase potential water needs of'a crop for all practical purposes, But they increase water-use efficiency by enhancing production, Nutrients in fertilizers need to be dissolved in water. They must move down from soil surface to which they are generally applied and be distributed in the root-zone.
+
+METHODS OF IRRIGATION
+
+The important aspect other than water conveyance, deals with water application system or technically termed as on-farm water management; one of the very basic aspect of irrigated agriculture. Proper land levelling is one of management components. It increases water application efficiency which leads to higher yields as well as increase in water-use efficiency. Laser land levelling can save water from 20 to 30% besides increasing yield and quality of produce.
+
+Surface methods
+
+Check basin and border strip irrigation: Over the years many surface methods of irrigation have been developed. Among them, check-basin method of irrigation is the most popular one. It is very important to employ correct method of water application to minimize adverse effect of irrigation. The selection of the right method of irrigation is influenced by the soil type, land topography, crops to be grown, quality and quantity of water available for irrigation and other site-specific variations. It is essential to follow these guidelines to improve productivity per unit quantity of water applied.
+
+Furrow irrigation: The furrow method of irrigation is generally used to irrigate row crops and vegetables, and is suited to soils in which infiltration rates are between 0.5 and 2.5 cm/hr. It is ideal for slopes varying from 0.2 to 0.5% and a stream size of 1-2 I/sec. Many of the field crops in which water is applied through check-basin or border-strip methods, can easily be adapted for furrow irrigation. In areas where water for irrigation purposes is scarce, practice of alternate or skip furrow irrigation can save considerable quantity of water without significantly affecting yields. In areas requiring surface drainage, furrows are more effective.
+
+Raised bed planting system or the furow irrigation: Raised bed system is the technology of cultivating crops on raised beds (temporary or permanant). This technology is gaining popularity as it opens up avenues to farmers for crop diversification and intensification. It is water and fertilizer use efficient and idle for several crops.
+
+Surge flow irrigation: Excessive water intake and deep percolation losses are major limitations for irrigation applications through furrows and border strips. Surge-flow irrigation, the intermittent application of water in a series of on-and-off modes of constant or variable time spans has potential of reducing intake and percolation losses, increasing irrigation efficiencies and conserving irrigation water. Experiments conducted at many locations have corroborated that surge-flow furrow irrigation results in faster water front advance and reduces volume of water required to complete advance phase. The studies have also confirmed that it increases water distribution efficiency, reduces infiltration rate and cumulative infiltration depth, and consequently reduces percolation losses.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+Pressurized irrigation systems
+
+Realizing the need of irrigation methods that are more efficient (Table 12.22), Government of India has put in a lot of efforts in popularizing water application methods like sprinkler and drip irrigation systems. Since these methods need water under pressure, they are classified as pressurized irrigation systems in contrast to surface irrigation methods, which are generally gravity-driven. The potential of pressurized irrigation system is very large (Table 12.23). To encourage adoption of water-efficient technologies, the Government has provided subsidy to popularize pressurized systems of irrigation like sprinklers and drip (trickle), which together now occupy an area of more than 3.88 Mha (Tables 12.24, 12.25), The pressurized method of irrigation gives many advantages over gravity-surface irrigation methods in terms of water savings and crop yields. The quality of produce is also considered generally superior to conventionally irrigated crops. These pressurized irrigation systems are very useful particularly in undulating and uneven lands or in very coarse textured soils. The use of these techniques can be promoted for adoption in irrigation commands also under specific conditions. These systems can be easely automated
+
+Source: Government of India (2003), Agricultural Statistics at a Glance 2003, Directorate of Economics and Statistics, Ministry of Agriculture, New Delhi
+
+*NA: Not Applicable; Source: Ministry of Agriculture, GOI
+
+“Madhya Pradesh includes Chhattisgarh, and Uttar Pradesh includes Uttarakhand.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+®Surface irrigation; “Sprinkler irrigation.
+
+Sources: Gujarat Agricultural University, Rajasthan Agriculture University, Mahatma Phule Krishi Vidyapeeth, Haryana Agricultural University, University of Agricultural Sciences, Punjab Agricultural University, NCAP.
+
+water can be controlled effectively, light and frequent irrigations can be applied and a healthy moisture regime can be maintained in the root zone of the crop thus leading to healthy crops and higher levels of production of good quality produce. Further, this method leads to considerable savings in irrigation water (Table 12.26) and increase in area covered and, hence, higher irrigation intensity and agricultural production in general. In spite of these advantages, only about 1% of the cropped area in the country is under this method of irrigation. Initial capital cost, lack of expertise in its operation and maintenance has limited the use of this system to plantation crops in hilly areas. This technology is being gradually adopted in water-scarce areas and high-value export oriented commercial crops like flowers, vegetables and horticultural crops. The
+
+sprinkler method of irrigation could be introduced for a large number of crops depending upon the soil, slope, water resource and farmers’ capacity for investment.
+
+Drip irrigation: Drip irrigation involves application of water near the roots of the plant where it is required and thereby saving more water and bringing more area under irrigation. The crop yields by this method of irrigation are higher with reduction in cost of fertilizers, pesticides and power for irrigation. In drip, water is directly applied into root zone of plants and it permits an irrigator to limit watering closely to consumptive use of the plants. This method is well-suited for wide-spaced, high-value crops like coconut, grapes, banana, lime, etc. The required quantity of water is provided to each plant daily or at short intervals through a network of piping system. Hence, there is no loss of water either in conveyance or in application. Evaporation loss from soil surface is also minimal since water is applied close to the root zone and crop canopy provides shade to prevent evaporation. Research studies have indicated that water savings can range from 40 to 70% or higher with enhanced yield in various crops, if drip method is used (Table 12.27). Drip irrigation can be adopted for undulating terrain. It is also suitable for most of the soils and fruit and vegetable crops. Drip irrigation is best suited in water-scarcity area, where water quality is marginal, topography is undulating or steep, soil depth is restricted, labour is expensive and crop value is high (Table 12.28).
+
+To tap this potential, the Government of India has initiated various schemes for motivation of farmers, ensuring availability of material, technical support and credit availability. A centrally-sponsored scheme on Use of Plastics in Agriculture had started with an outlay of Rs 250 crore in VIII Plan. Initially, in this plan about 90% subsidy was provided to promote technology. This was reduced in IX Plan to 50% for small, marginal and SC & ST farmers and 35% for others.
+
+Rainguns: Rainguns are modified form of sprinklers and are less capital-intensive compared to conventional sprinkler systems and can be modified to cater many other crops. They support highly recommended practice of trash mulching in sugarcane enriching soil with nutrients. They also hold a lot of promise as an efficient tool for application of irrigation water.
+
+Micro-sprinklers: The micro-sprinkler method of irrigation has advantages of both sprinkler and drip irrigation methods. Water is sprinkled or sprayed around root zone of the trees with small sprinklers that work under low pressure. This unit is fixed in a network of tubing but can be shifted from place to place. The exact quantity of water
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+can be delivered to each plant daily at the root zone. Water is given only to the root zone area as in drip irrigation unlike to entire ground surface as in sprinkler irrigation method. This method is highly suitable for tree/orchard crops and vegetable crops and ideally suited for protected agriculture. ;
+
+Excess water and salinity management
+
+Excess water on the land surface and in crop root zone is referred to as waterlogging. Nutrient and water uptakes by plants are adversely affected under waterlogged conditions and this in turn is reflected through poor crop yield. Waterlogging occurs due to accumulation of runoff on the land surface during monsoon that cannot be quickly drained out due to various reasons and also due to water table rise in the irrigated areas that arises due to improper management of irrigation water. In India, the monsoon waterlogging may occur during three major monsoon months from July through
+
+Source: Joshi (1994); Figures in parentheses indicate percentage loss over normal lands.
+
+September. In contrast, the dry season spreads over eight months from middle of October to middle of June. This is an average situation over the country. As, all waters contain certain amount of dissolved salts, during a large part of the dry months when temperatures are high, considerable evaporation takes place leaving salts behind. This leads to salinization of agricultural lands and it occurs predominantly over arid and the semi-arid regions of the country. Salts in soil water beyond a certain concentration are also harmful to crop-plants and they cause reduction in crop yield. Considerable losses in productivity can occur due to waterlogging and salinity (Table 12.29).
+
+Natural control of waterlogging on account of high evaporation in dry season and of salinity in the wet season when the salts are diluted and leached down below the crop root zone by rainwater and are also washed out by runoff, is a slow process. This slow process cannot cope up with additional water, and dissolved salts are introduced over an area through irrigation and in lowlands through runoff accumulation. Besides, seawater ingress in coastal agricultural land and irrigation by poor quality groundwater brings in salts much in excess than what can be leached down or washed out naturally. Under these situations, adoption of an appropriate land-drainage technology is recommended for both excess water control and salinity management in agricultural lands.
+
+Extent of waterlogged and salt af- fected lands
+
+. The estimates of waterlogged and saline lands on India vary greatly from one source to another (Tables 12.30 and 12.31). The discrepancy in statistics of such degraded lands quoted by different sources arises due to a lack of systematic survey of the degraded lands by any agency on an approved legend. The figures reported were only estimates and were based on the materials available from scattered sources or by very broad observations. The current estimate of salt affected soils given by CSSRI, Karnal, is 6.73 Mha.
+
+Little published record exists on the
+
+The source of the first four is Rana K S and Ghosh U K. 1996. Technical Papers. MOWR, New Delhi. *As in Table 12.31.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+current status or the gradual development of waterlogging and salinity in an irrigated region. One is from the Indira Gandhi Nahar Pariyojana (IGNP) Stage- I (Planned CCA : 0.542 Mha), where 1995 figure of waterlogged area (water- table O-1.5 m below ground level) was a little over 19,000 ha. In the IGNP Stage- JI, the rise in water-table has been as high as 3.0 m per year in the close vicinity of the canals and about 0.2 m per year away from the canals.
+
+In the irrigation project areas in Gujarat, the 1995 pre-monsoon water- table was between 0 and 1.5 m below ground level (critically waterlogged area) in 24,000 ha and moderate to strongly saline area (electrical conductivity > 8 dS/
+
+Chauhan. 1996. Technical Papers. 7.2 MOWR, New Delhi.
+
+Sewa Ram. 1996. Technical Papers. 3.3 MOWR, New Delhi.
+
+Abrol | P. 1994. Salinity 10.9 Management for Sustainable Agriculture, CSSRI, Karnal.
+
+Singh N T. 1994. Natural 8.6 Resource Management for Sustainable Use.
+
+groundwater salinity data in the Mahi Right Bank Canal Command Area in Gujarat show an alarming situation with respect to both (Table 12.32). The percentage of the area under deep water-table and low groundwater salinity has gradually diminished and percentage of the area under shallower water table and higher groundwater salinity has gradually increased.
+
+In Maharashtra, progressive salinity development in four canal irrigation commands till 1960 is given in Table 12.33. Approximately 0.75 Mha of cultivable area in 14 irrigation commands were benefited by adoption of drainage measures prior to 1975. By rigorous monitoring and timely adoption of ameliorative drainage measures, it has been possible to restrict waterlogging and salinity damage to less than 1% of the potentially drainage problem irrigation command area of 1.17 Mha.
+
+In Karnataka, Tungabhadra Irrigation project was started in 1945 and was completed in 1955. It has a command area of 0.6 Mha under four canal systems. Soon after water was let into the canal system, the farmers started cultivating paddy in upper reaches because of abundant availability of water and continued to do so season after season. Seepage of water from irrigation water conveyance network, violation of planned cropping pattern and choking of natural drains gradually led to formation of waterlogged and saline lands. The project is situated in the drought-prone districts of Karnataka and therefore, the semi-arid condition has further aggravated salinity condition in the command. The salt affected areas were noticed to increase from 24,475 ha in 1977-78 to 54,000 ha in 1991-92,
+
+Norms for identifying waterlogged and salt-affected lands
+
+Waterlogged land: The Working Group on Problem Identification in Irrigated Areas, constituted by the Ministry of Water Resources (Gol) adopted following norms for identification of waterlogged areas.
+
+(iii) Safe area
+
+The above identification does not consider time of year or cropping season in relation to water-table depths and waterlogging due to runoff accumulation over crop-land. Crops vary in their rooting depth and susceptibility to waterlogging. The dry-season crops are more susceptible to waterlogging than wet-season crops. Therefore, it will be useful if identification of waterlogged area is linked with crop-season or time of year. The following are the common approaches to express water-table depth below soil surface. (i) Pre-monsoon (April/May) depth to water-table; (ii) post monsoon (October/November) depth to water-table; (iii) seasonal (monsoon/winter/summer) or annual average depth to water-table; (iv) sum of the number of days when water table is shallower than a specified depth.
+
+The first two of these four are the simplest approaches. In India, the Central and the State Ground-water Boards routinely collect such data, which are useful in understanding their effects on waterlogging, salinity and crop performance. A deep water-table at pre-monsoon reduces chances of soil salinization and ensures successful
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+crop in monsoon (kharif). A deep water-table in the post-monsoon period helps maintaining timeliness of field operations for winter (rabi) season crops.
+
+Keeping these in view, the following norms are suggested for the classification of different categories of waterlogged areas, (i) Water-table within 2 m from soil surface during pre-monsoon (April/May); (i) Water-table within | m from soil surface during post-monsoon (October/November).
+
+Under the above two conditions, the area may be treated as waterlogged to adversely affect crop yield and suitable drainage measures are to be adopted to remove excess water. Besides the areas, which are already waterlogged according to the above two conditions, attention is also needed where water-table may be deep presently, but may rise under continuous irrigation, heavy rainfall and inadequate drainage. Such areas may be termed as critical and are potential areas for waterlogging.
+
+Critical and potential areas for waterlogging: When water-table is between 2 and 3 m from the soil surface during pre-monsoon and/or between | and 2 m during post- monsoon, it is critical. In a critical area, waterlogging may develop in a short period if suitable measures are not adopted. Such measures are location-specific and may comprise drainage system, land development and scientific irrigation water management. Due to monsoon climate over India, irrigated areas with water-table between 3 and 5 m during pre-monsoon may be considered as potential areas for waterlogging.
+
+Salt-affected land: The soils of the salt-affected land are classified as saline, alkali or saline-alkali, based on the values of the electrical conductivity (EC,), exchangeable sodium percentage (ESP) and pH of the soil saturation extract.
+
+A soil is saline if EC, > 4 dS/m, ESP < 15% and pH < 8.5.
+
+soil is alkali if EC, < 4 dS/m, ESP > 15% and pH > 8.5.
+
+A soil is saline-alkali if EC, > 4 dS/m, ESP > 15% and pH = 8.5 (or slightly higher). The above descriptions help identify if salinity, alkali conditions or both are constraints adversely affecting plant growth and crop yield. Based on these understandings, appropriate remedial measures can be selected for reclamation of lands or for selection of crops that may thrive and yield reasonably well even under such adverse soil conditions.
+
+Besides saline and alkali soils, in some regions of India, the soils are acidic with pH at times as low as 4. Soil acidity occurs due to washing-out of cations in high rainfall regions; due to chemical reaction in the soils of the coastal region, particularly south-west coast in Kerala and also in lands irrigated by river water, which may be acidic in certain reaches that pass nearby coal washeries. Long-term use of certain fertilizers also causes soil acidity.
+
+Waterlogging, soil salinity, alkalinity or acidity, if they are beyond tolerance limit of the crops, they adversely affect crop production. Such soils are called physically or chemically degraded and are to be reclaimed through suitable measures to restore their production potential. Land drainage in isolation or in combination of chemical amendments is capable of reclaiming such lands.
+
+Reclamation of waterlogged and salt-affected lands: Waterlogging can be controlled by adopting suitable drainage measures and through scientific on-farm water management. Saline lands are reclaimed by leaching soil with good quality water. Alkali lands need addition of chemical amendments thoroughly mixed with soil. The
+
+414 HANDBOOK OF AGRICULTURE
+
+amendment in solution with soil-water replaces hazardous sodium ions. The most common amendment used in India is gypsum (CaSO,. 2H,O). The reaction product after sodium replacement should be leached out from soil to have a lasting effect of reclamation. Sub-surface drainage is ideal for leaching out excess salts in saline soils and reaction products after addition of chemical amendment. Acid soils are reclaimed by adding lime to soil.
+
+Summary of the causes of waterlogging and salt problem
+
+Climatic factors: Short duration and intense monsoon rain causes runoff accumulation. Field operation time is lost due to excess wetness of soil, particularly in heavy soils. High ET in dry season increases salinity of soils.
+
+Lack of catchment protection: Deforestation, overgrazing, urbanization and faulty cultivation practices cause soil erosion, waterlogging in downstream, siltation and pollution of downstream waterways.
+
+Adverse topography: Land of adverse topography e.g., Bhal lands in Gujarat, Diara, Tal and Chaur lands in Bihar and Uttar Pradesh and similar low-lying lands with severe restriction of natural drainage are found in several places of India, particularly in large deltas and bunded but below-sea level rice farms in Kerala.
+
+Canal seepage: Seepage from mostly unlined channels in irrigated areas causes long duration wet condition over adjoining lands, rise in water-table and development of salinity and alkali conditions.
+
+Injudicious use of irrigation water: Field to field irrigation, unconsolidated land holdings and inadequate land preparation, ungated and unauthorised outlets and absence of scientific rostering in canal water release lead to poor irrigation efficiency. This, in turn, causes surface waterlogging and water-table rise.
+
+Other man-made causes: Unplanned constructions restrict natural flow of water and waterlogging. Unscientific cropping practices such as growing more water requiring crops results in applying more than anticipated quantity of water over relatively smaller areas.
+
+Use of poor water quality: Irrigation using brackish ground and surface water adds salts to cropland. Disposal of untreated municipal and industrial effluents on the land and into the natural streams cause surface and groundwater quality problems.
+
+Inherent problem with soil: High salt content in soil due to properties of the parent rock, poor water transmission in heavy soils and high ET in a major part of the year leads to salt and alkali problems.
+
+Lack of prioritization: Land development and reclamation, construction of drainage network and drain maintenance have lower priority and limited fund in irrigation command areas.
+
+Lack of monitoring: Monitoring of health of land and water resources are seldom done routinely in any command area after introducing irrigation. Drainage and salinity problems become known when it is too late and remedy is expensive.
+
+People’s participation: Absence of a co-operative approach by the irrigation water users to manage water resource at the farm level and developing suitable management alternatives to tackle upcoming problems lead to gradual degradation of soil physical and chemical environment.
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+Lack of policy guideline: The Ministry of Water Resources (Gol) brought out a National Water Policy in 1987. The policy recognised water as the scarce resource and considered its planning and management as matters of utmost urgency for its optimal, economical and equitable use. The National Land Use and Wastelands Development Council, under the Chairmanship of the Prime Minister, has adopted a National Land Use Policy Outline drafted and submitted by the National Land Use and Conservation Board on 6 February 1986. The Council’s meeting stipulated 19 action points to be pursued by the State Land Use Boards constituted mostly under the Chairmanship of the Chief Ministers.
+
+The waterlogging and salinity problems can be reduced when proper attention is given to other causative factors. The land and water resources are limited and are degradable and the population is increasing at the rate of 2% per year. This demands greater agricultural productivity per unit of land and water. This will be possible only if further deterioration of land and water resources is checked, the degraded lands are reclaimed and two resources are utilized judiciously.
+
+Agricultural land drainage is neglected in India. The misuse of water slowly but inevitably leads to drainage problems. Of great relevance in this context is the history of land and groundwater degradation due to their unscientific use in different parts of the world. There are the crisp observations of the Standing Committee of Agriculture (Lok Sabha Secretariat, 1996) of the 11th Lok Sabha of India, on the undesirable neglect of the agricultural land drainage in the irrigated areas.
+
+Classification of drainage systems
+
+There are two major types of drainage systems— surface and subsurface. In addition to these two, groundwater control by pumping is called vertical drainage and reclamation effort of saline and waterlogged lands by planting certain trees with high evapotranspiration rate and resistance to adverse soil chemical condition is called bio- drainage. Bio-drainage can perhaps be portrayed as the useful technology to engage a waterlogged and salt-affected barren land in generating remunerative produce in lieu of conventional agriculture and when usual drainage system may not be cost-effective.
+
+Surface drainage: Surface drainage is adopted to remove excess surface water from crop-land. Temporary surface waterlogging occurs over vast areas. Quick disposal of temporarily accumulated monsoon runoff is necessary to protect monsoon (kharif) crop and also to bring land in good tilth after monsoon is over. The excess surface water disposal is done through a network of surface drains’ linking cropped land with main outlet. Open surface drains also intercept seepage water from irrigation conveyance network and excess water after irrigation application on the field. This is a less expensive system but requires regular maintenance to keep them functional. Some cultivable area is lost due to surface drains. Surface drains in unstable soils have to be shallow, limiting their draining capacity. Even shallow drains in unstable sandy soil gradually assume a larger and more stable dimension, and thus, cultivable area is lost and maintenance expenditure increases. Deeper open drains in such soils are more hazardous, particularly when they are affected by other factors such as backwater inflow, followed by its quick evacuation. Timely disposal of surface runoff reduces percolation of standing water and helps in arresting trend of water-table rise. Provision of surface drains and its proper functioning reduces soil wetness quickly,
+
+particularly in heavy soils, making more time available for field operations and restricting water-table rise.
+
+Design recommendations: Surface drainage network has a hierarchical order starting from field drain at the lowest level, collector and sub-main drain at the intermediate level and the main drain at the highest level. The field drains intercept excess water from cropland and channelizes it towards higher order drains. The common form of field drains is ‘V’ shaped shallow channels about 15-20 cm deep with flatter side slope of 8 vertical to 1 horizontal, constructed at an approximate interval of 100 m across major slope of field. The collector drains are normally of 40 cm average depth and of trapezoidal section with 1:1 or 14:1 side slope and at least about 20 cm bottom width. They are constructed along the field boundaries to receive water delivered by field drains. Their section is designed for a capacity of 1.5 litres per second per hectare (Ips/ha) of the drained area ina region with monsoon rainfall of about 600 mm to 7 Ips/ha in a region with a monsoon rainfall of 1,000 mm. Besides rainfall, other factors such as land slope, soil infiltration property,crops to be protected against surface waterlogging are also necessary to consider for arriving at the proper design discharge for drains. When expressed as depth of water per unit time, the water removal rate is referred to as drainage coefficient. The equivalence between the two units is 1 Ips/ha = 8.64 mm/day. To ensure that they do not overflow during high rainfall and runoff, the fields should have controlled outlets in the form of ungated pipe sections at the downstream to slowly discharge runoff into drain. Surface flow into a drain must not take place all-over the field boundary to avoid drain silting due to soil inflow along with the water. Hence, the drained field units are to be bunded and runoff outflow is to be allowed only through earlier mentioned ungated outlets with proper protection at the water outfall region of the drain bed to avoid soil erosion. To allow proper drainage, field surface has to be smooth and properly graded. The permissible longitudinal slope of drains varies over a small range usually between 0.1 and 0.3%. The field slope in the direction of the drains and the longitudinal slope of the drain should be as close as possible. The sub-main and main drains are designed for the sum of the discharges of the number of collector drains joining sub-main drain and number of sub-main drains joining main drain. As the total number of smaller order drains joining a collector, a sub-main or a main drain increases from upstream to downstream, a higher order drain may have a smaller section to start with and larger sections at suitable intervals
+
+Surface drainage cost: The construction cost of surface drains is calculated on the basis of cost of earthwork in excavation. The cost of structures such as culverts, drops, pipe outlets are additional. If the land is to be levelled and graded to a desired slope and finish to facilitate drainage of excess water from field, additional costs for land levelling are involved. Levelling costs are approximately Rs 250 for average field condition per hour for self-owned laser leveller and Rs 350/hr for custom-hired laser leveller. This works out to be about Rs 2,000/ha for the former and Rs 3,500/ha for the latter. The costs of levelling using conventional levelling equipment will be lesser than the above but the surface finish is better leading to higher water application efficiency during irrigation and better surface drainage during monsoon when laser leveller is used. Cost of levelling will also depend on the earthwork involved, i.e. the existing surface features of the field.
+
+WATER MANAGEMENT AND CROP PRODUCTION 417
+
+Sub-surface drainage: Sub-surface drainage system is required for water table control and for maintaining a favourable salt balance in crop root zone. In this system, the free (gravitational) water held at or near the crop root zone is intercepted through buried and perforated pipes, placed sufficiently below the crop root zone, or through deep open ditches for its quick disposal thereafter. As the free water in the soil profile moves into sub-surface drains or towards open ditches, the water carries dissolved salts away from the crop root zone and finally from crop-land. The quantum and rate of flow through soil-profile towards buried or open ditches is much smaller than overland flow towards surface drains. In the buried pipe sub-surface drainage system, no cultivable area is lost. It is expensive but needs little maintenance. It has a long life, if designed and executed properly with good drainage materials. Open ditches are much less efficient in salt leaching and in water-table control as compared to sub- surface drainage. Besides, their maintenance cost is high.
+
+Under two major classes of drainage, further subdivisions are made based on different criteria. Based on the criterion of final disposal of drained water, there may be gravity drainage or pump drainage. Based on the mechanism of excess water interception by the drainage system, there are relief drains and interceptor drains. Based on the hierarchy of the layout, there are laterals (field drains), collectors, sub- mains and main drains. The term vertical drainage refers to water-table control through pumping of groundwater by tube-wells and is considered by many as a sub-surface drainage method. The sub-surface drainage methods are further classified based on the use of drainage material (perforated PVC pipe, baked clay tile, rubble, brick and stone slab arrangement to provide a conduit for subsurface water flow) or absence of drainage material (mole drainage). Finally, based on the geographical orientation of the drains, there are random system, parallel system, and so on.
+
+Design features of sub-surface drainage system: The conventional horizontal buried pipe sub-surface drainage system comprises an underground network of perforated or unperforated conduits. For corrugated and flexible pipe drainage material, the pipes are available in lengths of 500 m or more. For rigid pipe drainage material of baked clay or cement concrete, the pipe lengths are 40-60 cm usually. The most common diameters are 7.5 to 8 cm and 10 cm. The design involves finding an appropriate combination of depth, spacing, slope and diameter of the drains. In most cases, the choice of average depth is limited within a narrow range of | to 1.5 m, mainly due to outlet restriction and also from the cost consideration. Similarly, land topography restricts choice of slope mainly between 0.1 and 0.3%. The diameter is constrained by market availability. Hence, mostly it is the appropriate spacing between adjacent drains that remains to be determined as a design exercise. The design spacing is governed by desired rate of water removal to control water-table rise and salinity and also on the saturated hydraulic conductivity of the soil around the proposed drain depth. Mostly, a steady state design formula such as the Hoogoudt’s formula is used for the design. In irrigated areas, where there is a considerable fluctuation of water-table with time, sometimes a suitable unsteady state design formula such as Glover-Dumm formula or Emnst’s formula is used. The commonly adopted desired rate of water removal is taken between 2 and 6 mm/day and the saturated hydraulic conductivity is determined by in-situ auger hole method for using in the design formula. For unsteady state formula, information on drainable porosity, expressed in fraction, is needed and it is determined
+
+in the laboratory. The common average values of drainable porosity are 0.1 for fine soils and 0.2 for coarse soils. In most cases, a drain spacing narrower than 40 m is uneconomic. Depending on the field conditions with respect to water-table, soil salinity, saturated hydraulic conductivity, drainable porosity and crops to be protected from waterlogging and salinity hazard, drain spacing may vary between 40 m and 100 m.
+
+In sub-surface drainage installation, filtering of downward moving gravitational water in soil profile towards drain is required to check soil flowing into drains and choking them. For this, either mineral filter (a designed mixture of various sand and gravel particle sizes coarser than the soil) or synthetic filter (nylon mesh or sheet) or organic filter (crop residue, such as paddy straw, coir fibre) may be used. For design of mineral filter, there is a BIS code (IS: 9979 — 1981) available. In land drainage, there are several other BIS codes available such as IS: 9633 — 1980 for farm drainage asbestos cement pipes; IS: 9696 — 1980 for installation of farm drainage tile or pipe system and IS: 11538 — 1986 for design and installation of farm-drainage pumping plants.
+
+Sub-surface drainage cost: Sub-surface drainage cost has been varying over years due to choice of material, whether gravity drainage is feasible or a pumping plant has to be established, and also on the costs of material and work prevalent in a region. In Assam, the cost of manual execution of sub-surface drainage system using potter- made baked clay tiles and mineral filter in the mid eighties was Rs 6,000/ha. This became Rs 8,000/ha in the late eighties in the same region. Each of these two costs included the cost of a small pump as gravity drainage was infeasible, but it does not include running cost of the pump. The pumps were to be operated for approximately 40 days in the monsoon season, intermittently during a day. During the same period, manually executed sub-surface drainage system with baked and glazed clay tiles and with mineral filter had cost around Rs 12,000/ha in Andhra Pradesh. The cost was around Rs 15,000/ha using machine produced clay tiles and baked thereafter in Kerala under manual execution. The labour cost for earthwork was much higher in Kerala, as compared to labour costs in Assam and in Andhra Pradesh. At both Andhra Pradesh and Kerala sub-surface drainage execution sites, pumping system was installed, as gravity drainage was not possible. During early nineties, large-scale mechanized sub- surface drainage execution using perforated flexible and corrugated PVC drain pipes with synthetic filter and having gravity outlet had cost Rs 35,000/ha. At all the places, the sub-surface drainage was found extremely efficient in controlling water-table, soil salinity or both.
+
+Choice between surface and sub-surface drainage
+
+If the drainage problem is due to surface waterlogging then surface drainage is most suitable. If the problem is due to high water-table or concentration of harmful chemicals in the soil profile, then sub-surface drainage is most appropriate.
+
+Surface drainage is inexpensive to construct but expensive and troublesome to maintain than sub-surface drainage. Surface drains are prone to get silted, collapsed and weed infested. A properly designed and executed sub-surface drainage system may not require any maintenance.
+
+The design principle in surface drainage is based on an estimate or measurement of runoff and its disposal within a reasonable time from cropland. For sub-surface
+
+WATER MANAGEMENT AND CROP PRODUCTION 419
+
+drainage, the designed rate of water removal is arrived at from several considerations such as rainfall infiltration, percolation rate, leaching requirement and profile water transmission characteristics.
+
+The needed expertise level and degree of supervision are not demanding in surface drainage construction but are very demanding for sub-surface drainage installation. Since it is a buried system, detection of fault and their rectification becomes difficult and expensive in sub-surface drainage.
+
+Benefits from drainage
+
+Some of the specific, more important and direct benefits from the agricultural drainage systems are as follows.
+
+(i) Excess water in the soil impedes root respiration and also attacks root tissues. Drainage removes excess water and helps roots grow and occupy a larger soil volume. More nutrients become available to plant and its anchorage with soil improves to guard against lodging under wet soil and high winds.
+
+(ii) Excess water drives away air from soil pores. Drainage restores root zone aeration, which is essential for growth of beneficial soil bacteria, which convert soil organic matter and fertilizer to available plant food.
+
+(iii) With drainage system, the field becomes workable sooner. Field operations become easier, less time and labour consuming and do not destroy soil structure.
+
+(iv) Water has a higher specific heat than soil. Removal of excess water by drainage reduces specific heat of soil-water system. As the result, a warmer and more favourable soil temperature regime extends over a longer period. This accelerates bacterial activity and plant growth.
+
+(v) Excess and harmful salts are washed away and leached down and are out of the root zone by drainage system.
+
+(vi) Plant availability of nitrogen of the fertilizer applied to soil increases in well- drained soils and loss of nitrogen due to denitrification is minimized.
+
+(vii) Drainage helps early planting due to improved soil-water regime and as a result longer effective photosynthesis period becomes available to plant for its growth.
+
+(viii) Drainage is not crop-specific and a good variety of crops can be grown successfully in well-drained agricultural lands.
+
+diseases to men and livestock. Drainage removes these problems. Like any investment decision, expenditure on drainage will make economic sense if benefits outweigh costs. This aspect has been given due consideration all-over the world and as the result, agricultural land drainage is quite common for reclamation of waterlogged and salt-affected lands in many countries.
+
+In many coastal areas, excessive pumping of groundwater through tube-wells leads to deterioration of water quality due to sea-water intrusion. For skimming freshwater, Dorouv technology/infiltration gallery methods has been found beneficial to prevent sea-water intrusion. Similarly, in many island areas overdrawl of good quality groundwater leads to lowering of water-table and acute water shortage. Scientific regulation of intensity of tube-wells according to local aquifer characteristics is highly essential to ensure proper water balance.
+
+Management strategies
+
+There is an immense scope for improving conservation, distribution and on-farm utilization of irrigation water. The first step for efficient use of any resource is to conserve the same for optimizing its availability at the site of use. The water available for irrigation must be allocated optimally to competing regions and crops. The optimal allocation of available irrigation water among competing regions and crops is possible with the knowledge of water production functions of crops. At present precise production functions are lacking and there is an urgent need to develop the same at least to important crops in different regions. Improper allocation of water undermines equity aspect. The other means for efficient on-farm water management include optimum scheduling of irrigations based on suitable methods, conjunctive use of water from different sources, and improved agronomic practices. Continuing resource crunch for irrigation water due to competition from domestic and industrial sectors will compel us to develop water-use efficient technologies and crop sequences on a continuing basis. Scheduling irrigation with limited water is a big challenge to agricultural scientists and needs rigorous research.
+
+Apart from providing right amounts of water at the right time and right place, attaining high water-use efficiency requires that crop yields be maximized with a given amount of water. For this, it is essential to adapt improved soil and crop management practices to overcome constraints to high yields. Tillage, mulching and fertilization, and combinations thereof, have been observed to substantially increase crop yield and, thus increase water-use efficiencies by reducing evaporation and deep percolation components of soil water balance. Modern irrigation techniques like sprinkler and drip should be promoted where water is scarce and topographic and soil conditions do not permit efficient irrigation by conventional methods. Instances can be cited from several areas in respect of quite a few crops where judicious use of crop production inputs along with irrigation water has contributed to maximization of crop yield. Precision agriculture is the need of the hour.
+
+Irrigability of command areas needs to be ascertained and land use decided accordingly. Farmers need to be educated about adverse effects of over irrigation. Concept of irrigability of soil has to be considerably fine tuned with respect to different crops.
+
+Past research efforts have yielded valuable information on individual components of irrigation management. However, the component responses being interlinked and interactive, an optimized management strategy for irrigation system in its entirety, needs to be developed including social aspects so as to evolve situation specific on-farm water management models.
+
+Long-distance transport of water for recharge is difficult and expensive, emphasis should be given to in-situ rainwater harvesting and recharge. The country has a wealth of time-tested traditional knowledge on this subject. This is extremely important because the major portion of the annual avcrage rainfall of 117 cm is received in some 100 hours of heavy downpour, providing very little time for natural recharging of aquifer even though a large potential for groundwater recharge exists, Less than 30% of this rain is utilized, the rest is lost as run-off, taking away with it precious soil and nutrients. High spatial and temporal variability in rainfall coupled with large differences in watershed characteristics require situation specificity
+
+WATER MANAGEMENT AND CROP PRODUCTION
+
+agroclimatic run-off, increase profile infiltration and to enhance productivity of watershed. Adoption of new methods including, information technology, remote sensing and geophysical techniques, GIS, and simulation modeling is very essential for assessing effects of global environmental changes on water and energy fluxes and water resources for more realistic estimates of evapotranspiration and reflectivity, identification of new domains and development of sustainable eco-friendly technologies.

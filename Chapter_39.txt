@@ -1,0 +1,299 @@
+SOURCE_DOCUMENT: Chapter 39.pdf
+
+39. Sericulture in India
+
+India is known for the rich fauna of the sericigenous insects supported by a variety of food-plant wealth. The Aryans discovered silkworm in sub-Himalayas beyond Kashmir. Indian epics like the Rigveda, Ramayana and Mahabharata also mention the use of pitambara (silk clothes of Indian origin) and chidambara (Chinese origin). Despite the long history of Indian sericulture, it is only after the independence that concerted efforts were initiated for developing sericulture industry on the scientific lines.
+
+India has a unique distinction of producing all the five known varieties of silk, viz. mulberry, oak tasar, tropical tasar, eri and muga. Among these, Bombyx mori feeds on the leaves of Morus sp. and produces silk commonly called as mulberry silk. In mulberry silk production, more than 98% is produced from 5 traditional sericultural states namely, Kamataka, Andhra Pradesh, West Bengal, Tamil Nadu and Jammu and Kashmir. Muga silkworm (Antheraea assamensis) is endemic to India, and production of muga silk is confined to Brahmaputra valley of the north-eastern states. The muga silkworm feeds on som (Machilus bombycine) and soalu (Litsaea polyantha) leaves. Tropical tasar silk is a product of Antheraea mylitta, which mainly feeds on Terminalia tomentosa, T arjuna and Shorea robusta, grown in the deciduous forests of Thar, Bihar, Madhya Pradesh and Orissa. Oak tasar-silk is a product of Antheraea frithii, A. proylei, A. roylei and A. pernyi which feed on several species of oak (Quercus spp.). It is confined only to sub- Himalayan oak-belt, comprising Jammu and Kashmir, Himachal Pradesh and Uttarakhand in north-western region, and Manipur, Mizoram, Nagaland, Arunachal Pradesh and Meghalaya in the north-eastern region. Eri silkworm (Philosamia ricini), which feeds on common castor-plant (Ricinus communis), is mainly raised in Asom and Orissa, producing eri silk.
+
+Indian silk industry has grown manifold in terms of both production and productivity, which is attributed mainly to Research and Development efforts of the institutions of the Central Silk Board and different state departments of sericulture.
+
+Sericulture is a labour intensive agro industry in all its phases, viz. food-plant cultivation, silkworm rearing, silk reeling and other off-farm activities such as twisting, dyeing, weaving and printing. The industry, spread over several states, caters to the needs of the domestic as well as the foreign markets. Sericulture has considerable socio-economic importance in Indian, socio-economy largely due to its suitability for small and marginal farm-holdings, self employment and low investment with high returns. Favourable weather with quicker returns and high market demand also ensure quick marketing of products. All these facts have contributed to the growth of silk industry in the country. It is a sustainable farm-based economic enterprise, which provides ample work for women-folks in the rural areas, particularly in silkworm- rearing and silk-reeling, and men work in the field and are also engaged in weaving. It has been also found more suitable even for small farm-holdings with less capital investment, and it positively favours rural poor in unorganized sector. The technology
+
+\
+
+1440
+
+1440 HANDBOOK OF AGRICULTURE
+
+and local skill, which are within the reach of the rural community, enable better and quick returns with highest benefit: cost ratio comparable to other cash crops.
+
+India occupies a coveted second position among silk-producing countries in the world, next only to China (Table 39.1). The present production of silk is 18,320 m.t. against an estimated annual demand of 26,000 m.t. The production forms only 70% of the availability, and the gap is met by imports, which is mainly of bivoltine and preferred by the powerlooms for warp. India has a large domestic market and 85% of the silk goods namely, sarees, made-ups, etc., are consumed locally. Since 94% of the mulberry raw silk produced is of multivoltine variety of not desired quality for warp in powerloom sector, Government of India is giving high priority for improving the quality of silk as also its production. During 2007-08, the total production of raw silk in the country was 18,320 m.t. (Table 39.2), of which mulberry-silk accounted for 16245 m.t. (88.67%), tasar 428 m.t. (2.34%), eri 1530 m.t. (8.35%) and muga 117 m.t. (0.64%).
+
+MULBERRY SILK INDUSTRY
+
+The country has made a phenomenal progress in the mulberry raw-silk production since Independence. Prior to the establishment of the Central Silk Board, silk production in the country was only 1,154 tonnes / year, and sericulture was considered as the subsidiary occupation of the poor farmers. The establishment of the Central Silk Board by the Government of India and independent departments of sericulture in the major sericulture states and consequent establishment of new research institutions in the sixties, paved the way for reaching higher production level in subsequent decades. In India, more than 97% of mulberry-silk is produced from five traditional sericultural
+
+SERICULTURE IN INDIA
+
+1441
+
+states, viz. Karnataka, Andhra Pradesh, West Bengal, Tamil Nadu, and Jammu and Kashmir. Limited amount of mulberry-silk is also produced in 15 non-traditional states: Asom, Arunachal Pradesh, Bihar, Chhattisgarh, Himachal Pradesh, Jharkhand, Kerala, Madhya Pradesh, Maharashtra, Manipur, Orissa, Punjab, Tripura, Uttarakhand and Uttar Pradesh. State -wise mulberry area, production of silkworm eggs, reeling cocoons and raw silk during 2007-08 are given in Table 39.3.
+
+Mulberry varieties and cultivation
+
+Mulberry silkworm, Bombyx mori, is a monophagous insect that feeds only on mulberry (Morus sp.) leaf. Mulberry, though a perennial tree species, is cultivated as a low bush for commercial purpose under tropical conditions, and under temperate conditions, it is cultivated as the dwarf tree. In general, 4-6 leaf harvests are made in a year under different agroclimates for silkworm rearing. Since initiation of intensive breeding programmes, emphasis has been made on the development of the suitable
+
+1442
+
+Mulberry varieties
+
+mulberry genotypes with high leaf yield of good nutritive quality. Due to continuous efforts of the breeders adopting various techniques of breeding, region-specific mulberry varieties have been developed (Table 39.4).
+
+With the popularization of improved mulberry varieties, the leaf productivity has increased two-folds with significant improvement in the leaf quality as well. These improved varieties, especially under southern tropics with irrigation, have proved highly suitable for rearing bivoltine silkworms.
+
+Wider-spaced plantation of 90 cm x 90 cm or paired row (90 cm + 150 cm) x 60 cm and application of manure or fertilizer at 20 tonnes FYM and 350: 140: 140 NPK kg/ ha/year have been found suitable for intensive bush cultivation in tropical India to produce high leaf yield (40-60 tonnes/ha/year) of improved quality for rearing bivoltine silkworms. The paired-row system of plantation holds promise for introduction of mechanization in mulberry. Power-tiller or tractor can be conveniently used for performing intercultural operations. This process alone can result in 50% reduction in cost of leaf production. Fertilizer dose for rainfed mulberry has also been worked out. In the recent years to make mulberry cultivation more economically-viable and to maintain soil health, besides yield levels, stress has been laid on the introduction of more of organic inputs levels in mulberry cultivation on the lines of the integrated nutrient management systems (INMS).
+
+The major components of the system include chemical fertilizer replacement (50% of recommended) with nitrogen-fixing bacterial biofertilizers, and VA-mycorrhizae along with compost and vermicompost prepared out of seri-farm residues and green manuring. This has enabled maintenance of same yield as that recorded due to application of full dose of inorganic fertilizers besides minimizing soil health hazards. As the result of an integrated package for mulberry cultivation, the leaf yield has been increased almost 100%, i.e. from 30 to 60 tonnes/ha/year, resulting in increased brushing capacity and cocoon yield in the unit area. Drip system of irrigation has been established as an efficient system for mulberry, which also ensures 40% water-saving, besides improving leaf quality through increasing water-use efficiency.
+
+Mulberry diseases and pests management
+
+Mulberry is affected by a large number of foliar and root diseases. Among foliar diseases, leaf-spot (Cercospora moricola), powdery mildew (Phyllactinia corylea), leaf-rust (Cerotelium fici) and bacterial blight (Pseudomonas syringae pv. mori and Xanthomonas campestris pv. mori) are of serious concern that cause 15% loss in leaf
+
+1443
+
+SERICULTURE IN INDIA
+
+yield, apart from affecting leaf quality. Besides timely cultural operations, foliar application of 0.2% Bavistin (Carbendazim 50% wpe), 0.2% Bavistin or Karathane (Dinocap 30% Ec), 0.2% Kavach (Chlorothalonil 75% we) and 0.2% Streptomycin or Dithane M-45 (Mancozeb 75% wp) have been recommended for controlling leaf spot, powdery mildew, leaf-rust and blight diseases, respectively. A safe period of 3 days is advisable for utilization of leaf for silkworm-rearing after the spray. Among root diseases, root-rot (caused by Fusarium solani and F: oxysporum) and root-knot (caused by nematode Meloidogyne incognita) are common, causing losses in yield up to 20%. In addition, a large number of diseases affect saplings in the nursery. In recent times, emphasis has been laid on the development and popularization of integrated management methods, comprising biological agents. Bio-formulations, Raksha (Trichoderma harzianum-based formulation), Bionema (Verticillium chlamydo- sporium—based formulation) and Nursery-Guard (Trichoderma pseudokoningii based formulation) have been developed for effective and eco-friendly management of root- rot, root-knot and other diseases observed in the nursery stage.
+
+Similarly, for effective management of mealy-bug (Maconellicoccus hirsutus), a serious pest causing Tukra, resulting in leaf yield loss up to 30%, an integrated package, comprising biological (release of Cryptolaemus montrouzieri, a predatory beetle), mechanical (clipping and burning of affected plant parts) and chemical (spray of 0.2% DDVP) measures, have been developed and popularized. About 70% suppression of the pest is achieved in the field by following above methods. The IPM packages have also been developed against other mulberry pests, leaf-roller (Diaphania pulverulentalis) and Bihar hairy-caterpillar (Spilosoma obliqua). The components of the IPM developed for controlling the leaf- roller include clipping of affected plant parts, spray of 0.076% DDVP and use of parasitoids (Trichogramma chilonis, an egg parasitoid and Tetrastichus howardii, a pupal parasitoid). Similarly, the IPM developed against hairy caterpillar includes biological agent (Trichogramma chilonis, an egg parasitoid) together with chemical (0.2% DDVP spray) and mechanical removal of affected plant parts. The pest could be suppressed up to 60%.
+
+Silkworm races improvement and rearing practices
+
+Based on the voltinism, silkworms are classified into univoltine, bivoltine and multivoltine (polyvoltine).
+
+Univoltine silkworms
+
+They have one generation in a year and are characterized by large larval body size and good-quality cocoon filament, but are very sensitive to fluctuating environment and poor leaf quality besides susceptible to various disease causing pathogens.
+
+Bivoltine silkworms
+
+They have two generations in a year and are characterized by shorter larval duration, comparatively inferior cocoon quality, to that of univoltine and robust larvae. These can be reared even during summer and autumn seasons. They are in between multivoltine and polyvoltine races with respect to sensitivity and susceptibility.
+
+1444 HANDBOOK OF AGRICULTURE
+
+Multivoltine silkworms
+
+They have more than three generations in a year and are characterized by non- diapause eggs, small cocoons, short filaments and hardy larvae. They can be reared throughout the year because they are well acclimatized for tropical and subtropical conditions besides being more tolerant to disease causing pathogens and less sensitive to climatic fluctuations.
+
+Silkworm breeding has passed through an exciting phase of development over the Jast 50 years. In spite of the quantum jump in mulberry-silk production, more than 90% of the silk produced in the country comes from multivoltine x multivoltine and multivoltine x bivoltine hybrids. In gradual development process, the research institutions of the Central Silk Board (CSB), state organizations and universities have developed some productive multivoltine races. Details of indigenous, multivoltine and bivoltine silkworm races evolved by different organizations are indicated in Tables 39.5 to 39.7. About 30 silkworm hybrids are authorized by the Central Silk Board for commercial exploitation; however, only a few hybrids are exploited commercially at present and become popular with the farmers (Table. 39.8).
+
+1445
+
+SERICULTURE IN INDIA
+
+Mulberry silkworm seed (egg) production
+
+Silkworm egg production is highly scientific and major activity as quality of egg determines the success of crop and cocoon yield. There are two types of silkworm seed —reproductive and hybrid seed. Reproductive seeds are prepared in the Basic Seed Farms under the Government sector and therefore, also called basic seed. The preparation of basic seed from P4 to P1] level is called multiplication of pure races. The hybrid seeds are prepared by both Government and private agencies. The hybrid
+
+1446 HANDBOOK OF AGRICULTURE
+
+seed, also known as industrial seed, is used for commercial rearings and the cocoons thus harvested are utilized for reeling or unwinding of silk, i.e. to take out the silk yarn from the cocoons for commercial use. Mulberry silkworm seed production is carried out by three agencies namely, National Silkworm Seed Organisation under the Central Silk Board (10.72%), State Sericulture Departments (14.56%) and Private Licensed Seed Producers (74.72%). About 26 crore disease free layings (dfls) are produced by these agencies per annum which are sufficient to meet the demand of the industry. The production of bivoltine hybrid dfls was 183.61 lakh (6.94%), while the rest 2463.84 lakh was crossbreed (93.06%). The production of bivoltine hybrids is undertaken by the State Sericulture Departments (89.44 lakh), National Silkworm Seed Organisation (88.68 lakh) and rest by Private Licensed Seed producers (5.49 lakh). In order to meet the projected targets of 5,000 m.t. of bivoltine raw silk and 18,000 m.t. of cross-breed silk by the end of XI Plan, about 596 lakh dfls of bivoltine hybrids and 26.67 crore of cross-breed eggs respectively, are required.
+
+Silkworm rearing
+
+Life-cycle of mulberry silkworm, Bombyx mori, is of 40-50 days with minor variations depending on temperature and nature of race. The egg stage lasts for 10 days, larval stage for 20-30 days and the pupal stage for 10 days.
+
+The silkworm-rearing is done indoors in suitably designed rearing-houses. The rearing is done in trays or on rearing racks. In the tray system of rearing, the late-age silkworms are fed with leaves, and in rack system, the mulberry branches with leaves are fed to the worms. The entire process of silkworm-rearing, starting from hatching of eggs to formation of cocoons, takes almost 23-25 days. After worms (caterpillar) hatch-out from eggs, they are reared on soft and tender leaves, maintaining rearing- house temperature at 27-28°C and relative humidity at 85-90%. The silkworms are reared with utmost care up to second or third stage, during which caterpillars undergo two moults and shed off their old skin. About 10 days are required to rear worms up to the third stage. The requirements of young silkworms up to 2" or 3" stage are specific and need more infant care and this is generally done in young age rearing centres, commonly called as Chawki Rearing Centres (CRCs). The CRC owners collect the eggs from egg production centres after incubation and transport them in cooler hours of the day. They rear the worms up to 2™ stage with utmost care and on scientific lines so as to make the young worms healthy and robust. Farmers come and collect these larvae to their respective places. The system of CRC is well established and farmers get 6 to 8 kg of more cocoons per 100 dfls besides saving on labour, chemicals and equipment.
+
+The young stage silkworms are called chawki-worms and fed with cut pieces of leaves. Thereafter the worms enter late-age, and during the next 14 days, they undergo two moults. Thus, a total of five larval stages occur in the life span of silkworms before they start cocooning to form pupae. Cocooning takes about 6 days, i.e. matured worms spin cocoons on mountages and the pupae get concealed inside the cocoons. After 10-12 days of cocoon stage, the pupa gets metamorphosed into moth (butterfly), which emerges from cocoons, Later, male and female moths pair and egg laying takes place. The eggs are then suitably treated and stored in cold storage for preserving or treated with acid for next rearing, as the case may be.
+
+1447
+
+Silkworm diseases and pests management
+
+Mulberry silkworms are threatened by pebrine (caused by transovarian transmission of microsporidian, Nosema bombycis and other virulent strains of Nosema sp. NIK-2r NIK-3h and NIK=4m); grasserie (a viral disease caused by Nuclear Polyhedral Virus - NPV a baculovirus), flacherie (caused by infectious flacherie densonucleosis cytoplasmic polyhedrosis), muscardine (fungal disease caused by Beauveria bassiana) and aspergillosis (caused by Aspergillus flavus, A. oryzae and A. tameri). Use of bleaching powder and lime solution, as general disinfectant is commonly used to destroy all pathogens in rearing house and appliances before rearing. Use of disinfectants like Vijetha and Vijetha supplement, developed by the CSR&TI Mysore, and other disinfectants like Suraksha, Sanjeevani and Resham Jyothi developed by other research institutes have been found effective, which are used in preventing all silkworm diseases besides improving silkworm-rearing performance. An increase in cocoon yield by 12- 15 kg/100 dfls had been recorded in the field due to the application of Vijetha. For prevention or control of aspergillosis disease, Dithane M45 in Kaolin or Captan in slaked-lime on silkworm body had also been found effective.
+
+Uzifly (Exorista bombycis) is a serious endo-larval parasitoid of silkworm, Bombyx mori, which is estimated to cause 10-20% crop losses. Integrated Pest Management (IPM) developed against uzifly, comprising biological agents (Nesolynx thymus, an ecto-pupal parasitoid) along with physical (rearing under nylon-net enclosure) and chemical control methods such as use of Uzitrap (developed by the CSR&TI, Mysore, to attract and kill adults) and spray of Uzicide / Uzi maddu have been developed and successfully demonstrated in the field. The IPM resulted in decline of uzifly incidence by 84%.
+
+Bivoltine programme
+
+Sericulture development, particularly bivoltine sericulture development, has been given high priority in India. In this direction, three major projects were implemented in the country namely, (i) World Bank-assisted Karnataka Sericulture Project (KSP) implemented in Karnataka from 1980 to 1988, (ii) World Bank-assisted National Sericulture Project (NSP) implemented in 5 traditional states and 12 pilot states from 1989 to 1998, and (iii) Japanese Government-assisted JICA Projects in three Phases from 1991 to 2007. During the first phase of the JICA BSTD Project (Bivoltine Sericulture Technology Development Project) which was undertaken from 1991 to 1997, appropriate bivoltine sericulture technologies suited for the Indian climate were developed. The technologies included package of cultivation practices for production of superior quality mulberry leaf, robust silkworm hybrids namely, CSR2 x CSR4, CSR4 x CSR5, CSR18 x CSR19 and their reciprocals; suitable rearing and mounting methods; management of diseases; techniques of silkworm seed production, preservation, processing and incubation of eggs; cocoon quality testing; cocoon storage; cocoon drying; cocoon cooking methods; improved reeling techniques were developed. In order to evaluate the quality of silk, testing procedure and method of conditioning of raw silk have also been standardised. During the second phase of the PPPBST Project (Project of Promotion of Popularising the Practical Bivoltine Sericulture Technology) undertaken between 1997 and 2002, the technologies developed during with selected farmers of three southern states. In all, 17
+
+1448
+
+1448 HANDBOOK OF AGRICULTURE
+
+verification trials were conducted and the farmers could obtain up to 70 kg cocoon yield per 100 dfls. The raw silk reeled from these cocoons could get 2A to 4A grade silk. The third phase of the PEBS Project (Project for Strengthening Extension System for Bivoltine Sericulture) which was undertaken from 2002 to 2007 was highly successful in establishing a model for spread of bivoltine sericulture in Kamataka, Tamil Nadu and Andhra Pradesh. Thus, the technologies developed under JICA projects are suitable and sustainable for promotion of bivoltine in India. The farmers and reelers were competent to adopt the new technologies if systematically approached and could harvest 70 kg quality cocoons per 100 dfls and quality silk of 2A to 4A grade. Another massive extension programme namely, Institute-Village Linkage Programme (IVLP) has also confirmed the possibility of rearing bivoltine throughout the year in certain pockets and in favourable seasons in many places in South India.
+
+Cocoon marketing
+
+The marketing of mulberry-silk cocoons is officially regulated in all the major sericultural states excepting West Bengal. It is obligatory for all cocoon transactions to take place at the notified cocoon markets where only silkworm rearers and licensed reelers can conduct their business. The sale of cocoons at these markets is carried out by open auction to highest bidder. In Andhra Pradesh, a rearer can obtain a permit to sell cocoon in a larger market in Karnataka. However, in Karnataka and Tamil Nadu, all transactions are supposed to occur within the state. In India, there is no compulsory scientific grading system of cocoon in markets. Grading, inspection and fixation of cocoon price are based on proportion of good cocoons to defective cocoons (double, pierced, stained and compact cocoons) and percentage of shell. The major markets are Ramanagaram, Kollegal, Kolar, Kanakapura, Siddlaghatta, T. Narasipur and Vijayapura in Karnataka; Dharmapuri, Krishnagiri, Vaniyambadi and Coimbatore in Tamil Nadu; and Madanapalli; Hindupur, Dharmavaram, Hanuman Junction and Hyderabad in Andhra Pradesh. In Jammu and Kashmir, sericulture was earlier practised under the state monopoly, and only the state was allowed to market cocoons and yarn. Of late, silk marketing and reeling have been de-monopolized. Cocoon markets and silk exchanges are being established and support prices have been increased substantially. However West Bengal, cocoon marketing is in the hands of private reelers. The concept of regulated cocoon market system is yet to take place.
+
+Silk reeling and weaving
+
+The cocoons are steam-stifled and cooked in hot-water, and silk-fibre is unwound from cocoons. This process of unwinding of silk filament from cocoon is called ‘reeling’. Depending upon the required thickness (denier) of the silk filament, the reeling ends from the required number of cocoons are combined together and reeled. In India, there are three distinct reeling devices in mulberry sector, viz. (i) charkha, (ii) cottage basin and (iii) multi-end reeling machines. About 50% silk is produced from charkha and 35-40% is from cottage basin, and a small quantity (5-6%) is from multi-end reeling machine. Of late, attempts are being made to introduce automatic reelilng machines on pilot scale.
+
+1449
+
+Charkha
+
+Charkha reeling is widely used among silk-reelers in rural areas. Silk produced from country-charkha is of inferior quality because silk-thread is not uniform and it carries many slubs. However, owing to its simple nature, low investments and ability to reel inferior quality multivoltines and defective cocoons, the charkha-reeling is still prevalent in most parts and bulk of the raw silk produced on charkha is used in handloom industry.
+
+Cottage basin
+
+This device is an improved version of charkha, which is indigenously designed on the principle of the Japanese multi-end reeling machine. In this, cocoons are cooked separately in boiling water and reeling is done in a hot-water basin attached to reeling bench. Each basin has 6 ends and each thread is first passed through a button to clear slubs and waste. Then the silk-yarn passes through a travellette-type of croissure, which is more efficient than that in a charkha. The silk produced farm- cottage basin is superior to that of charkha, but not of international grade, because it is hand-driven and alignment of basin is not sufficiently perfect. The improved version of cottage basin which is power driven is called filature basin and is used in many places.
+
+Multi-end reeling machine
+
+Multi-end reeling machine developed by the CSTRI, Bengaluru, is an improved version of the cottage basin, which combines some of the features of automatic silk reeling machine is found suitable reeling device to produce gradable quality raw-silk. It has been found that international-grade silk 'B' and '2A' could be produced from improved crossbreed and bivoltine cocoons respectively on this device.
+
+Silk weaving
+
+About 65% of the Indian silk is woven on the handlooms and 30% on the traditional power-looms. Modern silk-weaving factories with better and bigger powerlooms account for only 5% of the total production. There are about 227,700 handlooms and 29,340 powerlooms in the country. Of these, Karnataka accounts for 8% (18,000) handloom and 85% (25,000) powerlooms. The major handloom clusters are situated at Varanasi (Uttar Pradesh), Kanchipuram (Tamil Nadu) and Dharmavaram (Andhra Pradesh). At one time, all the silk produced in the country was utilized by the handloom sector only. But now due to shift in the demand, powerloom has come in forefront to produce finer and quality fabrics, and it is able to consume 60% of the raw silk produced. Most of the powerlooms are using imported Chinese silk yarn as warp, and silk produced locally (reeled in filature basin and cottage basin) is used as weft.
+
+A wide range of silk-fabrics are produced at different centres of the country both in handloom and powerloom sectors. The important fabrics produced are plain silk fabric, dupion, charkha silk, chiffon, chinnon, crepe, organza, satin and murshidabad silk.
+
+Handloom fabrics are very popular in domestic market. The main articles prepared from handlooms are sarees, dhoti, gamchha, angavastram, lungi, shirting, crepe-fabrics, towels, bed-spreads, furnishings and upholstery. Among different varieties of
+
+1450
+
+1450 HANDBOOK OF AGRICULTURE
+
+sarees, the famous and popular types are Dharmavaram, Kanchipuram, Pochampalli, Molkalmur, Varanasi, Paithan, Saulukuchi, Kota, Chandheri, Surat, etc. and each of these types have their own brand image and style and popularly named in local areas.
+
+VANYA SILK INDUSTRY
+
+Vanya silk-moths, are hitherto, known as non-mulberry or wild silk moths. Except eri silkworm, the other wild silkworms are reared in captivity unlike mulberry-silk worms that are domesticated in toto. Most of these Lepidopterans belong to family Saturnidae. Though about 500 species produce wild silk, only a few are exploited mainly by tribals of Asia and Africa.
+
+Of the total silk produced in the country (Table 39.9), the share of the wild silks is around 11%. Wild silks are mainly produced by tribals and weaker sections of the society. Its culture has been the part of the tradition and culture of the tribals in the north-eastern and central Indian states of the country. Till recently, the very survival of these wild silks was threatened because of the large-scale deforestation, natural calamities, competition from other fibres coupled with lack of suitable technical know-how. Research and Development in the areas like package of practices for food-plant cultivation, production and distribution of disease-free seeds, technologies for rearing silkworms, disease-control measures, introduction of simple and faster machines for reeling and spinning are now promoting wild silks sector faster than ever before.
+
+SERICULTURE IN INDIA
+
+TASAR CULTURE
+
+Tropical tasar
+
+Tropical tasar is an important non-timber forest produce found in tropical forests in the central states of the country. It is collected in the form of silk cocoons spun by polyphagous sericigenous insect Antheraea mylitta, feeding on the leaves of the variety of the food-plants. It thrives as a part of the traditional livelihood among the aboriginals of Jharkhand, Chhattisgarh, Orissa, Andhra Pradesh, Maharashtra, West Bengal and Uttar Pradesh. Over 1.25 lakh families are involved in tasar-culture activities in different states. With a rugged look, this silk is mainly preferred for furnishings. Sarees, dress- materials and blends with the natural fibres like cotton and this silk is found very attractive and organic.
+
+Host plant
+
+Tasar silkworm, Antheraea mylitta, is extremely polyphagous and differs in its adaptation to different food-plants. The species feeds on three-dozen food-plants, however, the main food-plants of commercial importance are Terminalia arjuna, T. tomentosa and Shorea robusta. For commercial purposes, food-plants are propagated mostly by seeds.
+
+Tasar silkworm eco-races and their rearing
+
+Eco-races and types of A. mylitia can be grouped into three categories, uni, bi and trivoltines. However, true univoltine stock has almost vanished, as only the small part of the nature- grown cocoons behave as univoltine. In captive conditions, the tropical tasar behaves as bi-and tri-voltine depending upon the environment. The moth of A. mylitta is a non-feeding stage, and in all diapausing stock, adult-moth emerges from its cocoon during June-July. In non-diapausing generations, the season of natural occurrence of bi-voltines is September, and that for tri-voltines is November. So far, 44 eco-races of tropical tasar (Antheraea mylitta) are on record, however, 10 eco- races are commercially exploited in India (Table 39.10).
+
+1452
+
+1452 HANDBOOK OF AGRICULTURE
+
+The entire rearing is outdoors. The newly hatched worms are brushed on chawki garden plants or on the forest plants. Chawki rearing technique has also been developed under nylon-net enclosure, which ensures higher survival and development of robust worms. The late-age worms are transferred to other plants after leaves on the previous plants are fully consumed. During the rearing, care for different diseases and pests are regularly taken. The worms pass through four moults before completing larval period. On maturity, the larvae spin a ring-like structure, called peduncle, around the twig before forming cocoon. The cocoons are generally dark-ash brown or light yellow. Normally, cocoons are harvested in 6-8 days after spinning.
+
+Cocoon marketing
+
+There are regular markets or haats in almost all parts of tasar-producing states. By tradition, tribals rear tasar silkworms using forest-trees, produce cocoons and sell them in weekly rural markets, where producers bring their goods on a designated market day. Tasar cocoons are marketed by number (kahan), which varies from state to state (1 kahan = 1,280 - 4,000 cocoons). Of late, initiative taken by the Central Silk Board, Government of India, Raw Material Bank (RMB) at Chaibasa (Jharkhand), and two sub-depots at Raigarh (Chhattisgarh) and Bhagalpur (Bihar) have been established to regulate cocoon transactions and also to protect interest of tribals. Subsequently, different state governments have also introduced regulatory and intervention measures to protect interests of tribals and to promote tasar-silk culture.
+
+Silk-reeling and weaving
+
+The cocoons are cooked in hot-water before reeling; cooking with hydrogen- peroxide has been recommended and found more efficient than traditional method. Thigh reeling of tasar-silk is the traditional method using a bamboo and wood - made, hand-spindle called matwa. Later, a number of improved tasar-reeling machines were developed by the CTR&TI, Ranchi in collaboration with CSRTI, Bengaluru, which have increased reeling efficiency from 70 g silk/day by the traditional method to over 300 g/day.
+
+Traditionally, weaving of tasar-yarn is done on pit-loom and on fly-shuttle frame looms. Some of the improved handlooms currently being used are Banarasi fly-shuttle loom, Nepali handloom and Chittaranjan semi-automatic handloom. Tasar-silk fabrics are mainly used as gents wear in India. The other outlets are thicker varieties of fabrics like dress-material, upholstery and furnishing fabrics made from tasar ghicha, tasar ghicha noil and tasar katia yarn, mostly catering to export markets.
+
+Temperate tasar
+
+Produced by Antheraea proylei, this silk is confined to sub-Himalayan states of Manipur, Himachal Pradesh, Uttarakhand, Asom and parts of Jammu and Kashmir. The silkworm mainly feeds on oak leaves. Being light weight and elegant in look, it makes an excellent material for shawls, stoles and scarves. Its blend with natural fibres like wool is generally preferred.
+
+Host plant
+
+The food-plants of oak-tasar silkworm are Quercus serrata, Q. acutissima,
+
+1453
+
+SERICULTURE IN INDIA 1453
+
+O. griffithii and Q. dealbata in the north-eastern region and Q. leucotricophora (syn. Q. incana), Q. semecarpifolia and Q. himalayana (syn. Q.floribunda) in the north- western region. The availability of natural oak flora in the sub-Himalayan belt is estimated at 18,41,503 ha of which 58,000 ha have been exploited for rearing oak tasar silkworm.
+
+Oak tasar
+
+Oak tasar silkworm breeds and their rearing
+
+Four species of oak-tasar silkworm (Antheraea proylei, A. frithii, A. roylei and A. pernyi) are commercially exploited in the country. In addition, two improved breeds of A. proylei have been recently introduced for commercial exploitation.
+
+It is a holometabolous insect. The larval period is of 40-45 days. The newly hatched worms are reared indoors on tender twigs of host-plants up to third stage. Thereafter late-age rearing is done outdoors. The worms are transferred to host-plants and reared till cocooning. Cocooning takes place on the host-plant itself.
+
+Cocoon marketing
+
+There is no regulated cocoon market controlled by the government for transaction of oak-tasar cocoons. However, cocoons are procured by the State government, NGOs, private reelers and spinners at the rate fixed by the Price-Fixation Committee set up jointly by the State Department of Sericulture and the Central Silk Board.
+
+Silk-reeling and weaving
+
+The cocoons are cooked by soaking in Bicpril 50 solution or raw-papaya extract in water for 18-24 hour and reeled using tasar-reeling machine.
+
+The handloom weavers use raw-silk for preparation of sarees, mekhala, chadders, kurta-pyjama, shawl and coats. The coarse yarn like ghichaljhuri is used in making, carpet and foot-mats.
+
+ERI CULTURE
+
+The silk, commonly called as endi or errandi produced by Samia ricini (Donovan)/ Philosamia ricini, is an eri-silk which is largest among vanya silks. Assam is believed to be the natural abode of domesticated eri silk-moth. Its rearing is common in the tribal inhabited areas of the north-eastern region, particularly Brahmaputra Valley of Asom and its neighboring states. The insect prefers warm and humid climate. A vast area covering 7,793 ha in Asom, Meghalaya, Nagaland, Arunachal Pradesh, Manipur and Mizoram is covered under eri-silk production. About 1.2 lakh families are involved in its culture. Since pupae are eaten by local people, the demand for this culture is increasing. Now attempts are also being made to introduce eri-culture in some parts of Andhra Pradesh and Tamil Nadu too.
+
+Host-plant cultivation
+
+Castor (Ricinus communis) is the main food-plant for eri silkworm. The other
+
+1454
+
+food- plants are kesseru (Heteropanax fragrans), payam (Euodia fraxinifolia), tapioca (Manihot utilissima), borpat (Ailanthus grandis) and borkesseru (Ailanthus excelsa).
+
+Eri silkworm-rearing
+
+Samia ricini is multivoltine silkworm with 4-6 overlapping generations, occurring throughout the year. It does not occur in wild. Domestication for centuries resulted in striking physical and behavioural changes between original wild and cultivated populations. Eight eco-races, Nongpoh, Kokrajhar Red, Borduar Local, Titabar Local, Sille, Dhanubhanga, Mendipathar and Khanapara are common under commercial rearing. Further, six homozygous strains, Greenish Blue Plain, Greenish Blue spotted, Greenish Blue Zebra, Yellow Spotted and Yellow Zebra, based on the external larval body colour and markings have been isolated from Borduar and Titabar eco-races. These eco-races and homozygous strains are being maintained at the Regional Eri Research Station, Mendipathar, East Garo Hills (Meghalaya).
+
+As for other Lepidopteran insects, life-cycle of eri silkworm passes through egg, larva, pupa and moth stages. The egg stage lasts for 7-8 days in summer and 12-16 days in winter. Larval stage passes through 5 instars and lasts for 16-20 days during summer and 30-45 days in winter. After larval stage, mature larva enters into pupa stage inside a cocoon cover. Pupal period is 18-22 days in summer and 30-35 days during winter. Moth stage is a non-feeding stage, which lasts for 7-9 days in all seasons of the year.
+
+The eri silkworm is reared indoors. The hatched larvae are fed on castor (Ricinus communis) leaves in rearing houses and are allowed to grow. Periodical feeding is resorted to during rearing period. At maturity (after 30-32 days of brushing), the mature larvae spin cocoons, which are usually white to pale white. However, brick-red coloured cocoons are also observed, which are mostly produced by wild eri silkworms.
+
+Cocoon / shell marketing
+
+In eri sector, there is no organized channel for marketing of cocoons. Traders used to purchase cocoon shells from farmers’ houses and sometimes farmers used to sell their cocoons in weekly haats (markets). Traders from Bhagalpur (Bihar) also used to visit lower Asom to purchase eri-cut cocoons. Since pre-matured pupa is eaten by the locals, only the cocoon shells are marketed in some areas.
+
+Silk-reeling and weaving
+
+The eri cocoons are open mouthed, because silk filament is not continuous and wrapped as in mulberry, muga and tasar cocoons. Further, the eri silk filament is not continuous, it is very delicate, fine and thin and hence the eri cocoons cannot be reeled but can be spun like cotton. Eri silk has certain excellent textile properties and is unique in many respects such as fineness, density, cross-sectional shape and surface properties, which play an important role in determining fabric characteristics. Eri silk is finer than muga and tasar silks and even softer than mulberry silk. Although eri silk possesses positive feature, insertion of proper twist is required to maintain dimensional stability of the fabric meant especially for the garments. A major portion of eri cocoons produced in the north-eastern states are locally spun through traditional devices like
+
+1455
+
+SERICULTURE IN INDIA
+
+takli, amber charkha and a modem spinning wheel developed by the CSTRI, Bengaluru, by puffing fibre and at the same time by imparting twist to it, thus forming yarn.
+
+The coarse yarn so produced is normally used for production of traditional materials mainly for domestic use. ‘Eri chadar’ is the main product of eri silk in north-eastern India. Besides, eri embroidered ladies scarf, eri quilt (Nagaland) and eri coat are other finished products.
+
+MUGA CULTURE
+
+The golden yellow muga silk (also called mooga or moonga) is obtained from muga silkworm Antheraea assamensis; syn. Antheraea assama, which is endemic of north- eastern India, and the moths still exist in wild state. Though reported from Uttarakhand, Himachal Pradesh, Sikkim, Asom, Meghalaya, Pondicherry in India besides from Bangladesh, Sri Lanka and Indonesia, commercial muga silk production is confined to Brahmaputra Valley of Asom and its surrounding hills. In the north-eastern states about 5,362 ha are covered under muga food plantation and more than 30,000 farmers are involved in its culture.
+
+Host plants
+
+The silkworm is reared on som (Machilus bombycine) and soalu (Litsaea ‘polyantha). trees, which are its main food-plants. For commercial purposes, propagation is done by seeds and seedlings.
+
+Muga silkworm improvement and rearing
+
+Cultivated muga is multivoltiné, having 4-6 overlapping generations in a year. The wild population is probably bivoltine, as they undergo hibernation in pupal stage during winter. Like that of other lepidopteran insects, the life-cycle of muga silkworm passes through four stages, viz. egg, larva, pupa and moth. The egg stage lasts for 7- 8 days in summer and 12-15 days in winter, larval stage passes through 5 instars and larval period for 20-25 days during summer and 30-40 days in winter. After larval stage, mature larva enters into pupal stage inside the cocoon. Pupal period is of 18-22 days in summer and 30-35 days during winter. Moth stage is non-feeding stage, which lasts for 7-9 days in any season of the year.
+
+The rearing is conducted fully outdoors. Chawki-rearing on bush plantations under wire mesh net protection has significantly improved the success of silkworm crop. After the young-age worms have eaten all the leaves of the plant, they are shifted to other neighboring plants. The mature worms are collected and mounted on the cocoonage (jali), which is hung indoors. After 6-10 days, cocoons are harvested. As a result of indoor cocooning, the average cocoon yield per laying has increased from 30 to 50 cocoons.
+
+Cocoon marketing
+
+There is no organized marketing system of muga cocoons. Traders of Sualkuchi near Guwahati (Asom) consume approximately 70% of muga cocoons for weaving of different types of muga silk fabrics. Besides, farmers of lower Asom sometimes sell their muga cocoons in weekly markets.
+
+1456 HANDBOOK OF AGRICULTURE
+
+Silk-reeling and weaving
+
+Muga cocoons are cooked in weak alkali solution and reeled on traditional “khure” or improved machines to produce different types of coarse yarn, locally called jhutha muga. This yarn is suitable for curtain-clothes, bed-spreads and other furnishing materials. Muga mekhela and chaddar are the prime fabrics produced in the north - eastern India. Besides, to some extent muga saree and other dress materials are produced.
+
+Though sericulture has a traditional base in the country, it is only after the research endeavors of different institutes of the Central Silk Board that a quantum jump in silk production in the country has been achieved. With development of improved technologies in mulberry sericulture, especially breakthrough achieved in bivoltine sericulture technology, the inflow of white cocoons of bivoltine hybrids to cocoon markets has changed the scenario. Similar trend of improvement in production of vanya (non-mulberry) silks and availability of improved reeling and twisting machines have considerably improved quality of non-mulberry yarns. As a result, production of quality silk of international grade and product diversification have become a reality. With this pace in production base, the country is ready for a big leap to reach top position among silk-producing countries. With the development of new technologies by different research institutions, sericulture industry has now become the main occupation and major cash crop in the country.
+
+CENTRAL SILK BOARD (AMENDMENT) ACT, 2006
+
+Since sericulture is a state subject, each state has its own laws and regulations for promotion of silk industry. However, under the new concept of liberalization, privatization and globalization, it became imperative to create an enabling ambient for the orderly growth of the silk industry. The stringent rules and “License Raj”, sometimes affected the speedy growth. To provide better opportunities to all states and stakeholders, Government of India has brought out certain amendments to the Central Silk Board Act and the same was notified in the Gazette of India during 2006. The purpose of this amendment is to produce and supply good quality silkworm eggs to the farmers which will help them to produce quality cocoons. As a result, reelers are assured to get good quality cocoons throughout the year.
+
+FUTURE PLANS
+
+Over the years and Plans, silk production in the country remained stagnant and the production of much needed quality raw silk for powerloom sector of the country remained unfulfilled. As a result, the import of quality silk became inevitable and China took advantage of the situation and started exploitation. To make India self sufficient in her annual requirement of raw silk, which is estimated to be around 26,000 m.t. by the end of XI Plan, large scale R&D activities coupled with some financial assistance were conceived. The lead given by JICA programme followed by IVLP supported by Catalytic Development Programme has shown a very encouraging trend, Hence, the future plans in similar lines have been drawn. The major thrust being given towards soil health and moisture conservation, silkworm breed improvement, egg production, disease and pest management, post cocoon technology including product diversification and byproduct utilization for mulberry silk sector.
+
+1457
+
+of stake holders and improving service support system including marketing strategies.
+
+The XI Plan programme being implemented from 2007-08 to 2011-12 in India aims towards increasing employment generation and poverty alleviation and women empowerment through capacity building. The programme envisages both horizontal development through increased area under cultivation and vertical development by way of improvement in productivity and quality adopting cluster approach. The physical targets proposed during XI plan are indicated in Table 39.11.

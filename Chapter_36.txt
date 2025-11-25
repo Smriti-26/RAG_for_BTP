@@ -1,0 +1,1089 @@
+SOURCE_DOCUMENT: Chapter 36.pdf
+
+36. Agroforestry
+
+The process of human evolution has been from forests when man learnt the art of domesticating plants and animals after leaving hunting and gathering habit. Relationship of man with trees and the land use systems can be appreciated in its temporal and spatial dimensions across agroclimatic regions. Thus, tree based systems or agroforestry is an age old practice. Agroforestry has been recognized as a land-use system which is capable of yielding both wood and food, and at the same time conserving and rehabilitating the ecosystems. Agroforestry has the capability to increase the productivity and at the same time maintain the nutrient balance as well as protect the nature. Owing to its productivity and economic potential, it can sustain agricultural production. It has two major roles to play, the productive role and the service role. Tree has the dominant role to play in all agroforestry systems for sustainable agriculture and environmental protection.
+
+Acceleration in human and livestock population growth necessitated acquisition of more and more land under cultivation. It continued to meet the ever-increasing demand for food, fodder, vegetables, fuel wood, timber, medicines etc. Further, demographic pressure has forced man to seek unconventional methods of agriculture to utilize land to the maximum extent. National Forest Policy (1988) has set a goal that 33% of the country’s geograhical area should be under forest and tree cover. Under Tenth Five Year Plan, the Government of India had set a target to increase the country’s forest cover up to 25%.
+
+According to the 2005 report of the Forest Survey of India, the forest cover in the country is 67.71 million ha, constituting 20.60% of its total geographical area. Out of this, very dense forest constitutes 5.44 million ha (1.66%), dense forest 33.26 million ha (10.12%) and open forest 28.99 million ha (8.82%). The forest cover in the hilly districts is only 38.85% compared with the desired 66% area. The National Agriculture Policy (2000) emphasized the role of agroforestry for efficient nutrient cycling, nitrogen fixation, organic matter addition and for improving drainage and underlined the need for diversification by promoting integrated and holistic development of rainfed areas on watershed basis, through involvement of community to augment biomass production through agroforestry and farm forestry. The Task Force on Greening India for Livelihood Security and Sustainable Development (Planning Commission, 2001) has also recommended that for sustainable agriculture, agroforestry may be introduced over an area of 14 million ha out of 46 m ha irrigated areas that are degrading due to soil erosion, waterlogging and salinization. For integrated and holistic development of rainfed areas, agroforestry is to be practised over an area of 14 million ha out of 96 m ha. This all will, besides ensuring ecological and economic development, provide livelihood support to about 350 million people. The practice of agroforestry can help in achieving these targets. Therefore in the quest of optimising productivity, the multi- tier system came into existence.
+
+The origin of agroforestry practices, i.e. growing trees with food crops and grasses,
+
+1299
+
+is believed to have been during Vedic era (Ancient period, 1000 Bc), the agroforestry as a science is introduced only recently. The systematic research in agroforestry geared up after the establishment of the International Council for Research in Agroforestry (ICRAF) in 1977, which was renamed in 1991 as the International Centre for Research in Agroforestry. During 2001-02, ICRAF adopted a new brand name “World Agroforestry Centre”, to more fully reflect their (ICRAF’s) global reach and also their more balanced research and development agenda; however their legal name “International Centre for Research in Agroforestry” will remain unchanged. In India, organized research in agroforestry was initiated in 1983 by the establishment of All- India Coordinated Research Project on Agroforestry by ICAR at 20 centres and later establishment of the National Research Centre for Agroforestry at Jhansi in 1988. At present 36 centres of agroforestry (25 centres in state agricultural universities and 11centres in ICAR institutes ) are working in the country. The process of system evolution can be still observed in the natural forests through settled agriculture, animal husbandry and organized forestry with the adoption of variety of land-use practices where tree is one of the components. Agroforestry systems have been the target of scientific enquiry and analysis and thus have been defined by many in different ways.
+
+Agroforestry defined
+
+Agroforestry, the word coined in early seventies, has made its place in all the developed and the developing countries of the world. A few definitions of agroforestry are as under:
+
++ “A sustainable management system for land that increases overall production, combines agricultural crops, tree crops and forest plants and/or animals simultaneously/or sequentially and applies management practices that are compatible with cultural patterns of local population”.
+
+* “Agroforestry is a collective name for land-use systems and technologies in which woody perennials including trees, shrubs, bamboos etc. are deliberately combined on the same land-management unit with herbaceous crops or animals either in some form of spatial arrangement or temporal sequence.”
+
+“Agroforestry is a land-use that involves deliberate retention, introduction, or mixture of trees or other woody perennials in crop/animal production field to benefit from the resultant ecological and economical interactions”.
+
+¢ “Agroforestry is a dynamic, ecologically based, natural resource management practice that, through the integration of trees on farms and in the agricultural landscape, diversifies and sustains production for increased social, economic and environmental benefits”.
+
+In agroforestry systems there are both ecological and socio-economic interactions between different components. This implies that:
+
+* agroforestry normally involves two or more species of plants (or plants and animals), at least one of which is a woody perennial,
+
+* an agroforestry system always has two or more outputs;
+
+* the cycle of an agroforestry system is always more than one year; and even the simplest agroforestry system is structurally, functionally, and socio-economically more complex than a monocropping system.
+
+1300
+
+It needs to be clearly understood that specifying the existence of spatial-temporal arrangements among components does not help in defining agroforestry, but its value lies in classifying agroforestry examples. Multiple cropping as opposed to multiple use, is a necessary condition to agroforestry. Production diversification is not exclusive to agroforestry and does not help in defining agroforestry. The sole existence of economical interactions among the components is not a sufficient condition to define agroforestry; biological interactions must be present. Similarly the term significant interactions among the components cannot be used objectively in defining agroforestry, and its use should be avoided. The presence of animal is not essential to agroforestry. Agroforestry implies management of at least one plant species for forage, an annual or perennial crop production. Once appropriate time limits are imposed on the system, time sequences involving at least two plant species with at least one woody perennial must be considered agroforestry. On the basis of this analysis, the final definition of agroforestry could be:
+
+"Agroforestry is a form of multiple cropping which satisfies three basic conditions- (i) there exists at least two plant species that interact biologically, (ii) at least one of the plant species is a woody perennial and (iii) at least one of the plant species is managed for forage, annual or perennial crop production."
+
+It shows that agroforestry is a new name for a set of old practices. In simple terms agroforestry is "an efficient land-use system where trees or shrubs are grown with arable crops, seeking positive interactions in enhancing productivity on the sustainable basis".
+
+Community forestry, farm forestry and social forestry
+
+The escalating worldwide interest in tree-planting activities during the past three decades (1970 onwards) resulted in the emergence and popularization of several terms ending with word 'forestry', viz. Community Forestry, Farm Forestry and Social Forestry. In all these one thing is common, i.e. people's participation in tree-planting activities not necessarily with agricultural crops or animals as is in agroforestry. The social forestry is considered to be the practice of using trees or tree planting specifically to pursue social objectives, to help the poor people to improve their living and meeting their routine requirements of fuelwood and fodder. In its report on Farm Forestry, National Commission on Agriculture (1976) remarked that programme of bund planting and field boundaries by farmers themselves will constitute farm forestry. Farm Forestry has been defined in so many ways, as given below:
+
+• "An integration of farming with forestry practices on the farm to benefit agriculture." It does not mean forest tree culture at the cost of agriculture. The concept originated for making agriculture economically viable."
+
+• "A practice of raising small woods on the farm in addition to normal cultivation to derive indirect benefits like protection of crops against high winds and control of erosion besides meeting demands of fuel, small timber, grazing, fodder and leaf manure".
+
+"Programmes to promote commercial tree growing by farmers on their own . lands is farm forestry". This approach was described as turning peasants into entrepreneurs and producers.
+
+Incidentally, the terms Social Forestry, Farm Forestry, Agroforestry and Extension
+
+1301
+
+Forestry have been alternatively used with similar objectives on almost similar or different land types.
+
+Community forestry, a form of social forestry, refers to tree planting activities undertaken by a community on community land or panchayat land. Similarly, community forest is “‘a tree-dominated ecosystem managed for multiple use”. It is based on the local (community) people’s direct participation in the process of growing trees themselves and processing or utilising the tree produces locally in a systematic way. Community forestry has been defined as “Community forestry is based on the local control over, and enjoyment of the benefits from, the local forest resources”. These benefits are not simply monetary, nor are they derived exclusively from timber production, but may vary with the many values associated with the forest ecosystems, including cultural, spiritual, social, medicinal, ecological, recreational, aesthetic and economic values. Unfortunately, this programme is hampered because of one reason that this plantation is of every one (common property) and there is nobody to care for it. It was also given the name ‘tragedy of the commons’ assuming that the land held in common will be exploited by all, and maintained by no one.
+
+Farm forestry, a term commonly used in Asia indicates the tree planting on farms may be commercial or arable crop producing farm. The purpose of all these forestries is growing trees and using them to provide fuel, medicine, minor timber and fodder. The major distinction between agroforestry and these other terms seems to be that agroforestry emphasizes the interactive association between woody perennials and agricultural crops and animals for multiple products and services. The other terms are for simply planting the woodlots. However, at times all these are used synonymously.
+
+Historical background of agroforestry
+
+In about 700 Bc, man changed from a system of hunting and food gathering to food production. Shifting cultivation in India is prehistoric and partly a response to agro- ecological conditions in the region. Horticulture as co-existent with agriculture is found to have been prevalent in India from early historic period (500 bc to 1st century ad) when a certain amount of share in garden crops started to have been enjoyed by the king for providing irrigation. Some stray references occur in different texts of the Vedic literature. The cultivation of date-palm, banana, pomegranate, coconut, jujube, aonla, bael, lemon and many varieties of other fruits and requirement of livestock in agriculture and mixed economy of agriculture and cattle-breeding may be traced in proto-history chalcolithic periods of civilization. But in India, the plant husbandry (intentional sowing or planting for production of desirable plants or plant domestication) happened to start under progressively arid climatic zone from about pre-Neolithic period. The role of many common trees such as khejri or sami (Prosopis cineraria), aswattha (Ficus religiosa), palasa (Butea monosperma) and varana (Crataeva roxburghii) in Indian folk-life has been mentioned in ancient literature of Rig Veda, Atharva Veda, and other Indian scriptures. Traditional agroforestry systems manifest rural people’s knowledge and methods to benefit from complimentary uses of annuals and woody perennials on the sustained basis. It also indicates that farmers have a
+
+closer association with trees than any other social group and promoters of forests. In central America it has been a traditional practice for a long time for farmers to plant about two dozen species on a small piece of land configuring them in different
+
+1302 HANDBOOK OF AGRICULTURE
+
+1302
+
+planes. In Europe, until middle ages, it was the general custom to clear fell, degraded forests, burn slash, cultivate food crops for varying periods on cleared area and plant trees before or along with, or after sowing agricultural crops. This farming system as widely practised in Finland up to the end of the last century, and in a few areas in Germany as late as the 1920s. In Asia, the Hununoo of the Philippines practised a complex and somewhat sophisticated type of shifting cultivation. While clearing forest for agricultural use, they deliberately spared certain trees which, by the end of the rice-growing season, provided partial canopy of new foliage to prevent excessive exposure of soil to sun.
+
+The farmers and land owners in different parts of the country integrate a variety of woody perennials in their crop and livestock production fields depending upon the agroclimates and local needs. Most of these practices are, however, very location specific and information on these are mostly anecdotal. Therefore, their benefits have remained vastly under exploited and unextrapolated to other potential sites. It has now been well-recognized that agroforestry can address some of the major land-use problems of rainfed and irrigated farming systems in India, and that a great deal can be accomplished by improving indigenous systems. With the current interests in agroforestry worldwide, attempts are being made in India to introduce agroforestry techniques using indigenous and exotic multipurpose and nitrogen-fixing woody perennials.
+
+Agroforestry during recent past
+
+Especially during the last 3-5 centuries, spectacular improvements have been made in tree plantation. The most important agroforestry practice is known from the Kangeyam tract of Tamil Nadu, where Acacia leucophloea + Cenchrus setigerus in silvi-pasture system was perfected. Similarly, in ravines of Yamuna and Chambal, trees, shrubs and bamboos with grasses were planted for rearing milk-producing Jamunapari breed of goats and sheep. Scattered trees with khejri or mehndi in association with bajra, jowar and chillies were grown in the semi-arid area of Tamil Nadu. Tree plantation continued as demarcation and control against wind erosion throughout the country. Plantation of khejri trees for various uses on on-farm was a common practice in Rajasthan.
+
+In coastal areas, Casuarina equisetifolia and other trees were grown in association with crops on farm lands for cash and to generate small timber. Live hedges were common as an agroforestry practice in which mehndi, Agave sisalana and Euphorbia species were common. In paddy-growing areas, Pongamia glabra and Sesbania grandiflora were grown, lopped annually and their leaves applied to fields as green manure. Application of green manure to paddy field was common in Madhya Pradesh and Uttar Pradesh. In Western Ghats Terminalia leaves were harvested, spread on land, burnt and then paddy, ragi and millets were sown.
+
+Multistorey homesteads or home-gardens were in existence in Kerala, Karnataka, Tamil Nadu, Tripura, Asom and other North Eastern states as an important agroforestry practice. This practice is still followed in these states.
+
+Land degradation and demographic pressure
+
+; The estimates of the wastlands of India vary from 63.85 to 187. 7 million ha as per the estimates provided by the Ministry of Agriculture, [CAR and other agencies due
+
+AGROFORESTRY
+
+1303
+
+to their different definitions of wastelands, objectives, and methodology used. To refine the estimates, the harmonization of wastelands/degraded lands was done in 2008 by National Rainfed Area Authority (NRAA), ICAR, National Remote Sensing Agency (NRSA) and National Academy of Agricultural Sciences (NAAS), which estimates that 120.72 million ha, out of which 104.14 million ha in arable lands and 16.53 million ha in open forest land (<40% canopy). Out of this area, water erosion affects the largest proportion followed by salinization and terrain deformation . It is noteworthy that ravines encroach 8,000 ha area of table lands annually and now spreads over 3.67 Mha. The annual soil loss is estimated about 5,334 million tonnes (16.35 tonnes/ha) along with 5.37 - 8.40 million tonnes. Problems of alkalinity and salinity are alarming and are on the rise. Besides these, about 50 M ha area is degraded due to mining activity. The extent of degraded forests in the country is itself >40 M ha of which most of the area is under dry deciduous forest type of vegetation.
+
+The main forces responsible for land degradation are human and animal population pressures where interplay of aridity poses a great barrier to recovery of land. In states with arid and semi-arid regions maximum area under wastelands is in Rajasthan, followed by Madhya Pradesh and Maharashtra where animal population is also very high. The desertification of modern times as we see is not due to any climatic shift but it is man-made. The grazing lands in almost all parts of the country have to support animals beyond their carrying capacity. Repeated grazing/browsing by animals hardly leave any vegetational elements to survive unless specially protected. The repeated biomass removal exhausts the stored food of rootstock and gets decimated. Savannas thus pass through steppe, into deserts.
+
+Demographic pressure
+
+The demographic pressure in India shows that the human population has crossed 1 billion mark during the year 2000. As per the 2001 estimates the population density was 324/sq km with a maximum of 904/sq km in West Bengal while the livestock density (as per 17th Indian Livestock Census, 2003) was 147/sq km. The only weapon that can be used in the war against hunger, inadequate shelter, and environmental degradation is the adoption of agroforestry practices.
+
+Need and scope of agroforestry
+
+Agroforestry, in true sense, has been realized as the need of the hour. It does not confine to regional, geographical or agroclimatic boundaries.
+
+Agroforestry for food, fuel and fodder
+
+Owing to increase in population of human and cattle, there is increasing demand of food as well as fodder, particularly in developing countries like India. Each year farmers of the world must now attempt to feed 81 million more people irrespective of weather. It is important to note that there will be 19% decline in cropland per head by the end of this century due to population explosion. Therefore, there is slight scope to increase food production by increasing the area under cultivation. A management system, therefore, needs to be devised that is capable of producing food from marginal agricultural land and is also capable of maintaining and improving quality of producing environment.
+
+1304 HANDBOOK OF AGRICULTURE
+
+The different aspects in which agroforestry can help in enhancing the productivity of our lands to meet the demand of ever- growing human and livestock population are discussed here.
+
+Food
+
+l. Enhanced sustainability of cropping systems through soil and water conservation by arrangements of trees to control run-off and erosion.
+
+2. Enhanced food and feed production from crops associated with trees through nitrogen fixation, better access to soil nutrients brought to surface from deep tree roots, improved availability of nutrients due to high cation-exchange capacity of the soil and its organic matter and mycorrhizal associations
+
+FY Food for man from trees as fruits, nuts and cereal substitutes
+
+Feed for livestock from trees
+
+Micro-climate improvement due to trees, particularly shelter-belts and wind breaks
+
+Water
+
+1. Improvement of soil-moisture retention in rainfed croplands and pastures through improved soil structure and micro-climate effect of trees
+
+2. Regulation of stream flow, reducing flood hazards and a more even supply of water through reduction of run-off and improvement of interception and storage in infiltration galleries.
+
+. Improvement in drainage from waterlogged or saline soils by trees with high water requirements.
+
+Energy
+
+ie Fuel-wood for direct combustion
+
+2, Pyrolytic conversion products such as charcoal, oil and gas
+
+3. Ethanol produced from fermentation of high-carbohydrate fruits
+
+4. Oils, latex and other combustible saps and resins
+
+Shelter
+
+1. Building materials for shelter construction
+
+2. Shade trees for people, livestock and shade-loving crops
+
+3. Wind-breaks and shelter-belts for protection of settlements, crop lands, pastures and roadways
+
+4. Fencing: live fences and fence posts
+
+Raw material for industries
+
+1. Raw material for pulp and paper industry
+
+2. Tannins, essential oils and medicinal ingredients
+
+3. Wood for agricultural implements and various crafts
+
+4. Fibre for weaving
+
+Cash
+
+1. Direct cash benefits from sale of tree products
+
+2, Indirect cash benefits from increased productivity
+
+AGROFORESTRY
+
+1305
+
+Agroforestry research centres in agro-ecological zones
+
+The ecology and the climate of India are extremely varied so that almost all agro- ecological zones in the world can be found in one part or the other in the country. Obviously, this enormous diversity makes it difficult to classify the country into a few distinct agro-ecological zones for reviewing the status of agroforestry in India. Planning Commission (1989) has classified country into 15 agroclimatic regions (Table 36.1) for agricultural purposes on the basis of climate, soil type, topography, water resources
+
+1306
+
+(Table 36.1 concluded)
+
+Centres at CSAUAT, Kanpur (UP) and MAU, Parbhani (Maharashtra) started in 1985 were closed w.e.f. 1.4.2004 . * ICAR based centres now working as cooperating centres ; @ Project Co-ordinating Unit is present at National Research Centre for Agroforestry, Jhansi.
+
+and irrigation facilities. Thus, various agro-ecological classification schemes have been adopted for different purposes.
+
+Recently agroecological classification has been attempted by the ICAR based on crop-growing period, soil groups, geographic boundaries etc. and 20 regions and 60 subregions have been identified. Agroecological regions, their climate, forest types and presence of agroforestry centers of the ICAR shows the spread of research portfolio to address to the regional needs in the country (Table 36.2).
+
+AGROFORESTRY
+
+1307
+
+(Table 36.2 concluded)
+
+Centres at CSAUAT, Kanpur (UP) and MAU, Parbhani (Maharashtra) started in 1985 were closed w.e.f. 1.4.2004 . * ICAR based centres now working as cooperating centres; @ Project Coordinating Unit is located at National Research Centre for Agroforestry, Jhansi.
+
+Classification of agroforestry systems
+
+Agroforestry systems can be classified on the basis of structure, function and socio- economic aspects.
+
+Structural classification of agroforestry systems
+
+The structure of the agroforestry system can be defined in terms of its components
+
+1308 HANDBOOK OF AGRICULTURE
+
+and expected role or function of each. In this system the type of components and their arrangement are important. Hence on the basis of the structure, agroforestry systems can be grouped in nature of components and arrangement of components.
+
+Nature of components
+
+On the basis of the nature of the components the following are the common agroforestry systems:
+
+1. Agri-silviculture (trees + crops)
+
+2. Boundary plantation (trees on boundary + crops)
+
+3. Block plantation (block of trees + block of crops)
+
+4. Energy plantation (trees + crops during initial years)
+
+5. Alley cropping (perennial hedges + crops)
+
+6. Agri-horticulture (fruit trees + crops)
+
+7. Agri-silvi-horticulture (trees + fruit trees + crops)
+
+8. Agri-silvipasture (trees + crops + pasture or animals)
+
+9. Silvi-olericulture (trees + vegetables)
+
+10. Horti-pasture (fruit treest+pasture or animals)
+
+11. Horti-olericulture (fruit trees + vegetables)
+
+12. Silvi-pasture (trees + pasture/animals)
+
+13. Forage forestry (forage trees + pasture)
+
+14. Shelter-belts (trees + crops)
+
+15. Wind-breaks (trees + crops)
+
+16. Live fence (shrubs and under—trees on boundary)
+
+17. Silvi or Horti-sericulture (trees or fruit trees+sericulture)
+
+18. Horti-apiculture (fruit trees + honeybee)
+
+19. Aqua-forestry (trees + fishes)
+
+20. Homestead (multiple combination of trees, fruit trees, vegetable etc).
+
+Besides these common agroforestry systems, there are many more component combinations followed in different agroecological regions of India.
+
+Arrangement of components
+
+The arrangement of components gives first priority to plants. Even in agroforestry system involving animals, their management according to a definite plan, e.g. a rotational grazing scheme, gives precedence to plants and animals. Such plants arrangements in multi-species combinations involves dimension of space and time.
+
+Spatial arrangement: Spatial arrangement of plants in an agroforestry mixture may result in dense stands (as in home-gardens) or in sparse mixed stands (as in most systems of trees in pasture). The species (or species mixture) may be laid out in zones or strips of varying widths. There may be several forms of such zones, varying from microzonal arrangements (such as alternating rows) to macrozonal ones. A common example of zonal pattern is hedge-row intercropping (alley cropping), and an extreme form is the boundary planting of trees on edges of plots and fields for a variety of purposes (fruit, fodder, fuel-wood, fencing, soil conservation or wind-break). The extreme forms of macrozonal arrangements can lead to sole-cropping systems, but interactive association of different components can be used as criteria to decide limits between zonal agroforestry and sole-crop (component) plots.
+
+1309
+
+AGROFORESTRY
+
+Temporal arrangement: Temporal arrangement of plants in agroforestry may also take various forms. An extreme example is the conventional shifting cultivation cycle; involving 2—4 years of cropping and more than 15 years of fallow cycle, when a selected woody species or a mixture of species may be planted. Similarly, some silvi- pastural systems may involve grass alleys in rotation with some species of grasses remaining on the land for several years. These temporal arrangements of components in agroforestry are termed coincident, concomitant, overlapping (relay cropping), separate and interpolated.
+
+Functional classification of agroforestry systems
+
+Two fundamental attributes of all agroforestry systems are productivity and sustainability.
+
+Productive functions: The various productive functions (producing one or more products) of agroforestry systems are food, fodder, fuel-wood and other woods, besides other products.
+
+Protective functions: The protective functions (protecting and maintaining production systems) of agroforestry systems are wind-break, shelter-belt, soil conservation, moisture conservation, soil improvement and shade (for crops, animals and man).
+
+Socioeconomic classification of agroforestry systems
+
+Based on such socio-economic criteria as scale of production and level of technology input and management, agroforestry systems are grouped into three categories.
+
+Commercial system
+
+The term commercial is used whenever scale of the production of the output (usually a single commodity) is the major aim of the system: the scale of operations is often moderate to large and ownership may be government, corporate or private; labour is normally paid or otherwise contracted. Examples include commercial production of agricultural plantation crops, other crops or pasture animals; with permanent under planting of food crops, or pasture/animals; commercial production of shade-tolerating plantation crops such as coffee, tea and cacao under overstorey shade trees; rotational timber or food crops system in which a short phase of food-crop production is used as a silvi-cultural method to ensure establishment of timber species (various forms of laungya); commercial grazing and ranching under large-scale timber and pulp plantations etc.
+
+Intermediate agroforestry system
+
+Intermediate agroforestry systems are between commercial and subsistence scales of production and management, production of perennial cash crops undertaken or medium to small size, wherein cash crops cater for cash needs, and land or long-term tenancy rights to land, reside and work themselves on the land, supplemented by paid temporary labour. Various agroforestry systems in many parts of the world can be considered intermediate systems, especially those based on plantation crops such as coffee, cacao, numerous fruit-trees and short-rotation timber species.
+
+1310 HANDBOOK OF AGRICULTURE
+
+Subsistence agroforestry systems are those wherein use of land is directed towards satisfying basic needs, and is managed mostly by the owner or occupant and his family. Cash crops including sale of surplus production of commodities, and all forms of traditional shifting cultivation are the most widespread examples.
+
+The words 'systems' and 'practices' are often used synonymously in agroforestry literature. However, an agroforestry system is a specific local example of a practice, characterized by environment, plant species and their arrangement, and socio-economic functioning. An agroforestry practice denotes a distinctive arrangement of the components in space and time. Although hundreds of systems have been recorded all consisting of about 20 distinct practices. The various facets of agroforestry have been conceptualized which include all activities of tree planting and forestry where farmers are involved, derive benefits/depend on them for daily domestic needs in prevailing land uses in the ambit of agroforestry. Even forest grazing and natural silvipastures or natural savannas from where grazing and firewood collection benefits are obtained could be the part of agroforestry helping agricultural economy and livelihood need (Table 36.3).
+
+AGROFORESTRY
+
+1311
+
+(Table 36.3 continued)
+
+1312
+
+(Table 36.3 concluded)
+
+Agrosilvopastoral systems (trees + Crops + pasture/animals)
+
+Note: w, Woody; h, herbaceous; f, fodder for grazing; and a, animals. Source: Nair P K R. 1993. An Introduction to Agroforestry. Kluwer Academic Publishers, Dordrecht. .
+
+Viewing agroforestry and farm forestry in its evolutionary and economic Perspectives shows the land-use configurations with increasing intensity of management and inputs to increase outputs. While systems like Home-gardens are climate based, all others also have their relation to rainfall and soil showing variations in farming systems.
+
+After thorough synthesis of various criteria having structural, functional, socio- economic and ecological basis various agroforestry practices/systems have been classified into three major categories: Agrisilvicultural; Silvopastoral or silvipastoral; Agrosilvopastoral or agrisilvipastoral. Further systems can be grouped according to any of the purpose-oriented criteria and resulting groups can have one of the above three categories as a prefix, for example: silvopastoral system for cattle production in tropical savannas, and agrisilvicultural system for soil conservation and food production in tropical highland. The essential characteristics of different regions in India and the major agroforestry emphasis in each are summarized in Table 36.4.
+
+AGROFORESTRY
+
+1314
+
+1315
+
+AGROFORESTRY
+
+Major types of agroforestry systems and the nature of their benefits in different regions of India
+
+Himalayan regions
+
+ves: a Shifting cultivation
+
+Taungya . Fruit trees in combination with agricultural crops and fodder trees Fodder trees with pastures Seasonal grazing in forests Trees and grasses for soil conservation Fruits trees in combination with pastures and fodder trees Cash crops in forests/shade of trees
+
+Indo-Gangetic plains
+
+lands (saline/sodic/eroded) Fodder trees in degraded grazing land Commercial trees on slopping land with commercial or forage grasses Trees on boundaries of agricultural fields Fodder banks Block plantation Industrial plantation with crops Fruits orchards and multi-purpose trees Fruit or shade-trees on agricultural farms
+
+Fodder, fuelwood, soil conservation Cash, soil conservation, forage, fuel
+
+Food crops, fuel, timber, cash crop protection Fodder, soil conservation, fuel Cash, lumber, fuel Cash, food crops Cash, fruit, fuel, fodder Food crops, shade, fruits Control on water logging and seepage avenue, fuel, forage Shade, fuel, forage, cattle rearing
+
+Trees along canals, road sides
+
+Trees on community grazing land
+
+Arid and Semi-arid regions
+
+MPTs on agricultural fields Trees for soil reclamation/sand stabilization Wind breaks Fruit trees with MPTs Trees on pasture/grazing lands
+
+Fodder, fuelwood, cash, crops, minor products Reclamation of soil/stabilisation of sand dunes, fuel, fodder, minor products Soil conservation, fodder, fuel Cash, fruits, forage, fuel, minor products Forage, fuel, shade, cattle rearing
+
+Humid and Sub-humid regions
+
+Production of multiple out puts Cash, multiple products Minor products, crops Soil conservation, fodder, fuel
+
+Coastal and Island regions
+
+1316
+
+1316 HANDBOOK OF AGRICULTURE
+
+Traditional agroforestry systems in India
+
+Agroforestry is widespread in all ecological and geographical regions of India. The systems vary enormously in their structural complexity and species diversity, their productive and protective attributes, and their socio-economic dimensions. They range from apparently simple forms of shifting cultivation to complex home-gardens; from systems involving sparse stands of trees on farm lands (e.g. Prosopis cineraria — khejri tree — in arid regions of western India) to high-density complex multistoreyed homesteads of humid lowlands; from systems in which trees play a predominantly ‘service’ role (e.g. shelter belts) to those in which they provide main commercial product (e.g. intercropping with plantation crops). Most of these are anecdotal but in some enough research efforts have been carried out in recent times (Table 36.5).
+
+Shifting cultivation/slash and burn system
+
+It refers to farming system in north-eastern high rainfall areas in which land under natural vegetation (usually forests) is cleared by slash and burn method, cropped with common arable crops for a few years, and then left unattended when natural vegetation regenerates. Traditionally the fallow period is 10-20 years but in recent times it is reduced to 2-5 years in many areas. Due to the increasing population pressure, the fallow period is drastically reduced and system has degenerated causing serious soil erosion depleting soil fertility resulting to low productivity. In north-eastern India many annual and perennial crops with diverse growth habits are being grown.
+
+At times cash crops such as potato, rice, maize and ginger are grown in monoculture or mixed culture along with Pinus kesiya. Another important attribute of the system is secondary succession of vegetation during fallow period. The tree species which may be considered suitable for afforestation of fallow areas or to intercrop with arable crops must be fast growing, preferably nitrogen-fixing and must efficiently recycle available nutrients within the system shortening time required to restore fertility. These may include species of Acacia, Albizia, Alnus, Cajanus, Casuarina, Erythrina, Faidherbia, Gliricidia, Inga, Leucaena, Parkinsonia, Pithecellobium, Prosopis, Robinia and Sesbania. Thus intercropping under or between fast-growing trees in a fallow phase is one of the approaches while finding alternative to shifting cultivation. A farming-system approach based on the watershed management has been advocated as an alternative to shifting cultivation.
+
+Taungya cultivation
+
+The Taungya system is like an organized and scientifically managed shifting cultivation. The word is reported to have originated in Myanmar (Burma) and tauang means hill, ya means cultivation, i.e. hill cultivation. It involves cultivation of crops in forests or forest trees in crop-fields and was introduced to Chittagong and Bengal areas in colonial India in 1890. Later it had spread throughout Asia, Africa and Latin America. Essentially, the system consists of growing annual arable crops along with the forestry species during early years of establishment of the forest plantation. The land belongs to forest department or their large-scale leases, who allow the subsistence farmers to raise their crops and in turn protect tree saplings. It is not merely temporary use of a piece of land and a poverty level wage, but is a chance to participate equitably in a diversified and sustainable agroforestry economy.’
+
+1317
+
+AGROFORESTRY
+
+Taungya system is practised in Kerala, West Bengal, Uttar Pradesh, and to a limited extent in Tamil Nadu, Andhra Pradesh, Orissa, Karnataka, as well as in the north-east hills region. It is practised in areas with an annual rainfall of 1,200-1,500 mm. The practice consists of land preparation, tree planting, growing agricultural crops for 1— 3 years, and then moving on to repeat cycle in a different area. In some cases crops may be grown 1 year before the trees are planted. A large variety of crops and trees, depending upon the soil and climatic conditions, are grown under the system. The owner of the land, and hence the trees, is the State Forest Department. Establishment of teak (Jectona grandis) plantations is the most remunerative taungya practice for forest departments. Due to prevailing land shortages, and possibility of growing highly remunerative crops like paddy, tapioca, ginger and turmeric, the farmers in Kerala are willing to pay to lease forest land for taungya. In the high hills of Tamil Nadu, Eucalyptus globulus, Acacia mearnsii and Pinus species are established after growing a crop of potatoes. More recently, cashew plantation in the coastal area of Andhra Pradesh has been established in combination with groundnut. It is also possible to grow two crops of groundnut in a year. In the agreement between the farmer and the. land-owner, it is mentioned that groundnut leaves cannot be removed from the land due to their value in the soil conservation and fertility improvement. Since 1960s, large commercial farmers have used taungya for establishment of poplar plantation with irrigation in sub-montane, sub-humid tarai region of Uttar Pradesh.
+
+Home-gardens/homesteads
+
+A homestead is an operational farm unit in which a number of crops including tree-
+
+crops are grown with livestock, poultry and/or fish production, mainly for the purpose of meeting the routine basic needs of the farmer. It is an old-age practice in coastal states particularly in Kerala, Tripura, Asom, North-eastern states and parts of West Bengal and Andaman and Nicobar Islands. Although the home-gardens appear to be a mixture of trees, shrubs and herbs, a certain general pattern seems to exist. There is wide variation in the intensity of trees, species and crops based on the size of holding, needs of the people residing in homesteads and micro-climate. Coconut, arecanut, guava, mango, citrus, tamarind, jack-fruit, papaya, banana, moringa, sesbania, custard- apple and many multipurpose trees are the major trees found grown in home-gardens. They provide fruits and vegetables and many also support climbers such as betelnut, pepper and cucurbits. Clove and cinnamon are also grown sometimes. In Kerala, coffee and cacao are quite frequent in these gardens. Among food crops arrow-root, cassava, dioscorea, sweet-potato, taro, elephant-yam and vegetables are frequent in Kerala. Cardamom, cinnamon, clove, ginger, nutmeg, pepper and turmeric are the spices. Pineapple is common fruit grown as ground storey crop. Kapok (Ceiba pentandra) is common tree along the boundary providing fibre from its fruits.
+
+Cattle and poultry are the main components of homesteads, therefore, sometimes forages like stylo (Stylosanthes guianensis, S. hamata), guinea-grass, guatemala, napier and kazungula are also grown frequently. The components are so intimately mixed in horizontal and vertical strata as well as in time, that a complex interaction exists among soil, plants, other aboveground and below ground components, nutritions and environmental factors. There is critical competition both for light and nutrition. The holder chooses his crops and crop combinations based on his wisdom, needs and
+
+1318
+
+perceptions acquired over generations of experience.
+
+Many multipurpose trees having productive and protective functions are integrated into the system in different spatial and temporal arrangements. Most of these trees closely interact with agricultural crops when grown. These trees include teak (Tectona grandis), jack-trees (Artocarpus spp.), Casuarina equisetifolia, Mangifera indica, Ceiba pentandra, Leucaena leucocephala, Grevillea robusta, Bambusa arundinacea, Erythrina variegata and Gliricidia sepium (both good support to black pepper). Thespesia populnea is common in low lying homesteads and the wood is commonly used for agricultural implements. Mangroves form an essential part of homesteads of backwater areas in lowlands. These are commonly used as fuelwood. Coconut and pandanus (Pandanus tectorius) can be commonly seen near canals and backwaters. Palmyrah palm (Borassus flabellifer) is common multipurpose palm in coastal Andhra Pradesh. Fish and shrimp culture in backwater channels and in association with mangroves is the main activity in homestead. Thus, multitude of crop species in the homesteads helps to satisfy primary needs of the farmer such as food, fuel, fodder, timber and cash. This in spite of high intensity of cropping, also helps to conserve fertility by nutrient cycling or organic manuring or mulching and increased microbial activity in the rhizosphere of crops. Among social benefits are—high family labour utilization and risk minimization. The use of waste materials for mushroom culture and feeding cattle, poultry, pigs, and fish results in efficient recycling of these wastes. This system also helps in checking soil erosion (due to high intensity of vegetation cover), environmental health and conserving biodiversity.
+
+Large cardamom plantations of eastern Himalayas
+
+Domestication of cardamom plantations under Alnus nepalensis from the earlier practice of its collection from the natural forests by indigenous Lepcha and Limbu tribes is an age-old agroforestry practice in eastern Himalayas. Besides Alnus nepalensis, which is a prevalent tree, there are 29 other tree species, viz. Schima wallichii, Prunus nepalensis, Quercus lamellosa supporting this plantation crop. Farmer’s tree management practices involve harvesting trees above 16 cm basal diameter to assist natural regeneration of younger tree seedlings and open canopy to regulate light at the ground. This tree-management system provides continuous supply of fodder and fuel-wood. The nitrogen-fixing trees help site improvement and better growth of cardamom. The tree management helps cardamom production also. With other fodder trees, lopping during November after maturation of cardamom and not allowing twigs to fall on it does not interfere with production and makes it an economically viable system.
+
+Alder-based agriculture in north-eastern India
+
+Alder (A/nus nepalensis) is grown in Nagaland to enhance soil fertility for growing maize, millets, potato, chillies, barley, pumpkin etc. Tribal people have exploited nitrogen-fixing capacity of alder to retain soil fertility. It is the main component of coffee and cardamom at lower and higher altitudes as a shade tree. At 6-8 years of its growth, tree is pollarded at a height of 2-2.5 m, its leaves and twigs are heaped on the ground and burnt, and the ashes are spread to enrich soil.
+
+1319
+
+AGROFORESTRY
+
+Plantation based cropping systems
+
+Modern commercial plantation crops like rubber, coffee and oilpalm represent a well-managed and profitable stable land-use activity in tropics. The scope for integrative practices involving plant associations in these commercial plantations is limited, except during the early phases of plantation when some intercropping is feasible, the commercial production of these crops is aimed at having a single commodity. Some of the plantation crops like coconut palm have been cultivated since very early times, but their economic yield remained low. However, the research attention and commercial yields of these crops have increased substantially.
+
+Contrary to popular belief, a substantial proportion of tropical plantation crops is grown by small-holders. Most of the coconut production in India, the Philippines, Sri Lanka and the Pacific Islands comes from small holdings, in which coconut-palm is integrated with a large number of annual and perennial crops like clove, cardamom, coffee, cacao, cassava, yams, fodder grasses and legumes. Grazing under coconut and cashewnut is also common. In India, Tanzania, Mozambique and Senegal, small holders grow cashew-trees (in wider space) with other crops.
+
+In the last two decades most of the data have come from coconut-based systems in India, related to intercropping under coconuts, integrated mixed farming in small holdings, grazing under coconuts, factors favouring intensification of land use with coconuts and multi-storey tree-gardens. Important cereals grown with coconut include tice, fingermillet and maize; pulses such as pigeonpea, greengram, blackgram, cowpea, soybean; oilseed crop such as groundnut; root crops such as sweet-potato, yams, elephant foot-yam and taro; spices and condiments such as ginger, turmeric, cinnamon, clove, chilies and black pepper; fruit like pineapple, mango, banana, papaya and bread- fruit; cash crops such as cotton and sugarcane, plantation crops such as arecanut, cacao and coffee; among improved pasture grasses species of Brachiaria, Dichanthium, Panicum, Setaria, Paspalum and Pennisetum; and improved forage legumes such as Stylosanthes, Desmodium, Glycine, Leucaena and Macroptilium. Many trees such as species of Erythrina, Cieba and Cordia find a place in the system.
+
+Scattered trees on farm lands
+
+The practice of growing agricultural crops under scattered trees on farm lands is quite old and does not seem to have changed for centuries. Though world-wide list ofsuch trees is long, some of them have received more attention than others, e.g. Prosopis cineraria in north-western India and Faidherbia albida in West Africa. The species diversity in these systems is very much related to ecology. With increase in rainfall, the species diversity and system complexity increases. Thus there is a proliferation of more diverse multistoreyed home-gardens in humid areas and less diverse, two tiered canopy of configurations (trees + crop) in drier areas.
+
+Trees are grown scattered in agricultural fields for many uses such as shade, fodder, fuel wood, fruit, vegetables and medicinal uses. Some of the practices are very extensive and highly developed in India. For example, growing Prosopis cineraria and Ziziphus in arid areas; Acacia nilotica in Indo-Gangetic plains; Grewia optiva and other tree species in Himachal Pradesh; Eucalyptus globulus in southern hills of Tamil Nadu and Borassus flabellifer in peninsular coastal regions. There are strong convictions for the acceptance of these trees on agricultural fields since time immemorial.
+
+1320
+
+1320 HANDBOOK OF AGRICULTURE
+
+Farmers retain trees of Acacia nilotica, A. catechu, Butea monosperma, Dalbergia sissoo, Mangifera indica, Ziziphus mauritiana and Gmelina arborea are preferred in Gujarat with crops. Farmers in subhumid terai region of Uttar Pradesh prefer Dalbergia sissoo, Syzygium cuminii and Trewia nudiflora. In Bihar, Dalbergia sissoo, Litchi chinensis and Mangifera indica are frequently grown on fields. Farmers in north- eastern region prefer Alnus nepalensis, Artocarpus chaplasha, species of Bambusa, Dendrocalamus, and fruits like Mangifera indica and Parkia roxburghii. In coastal areas of peninsular India, Borassus flabellifer is found scattered in fields of groundnut, rice and greengram. Every part of the palm is used by common man: the leaves for thatching, trunk as pillar or timber, fruit is roasted and consumed, the radicle of germinating seeds is roasted, a beverage (alcohol) is extracted from spadix, which is also used to prepare jaggery and vinegar. Other most common trees found on farmers’ fields are Azadirachta indica, Moringa oleifera, Tamarindus indica, Ceiba pentandra, Anacardium occidentale, Cocos nucifera and fruits like banana, custard-apple, guava and pomegranate.
+
+Trees on farm-boundaries
+
+Trees grown in agricultural fields are also often and usually grown on farm- boundaries. In northern parts of India, particularly in Haryana and Punjab, Eucalyptus and Populus are commonly grown along the field boundaries or bunds of paddy fields; other trees which are found grown as boundary plantations or live hedge include Acacia nilotica, Dalbergia sissoo and Prosopis juliflora. Farmers of Sikkim grow bamboo (Dendrocalamus) all along the irrigation channels. In coastal areas of Andhra Pradesh Borassus is the most frequent palm. In Andamans, farmers grow Gliricidia sepium, Jatropha spp. Ficus, Ceiba pentandra, Vitex trifolia and Erythrina variegata as live- hedges. At many places succulents like Agave and many cactoids are grown as common live-fence.
+
+Many of the boundary plantations also help as shelter-belts and wind-breaks, particularly in fruit orchards. In Bihar, Dalbergia sissoo and Wendlandia exserta are most common boundary plantations. Casuarina equisetifolia is extensively planted on field-bunds and along sandy coastal areas in Orissa.
+
+Wood lots
+
+In many parts, farmers grow trees in separate blocks as wood-lots along with agricultural fields. Now the practice is expanding fast due to shortage of fuel-wood and demand of poles or pulp-wood in industry. For example, bamboo poles are in great demand for orange orchards in Nagpur area and Eucalyptus and Populus for WIMCO Industries. These days wood-lots are being raised mostly on large farms due to increase of labour costs and labour management, lack of irrigation and risk of crop investments. Wood-lots of Casuarina, bamboo, poplar, Eucalyptus, Leucaena leucocephala, red sandal (Pterocarpus santalinus) and Dalbergia sissoo have become popular in many parts of the country.
+
+Systems for soil conservation or amelioration
+
+; About 150 million ha of land in India is subject to serious wind and water erosion, of which 69 million ha are critically affected. About 4 million ha is suffering from
+
+1321
+
+AGROFORESTRY
+
+degradation due to ravines and gullies, 11.3 M haas riverian land, coastal sandy areas and steeply sloping lands and more than 9 million ha is salt affected. The deep and narrow gullies are best controlled by putting them to permanent vegetation after closure to grazing. Afforestation with suitable tree species like Acacia nilotica, Azadirachta indica, Butea monosperma, Prosopis juliflora, Dalbergia sissoo, Tectona grandis, Bambusa spp. and Dendrocalamus and other adaptable species such as grasses like Dichanthium annulatum, Bothriochloa pertusa, Cynodon dactylon and Sehima nervosum will help in stabilizing ravines and gullies and checking their spread. The beds of rivers may be stabilized by grasses like Vetiveria zizanioides and Saccharum bengalense and trees like Terminalia arjuna, Eucalyptus and Casuariana equisetifolia have helped in stabilizing coastal sand-dunes. Acacia tortilis, A. nilotica, A. senegal, A. jacquemontii, Prosopis cineraria, P. juliflora, Azadirachta indica, Albizia lebbeck and Senna siamea have been found suitable for afforestation of sand dunes in arid regions along with grasses like Cenchrus ciliaris, Lasiurus sindicus and Saccharum benghalensis. These have been found effective in arresting drifting of soil, which was as high as 1,450 tonnes/ha. The salt-tolerant tree species were used for grazing and shade. Salvadora oleoides, Capparis decidua, Tecomella undulata, Ziziphus nummularia, Prosopis cineraria and Acacia nilotica are common trees of arid lands. In recent times due to increase in population pressure these wood-lots have shrunk at a fast rate.
+
+Shelter belt
+
+Arid regions witness very high wind velocity throughout the year. Farmers build shelter-belt (kana bandi) by either small dead wood or local vegetation to check wind velocity within safer limits. Crotalaria burhia, Leptadenia pyrotechnica and Aerva pseudotomentosa bushes are planted in 20-25 m apart rows across the wind direction. Between the lines of these shrubs, grasses such as Cenchrus ciliaris, C. setigerus, Lasiurus sindicus are planted on leeward side of each break. This permanent vegetation helps accumulate sand near them, which. is again spread in the field. This also helps increase crop yields along the lines.
+
+Trees on rangelands
+
+As pointed out above, Salvadora oleoides, Capparis decidua, Acacia nilotica, A. leucophloea, P. cineraria, and now Prosopis juliflora also are most frequent trees on common community grazing lands. In tropics coconut is most common tree on pasture lands. Cattle raising usually involves grazing on these pastures. In some cases special fodder plants including legumes are also cultivated.
+
+Aqua-forestry
+
+Throughout the coastal regions (more evident along Andhra coast) farmers are cultivating fish and prawn in saline water and growing coconut and other trees on bunds of ponds. These trees help in producing litter-feed to fishery and generate extra income to farmers. Now fish culture in mangroves is also advocated, which forms a rich source of nutrition to aquatic life and breeding ground for juvenile fish, prawn and mussels. Poultry is another adventure in some of these regions. A well-balanced system of animal husbandry including goatry, poultry, duck-farming,
+
+1322
+
+1322 HANDBOOK OF AGRICULTURE
+
+turtles and fishes in the small ponds in home-gardens make a balanced system of high moisture, energy and nutrient-use efficiency per unit area. The leaves of many leguminous trees, Gliricidia sepium, Leucaena leucocephala, Moringa oleifera etc. have been found to serve as good fish feed when offered as pellets and improved its productivity.
+
+Apiculture with trees
+
+The coastal population has been harvesting honey from bees making hives on trees. Apiculture is now considered a profitable profession in many other parts. People are interested to go for this business by selecting different kinds of plantations. The forest trees are preferred for apiculture. Its scope is more prominent in the agroforestry system with high floral diversity.
+
+Suitable areas for agroforestry
+
+The following types of lands can be assigned for agroforestry
+
+Cultivable land =
+
+Field boundaries
+
+Along with farm roads, rivers, canals and nallah sides affected by erosion.
+
+Pockets within cultivated holding where cultivation is not possible
+
+. Old fallows
+
+Cultivable waste
+
+Other areas like community or panchayat land in which agroforestry can be incorporated.
+
+Suitable tree species for agroforestry
+
+The selection of tree species should be such that cultivation of arable crops traditionally grown on that site can be continued under the new system. Often initial selection of the tree species is made on the basis of their ability to generate higher cash income. At the later stage, after establishment of trees, new crops may be introduced that can adopt better with the existing tree species. Farmers generally do not like to change their old farming system due to strong link with their socio-cultural traditions. Such changes can take place gradually, when income level of the farmers increases and they start generating cash surplus.
+
+The following should be kept in view while selecting species.
+
+(4) Suitability for growing under prevalent agroclmatic conditions, (ii) Utility of trees for meeting needs of farmers for timber, fodder, fuel, fruit and fibre etc., (iii) Preference may be given to indigenous and fast-growing species, and leguminous and other nitrogen-fixing species. Species that provide raw material for cottage industries should be encouraged.
+
+Type of tree species
+
+Though primary concern is to keep up production level of the arable crops, the following criteria are worth considering for planting trees under agroforestry system: Non interference with arable crops; Easy establishment; Fast growth and short gestation period; Non-allelopathic effects on arable crops; Ability to fix atmospheric nitrogen; Easy decomposition of litter; Ability to
+
+withstand lopping; Multiple use and high returns; and Ability to generate employment.
+
+Tree species based on specific utilization purpose
+
+Fodder-cum-fuelwood species: Albizia amara, Albizia procera, Albizia lebbeck, Ailanthus sp. Erythrina indica, Gliricidia sepium, Hardwickia binata, Leucaena leucocephala, Pithecellobium dulce, Prosopis cineraria, Sesbania grandiflora, Sesbania sesban.
+
+Fuel-wood and timber species: Acacia nilotica var. cupressiformis, Acacia nilotica, Albizia lebbeck, Albizia procera, Azadirachta indica, Senna siamea, Casuarina equisetifolia, Dalbergia sissoo, Dendrocalamus strictus, Pongamia pinnata, Melia azadirach, Parkinsonia aculeata, Thespesia populnea, Hardwickia binata, Tectona grandis etc.
+
+Softwood and pulpwood species: Ailanthus excelsa, Ailanthus tryphysa, Bombax ceiba, Anthocephalus cadamba, Paraserianthes falcataria, Populus deltoids., Bamboo species etc.
+
+Fruit and vegetable species: Annona reticulata, Annona squamosa, Artocarpus heterophyllus, Emblica officinalis, Moringa oleifera, Madhuca indica, Mangifera indica, Ziziphus mauritiana.
+
+Farmers prefer trees having multiple uses such as timber, fuelwood, fodder, food, medicines therefore these are commonly known as multipurpose trees. Owing to their wide use in agroforestry systems, higher preference is being given to MPTs nowadays.
+
+Multipurpose trees
+
+Multipurpose trees (MPTS) are more or less an integral part of agroforestry systems which have been defined as “Multipurpose trees and shrubs are those which are deliberately grown or kept and managed for preferably more than one intended use, usually economically and/or services in any multipurpose land-use system, especially agroforestry systems”. Multipurpose trees provide various uses such as food, fodder, timber, fuelwood, medicines, resins, gums, etc. Besides, these also provide some indirect benefits such as biological nitrogen fixation, vescicular arbuscular mycorrhizal symbiosis, reduction in soil erosion and increase in water percolation in the form of environment improvement.
+
+Suitable multipurpose tree species for locations having different rainfall distribu- tion
+
+India is characterized by having wide range of rainfall in its various parts. Suitable multipurpose tree species according to rainfall distribution are given in Table 36.6.
+
+Rotation cycle of multipurpose trees
+
+On the basis of life-cycle (rotation period), multipurpose trees have been classified into six classes (Table 36.7).
+
+Leaves of many trees have good nutritive value as well as palatability and these are used as fodder therefore these trees are known as fodder trees. Their value is more
+
+1324
+
+prominent in the dry arid plains and high altitude of Himalaya where fodder becomes scarce during the lean periods. Being rich in nutritive value they are also called Top Feed.
+
+Fodder trees
+
+Feed provides energy, protein, fat, carbohydrate, vitamins and minerals to animals to stay alive and to perform their routine activities. Grasses, tree foliage, straw, tuber etc. are used as feed. As tree component is generally included in agroforestry systems, which also includes various fodder providing trees to get tree fodder especially during the lean period. Besides tree fodder some other agroforestry products are also used as a component of feed formulations and many of these are not yet properly evaluated for their potential to become a part of regular diet of animals/poultry birds. It has been estimated that fallen leaves, flowers, fruits, seeds, etc. available in various agroforestry
+
+1325
+
+AGROFORESTRY 1325
+
+systems can make up more than 50% of complete feed for ruminants and about 10% in feed of non-ruminants. Tree fodders are able to provide fodder in terms of the amount and nutrients, but presence of antinutritional in many of them makes them unfit for sole use. There is a need to utilize tree fodder/feed optimally and in combination with other commonly used fodder/feed. Table 36.8 contains list of some trees having
+
+1326
+
+(Table 36.8 concluded)
+
+*All naturally occuring toxicants/anti-nutritional compounds are not being listed. The list does not cover all plants having toxicants/anti-nutritional compound.
+
+potential to provide foliage/feed. But monogastric animals such as pig are not able to digest low quality forage such as straw and tree fodder.
+
+Tree foliage have potential to provide high protein biomass, energy in the form of carbohydrates and fats (depending upon lignification of foliage), essential mineral nutrients. They are integrated with other food resources, however their suitability as components of ruminant fibrous diet depends upon following conditions.
+
+* regeneration ability and capability at the time of harvesting/grazing
+
+* adaptability of fodder trees to the local condition and their potential to become weeds
+
+¢ the growth pattern of fodder trees/shrubs in various agroforestry systems
+
+¢ the required nutrient status and pH of soil for the growth of these trees/shrubs
+
+* the nutritive values of tree foliage and its changes with grazing, harvesting, cultivation/storage :
+
+* the feeding behaviour of animals towards tree foliage
+
+There are many inherent problem with the use of tree fodder and among those the most prominent is the presence of various types of anti-nutritional compounds in varying quantities in different trees and shrubs such as alkaloides, flavonoides, isoflavones, lignin, polyphenoles, saponins, terpenoides etc. Climatic factors also influence occurrence of some of these compounds therefore the use of some species is safe in one region may not be safe in other region. The toxic nature and tolerance level of these compounds are species or breed specific. The sun-drying also decreases toxicity of many antinutritional compounds. The use of tree fodder as a feeding mixture of different feeds with or without drying reduces risk of toxicity of these compounds. The main antinutritional compounds are given in Table 36.9. Due to usefulness tree foliage/feed should be used, but the presence of antinutritional compounds whose toxicity may be animal specific and/or region specific suggests that these foliage/feed should be used cautiously, with keen observation and considering current practices/ indigenous knowledge and of course new research development in this field.
+
+Priority for selection of species
+
+After screening of species to suit agroclimatic conditions, the next aspect is
+
+1327
+
+AGROFORESTRY
+
+* Simple soaking, washing and boiling with water can remove up to 80% of tannin.
+
+Removal/inactivation of tannin in teak leaves by 4% lime treatment has been observed.
+
+Certain absorbent such as poly vinyl pyrrolidone (PVV), poly
+
+(Contd...)
+
+1328
+
+(Table 36.9 concluded)
+
+*It is advisable to consult nearby State Agricultural University/ICAR Institute/Krishi Vigyan Kendra before using methods of detoxification. The information mentioned in the table is indicative.
+
+profitability. Ideally the production of crop plants should not be affected. Rich farmers are able to take bold decisions but not small farmers, who like to earn more money but not at the cost of reduced food production. This is because home-grown food is the main source of subsistence and failure to harvest an adequate quantity of grains severely threatens their subsistence. Uncertainties about marketing of wood can be greatly reduced by establishing a suitable marketing network to handle agroforestry produce.
+
+Selection of crops
+
+To obtain full utilization of environmental resources and to increase economic benefits, an appropriate crop should be interplanted with or after the establishment of tree plantation in accordance with site and climate. During initial years of establishment crops that require sufficient amount of sunlight are interplanted between tree species. As the tree grows and their crown enlarges, causing considerable shade on the floor, especially during growing season, then some shade-tolerant crops or medicinal plants such as ginger, turmeric and elephant foot-yam are selected for underplanting. High light requiring crops should be avoided.
+
+Agroforestry applications
+
+Farming system
+
+Agroforestry is a practise of natural resource management. So technologies related
+
+AGROFORESTRY
+
+to integrated production systems involving crops, livestock, perennials and fisheries need to be addressed with changing economy. The value of commerce in agriculture would be appreciated, and farmer’s decision on land use would be increasingly based on the comparative advantage rather than on subsistence needs of the farm household. Therefore a major shift might be expected in agricultural production through diversification. These shifts in production system will get further boost because of integration of world markets, urbanization and rising personal incomes. Further, to design appropriate farming systems suited to diverse farming situations, farmers’ participation beginning from planning till execution of research programme will be inevitable, and they would actually participate in research efforts.
+
+Resource conservation
+
+Watershed management is an approach for area planning based on conservation of natural resources, especially land, water and plants, to meet socio-economic needs of the human society. The watershed management plan for treating different parts should be decided by simple measures for protection of the resource-base and created assets, improvement of productive system, generation of employment opportunities and ensuring higher income on a recurring basis. Degraded land because of many limitations can only be improved through agroforestry, which controls erosion, reduces run-off, improves in-situ soil-moisture conservation, increases water-table and also improves productivity as well as profitability. Researches involving agroforestry are still required on many areas like watershed hydrology, control of sedimentation, situation- specific cost-effective technologies, production of fodder, forages, industrial grasses and medicinal plants for quick-return and livestock improvement programme for harnessing maximum benefits from limited biomass.
+
+Carbon sequestration
+
+The Third Assessment Report of Inter-Governmental Panel on Climatic Change (IPCC) asserts that the earth’s climate is changing and that its impact will be great on developing countries. India is a signatory to the Kyoto Protocol (1997), which asserts that the country will play an important role in mitigating effects of global warming. Use of agroforestry systems, as mitigation strategy, is a key through a major opportunity for carbon sequestration. Concerted efforts are required to identify practical cost-effective means through changes in land-use practices using agroforestry as an option.
+
+Biodiversity conservation
+
+It is established that India is having rich vegetation with good biodiversity. According to the Government of India report, biological diversity is estimated to be over 45,000 plant species and 810,000 animal species, representing 7% of the world flora and 6.5% of world fauna. Agroforestry innovations contribute to bio-diversity conservation through integrated conservation-development approach. Forest degradation has caused immense losses to biodiversity, which can be conserved through agroforestry by adopting a strategy of conservation through use.
+
+Improvement in soil fertility and structure
+
+Plantation of compatible and desirable species of woody perennials on farmlands
+
+1330
+
+1330 HANDBOOK OF AGRICULTURE
+
+can result in improvement in soil fertility. There are several possible mechanisms of this, which include (i) Increase in organic matter content of soil through addition of leaf litter and other plant parts; (ii) More efficient nutrient cycling within system and consequently more efficient utilization of nutrient that are either inherently present in soil or externally applied; (iii) Biological nitrogen fixation and solubilization of relatively unavailable nutrients, e.g. phosphate through activity of mycorrhiza and phosphate-solubilizing bacteria; (iv) Increase in plant-cycling fraction of nutrients, with their resultant reduction beyond the nutrient-absorbing zone of soil; (v) Complementary interaction between component species of system, resulting in a more efficient sharing of nutrient resources among components; (vi) Enhanced nutrient economy, because of different nutrient-absorbing zones of root system of component species; (vii) Moderating effect of additional soil-organic matter on extreme soil reactions and consequently improved patterns of nutrient release ability.
+
+Improvement in organic matter status of the soil can result in an increased activity of favourable microorganisms in root zone. In addition to nutrient relations, such microorganisms may also produce growth-promoting substances through desirable interaction and cause commensalistic effects on the growth of the plant species. Inclusion of trees and woody perennials on farm lands can, in the long run, result in marked improvements in physical conditions of the soil.
+
+The influence of trees on hydrological characteristics can extend from microsite to farm and regional levels. Although effect of water-use by a tree component on water availability to crop-plants in different climates is not yet fully understood, there is evidence that hydrological characteristics of catchment areas are favourably influenced by trees.
+
+Criteria for good agroforestry design
+
+A good agroforestry design should fulfill following criteria: (i) Productivity: There are many ways to improve productivity with agroforestry: increased output of tree products, improved yield of associated crops, reduction of cropping-system inputs, increased labour efficiency, diversification of production, satisfaction of basic needs and other measures of economic efficiency or achievement of biological potential. (ii) Sustainability: By seeking improvements in sustainability of production systems, agroforestry can achieve its conservation goals while appealing directly to motivations of low-income farmers, who may not always be interested in conservation for its own sake. (iii) Adoptability: No matter how technically elegant or environmentally sound an agroforestry design may be, nothing practical is achieved unless it is adopted by its intended users. This means that technology has to fit social as well as the environmental characteristics of the land-use system for which it is designed.
+
+Agroforestry research: important parameters
+
+1. Tree density: Number of trees/ha
+
+Tree rectangularity: In agroforestry experiments row-to-row distance should be in 2. east-west direction and tree-to-tree distance in north-south direction. This will give tree rectangularity of 1 or more than 1, which is essential for proper utilization of light in agroforestry;
+
+3. Tree arrangement: Whether in a given rectangularity, trees of adjacent tree rows are opposite one another, i.e. a square arrangement, or are offset in some way.
+
+1331
+
+AGROFORESTRY
+
+Main differences between agriculture and agroforestry systems
+
+There are several features of agroforestry systems that necessitate modification of measurement methods in agriculture.
+
+1. Presence of interfaces: Intercrop performance is not expected to be uniform across the crop area due to tree or crop interactions. Crop next to a tree or hedge will differ from one not subjected to the influence of the tree.
+
+2. Time: All agroforestry systems have to be monitored over a longer time because the effects of tree component change over time and take several years to become apparent.
+
+3. Large plot size: Large area is needed to establish agroforestry systems and also larger variability in crop performance is expected. The spatial variability in crop yields is expected to be larger than in sole crop on the same site because of competitions between the components and because the complexity of the system makes it harder to apply uniform management practices.
+
+4. Border effects: There is typically greater interaction with the area outside the unit, because a tree can extend its influence through radiation over a much greater distance. If an edge effect is caused by the treatment applied to the same plot or the presence of uncropped path between the plots, it is referred to border effect. In general, border effect is easier to identify and quantify than neighbour effect.
+
+5. Neighbour effects: If the edge effect is caused by the treatment applied to the neighbouring plot, it is referred to as neighbour effect. It may act in all directions. Neighbour effects involve the interaction of two plots, they are essentially more complex and more difficult to estimate. Neighbour effect can be particularly important in nutrient and irrigation experiments because of tree height, which influences the neighbouring plots through variable quantity and quality of light. The majority of research papers generally discuss fertilizer and irrigation experiments only while discussing neighbour effects.
+
+Design requirements
+
+Design feature changes according to the aim of the experiment and the environment in which it is done. Variations caused by environmental features and influence of farm management will cause major differences in design and analysis requirements. However, some important design requirements are common to all studies, and some major features related to agroforestry experiments are highlighted as follows.
+
+Clear objectives: The kind of lay-out used in agroforestry experiments will depend on the precise research objectives and resources available, including extent and nature of site. The objectives must be clearly defined so that correct sampling procedures can be chosen. In simple, one-species annual crop trials it is important, though sometimes difficult, to specify clearly objectives. When experiments are complex, multi- disciplinary and lengthy in time, their objectives need to be specified very clearly so that they may be achieved consistently and with desired precision.
+
+Control of variability: Designs of any long-term trial should aim to maintain control of both spatial and temporal variabilities and to minimize input resources. Even relatively short-term experiment such as forestry trials need to be designed to ensure adequate estimation of treatment effects if environmental influences change in time. When genetic, environmental and management factors are considered separately, the
+
+1332
+
+1332 HANDBOOK OF AGRICULTURE
+
+patterns in variability caused by trees, plots, experimental blocks, farms and regional locations are found different in relation to each other. Environmental changes in time due to tree component need to be determined. Various agroforestry tree species are of different sizes, shapes and growth habits. Therefore in an experiment designed to test different species, it may be sensible to test similar tree species in separate experiments.
+
+Sampling strategies: To ensure unbiased data, a sampling strategy needs to be determined both in space and time. In agroforestry experiments, various plot sizes are used. An understanding of likely changes in plot variability in time would help determine appropriate initial plot sizes.
+
+Good trial management: Care in design, sampling, management and data recording is needed together with commitment to ensure good results, proper interpretation and publication. The choice of data and sampling procedure must be the same at each measurement date.
+
+Choice of indicator: Indicator type clearly depends on the research objectives and on the type of research, but also it must be meaningful to farmers. For example, if effects of different treatments on intercrop of wheat in an agroforestry experiment are to be determined, the days taken after sowing for ear emergence can be a useful indicator to quantify effect of these treatments during vegetative stage of intercrops. Similarly, days taken for intercrop maturity after flowering can be another indicator to quantify effects of treatments during reproductive phases of intercrops.
+
+Scale and frequency: In agroforestry trials for the question of how often the data of tree component should be measured, an initial response is to measure annually, but depending upon facilities and chosen variables it may be necessary to measure once before sowing and another after intercrop harvesting.
+
+Tree-crop interactions
+
+The definition of agroforestry implies that this land-use system must involve two or more plant species, at least one of which must be a woody perennial. When perennial woody and herbaceous components are grown together on the same piece of land, their performance would largely depend on their ability to share various growth resources in a given environmental situation. Due to difference in growth pattern and resource requirement of the components in agroforestry situation, interactive relation is obvious, which could be of various kinds. The success of an agroforestry system relies heavily on the exploitation of the component interactions.
+
+Component interaction refers to influence of one component of a system on the performance of the other components as well as the system as a whole. In an ideal relationship, production of trees as well as crops or grasses in combination could be comparable to their sole performance.
+
+Agroforestry could be even more advantageous if production of associated components increases due to influence of trees. This is possible because trees are capable of improving productivity of soil in many ways. A large number of trees are known to fix nitrogen symbiotically. Substantial improvement in organic matter and nutrient content was noted under Prosopis cineraria in arid regions. Thus positive role played by tree component could be beneficial to productivity of crop component grown along with trees. Similarly other species could be lopped to provide more sunlight.
+
+Nevertheless, instances of crop inhibition in association of trees are not uncommon.
+
+1333
+
+AGROFORESTRY
+
+Such inhibitions are primarily caused by shade effects as well as competition from below-ground resources such as nutrients and water. In some cases inhibitory effect may also result from allelochemicals secreted by some of the tree species.
+
+Nature of interactions
+
+The nature of interactions between two components can be described on the basis of the observable net effect of one component on the other in the system. In ecological literature, the types of interactions in two-species population have often been described by such terms as commensalistic (positive effect on species one and no observable effect on species two), amensalistic (negative effect on species one and no effect on species two), monopolistic, predatory or parasitic (positive effect on species one and negative effect on species two), inhibitory (negative effect on both species) and synergistic (positive effect on both species). In agroforestry systems these concepts of observable net effects can be expressed by terms such as complementary, supplementary and competitive.
+
+The basic principle deciding the nature of interactions depends upon the ability of different components to capture and use the most limiting essential growth resources effectively. The capture of the limiting resource (e.g. light, water or nutrients) depends on the number, surface area, distribution and effectiveness of the individual elements within the canopy or root system of the species or mixture involved. The use of the acquired resources depends on the conversion coefficient of the species involved and environmental influences such as temperature extremes or drought.
+
+Complementary: In a system if the tree and the crop component help each other, by creating favourable conditions for their growth in such a way that the agroforestry system provides a greater yield than the yield of their corresponding sole crops, the interaction between the components is complementary in nature. The over-yielding in intercropping systems may occur even when crop yield is reduced by associated tree species, depending on the management and population of the two species. The complementary interaction is of two types, viz. spatial and temporal. When comple- mentarity is achieved simply by varying proportion of desired species, it is known as spatial complementary interaction. In this, the geometry of the system is altered by changing spacing and density of the components. Therefore under complementary association the proportion of each species can be modified to suit one’s requirements without any sacrifice. When two species complement each other, the capture of the major limiting growth resources by the mixture always exceeds that by the corresponding sole stands.
+
+The two components complement cach other by more effective use of growth resources by utilizing them at specific times due to difference in growth pattern and resource requirement. Indeed, there are substantial opportunities for temporal complementarity if species make their major demands on available resources at different times, thereby reducing possibility of competition. For example, in poplar and wheat system, when wheat requires more sunlight poplar is leafless, thus reducing competition between themselves.
+
+Supplementary: \f two components interact in such a way that yield of one component exceeds yield corresponding to its sole crop without affecting yield of the other component, the interaction is known to be supplementary. Therefore, there will
+
+be an additional yield from one of the components; thus the overall yield of agroforestry system will be more than of the sole crops of both the components. For example, if the forage yield from a tree is 20 kg/tree and crop yield is 2 tonnes/ha when grown separately but under agroforestry, the forage yield from the tree increased to 30 kg/ tree without any reduction in crop yield, the interaction is supplementary in nature. In this interaction one component is maximizing its resource utilization without limiting it for the other component.
+
+Competitive: In this system the tree and crop components interact in such a way that increase in the yield of one component leads to decrease in yield of other component due to competitive interaction. As in the example for supplementary interaction, if the forage yield of tree increases to 30 kg/tree but crop yield is reduced to 1.5 tonnes/ha or the crop yield increases to 2.5 tonnes/ha but forage decreases to 15 kg/tree, the interaction is competitive in nature. The intensity of competition is greatest when site requirements are similar, and growth and development proceed synchronously for both the components. Therefore the opportunity for complementarity of resource use between the components is restricted by the fact that all plants are competing for the same, usually finite, resources (light, CO,, water, nutrients). Thus there is extensive overlap between species in their resource requirements, resulting in a severe competition. To reduce competition in an agroforestry system, the tree and crop components should be selected in such a manner that they can utilize finite resources at different times and show different growth and development phases from each other. In this way these components will complement each other rather being competing.
+
+Factors affecting interactions
+
+The interactive relations among components of agroforestry are affected by many factors such as choice of species, density and age of trees, site factors and management practices.
+
+Effect of species: The growth pattern varies from species to species and accordingly affects relationship with associated components. Some crops may perform better in association with a particular tree component, whereas the yield of other crops may reduce with the same tree component, because different crops interact differently with the same tree component. For example, the studies conducted at the National Research Centre for Agroforestry, Jhansi, revealed that reduction in yield of chickpea was more than of wheat when grown in association with different multi-purpose tree species. Similarly, reduction in blackgram yield was more than that of greengram when grown in association with bamboo. Similarly, forage production of Cenchrus ciliaris, Sehima nervosum and Chrysopogon fulvus was 7.9, 7.4 and 5.7 tonnes/ha in association with Albizia lebbeck. It is not only that different crops exhibit differently with same tree species but also same crop may be affected differently by different tree components. Grass yield was higher under Prosopis cineraria compared to that under Tecomella undulata, Albizia lebbeck and Acacia senegal. Studies have showed that yield of wheat under Dalbergia sissoo was comparable to that of control plot, whereas under Populus deltoides, Eucalyptus citriodora and Bombax ceiba, it was considerably lower.
+
+Effect of density: Canopy cover of trees intercepts light depending upon the density of trees and consequently affects performance of undergrown crops. Generally yield of undergrown crop decreases with increasing density of trees. The characteristics of
+
+AGROFORESTRY 1335
+
+undergrown crop species will also determine impact of canopy cover. Clusterbean yield improved considerably by coppicing Holoptelea integrifolia but yield of greengram (mungbean) did not change appreciably.
+
+Light is not the only factor altered by the presence of trees. Trees also modify microclimate of crops grown below and improve physical conditions and fertility of the soil. Thus an increase in tree density should accrue some benefits while increasing competition for other resources at the same time. Therefore, optimum density in agroforestry would vary with variation in the components. In a silvi-pastoral study in which Acacia tortilis and Leucaena leucocephala were planted at two densities (4-4 m and 4-6 m), forage production of Cenchrus ciliaris was higher at wider spacing than at the closer ones in Acacia tortilis and with Leucaena leucocephala the reverse was true. Similarly, higher grass yield was observed under widely spaced Hardwickia binata and Colophospermum mopane but not in the case of Acacia tortilis. When density of Ziziphus spp. (Z. nummularia and Z. rotundifolia) was varied from 70 to 280 plants/ha, the dry-forage yield of Cenchrus ciliaris was highest at 210 plants/ha of Z. nummutlaria. The grass yield did not vary under Z. rotundifolia.
+
+Effect of age: The demand for various growth resources and therefore competition offered by the components would be affected by age and growth of the components. Tree takes long time to attain full size and stature, and thus no competition might be offered to crops grown in inter-row space initially. Nevertheless, as the trees grow, their effect on crop growth becomes apparent. For example, the clusterbean yield was suppressed by Faidherbia albida in the third year of growth, though Prosopis cineraria did not affect crop yield even in the third year. The root studies revealed that horizontal spread of roots in Faidherbia albida and fast shoot growth were the reasons for reduction in crop yield.
+
+Due to slow growth of trees initially, even crop or grass component may dominate and affect tree growth. For instance, when Acacia tortilis seedlings were grown with Cenchrus spp., the growth of tree seedlings depressed for first 3 years, but later they acquired better growth rate. Similarly, Ziziphus spp. (Z. nummularia and Z. rotundifolia) in initial years could not withstand competition from established pasture of Cenchrus ciliaris grass, however, once Ziziphus bushes attained good growth in 2 years, Cenchrus pasture was not affected in its growth.
+
+Effect of site factors: Climatic, edaphic and physiographic features of an area affect plant growth, which varies in different species and consequently interactive relationship of component species in an agroforestry system also varies. For example, a silvi- pastoral study was conducted at three sites, the first site was located at the Central Research Farm of the IGFRI, Jhansi, the second represented heavily grazed eroded plains, and the third represented ravine tract with saline-sodic soil. The results of pasture-production studies revealed that pasture species could not establish at all at the third site. At the first site highest mean forage yield was recorded in association with Leucaena leucocephala and at the second site, it was lowest in this combination. The reverse was true for the association of Albizia amara at the two sites.
+
+Variations in rainfall also affect interactive relation of the components. In a study, grass production was recorded below four tree species for 5 years with considerable variation in rainfall. In a year of high rainfall, the grass production was highest below Tecomella undulata, and in a low-rainfall year, it was maximum under Albizia lebbeck.
+
+1336
+
+Effect of management: Various management practices may be adopted to favourably alter interactive relationship in agroforestry situation. Several characteristics could be identified as desirable attributes for trees in agroforestry systems; but often it is not possible to choose trees with all these characteristics due to various reasons. Whenever a tree species with all the desired characteristics is not available, tree crowns and roots can be manipulated through management operations, mainly by pruning and thinning. For fodder tree species, lopping done for harvesting forage periodically can at the same time increase light availability to undergrown crops and improve their performance. For example, considerable reduction has been observed in yield of greengram and clusterbean below unlopped Holoptelea integrifolia trees, but lopping resulted in their production to be comparable to open grown crops. Other common management operations such as fertilization, application of mulch and manure and cut-and-carry fodder systems can also be used. The different manipulations can be grouped as growth- enhancing or growth-reducing according to their effect on the targeted component.
+
+Summary of different management options: To manipulate growth of components in agroforestry systems, management options to achieve increased growth are: (2) microclimate amelioration, (ii) fertilization, (iii) application of mulch or manure, (iv) irrigation, (v) soil tillage, (vi) adapted species, and (vii) supplemental feeding; and for decreased growth are: (i) pruning, (ii) pollarding, (iii) root pruning, (iv) trenching, (v) excessive shading, (vi) herbicide, and (vii) grazing or browsing.
+
+The goals of management practices should be to increase production of the desired products and to decrease growth of the undesired components. In many cases one cultural treatment will accomplish both goals simultaneously, e.g. for pruning trees in alley cropping and applying biomass to the soil. Though pruning will reduce tree’s competitive ability, it will also increase growth of the associated intercrop by providing green manure and by allowing more light to penetrate to crop.
+
+Under conditions of severe below-ground competition, root pruning operations or trenching may eliminate, or at least strongly reduce negative effects of the trees on the intercrop. In an alley-cropping system with Leucaena leucocephala it was demonstrated that construction of root barrier eliminated completely any yield reduction of cowpea, castor and sorghum grown in the 10 m wide alleys. Similarly, separation of 15-year- old tree rows of Dalbergia sissoo and Acacia nilotica by long trenches resulted in 21 and 68% improvement in yield of cotton and tobacco in respective combinations. Trenching also lowered moisture use by crops.
+
+In poorly fertile soils, addition of fertilizer enhances productivity of components. In a trial conducted at the CAZRI, Jodhpur, application of N and P fertilizers positively influenced production of grasses below trees. The effect was more pronounced for Chrysopogon fulvus compared to other grasses, viz. Cenchrus ciliaris, Cenchrus setigerus and Sehima nervosum. The tree species were Prosopis cineraria, Acacia tortilis and Albizia lebbeck.
+
+Types of interactions
+
+The major types of interactions between tree and crop components in an agroforestry system can be classified as positive (beneficial) and negative (harmful). The balance between these positive and negative effects determines overall effect of interactions in a given agroforestry system. An understanding of the place (where) and manner of
+
+1337
+
+AGROFORESTRY
+
+occurrence of (how) interactions indicates the possible system-modification domains that can be addressed through management activities. However, such a separation of interactions is arbitrary, because processes are interdependent, and manifestation of their effects will be influenced to a greater extent by environment.
+
+The relative importance of each effect will no doubt depend on both the types of agroforestry systems and site factors. For example, the effects of soil-fertility enrichment by agroforestry will be less obvious if fertilizer input is high.
+
+Positive interactions
+
+The major types of positive interactions at the tree-crop interface are those relating to microclimate amelioration and nutrient balance.
+
+Increased productivity: There is ample evidence to show that overall (biomass) productivity of an agroforestry system is generally greater than that of an annual crop system. The basis for potentially higher productivity could be due to capture of more growth resources, e.g. light or water or due to improved soil fertility. The provision of shade due to trees leads to a net effect of complex interactions resulting into microclimate amelioration, thus affecting transpiration rate, photosynthesis and energy balance of associated crops. All these factors may translate into increased productivity from the system.
+
+Improved soil fertility: The potential for micro-site enrichment by some trees is an extremely important aspect of agroforestry, which has received considerable attention. Many examples of soil-fertility improvement are based on the traditional agroforestry systems that have been established for many years. For example Faidherbia albida in West Africa, Prosopis cineraria in Rajasthan and Pinus caribea in savanna are known to accumulate mineral nutrients due to the process of capture of precipitation or nutrient- rich litter. But in traditional systems ability of trees to contribute directly to fertility enrichment is likely to be small at first, since they are very slow growing until they have reached a considerable size. But relatively new concept of alley cropping using fast growing, nitrogen-fixing trees, e.g. Leucaena leucocephala and Gliricidia sepium, in the humid tropics can substantially increase soil fertility in 2-3 years. A major feature of this system is the capacity of the trees to produce a large quantity of biomass for green manure and the need for regular pruning to prevent shading.
+
+Nutrient cycling: Soil nutrients are considered among the least resilient components of sustainability. A fundamental principle of sustainability therefore is to return the soil nutrients removed from it through harvests, run-off, erosion, leaching and other loss pathways. In agroforestry trees provide additional nutrient inputs via biological nitrogen fixation (BNF) and deep nutrient capture. Although the magnitude of BNF is methodologically difficult to quantify, empirical evidences such as the presence of active nodules and nitrogen uptake of leguminous species suggest that BNF can supply considerable nitrogen inputs to crops via litter in soils sufficiently well supplied with phosphorus.
+
+Deep nutrient capture is the uptake of nutrients by tree-roots from depths where crop roots are not active. It can be considered an additional nutrient input in agroforestry systems, because such nutrients are leached as far as the crop is concerned.
+
+Soil conservation: Contour hedge-rows have consistently been demonstrated to be highly effective in controlling soil erosion even in as little as 18 months. The woody
+
+1338 HANDBOOK OF AGRICULTURE
+
+hedge-rows provide a semi-permeable barrier to surface movement of water, and mulch from trees reduces impact of rain drops on the soil and minimizes splash and sheet erosion.
+
+Water conservation: The presence of trees has positive effect on water budget of the soil and crops growing between or beneath them. For example, in a study, the water content of the top 0.1 m of soil on the farm was having higher moisture content under Erythrina spp. than in open field or under Cordia spp. during dry season. The light transmission through the canopy of Erythrina was only 40%, though Cordia was leafless at that time. Therefore the higher soil moisture under Erythrina may have been partly due to lower evaporative water losses due to lower soil temperatures. A mulch or litter layer under shade trees may be seen as a one-way barrier to moisture flow, since it increases infiltration of rain-water and simultaneously reduces evaporation from soil.
+
+Weed control: Another potentially positive interaction in agroforestry systems is related to weeds. The effect of shade is more severe for light-demanding plants than for shade-tolerant plants; this could be an avenue to suppress some light-demanding weeds. Studies have shown that weed yield is positively correlated with available radiation. Senna siamea is reported to control weeds better than Gliricidia sepium or Flemingia macrophylla. This can be attributed to greater shade under Cassia.
+
+Microclimate improvement: In agroforestry systems, microclimate amelioration results primarily from the use of trees for shade, live-fences or wind-breaks and shelter- belts. The presence of trees creates conditions that extend far beyond mere reduction of heat and light. Temperature, humidity, movement of air, temperature and moisture of soil change due to agroforestry systems. The evidence for the beneficial effects of shade trees depends upon the nature of the understorey crops. The clearest effect is reported for crops that require shading for normal growth, e.g. black pepper, turmeric etc. The smaller temperature fluctuations under shade are attributed to reduced radiation load on the crops during day and reduced heat loss during the night. A reduction in vapour pressure deficit (VPD) will cause a reduction in transpiration and hence reduced water stress for intercrops. This is especially beneficial during short periods of drought and may result in increased production. The examples of buffering effect of trees on microclimate beneath them are reported for combination of coconut and cacao, millet and Leucaena, mustard and soybean with Hardwickia and tea with Paulownia.
+
+Negative interactions
+
+As all the components of an agroforestry system utilize same reserves of growth resources, negative interactions, often through competition, are likely to occur in every plant association.
+
+Competition: The major yield-decreasing effects at the tree-crop interface arise from competition for light, water and nutrients. While availability of light may be the most limiting factor in many situations, particularly those with relatively fertile soils and adequate water availability, the relative importance of light will decrease in semi- arid conditions as well as on sites with low-fertility soils. Since crops differ in their responses to poor nutrition, competition for light or water may either be reduced or amplified by shortage of nutrients. Generally, the shade tolerance of crop-plants depends on the photosynthetic pathway and product to be harvested. The effect of nutrient
+
+1339
+
+AGROFORESTRY
+
+competition is more severe for the crop components than for trees, because crop-root system is usually confined to soil horizons that are also available to roots of trees but trees can exploit soil volume beyond reach of crop.
+
+With the exception of areas with well-distributed rainfall or sites with a continuous supply of below-groundwater, water competition is likely to occur in most agroforestry systems at some period of time. The effect of these events depends on the severity of the drought and the drought tolerance of the plants. Studies showed that despite use of drought-tolerant plants, water competition is likely to play a major role in productivity of agroforestry systems, especially in dry areas.
+
+Allelopathy: Allelopathy refers to inhibition of growth of one plant by chemical compounds that are released into the soil from the neighboring plants. Allelopathic properties have been reported for many species, specially trees (Table 36.10). Although allelochemicals are present in practically all plant tissues, including leaves, flowers, fruits, stems, roots, rhizomes and seeds, information on the nature of active chemicals and their mode of action is lacking. The effects of these chemicals on other plants are known to be dependent principally upon the concentration as well as the combination in which one or more of these substances are released into environment.
+
+Pests and diseases: The effect of tree-crop interactions on pest and disease incidence is a potentially important one but is rather unexplored. Bacterial and fungal diseases may increase in shaded, more humid environments. For example, the incidence of Phytophthora palmivora on cacao increases greatly under conditions of heavy shading. The main reasons for this are probably greater relative humidity and decreased wind, both of which tend to favour fungal growth.
+
+Method for quantifying interactions
+
+Land-equivalent ratio
+
+The concept of land equivalent ratio (LER) is the most widely accepted index for evaluating effectiveness of all forms of mixed croppings, which have been extended to agroforestry also. LER is the ratio of the area under sole cropping to area under intercropping, at the same level of management, that gives an equal amount of yield. The sum of the fractions of the yields of the intercrops relative to their sole-crop yields provides a measure of the overall effectiveness of the mixed system. Thus LER be as:
+
+where X and Y are the component crops in either an intercrop (i) or a sole crop(s) system. When LER = 1, there is no advantage to intercropping over sole cropping.
+
+1340
+
+When LER < 1, more land is needed to produce a given yield by each component as an intercrop. Intercropping is beneficial only when LER > 1.
+
+Competition indices
+
+The effects of interspecific and intraspecific competitions can be analysed by varying proportion of species or population of mixture. This approach has been used for crop- weed competition and now extended recently to agroforestry also. An early competition index is the relative crowding coefficient (RCC), which is a forerunner to LER.
+
+using the same nomenclature as in LER. When RCC values exceed 1, the species X is more competitive than species Y.
+
+Tree-crop interaction ( TCI) equation
+
+A simple approach is to quantify effects of each factor in relation to performance of the control or sole crop in the absence of any interference by trees, assuming that main factors are not confounded experimentally. For example, overall tree-crop interaction (I) on crop yield can be expressed as:
+
+where F is the benefit of tree pruning on soil fertility and microclimate of the soil surface; C is the reduction in crop yield due to interspecific competition between the tree and crop; M the consequence of above-ground changes in temperature, light, humidity and wind speed; P consequences of change in soil properties; and L reduction of losses of nutrient or water. The effect of each factor is expressed as the percentage of the control crop.
+
+Agroforestry systems in different regions
+
+Eastern-Himalayan region
+
+The indigenous tribes, Lepcha and Limbu, used to collect large cardamom from natural forests, which was later on domesticated. Among three dozen shade-tree species in large plantation area, alder (A/nus nepalensis) is found to be the most abundant and preferred tree, which is non-leguminous nitrogen-fixing tree. Besides large cardamom, many food crops like maize, millet, potato, barley, chillies and colocasia are grown with alder. The tree not only provides shade to arable crops, timber and fuelwood but also ameliorates soil and protects it from erosion on hilly slopes. A yield of 400-500 kg/ha of cardamom has been reported in a year under shade trees. If a village with 100 families could set aside about 120 ha of land to grow alder trees, all families would be able to get sufficient fuelwood every year and at the same time raise crops under alder in about 30 ha every year. Cultivation of coffee, ginger, cardamom, turmeric and medicinal plants under the shade of naturally growing trees in Meghalaya is one of the best examples of successful combination of trees with annual crops.
+
+Besides the above system many trees are lopped for their green fodder which is rich in crude protein and calcium. These are found grown on terraces which are widely spaced and helps in better yield reduction of intercrops. Different trees provide fodder at different times of year sustaining supply of fodder throughout the year. Among the
+
+1341
+
+AGROFORESTRY
+
+Steps for developing agroforestry technology
+
+1. For what sites is it appropriate ?
+
+(i) What kinds of soil, rainfall, slope ?
+
+(ii) For what size and type of farm, in what landscape niche?
+
+2. For what functions is it intended ?
+
+(i) What can farmers use it for ?
+
+(ii) What are the trade-offs between functions ?
+
+3. Which species or varieties are recommended ?
+
+(i) Which multipurpose trees and shrubs ? Which varieties ?
+
+(ii) Which associated crops or livestock species can be used ?
+
+4. Which arrangement are recommended ?
+
+(i) How many of each component, in what configuration and spacing ?
+
+(ii) What kind of tree or crop rotations can be used over time?
+
+5. What management practices are recommended ?
+
+(i) How and when should trees be established ?
+
+(ii) How and when should tree be trained, pruned, pollarded etc.?
+
+(iii) How should associated crops be managed ?
+
+(iv) How and when should different tree products be harvested ?
+
+(v) How and when should tree products can be removed or replaced ?
+
+6. What technology performance can be expected ?
+
+(i) What yield of tree products can be expected and when ?
+
+(ii) What yield of associated crops can be expected ?
+
+(iii) What service functions will be performed (e.g. erosion control)?
+
+(iv) What economic returns can be expected ? How do risks change
+
+7. What inputs are required ?
+
+(i) How much planting material, labour, cash and land are needed ?
+
+(ii) What management skills are needed ?
+
+(iii) What infrastructure is needed for inputs, training or marketing ?
+
+introduced tree species, Leucaena leucocephala (var. S 11) does well at low to mid hills and it could produce 9 tonnes/ha dry foliage annually under the stocking density of 2,500 trees/ha. In low to mid-hills, mandarin-orange is a commercial fruit-crop which is intensively intercropped with annual food crops mainly maize. In Meghalaya, pear, plum and peach while in Sikkim apple are intercropped with potato, maize, vegetables, peas and mustard. At some places pineapple is also grown as intercrop. Among monocrops tea plantation is common in pockets but now cherry (Prunus cerasus) is also planted as live-fence. Shade trees like A/bizia chinensis may be grown for desired quality of tea which has been reported to add 2.5 to 5.0 tonnes/ha organic matter to soil annually containing 63-126 kg N, 18-36 kg P,O,, 22-44 kg KO, 32-64 kg CaO and 16-32 kg MgO/ha. Department of Agriculture in Mizoram has developed its own contour trench-farming for jhum areas on hills where top portion is of undisturbed forest, middle portion is with horticultural crops and down the hill, terraced rice is cultivated with pineapple and grasses on contours. Many species of bamboo, palms (coconut, arecanut and species of Licuala, Phoenix, Wallichia, Corypha, Caryota) and rattans (Calamus spp.) are cultivated widely in north-eastern areas as mixed or boundary plantations. Pasture in forests is also common practice. In Sikkim on hilly area Nevaro (Ficus auriculata) based silvipastoral systems have shown production
+
+1342 HANDBOOK OF AGRICULTURE
+
+potential of 15.6-51.6 tonnes/ha annually and goats could be reared successfully.
+
+It has been found that sericulture based system is highly relevant for these areas. Mulberry with french bean-groundnut followed by mustard is a profitable cropping system with mulberry, guava/lemon/pear and pineapple in paired rows and grasses on the bunds is an ideal system for silk production and additional income from fruits and cattle rearing. Pedi-cum-sericulture is said to be more viable as the cash returns are more frequent.
+
+Western Himalaya
+
+In the western Himalaya, 60 to 70% requirement of the firewood is met from the arboreal components and several MPTs along the bunds of agricultural lands or scattered trees on the pasture lands Grewia optiva, Celtis australis, Bauhinia variegata, Albizia chinensis, Bombax ceiba, Melia azedarach and Toona ciliata are common MPTs while plum (Prunus domestica), apricot (P. armeniaca), peach (P. persica), almond (P. dulcis) and pear (Pyrus communis) are common fruit trees of agri-hortisilvi-cultural and agri- horti-cultural systems. Hedge-row intercropping is feasible and important on slopping hilly lands when prunned biomass during cropping season can be used for fodder and fuelwood. The success of kinnow based horti-silvi-agricultural system at Dhaulakuan in foot-hills of Western Himalaya has been reported where kinnow was planted at a spacing of 5 m x 5 m. The interspaces between the rows were utilized for sowing Leucaena leucocephala in the form of hedge rows or scattered trees and maize, Soyabean, vegetables and wheat were grown as annual crops. To accommodate the wood for packing of horticultural produce in the region a horti-silvi-pastoral system was also developed growing trees of Santa Rosa plum at a spacing of 8 m x 8 m and the interspaces and boundary of field were utilized for growing Populus deltoides and the results have been reported as encouraging. The strategy to develop agroforestry systems in Western Himalaya should be based on the economy of fruits supplemented with cattle, keeping in view the soil conservation aspect. Therefore, fruit trees must be grown with forages, crops, vegetables and MPTs on small watershed basis. The timber woodlots for supporting cottage industries may help to improve the socio- economic status of rural people.
+
+Indo-Gangetic Plains
+
+This region contributes 51.9% to the national food grain output showing the presence of favourable environment and good infra-structural support for high crop productivity. Farmers use trees according to their need as well as suitability of the species. Many common trees such as Azadirachta indica, Acacia nilotica, Dalbergia sissoo, Prosopis cineraria, Eucalyptus tereticornis and Populus deltoides are found grown very frequently on farm lands particularly along boundary of a crop-field. Some of the common systems found in this region are as follows.
+
+Agrisilviculture and silvipasture
+
+Agrisilviculture and farm boundary plantation are most preferred systems at all the centres. In Bihar and Jharkhand apiculture, homesteads, and acquaculture are also preferred. Different models of agroforestry are preferred under rainfed system. In the Indo-Gangetic Plains Regions, it is observed that in the Lower
+
+In the Indo-Gangetic Plains Regions, it is observed that in the Lower Gangetic
+
+1343
+
+Plains Region agrisilviculture was preferred with 25-30 trees/ha on rainfed areas compared to 10-15 trees/ha on irrigated areas. The number of species in irrigated areas was also more compared to rainfed sites. The common species were Terminalia arjuna and Acacia auriculiformis.
+
+Agrisilviculture and farm boundary plantation are most preferred systems at all the centres except in Bihar where apiculture, homesteads, and aquaculture are also preferred. In the areas of Kanpur, silvipasture is also practised (L. leucocephala + napier, A. amara + grass + stylo), silviculture (Casuarina) on salt-affected soils and agri-silvi-fisheries in lowlying areas and ponds. The most preferred tree species are Populus deltoides, Eucalyptus sp., Dalbergia sissoo, Acacia nilotica and Prosopis juliflora, preferred fruit trees were Mangifera indica, Psidium guajava, Emblica officinalis, Litchi chinensis and Ziziphus mauritiana. Species like Madhuca latifolia and Azadirachta indica are predominant in the Middle Gangetic Plains Region.
+
+Agrisilviculture is common at Raipur and Ranchi areas, Acacia nilotica, Gmelina arborea, Terminalia arjuna, Butea monosperma, Albizia spp. are grown in Raipur while Ziziphus mauritiana, B. monosperma, Aegle marmelos, Mangifera indica, Schleichera oleosa (kusum) at Ranchi centre. Homestead agroforestry is also being practised using Gmelina arborea, Artocarpus heterophyllus, Madhuca latifolia, Ziziphus mauritiana etc.
+
+In Punjab and Haryana very high tree density is used due to intensive plantation of Populus deltoides in blocks. In many such plantations fruit trees (like Mangifera indica, Litchi chinensis) are also being integrated to optimize the profits.
+
+Horti-pastoral and Agri-horticultural
+
+Mango (Mangifera indica), guava (Psidium guajava), jamun (Syzygium cumini), and ber (Ziziphus mauritiana) are the important fruit yielding trees in the entire Indo- Gangetic plains. In Bihar region litchi (Litchi chinensis) is important fruit species. In all these plantations in earlier years of their growth arable crops may be taken. In some areas these are left open for grazing of cattle. But grazing should be stopped and forage grasses may be cultivated. Species like Madhuca indica and neem (Azadirachta indica) have also shown their preference in most of the region.
+
+Humid and Subhumid regions
+
+In Tripura tree component is used along with livestock and poultry component, and in irrigated areas fish component is also incorporated. Agrisilviculture is common at Raipur and Ranchi areas. Acacia nilotica, Terminalia arjuna, Butea monosperma, Albizia spp. are grown in Raipur and Ziziphus mauritiana, B. monosperma, Aegle marmelos, Mangifera indica, Schleichera oleosa (kusum) at Ranchi. Homestead agroforestry is also being practised using Gmelina arborea, Artocarpus heterophyllus, Madhuca indica, Ziziphus mauritiana etc .In Bhubaneshwar area agrisilviculture (Cocos nucifera for boundary plantation, block plantation of Casuarina equisetifolia, Anacardium occidentale) and homesteads are being practised. Gmelina arborea is also used as timber and Jectona grandis, Acacia nilotica are used as timber trees at Raipur area and Shorea robusta at Ranchi. Leucaena leucocephala, Pongamia pinnata, Acacia nilotica and Dalbergia sissoo are also used as fodder. Mangifera indica and Artocarpus heterophyllus are grown for fruits. Other fruit trees are Moringa oleifera,
+
+1344 HANDBOOK OF AGRICULTURE
+
+Syzygium cuminii, Psidium guajava, Carica papaya ete. Terminalia arjuna for raising silk worm and Butea monosperma, Schleichera oleosa for lac cultivation are being used by farmers at Ranchi area.
+
+Arid and Semi-Arid regions
+
+In most of the arid region of the north-western India khejri (Prosopis cineraria)- based silvi-agriculture system is prominent. Almost in all fields most useful khejri tree and small fruit yielding Ziziphus nummularia are found grown in association with rainfed crops. Ziziphus nummularia is used for its leaves as fodder for camel and goats and berries for edible purposes. Acacia tortilis, A. nilotica, A. senegal, A. leucophloea, Capparis decidua, Tecomella undulata, Salvadora persica and S. oleoides are other common trees found on various grazing lands or as sand stabilizers. Calligonum polygonoides is another interesting bush in Bikaner region. Lasiurus sindicus and Cenchrus ciliaris are prominent grasses in grazing fields as well as in sand-dunes.
+
+It has been found that besides above native species many woody perennials such as Faidherbia albida, Hardwickia binata, Colophospermum mopane, Holoptelea integrifolia and Ziziphus rotundifolia may form constituents of silvi-pastoral or silviagricultural systems in these regions. Studies on the effects of native khejri and exotic Faidherbia albida on grain production of greengram and clusterbean when planted in a space geometry of 5 m x 5m, 10 m x 10 m, and 10 m x 5 m showed that average mean increment in height was 108.2 cm/tree/year in A. albida and 14.5 cm/ tree/year in P. cineraria. The latter did not show any interference in crop yield at any stage. However, F. albida during third year showed yield reduction of clusterbean. In wider spaces of 10 m x 10 m, the yield was 1,280 kg/ha which reduced to 650 kg/ha and 760 kg/ha in spacing of 5 m x 5 mand 5 m x 10 m respectively. Based on the long- term study, it has been reported that Ziziphus rotundifolia did not show any negative effect on production of cluster-bean, pearl millet, greengram and moth-bean, while Acacia tortilis had significant negative effect on crop yield. When fodder grasses were grown in combination with der plants as well as A. tortilis tree, the fodder yield and seed production of crops were higher than yield and seed production of crops in isolation. In arid regions of Western India, introduction of compatible fuel, fodder and fruit trees in pastures as in agricultural fields acts as an insurance against frequent crops failures.
+
+In Central India, Dalbergia sissoo, Acacia nilotica, A. eburnea, A. leucophloea, A. catechu, Albizia lebbeck, Azadirachta indica, Butea monosperma, Pongamia pinnata, Holoptelea integrifolia, Balanites roxburghii and Dichrostachys cinerea form important constituent of a silvipastoral system. On black cotton soil region, very tall grasses supporting this system include Heteropogon contortus, Chrysopogon fulvus, Themeda triandra, Iseilema laxum, Dichanthium annulatum, and the industrial grass Cymbopogon martinii. These can make a sustainable silvipastoral system. During assessment of soil conservation values of some grasses and herbs in two phases it was found that Dichanthium annulatum showed maximum conservation value (up to 89), followed by Cynodon dactylon and Bothriochloa pertusa. In second phase Dichanthium caricosum showed maximum value (94.4), followed by Sehima nervosum, Cymbopogon martinii, Chrysopogon fulvus, Iseilema laxum and Heteropogon contortus (all having
+
+1345
+
+AGROFORESTRY
+
+conservation value of more than 83).
+
+In semi-arid regions of Peninsular India, the systems are more complex as the problem of frost does not exist, therefore, a vast number of trees (both fruit yielding and MPTs) exist on agricultural fields. Borassus flabellifer, Tamarindus indica, Acacia leucophloea, A. catechu, Casuarina equisetifolia, Senna siamea, Eucalyptus tereticornis, Albizia lebbeck, and many others are frequent trees on farm. Leucaena leuocephala has also been adopted as the common hedge-row-crop in many areas.
+
+Coastal and Island regions
+
+Low-lying waterlogged marshy areas, flood plains, and ill-drained lands are common features in coastal areas swamps and river banks are occupied by mangroves and associate halophytes. Other natural vegetation includes evergreen, semi-evergreen and deciduous forests on uplands and grazing lands in pockets. Plantation crops integrated with livestock and poultry and rice fields are main features of this region.
+
+The systems and practices of agroforestry range from apparently ‘simple’ forms of shifting cultivation and farming in forests to sophisticated hedgerow intercropping systems, from systems involving sparse stands of trees on farm lands to high density, complex multistoreyed homegardens of lowland; and from systems in which trees play a predominantly ‘service’ role (e.g. shelterbelts) to those in which they provide the main commercial product (e.g. intercropping with plantation crops). Most of the systems are site-specific with very few examples of their extrapolatability.
+
+Though many scientific inputs are given to plantation crops and multiple cropping systems are adopted but quite large areas under coconut plantation are still neglected and remain open for grazing. These areas may be brought under multistoreyed cropping systems. Spices like clove and cinnamon may be planted as middle storey crops and pineapple or forage grasses like hybrid napier (Pennisetum purpureum), kazungula (Setaria anceps) and guinea (Panicum maximum) and legumes like Stylosanthes guianensis or industrial grasses like lemon-grass (Cymbopogon fulvus) may be grown as cover crops. Rubber and red-oil palm plantations may also be integrated with other spice or forage crops particularly the legume covers. Monoculture of plantation should be discouraged and a multi-storeyed plantation system should be raised as has been demonstrated in Jirka Tang Farm in Andamans where even forest-trees are retained in multi-storeyed plantations and almost all plantations including spices, coffee and fruit- trees have been accommodated as under-storey crops.
+
+Specific edafic situations
+
+Salt-affected soils
+
+A sizable area in Indo-Gangetic plains is salt-affected. A package of afforestation techniques has been developed by the Central Soil Salinity Research Institute, Karnal. To rehabilitate alkali soils an augerhole technique is used for planting saplings of salt- tolerant species in refilled augerholes by original soil + 8 kg FYM + 3 kg gypsum + 10 g ZnSO, and insecticide powder for controlling termites. In long-term experiments it has been found that on highly alkali soil (pH>10) Prosopis juliflora, Acacia nilotica and Tamarix aphylla; syn. T. aphylla; syn. T. articulata can be grown with success. On soil of moderate alkalinity (pH 9-10), Eucalyptus tereticornis, Parkinsonia aculeata, Terminalia arjuna, Pithecellobium dulce can be grown with success. Among
+
+1346 HANDBOOK OF AGRICULTURE
+
+1346
+
+fruit trees aonla (Phyllanthus emblica; syn. Emblica officinalis), guava (Psidium guajava), ber (Ziziphus mauritiana), karonda (Carissa carandas), jamun (Syzygium cuminii) and pomegranate (Punica granatum) on raised bunds may be grown applying higher doses of gypsum and farmyard manure. These species may be blended with a forage grasse like Leptochloa fusca, Brachiaria mutica and Chloris gayana. Among herbs of industrial application species like Matricaria chamomilla, Cymbopogon martinii and Plantago ovata may be grown on moderate alkali soils.
+
+On saline soils furrow-method of planting trees have been found successful. Acacia nilotica, A. farnesiana, A. tortilis, Prosopis juliflora, Parkinsonia aculeata, Casuarina glauca, C. equisetifolia, and Tamarix troupii have been found quite successful. Eucalyptus camaldulensis is also quite successful. On partially reclaimed lands Populus deltoides and Eucalyptus tereticornis are grown at each as boundary plantation. Populus deltoides is preferred on agricultural lands also.
+
+Agroforestry system for soil conservation
+
+In ravine lands trees like Acacia nilotica, A. eburnea, A. catechu, Prosopis juliflora, Dalbergia sissoo, Azadirachta indica and Pongamia trinnote are most effective in association with forage grasses like Dichanthium annulatum, Bothriochloa pertusa, Cenchrus ciliaris, Chrysopogon fulvus, Cynodon dactylon, Sehima nervosum and Panicum spp. Eucalyptus — Bhabar grass (Eulaliopsis binata) system has been found quite efficient in Shiwaliks. This showed highest economical returns and negligible soil loss (0.07 tonnes/ha), followed by Acacia catechu — forage grass (0.24 tonne/ha), followed by Leucaena — napier grass (0.28 tonne/ha) system. Vetiveria zizanioides is also an excellent soil binder.
+
+Controlling seepage from canals
+
+Seepage from unlined canals results in waterlogging and salinization. For example in Hisar Agricultural University, farm water-table has been reported to rise from 15.92 m in 1967 to 1.56 m depth in 1982 after the introduction of Bhakra canal in 1963. A wide belt of trees such as Eucalyptus tereticornis, Populus deltoides, Syzygium cuminii, Pongamia pinnata, Terminalia arjuna, Dalbergia sissoo, Acacia auriculiformis and A. nilotica on both sides of the canal may be created to utilize seepage water for biomass production. Perennial grasses like Brachiaria mutica, Coix lacryma-jobi, species of Paspalum, Echinochloa colonum and Leptochloa fusca may be grown in waterlogged areas and may be used for forages. Phragmites australis a seed grass is also found growing in stagnant water.
+
+Fodder farming
+
+The soil-cover under sizeable area of coconut and rubber plantation could also be developed for perennial fodder cultivation. Multipurpose trees and shrubs such as Bauhinia variegata, Erythrina variegata, Grewia glabra, Hibiscus tiliaceus, Leucaena leucocephala, Moringa oleifera, Pithecellobium dulce, Pongamia pinnata, Samanea saman, Sesbania grandiflora, Terminalia catappa and Trema tomentosa, which are found growing successfully in coastal areas and are also good fodders may be grown in blocks as fodder banks, especially on the slopes or degraded lands. These may be intermixed with forage grasses and legumes. The performance of exotic grasses and
+
+1347
+
+AGROFORESTRY
+
+legumes on terraces of Andamans showed that grasses could yield 18 to 34 tonnes per ha dry forage in a year under rainfed conditions while legume forages could yield 4.5 to 23.4 tonnes per ha.
+
+Farming in partially felled forests
+
+Most of the farmers in Andamans are settlers and have been allotted two kinds of land—plain or valley land suitable for paddy cultivation and hilly forest land from where commercial timber trees have already been extracted. These partially felled areas and similar other forest lands are underutilized and many of these areas support obnoxious weeds like Mikania cordata and Chromolaena odorata. Land deterioration and soil erosion are evident in these slopping lands. ‘Farming in forest’ is very appropriate for such holdings. Young regenerating timber trees may be retained and suitable multi-purpose trees may be planted at suitable regular intervals. These may also support climbers such as black pepper or betelnut. Nutmeg, cinnamon, clove, coffee and cacao may be planted between retained or planted trees. Kapok (Ceiba pentandra), arecanut and Erythrina variegata may be used as support for black pepper and betelvine. The interspaces on slopping lands may be utilized for pineapple or fodder grasses and legumes may also help in checking soil erosion and meet the need of fodder requirements.
+
+The Jirka Tang Farm owned by the Department of Agriculture in Andaman and Nicobar Islands is a unique example of this type of farming system. Tall forest trees including commercial timber trees (e.g. Dipterocarpus spp., Pterocarpus dalbergioides, Terminalia spp., Bombax insigne, Lagerstroemia hypoleuca, Artocarpus chaplasha, Albizia lebbeck, Canarium euphyllum etc.) have been retained as canopy of topmost storey. The spices mentioned above are grown as middle storey crops and pineapple and some grasses as ground storey crop. At some sites rubber, coconut and red oil palm are also grown for demonstration trials. Farmers may get economic benefits at regular intervals from such system.
+
+Hedge row (alley) cropping
+
+The main purpose of alley cropping is usually to exploit soil improvement potentials of hedge-row shrubs and to check soil erosion when grown on sloping land. This also helps in increasing production and obtaining a variety of products such as fuelwood and fodder when lopped and food or forage crops in interspaces.
+
+On sloping lands, forage shrubs are planted across the slope and forage grasses and legumes or food crops in interspaces. Gliricidia sepium and Leucaena leucocephala are most common hedge-row crops. Morus alba, Senna siamea, perennial Cajanus cajan and Pithecellobium dulce have also been tried in some fields. Gliricidia leaves may also be used as mulch. Most of the research work on alley cropping in India concentrates on Leucaena leucocephala in semi-arid regions.
+
+It has been reported that 40-50 days harvest intervals at cutting heights of 75 and 150cm could yield 50% or more foliage as compared at 15cm cutting height. Lower harvest frequency narrowed yield differences between 15 and 75 cm cutting heights but at 150 cm height it produced more foliage at longer intervals. Alley width of 3 to 5 m was found severely competitive with crops. Levcaena-sorghum combination has been economically attractive than a sole crop of sorghum in Andhra Pradesh. In humid
+
+1348
+
+conditions of Andamans, Gliricidia sepium when raised on a gravelly slopping land could produce 5 to 6 tonnes/ha lopped biomass in first year, which was further increased during second year. The yield of forages in interspaces ranged from 3.7 to 15.5 tonnes/ ha which was quite low as compared to sole crops (Table 36.11). Alley cropping systems is, therefore, highly suited to gravelly slopping lands in high-rainfall areas.
+
+MULTIPURPOSE TREES’ PRIORITY IN DIFFERENT AGROCLIMATIC REGIONS
+
+The species priority of MPTS was also considered and names of five MPTS based on priority for each region are presented in Table 36.12. One may find that the species of Eucalyptus sp., Acacia nilotica, Casuarina equisetifolia, Dalbergia sissoo, Gmelina arborea, Populus deltoides, Leucaena leucocephala are prominently common in many regions. Emphasis on research on these species in these regions is required. However, considering country’s needs of industry and domestic sectors 6 species are being considered by Task-Force on Agroforestry for according top priority in research and development of agroforestry. These species are Acacia nilotica, bamboo, Casuarina equisetifolia, Populus deltoides, Eucalyptus sp. and Prosopis ceneraria.
+
+AGROFORESTRY SYSTEMS PRIORITY IN DIFFERENT AGROCLIMATIC REGIONS
+
+Agroforestry will be the only hope for meeting the resource needs and also providing stability to production and its sustainability. Considering these and also agroclimatic focus of farming systems, the priority modes of the agroforestry practices were worked out after thorough debate in various forums (Table 36.13).
+
+New initiatives
+
+Carbon trading: As global warming is being considered as one of the serious problems of the next decades, efforts to reduce carbon emission are being taken seriously, The projects certified by the Clean Development Mechanism (CDM) of the United Nations are getting carbon credits, which are officially known as Certified Emission Reduction (CER) credits. One CER credit is equal to one tonne of carbon dioxide. The concerned countries use these CER credits in achieving their mandatory
+
+1349
+
+AGROFORESTRY
+
+greenhouse gas reductio agroforestry systems and projects for c n targets under Kyoto Protocol. There is good potential in arbon trading as they can sequester carbon for carbon sink or for biofuel/bioenergy. Recently a small-scale afforestation project (Haryana Community Fores certified for carbon credits by the CMD of the UN. try Project) co-funded by the European Commission was
+
+Biofuel production: Fuel has been continuing as an important need of human being
+
+1350
+
+No. 1-5 indicate the priority practiced mode: 1, Least and 5, Highest
+
+from early days of the development when he started to take roasted food with the help of wood fuel or to use fire in killing animals in the forests or to make tools. It is well established that the need/demand of fuel or in a better word energy has always shown increasing trend and this demand is likely to increase many folds in the coming decades. Although many forms of energy such as thermal (coal, petroleum products, biomass etc.), hydel, nuclear etc. are being used nowadays and the energy consumption and availability has become one of the main concerns for all countries. Still, the main source of energy are petroleum/ coal products but their exhaustible nature has compelled us to give important consideration to renewable energy resources which may be in the form of either solar, hydel or biomass energy. The ability of carbon sequestration during biomass plantation further strengthens its importance. Biofuels are fuel produced directly or indirectly from biomass. There are more than 100 different oil-bearing plants in South Asia and only some of these plants have been exploited for oil extraction, for example neem (Azadirachta indica), karanj (Pongamia pinnata) and kusum (Schleichera oleosa ). The controlled cultivation of Boswellia ovalifolata, Calophyllum inophyllum, Euphorbia tirucalli, Jatropha curcas and Pongamia pinnata has been approved by the Government of India for biodiesel production. Still there isa need to develop economically and environmentally sound agroforestry systems with various oil-bearing plants.
+
+Electricity generation: Energy availability is a big concern for all countries as its demand is likely to increase in future. According to the Planning Commission (2006), India’s total primary energy supply would need to increase at 4.3% to 5.1% per annum and its commercial energy supply would need to increase 5.2% to 6.1% annually
+
+1351
+
+AGROFORESTRY
+
+considering 2003-04 as the base. The commission also sees availability of clean fuel and electricity as one of the toughest tasks. The biomass of woody components of agroforestry systems can be used as a renewable source of energy by making biomass briquettes, which can be used in electricity generation through wood gasification. Many trees are being used for this purpose in various states such as in Andhra Pradesh (Casuarina equisetifolia, Eucalyptus tereticornis, Leucaena leucocephala, Prosopis juliflora), Madhya Pradesh( Ipomoea sp.), Tamil Nadu (Prosopis juliflora ), etc.
+
+Extension /Distance education:To harvest maximum benefits from the agroforestry, its wide extension up to maximum possible level is necessary. For this distance mode of learning may be useful, as learning is a life long process, the farmers/stakeholders of all types may be well acquainted in all aspects of agroforestry by using multimedia based distance learning materials which may include self-instructional material, audio and video component, internet, telephonic assistance etc. The well co-ordinated efforts by all SAUs, ICAR Institutes, open universities, extension departments and NGOs is required. The linkage from Indira Gandhi National Open University and other state open universities will be very useful for attaining the goals. Farmers — Banks — Industry linkage has also given boost to agroforestry extension due to assured market, remunerative prices and the easy availability of raw materials.
+
+Linkages
+
+Being a multi-disciplinary, multi-functional and multi-locational system and its temporal and spatial dimensions agroforestry has linkages with many national and international government and non-government organizations. These linkages play important role by providing better co-ordination, understanding and avoiding duplication of research work. Some important organizations are being listed here, viz, Department of Agriculture and Cooperation, M/o Environment and Forests, National Oilseeds and Vegetable Oils Development (NOVOD) Board, Indian Council of Forestry Research and Education (ICFRE), World Agroforestry Centre (ICRAF), Consultative Group on International Agricultural Research (CGIAR).
+
+Strategies for agroforestry development
+
+The very brief overview of the on-going research in agroforestry reveals that still many systems are anecdotal and all efforts have a common set of overall objectives. These are:
+
+(i) enhancing output of specific products such as fodder, fuelwood, small timber and crop yield;
+
+(ii) improvining overall productivity of small farms with minimum external inputs in different agro-ecological regions,
+
+(iii) devising management techniques that can facilitate profitable use of degraded and unproductive land;
+
+(iv) providing environmental amelioration through watershed protection, soil conservation etc.
+
+Besides finding solutions for developing criteria of system evaluation the following steps are suggested to improve status of agroforestry research.
+
+* A time-frame programme must be chalked-out for rehabilitation of mangroves along coasts. Techniques are available for planting of mangroves, a mass
+
+1352 HANDBOOK OF AGRICULTURE
+
+programme should be framed and implemented without further waste of time.
+
+* Aqua-culture research keeping mangroves intact should be given priority.
+
+* Genetic improvement of identified potential multipurpose trees.
+
+* Attention must be paid to organic farming, mycorrhizae in relation to agroforestry and integrated pest-management in agroforestry.
+
+* Developing network for transferring proven technology to the farmers.
+
+* Developing mathematical and statstical models after evaluation of the successful - agroforestry systems/practices.
+
+* Exploring unexploited and under-exploited plants of high economic value such as medicinal aromatic, oil-yielding plants.
+
+* Research efforts should be made to explore marine algae or seaweeds for food, medicine and green manure.
+
+* More emphasis should be given in evolving viable techniques for rehabilitation of degraded salt-affected areas involving good quality forages, MPTs, plantation crops and plants of industrial application. Research on quality assessment of the products obtained in saline habitats must be given priority.
+
+Promotion of national and international collaborative research programmes.
+
+* Research on saline agriculture including irrigation with saline water, developing halophytic crops involving fish, shrimp culture and poultry with agroforestry systems, genetic improvement of salt-tolerant plants, raising nursery with saline water and multiplication and conservation of useful genetic material should be given attention.
+
+* Developing more agro-based industries in coastal areas to create more employment through value addition to the product based on coconut, oil palm, honey, cashewnut, rubber, fruit, fish and shrimp, milk, beverage, poultry, sea food and mangrove products.
+
+* Integrating minor and major fruit-crops in agroforestry and homegardens to improve human nutrition and production of cosmeceuticals, nutraceuticals, medicines and aromaceuticals to improve livelihoods and employment potential. Thus, an integrated approach is necessary for research and development of agroforestry that is acceptable to farmers’/society and is able to improve their livelihoods besides having potential of more biomass production, fast bioremediation and microclimate/climate improvement. This approach should be region specific as the socioeconomic conditions of farmers/people and climatic conditions are area specific. There is also need to give importance to specific zones like coastal areas where coastal zone agriculture and agroforestry which can impart sustainability to the productivity and save the fragile coastal ecosystems from degradation
+
+Agroforestry is thus not only the option but an imperative in view of the global problems of natural resource degradation and expected climatic change. Its role in carbon sequestration, bioremediation, production system diversification is expected to ensure sustainable production and a healthy environment.

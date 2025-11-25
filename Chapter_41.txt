@@ -1,0 +1,635 @@
+SOURCE_DOCUMENT: Chapter 41.pdf
+
+41. Crop Biotechnology
+
+Crop improvement is a designer activity—picking up useful genes from sexually compatible individuals and putting them together to produce a variety containing as many desirable genes as possible. The success in this endeavour depends on the extent and the accessibility of genetic variability present in genera or species which are sexually crossable. Recent developments in the area of plant biotechnology have provided a large number of tools and techniques which are more efficient in generating novel genetic variability and making selection procedures more precise and reproducible. The recombinant-DNA technology has clubbed the whole biological world into a single gene pool. It is possible to mobilize genes across unrelated biological systems, and the constraints of sexual compatibility for harnessing desirable genes in crop improvement programmes have been removed.
+
+Application of biotechnological tools in crop improvement programme can be effective in three different complementary ways: creating/widening genetic variability through plant tissue culture; speeding up the process of conventional plant breeding through molecular breeding and evolving novel genotypes through r-DNA or genetic engineering technology.
+
+Scope of plant biotechnology
+
+@ Mass multiplication of elite genotypes including elite rootstocks
+
+e Production of disease-free plants
+
+Wide hybridization through embryo rescue
+
+Somatic hybridization
+
+Generating genetic variability through cell culture
+
+Generation of haploids and doubled haploids for developing homozygous lines
+
+In-vitro germplasm conservation
+
+Production of secondary metabolites through cell culture
+
+Genetic diversity analysis through fingerprinting
+
+Molecular mapping and character tagging
+
+Gene pyramiding and molecular breeding based on marker-aided selection
+
+Allele mining from germplasm
+
+Protein- and DNA-based disease diagnostic kits
+
+Plant transformation and genetic engineering of crops
+
+Isolation of useful genes for genetic engineering for developing superior crop plants and pharmaceuticals
+
+Structural and functional genomics for understanding key development and production pathways in crop plants
+
+PLANT TISSUE CULTURE
+
+Plant tissue culture can be defined as a culture of cell, tissue, organ or whole plant in a medium under aseptic and controlled conditions. The importance of disease-free
+
+1490
+
+1490 HANDBOOK OF AGRICULTURE
+
+and quality planting material in agriculture cannot be overemphasized. In many vegetatively propagated crops, continuous clonal propagation leads to accumulation of pests and pathogens leading to decline in vigour and quality. Hence, large-scale production of disease-free planting materials pose serious challenge in sugarcane, potato, banana and several other horticultural crops. Moreover, in many of these crops the rate of multiplication by conventional methods is very low. Thus alternative methods of rapid multiplication using tissue culture are desirable.
+
+Totipotency and its applications
+
+The capability of isolated single cells to multiply and differentiate into whole organism is called totipotency. Although this concept is inherent in the cell theory propounded in 1838-39 by Schleiden and Schwann, practical demonstration of totipotency in plants was achieved only in 1964 by Vasil and Hildebrandt. Similar demonstration with animal cells is still to be achieved. The ability to direct growth and differentiation in-vitro by manipulating nutrition and physical culture conditions, provides several opportunities for both basic and applied researches. As a result plant tissue culture is now not only a technical tool but also a major technology. Plant tissue culture applications include the following.
+
+@ investigation of growth and morphogenesis and other basic studies
+
+micropropagation for large-scale clonal multiplication of plants
+
+doubled haploid production for obtaining homozygous lines
+
+creation of genetic variations
+
+production of secondary metabolites of pharmaceutical and commercial value
+
+transfer of genes from wild related species into crop plant species
+
+genetic engineering of plants
+
+collection, conservation and exchange of germplasm.
+
+Micropropagation
+
+The importance of disease-free and quality planting material in agriculture cannot be overemphasized. In many vegetatively propagated crops, continuous clonal propagation leads to accumulation of pests and pathogens leading to decline of vigour and quality. Hence, large-scale production of disease-free planting material poses serious challenge in sugarcane, potato, banana and several other horticultural crops. Moreover, in many of these crops, the rate of multiplication by conventional methods is very low. Thus alternative methods of rapid multiplication using tissue culture are desirable.
+
+Micropropagation refers to in-vitro multiplication of plants starting from a small tissue explant. This explant may be leaf, root, nodal-cutting or seedling. Successful micropropagation involves establishment of aseptic culture, shoot multiplication, rooting, hardening etc. In general, organized shoot meristem or nodal cutting is used as a starting material as it ensures clonal fidelity. Under the cytokinin influence, the shoot meristems are forced to proliferate into multiple shoots, which are subcultured to produce either more shoots or transferred to root induction medium for obtaining plantlets. The nutritional and in-vitro environmental conditions required for micropropagation of a variety of plant species have been worked out. In particular, media formulations of Murashige and Skoog, McCoven, Gamborg etc. have proved highly useful. The
+
+1491
+
+CROP BIOTECHNOLOGY
+
+micropropagation technique, first devised for orchids, has now been adopted worldwide for the multiplication of orchids. Similarly, micropropagation is used for large-scale multiplication of several important crops, and has been established as a major global industry. The chief advantages of micropropagation are as follows:
+
++ rapid multiplication (literally thousands of plants can be produced within a year starting from a single explant)
+
+* freedom from pests and pathogens (healthy plants can be recovered even from the infected mother plant/variety)
+
+* round-the-year multiplication as per demand
+
+* economy of space and resources (thousands of plants can be raised in a few square metres of laboratory space)
+
+* easy transport due to miniaturization
+
+* selective multiplication of desired plants (e.g. female trees in dioecious crops like papaya or plus trees in forest species).
+
+The significance of micropropagation in transforming agriculture is best illustrated by the case of oilpalm in Malaysia. In the 1980s, Malaysia adopted tissue culture technology to clonally multiply selected high yielding oilpalm genotypes. Large-scale planting of such tissue-cultured materials has led to a major increase in productivity. This has helped Malaysia to be the world leader in edible oil trade. Similar opportunities exist in other crops and countries. For example, in India, propagation of coconut, mango, citrus, papaya, date-palm and several forest plant species can benefit greatly by micropropagation. But micropropagation methods are not well standardized for all crops (mango, coconut are some examples). Further, plants obtained via tissue culture are expensive than those derived by conventional methods. Thus cost considerations limit its wider use in crops where micropropagation is technically feasible.
+
+Meristem culture and production of virus-free plants
+
+The observation of Morel and Martin that plants regenerated from excised shoot apical meristems (< 0.5 mm) of virus-infected dahlia plants were free from virus has paved the way for the production of disease-free plants via tissue culture. Since a small explant is to be used for initiating culture, the media requirements for meristem culture are more complex than that of simple shoot culture. Also, the size of the meristem is critical for successful eradication of viruses. For example, elimination of Potato Virus S (PVS) can be possible using meristems of 0.3-0.5 mm size, and a much smaller meristem size (0.12 mm) is necessary to obtain PVX-free plants. The meristem culture technique is now well established and is routinely used for obtaining virus-free plants of potato, sugarcane, citrus etc. Many old varieties of cassava, which had declined in vigour, could be rejuvenated following meristem culture. This suggests involvement of latent infections leading to varietial decline in such vegetatively propagated crops.
+
+Tissue culture industry in India
+
+Commercial tissue culture is widely practised in India. Department of Biotechnology, Government of India, has been playing a proactive role in this regard. It has set up Micropropagation Technology Parks in Haryana (under The Energy Research Institute, New Delhi) and Pune (under the National Chemical Laboratory, Pune), and Virus
+
+1492
+
+1492 HANDBOOK OF AGRICULTURE
+
+Diagnosis and Quality Control Laboratory at the Indian Agricultural Research Institute, New Delhi. And six hardening units have been set up in different parts of the country for acclimatization and successful establishment of tissue culture raised plants in soil (for details visit http://www.dbtmicropropagation.nic.in/about.htm). There are about 100 private enterprises producing about 50 million plantlets per year. While a majority of the produce is targeted for the internal market, about 25% is exported. The crops being marketed include banana, cardamom, sugarcane, potato, ornamental plants, bamboo, forest tree species etc.
+
+Production of haploids and doubled haploids
+
+Doubled haploids are individuals derived from haploid gametes and carry two sets of identical chromosomes. Thus doubled haploids are 100% homozygous and breed true. Such homozygous lines serve as varieties in self-pollinated crops and as inbred lines of hybrids. Traditionally homozygous lines are produced by repeated selfing (6- 7 generations) of selected individuals. Severe loss of vigour (inbreeding depression) and self-incompatibility (i.e. genetic failure to set seed upon self-pollination), however, limit production of inbred lines in many crops.
+
+Haploid plants could be regenerated for the first time in 1964 from in-vitro culture of anthers containing developing microspores. Subsequently, haploids have been produced in more than 200 plant species through in-vitro culture. Haploids fail to undergo normal meiosis as they lack homologous partner chromosome for pairing and hence are sterile. By treating them with colchicine, chromosome number could be doubled, yielding fertile doubled haploids. Thus in a single step homozygous lines can be established. Doubled haploids can thus cut down time required for breeding of improved varieties and hybrids.
+
+Not only anthers but also isolated microspores can be cultured to obtain haploids. Such microspore cultures were widely used in Brassica napus, B. rapa, B. juncea and B. oleracea (cabbage and cauliflower) for obtaining varieties and inbred lines in Europe and Canada.
+
+Haploids can also be derived from ovules culture. For example, in wheat pollination with maize triggers embryo development from unfertilized eggs. In-vitro culture of such immature embryos yields haploids. In sugarbeet, gynogenesis offers a convenient method for the production of doubled haploids.
+
+China has made use of anther culture technology for breeding rice varieties. A number of improved rice varieties were released for commercial cultivation in China. Some promising anther culture derived lines of rice were identified for commercial release in North-East India. Commercial varieties have been developed via doubled haploid technique in tobacco, wheat, eggplant, capsicum, sugarbeet etc.
+
+Doubled haploids are also of great value in basic studies. In particular, genome mapping and identification of molecular markers linked to various traits can be greatly simplified and speeded up using doubled haploids. For example, a high density Brassica juncea map has been prepared using doubled haploid lines, tissue culture and wide hybridization
+
+Wild relatives of crop species are a treasure trove of useful genes. In particular, wild species harbour genes for resistance/tolerance against pests, pathogens and environmental stresses such as drought, waterlogging, salinity, high/low temperature
+
+1493
+
+etc. However, strong barriers to hybridization hamper exploitation of wild species resources for crop improvement. Tissue culture has been extremely useful in overcoming these interspecific barriers and to recover hybrids.
+
+Embryo culture
+
+Hybrid incompatibility may operate at pre- or post-fertilization stages. In-vitro pollination and culture of excised ovules can overcome pre-fertilization barriers, operating in the style or stigma. Embryo culture has been widely used for obtaining hybrids which fail to develop normally owing to improper nourishment of the young embryos. By optimizing conditions such as age of the embryo, nutritional milieu and culture conditions, a large number of interspecific hybrids have been produced in wheat, rice, Brassica etc. From such hybrids important genes have been introgressed into cultivated species through backcross breeding. Examples of introgression include Tust resistance in wheat, blackleg resistance in Brassica napus, nematode resistance in sugarbeet etc.
+
+Embryo culture is also resorted to in grapes and banana that produce seedless fruits. Breeding of these crops is severely limited by seedlessness, which is a desirable trait from the consumer viewpoint. However, even in these genotypes viable embryos, are initiated after fertilization. Thus by early excision and culture of embryos, novel genetic recombinants can be obtained. Banana improvement has witnessed spectacular progress at the INIBAP (International Network for the Improvement of Banana and Plantains) in the past two decades. New plantain varieties with resistance to black sigatoka disease were developed through interspecific hybridization with Musa balbisiana.
+
+Somatic hybridization
+
+Techniques of isolation and culture of plant protoplasts and their fusion in in-vitro devised in 1960s and 1970s have broken all barriers to hybridization including failure of flowering or meiosis. Although hybrid cells can be produced by fusing any two protoplasts, regeneration of hybrid individuals is problematic in very distant cross combinations. Nevertheless more than 100 somatic hybrids have been reported.
+
+Nuclear and organelle genomes of both the parents are brought together in a somatic hybrid. Thus somatic hybrids have for the first time permitted genetic analysis of organelle genomes and have thus proved invaluable in basic studies. In particular, mitochondrial genome manipulation to obtain cytoplasmic male sterile lines has been successfully used in Brassica. Similarly, a number of useful gene introgressions via somatic hybridization have been reported in Brassica, potato, tomato etc. The recent transfer, identification and ultimate cloning of a gene for late-blight disease resistance from Solanum bulbocastanum into potato is noteworthy. Similarly, development of a number of cytoplasmic male sterile lines and introgression of fertility restorer genes in Brassica by somatic hybridization, is a major achievement.
+
+Tissue culture and plant transformation
+
+Current methods of plant transformation can deliver DNA only into individual cells rather than transform all cells of an organism. Transgenic technology relies on totipotency of plant cells to recover whole plants from a single such transformed cell. Thus tissue culture regeneration is key to plant genetic engineering. Since only a few
+
+1494
+
+cells out of the several thousands exposed to transformation treatment actually get transformed, novel selection schemes are employed to selectively multiply transformed cells. For example, most transformation vectors carry, besides the gene (s) of interest, a linked constitutively expressed selectable marker gene (s) conferring either herbicide or antibiotic resistance to transformed cells. By culturing cells subjected to transformation on a medium fortified with appropriate herbicide or antibiotic, the non-transformed cells/plants are detected or eliminated.
+
+Using these strategies, transformation has now been achieved in over 100 plant species. Various critical factors that influence transformation have been identified to improve transformation efficiency. Still, some important crop species, viz. cotton and grain-legumes, are not routinely amenable to transformation primarily because of difficulties in plant regeneration. Significant genotypic differences in transformation efficiency among cultivars suggest involvement of host genetic factors. A better understanding of molecular biology of plant regeneration will be needed to crack problem of recalcitrancy (i.e. failure to regenerate plants in response to in vitro treatments) of plant tissue cultures.
+
+Tissue culture and production of secondary metabolites
+
+Plants are a major source of pharmaceuticals and other biologicals, imparting flavour, colour, aroma etc. Since most secondary metabolites are produced in small quantities in specialized organs/tissues, and after attainment of certain growth, sometimes lasting years, their production from natural sources is often difficult and expensive. Further, many pharmaceuticals are extracted from plants collected from the wild, leading to severe genetic erosion and pushing them to near extinction. It has now been demonstrated that many secondary metabolites, which are produced in specialized organs in plants, can be produced in cell cultures in-vitro. For example, capsaicin, the pungent principle of capsicum, which is produced in the placental tissues of fruits, can be obtained in cell cultures. Furthermore, higher levels of expression than observed in nature can be realised in cell cultures. Production of secondary metabolites through cell culture offers several other advantages such as quality control, scheduling of production. Therefore, production of useful compounds from plant cell cultures in large bioreactors is considered most desirable. However, plant cells, unlike bacteria, grow in clusters and are shear sensitive. Therefore, large-scale culture of plant cells in bioreactors for the production of secondary metabolites has been proved to bea challenge both from technical and cost point of view. Nevertheless, a plant dye shikonin is commercially produced in Japan from cell cultures of Lithospermum erythrorhizon, which demonstrates that the problems are not insurmountable. Considering the impossibility of sourcing some very potent products from nature (e.g. antitumor agent taxol from Taxus yew tree), cell cultures offer best alternative for production of such compounds.
+
+In-vitro conservation of germplasm
+
+Germplasm of vegetatively propagated plants and plants bearing recalcitrant seeds, is maintained as clonal repositories in field. This entails huge costs of labour and resources and poses several challenges. For example, germplasm in the field is always under threat from environmental vagaries, pests and pathogens. Tissue culture has been found extremely useful in germplasm conservation. The cost and space
+
+requirements for conservation are greatly reduced and the cultures are attained under aseptic conditions. Moreover, whenever required, the samples can be easily multiplied and readily exchanged with minimum quarantine restrictions. Large in-vitro banks holding important horticultural and forest tree species are already operating in developed countries. In India, the National Bureau of Plant Genetic Resources is maintaining over 1,000 accessions of important plant species, viz. banana, ginger, pepper, sweet-potato, yams and some endangered medicinal plants in the form of shoot cultures in-vitro. Likewise, collections of potato, sweet-potato, yams, banana etc. are held in tissue culture banks in several CGIAR centres.
+
+Tissue culture is also relevant for long-term storage of germplasm in liquid nitrogen at ultra low (—196°C) temperature. Plant tissues contain more than 80% moisture and hence are not amenable to storage below freezing point. Further, large mass of tissues cannot be desiccated without losing viability. However, small cell clumps and meristems can be desiccated under controlled conditions to permit cryopreservation. Complete plants can be regenerated from such cryopreserved cells or shoot apices following standard tissue culture techniques. Cryopreservation of cells and meristems has now been standardized for several plant species including potato, banana, yams, and several temperate fruit species. Cryopreservation is highly cost-effective and entails minimum genetic change. Therefore, in future, most germplasm collections of clonally propagated plants will be maintained in cryobanks for long-term preservation.
+
+Protein and DNA-based disease diagnosis kits
+
+Pathogen infections particularly those of viruses are not readily identifiable at seedling stage and hence ensuring disease-free status of the planting material poses problems. In vegetatively propagated crops like potato, banana, citrus etc. such infected planting materials lead to heavy yield losses. Modern biotechnological tools have greatly facilitated accurate, quick and efficient identification of hidden infections. These diagnostic tools have been developed in the form of simple kits that could be used either at the field level or in laboratories. A small sample of leaf or other tissue is used for diagnosis. These kits are specific and each kit usually detects one or a limited group of infectious agents.
+
+In developing protein-based kits, a protein specifically produced by the infectious agent is isolated, purified and injected into mice or rabbits. Such injected mice or rabbits produce antibodies (proteins that recognise and destroy the foreign protein). These antibodies are extracted and used for diagnosis of the pathogen.
+
+For DNA-based diagnosis, a specific DNA or RNA fragment of the infectious agent is cloned and sequenced. Based on the sequence information, single stranded DNA sequences (primers) are synthesized and used in polymerase chain reaction (PCR) along with DNA extracted from the test plant sample. If the test sample is infected, there will be amplification of a known size of DNA fragment in the reaction. These kits are specially useful in seed/plant propagule certification.
+
+MOLECULAR MARKERS AND THEIR APPLICATION IN PLANT BREEDING
+
+Genetic improvement of crop plants through conventional plant breeding has made tremendous contributions to the breakthroughs in the global agricultural production.
+
+1496 HANDBOOK OF AGRICULTURE
+
+1496
+
+Recently, an array of tools and techniques in the field of molecular biology have become available for supplementing conventional genetic approaches. Consequently, new integrated approaches are being designed. One of the approaches employ molecular markers for genome mapping, gene tagging and marker assisted selection (MAS). With the complete sequencing of whole plant-genomes and a large number of random cDNAs in many different crop species, newer opportunities are emerging.
+
+Molecular markers
+
+Molecular or DNA markers are heritable differences in the nucleotide sequences of DNA, which are used to mark genomic regions, tag genes of interest and identify individuals. Such differences could be present in the nuclear, mitochondrial or chloroplast genomes. Mitochondrial and chloroplast genome sequence based markers, follow maternal or non-Mendelian inheritance. Molecular markers for the nuclear genome are based on DNA sequence differences at corresponding position on homologous chromosomes of two different individuals, which follow a Mendelian pattern of inheritance.
+
+Two basic techniques namely (a) Southern blot hybridization and (6) Polymerase chain reaction (PCR) were first used to generate DNA markers. Southern hybridization, developed by Prof. E M Southern in 1975, involves restriction of plant DNA, electrophoretic separation of DNA fragments, denaturation and transfer of fragments from gel to nylon membrane, hybridization of radiolabeled probe DNA and autoradiography to develop X-ray films. The Polymerase chain reaction, designed by Dr Kerry Mullis in 1985, involves denaturation of template DNA, annealing of primer DNA to the template and DNA synthesis. Following DNA amplification, the fragments are separated on agarose or polyacrylamide gels to obtain DNA profiles. In addition to these two techniques, a number other methods including DNA sequencing, denaturing high performance liquid chromatography (CHPLC), mass spectrometry, DNA chip based hybridization etc. are currently being used. A large number of different types of markers have been developed depending on the methods employed. More commonly used DNA markers are: (i) restriction fragment length polymorphism (RFLP), (ii) random amplified polymorphic DNA (RAPD), (iii) sequence tagged sites (STS), (iv) sequence tagged microsatellite sites (STMS), (v) amplified fragment length polymorphism (AFLP), and (vi) single nucleotide polymorphism (SNP). These are briefly described below.
+
+Restriction fragment length polymorphism (RFLP): RFLP is the first molecular marker that was developed by Botstein and co-workers working in the Whitehead Institute of Biomedical Research, USA, in the year 1980. It employs restriction enzymes that cut genomic DNA molecules at specific nucleotide sequences (restriction sites), thereby yielding variable size DNA fragments. The genomic DNA fragments thus generated are separated by electrophoresis and transferred to nitrocellulose or nylon filter. The filter-immobilized DNA is allowed to hybridize to radioactively labeled probe DNA. Through X-ray autoradiography, the hybridizing fragments are detected. The filter is placed against photographic film, where radioisotope disintegration from the probe results in visible bands. Variation in the position of the bands revealing the differences in the size of the hybridizing fragments is considered polymorphic. RFLP is a co-dominant marker in which the probes are usually smaller than (500 to 3,000
+
+1497
+
+bp) cloned genomic or cDNA fragments. RFLP markers are highly reproducible and thus very robust. In the first decade of the use of molecular markers in plants, RFLP predominated. Even today, RFLP remains the most informative marker in comparative mapping of plant genomes. However, due to certain constraints such as low amenability to automation, requirement of larger amount of DNA per assay, use of radioisotopes, greater demand of time and labour, RFLP markers currently are not being used so frequently in gene mapping and marker assisted selection programmes.
+
+Sequence tagged sites (STS): This marker class was first conceived and used in human genome mapping. STS markers are generated by standard PCR. The primers are designed based on the sequence of cDNA (expressed sequence tags, EST), sequence of cloned genes, random genomic DNA and ends of large genomic DNA fragment cloned in cosmid, lambda or artificial chromosomes. The STS marker specifically amplifies the target DNA and has all the advantages of PCR technique. A limitation of STS is that considerable effort and time is needed to generate DNA sequence data for designing suitable primers. Besides, the fragments amplified by the primers may not show length variation between individuals. This problem, however, is circumvented by restriction digestion of the PCR products, which detect polymorphism in the target site of a restriction enzyme internal to the two primer binding sites. This modification has led to a new marker system called cleaved amplified polymorphic sequence (CAPS). STS and CAPS markers are co-dominant and considered robust. When these are based on gene sequences or ESTs, one directly deals with the expressed component of the genome, thereby completely ignoring unexpressed repetitive sequences. Large number of EST databases available in the public domain can be used to design STS markers for simultaneous use in mapping and identification of candidates for the target gene(s).
+
+Random amplified polymorphic DNA (RAPD): RAPD a on the PCR. It employs a single decamer primer of arbitrary sequence, which is annealed to the template DNA typically at 37°C. The variation in RAPD profile is in the form of presence or absence of a band resulting from variation in primer binding sites. This marker system requires less amount of DNA per assay. Being based on random primers, it does not need prior knowledge of the sequence of the genomes. A large number of such primers are commercially available that work across organisms starting from bacteria to human. RAPD marker is technically less demanding, and thus can be routinely used in a small laboratory set-up by plant breeders/plant-protection specialists with a little exposure to molecular tools and techniques. A major limitation of this marker is non-reproducibility due to low annealing temperature. However, utility of a desired RAPD marker can be increased by sequencing termini of the informative amplicon and designing longer primers based on the sequence information for specific amplification of target DNA. Such markers have been named as sequenced characterized amplified regions (SCARs).
+
+Sequence tagged microsatellite sites (STMS): Simple sequence repeats (SSR) or microsatellites are tandem repeats of mono-, di-, tri-, tetra- and penta-nucleotide units dispersed throughout the genome. These are ubiquitous in eukaryotes. They have been identified and characterized in many plant genomes including rice, wheat, barley, chickpea, soybean and Brassica. The frequency of repeats longer than 20bp has been estimated to occur every 33Kb in plants. SSR polymorphism reflects variation in the number of repeat units in a defined region of the genome due to replication slippage
+
+1498
+
+and unequal crossing over. Nucleotide sequence flanking SSR is used to design primers to amplify different number of repeat units in different varieties. These primers are very useful for rapid and accurate detection of polymorphic loci, and the information could be used for developing a physical map based on these sequence tags. This type of polymorphism is highly reproducible. STMS markers are codominant and detect high level of allelic variation. When developed from the EST sequences, STMS markers can be used to assay expressed regions of the genome. Development of STMS markers is time and labour intensive since it requires large scale sequencing for discovery of microsatellites and their unique flanking sequences. Cross-species transfer of STMS that has been demonstrated in a few cases may allow use of such markers available in a closely related species without putting any effort in their development.
+
+Amplified fragment length polymorphism (AFLP): The, AFLP markers are generated by selective amplification of DNA fragments obtained by restriction enzyme digestion. High molecular weight DNA is digested by two restriction enzymes, one hexacutter (e.g. EcoRI) and one tetra cutter (e.g. Msel). Adapter molecules are ligated to the ends of the DNA fragments. Two primers possessing sequence complementarily to the adapter as well as few extra random nucleotides at their 3’ ends are used for selective amplification of fragments employing PCR. The primers are labeled either by radioisotope or fluorescent dye so that the amplified products separated on sequencing gels/capillaries can be visualized by autoradiography or by laser based scanning in an automated fragment analysis system. Alternatively, the products can be separated even using ordinary PAGE and visualized by silver staining. Maximum number of amplified products is obtained per single reaction in AFLP among all the DNA markers. This increases the probability of detecting polymorphism many folds. The technique is, at present, lengthier than other PCR based techniques. It requires good quality DNA for ensuring complete digestion by enzymes. Partial digestion of DNA results in non-reproducible variation in DNA profiles. AFLP is a dominant marker class and requires significant technical skills and laboratory facilities.
+
+Single nucleotide polymorphism (SNP): Polymorphism observed between individuals/varieties may arise due to a single nucleotide substitution. The detection of such variations has led to the development of a new sequence based molecular marker called single nucleotide polymorphism, which is often bi-allelic. SNPs are abundant in plant genomes. For instance in maize, one SNP has been reported in every 48 base pairs in the 3’untranslated regions whereas in the coding regions, its rate of occurrence is lower (one in every 130 base pairs). In rice, the rate of SNP is lower than in maize. SNP marker codominants are being used for large-scale genotyping of human populations for their association with certain genetic diseases. The cost of developing SNPs is very high, since for each locus, DNA has to be sequenced and suitable PCR primers designed. The primers must then be used to amplify the corresponding fragment from all other possible genotypes. These fragments must then be sequenced and the sequences compared with one another to determine SNPs. There are number of methods for identifying SNPs within a genetic locus namely direct sequencing, single-strand conformation polymorphism (SSCP), chemical cleavage of mismatches (CCM), enzyme mismatch cleavage (EMC) etc. Both the discovery and assay (genotyping) of SNP have been automated. For instance, capillary sequencing in automated sequencers, pyrosequencing, denaturing high performance liquid chromatography (HPLC) and
+
+1499
+
+CROP BIOTECHNOLOGY
+
+targeting induced local lesions in the genome (TILLING) are high throughput methods for SNP discovery with varying degrees of efficiency and speed. Use of DNA chips, bead arrays, and mass spectrometry based methods allows large-scale and rapid genotyping.
+
+Advantages of molecular markers
+
+The molecular markers offer several advantages over other genetic markers. These include: (7) abundance, (i?) co-dominance, (iii) phenotypic neutrality, (/v) absence of epistasis, and (v) developmental stage, tissue and environment independent expression. Large number of molecular markers can be obtained either by using DNA probes from a variety of sources in combination with any of the commercially available restriction enzymes or by using a variety of DNA primers. This enables study of several markers in a single population for construction of high-density linkage maps of plant genomes. The above attributes make molecular markers ideal for characterization of quantitative traits.
+
+Molecular markers uses
+
+Uses of molecular markers include: (i) construction of genome maps, (i/) gene mapping and tagging, (iii) marker assisted selection (MAS), and (iv) characterization of germplasm resources.
+
+Construction of genome maps
+
+linkage maps for the whole genome using morphological markers could not in most crop plants due to a lack of sufficient number of markers. Morphological marker based map making was largely confined to maize and tomato. Even in these species, map construction was highly laborious, took many years and required several mapping populations since all morphological markers could not be obtained ina single cross. These maps contained limited number of markers and, therefore, could not be used for efficient mapping of target genes. With the availability of a large number of molecular markers, saturation mapping of plant genomes has become a reality. Most of the crop plants now have near saturated linkage maps that are being used for understanding genome structure, mapping and tagging of genes of interest, map-based cloning of genes and construction of physical maps required for genome sequencing. A linkage map consists of linkage groups; the number of the groups being equal to the number of haploid chromosomes of the species under study. Each linkage group, in turn, consists of genetic markers in a definite order. The distance between any two markers is indicated in centimorgan (cM), which is a function of the extent of recombination between markers. Construction of linkage map involves following: (i) identification of divergent parents, (ii) generation of mapping population, (ii/) identification of informative DNA markers, (iv) analysis of marker segregation in the mapping population, and (v) establishing linkage.
+
+Identification of parents: Selection of appropriate divergent parents is crucial for the success of constructing high density molecular genetic maps. It is therefore essential to carefully survey the available germplasm for geographical and morphogical
+
+1500
+
+diversities. Besides, a preliminary survey can be carried out using a set of DNA markers to identify divergent parents among lines short-listed based on geographical and morphological diversities. It is advantageous to select parents which possess contrasting traits of agronomic importance, so that genes for those traits can also be simultaneously localized on the map. The level of intra specific polymorphism observed in crops like maize is quite high while in tomato low level polymorphism within the cultivated species requires use of parents from two different species to generate mapping populations. In rice, parents from indica and Japonica ecotypes have been used to obtain sufficient number of informative markers for high density genome maps.
+
+of mapping Populations: The selected parents are crossed to obtain F, hybrids from which four different mapping populations can be generated: (i) F, (by selfing a single F, plant), (ii) BC (by crossing F, with one of the parents), (iii) recombinant inbred lines (by selfing individual F, plants for 6-8 generations), (iv) doubled haploids (by in-vitro culture of anthers/pollens from F, followed by chromosome doubling), and (v) pseudo F, or pseudo backcross (by crossing for construction of a linkage map), about 100 F, plants should be sufficient. In most of the crop plants F, population has been used since it can be generated in the shortest possible time with the least effort. However, for mapping genes, particularly those for quantitative traits, permanent mapping populations such as recombinant inbred lines and doubled haploids are preferred since they can be maintained over years by selfing and replicated over locations and seasons. This allows correct estimation of environmental effect, which is a component of the quantitative trait variation. Use of recombinant inbred lines (RILs) provides greater resolution of map as compared to other populations. However, it takes longer to generate this population.
+
+Identification of informative markers: The markers, which show polymorphism between the two parents chosen for generating mapping population, are called informative markers. In case of RFLP, several DNA probes should be tried in combination with a set of restriction enzymes to find polymorphic probe-enzyme combinations (PECs) for parents. Emphasis should be on finding a cheaper enzyme, since this will be required in large amounts. In crops like maize and Brassica, one or two enzymes, viz. Eco RI and Hind III, were sufficient to detect high level of DNA polymorphism, whereas, in rice, 11 enzymes were used to have 75% of probes’ polymorphic. Therefore, depending on the species, extensive analysis needs to be carried out to identify polymorphic PECs. For PCR based markers, suitable primers are similarly identified through extensive surveys. Single nucleotide polymorphism similarly has to be discovered between two parents by sequencing of cDNA and/or part or whole of two parental genomes, followed by sequence comparison. Available SNP markers can also be used in genotyping assays to detect polymorphism between parents.
+
+Segregation analysis: Individual plants of the mapping population are analyzed using same informative markers, which detect polymorphism between parents. The plants are categorized as parent | type, parent 2 type or F, type depending on the size of the polymorphic fragments. The observed frequency of the plants based on marker locus genotypes is compared with the expected segregation ratio of 1 : 2: 1 in case of F, and pseudo F,, and | : | in case of other populations. Based on chi-square analysis, the observed segregation pattern is tested for possible distortion. Markers showing
+
+1501
+
+expected segregation ratio are well-suited for construction of linkage maps.
+
+Linkage analysis: Markers segregating in the population are tested pair-wise, i.e. by a two-point test. Linkage is indicated when chi-square test reveals absence of independent assortment. Although it is possible to do linkage analysis manually; it is a stupendous task when the number of markers are more (>1,000). Presently, several computer packages are being used to construct high-density linkage maps. The most commonly used package is MAPMAKER developed by a group of researchers working at the Whitehead Institute of Biomedical Research, USA. Once the linkage groups are identified by a two-point test, the markers within a group are ordered by 3 point and multipoint linkage tests. The distance between markers is expressed in centimorgan (cM), which is a function of recombination between them.
+
+The correspondence of linkage groups with the chromosomes is established by using chromosome stocks, viz. trisomics and monosomics or by using in-situ hybridization. A linkage map is considered complete when the number of linkage groups equal gametic or haploid number of chromosomes. A fair degree of saturation is assumed when maximum distance between any two adjacent markers is less than 5 cM.
+
+Molecular genome maps have been constructed in almost all important crop plants. The number of markers employed to construct these maps and the marker density vary greatly. Most of these maps are based on RFLP markers. More recently, co- dominant markers such as STMS and SNPs are being preferred over other markers although in crop species without any DNA sequence information, random dominant markers such as RAPD and AFLP are still in use. Rice genome map is one of the examples of high density genome maps. Availability of such a genome map is facilitating identification of tightly linked flanking markers for genes of agricultural importance. Availability of such a genome map facilitates identification of tightly linked flanking markers for genes of agricultural importance.
+
+Uses of molecular maps: Molecular maps constructed in a species can be used for many different purposes. (i) Map-based comparative analysis helps in understanding genome relationship among sexually incompatible species, determining genome evolution pattern and isolation of genes from complex large genome species using information from a small genome relative. (ii) Molecular maps are useful for tagging genes for qualitative as well as quantitative traits and thus help identifying markers for use in marker assisted selection schemes. (iii) Molecular markers genetically mapped to specific genomic locations are used in anchoring artificial chromosome clones and thus constructing whole genome physical maps. Integrated genetic and physical maps guide clone-by-clone approach of the whole genome sequencing. (iv) High-density molecular maps are used to fine-map genes of interest. This allows chromosome landing and thus map-based isolation of genes known only by their phenotypic effects.
+
+Molecular mapping of genes
+
+Molecular markers have been extensively used to map and tag many genes of agricultural importance influencing both qualitative and quantitative traits. The qualitative traits are monogenically inherited and show discrete variations. On the other hand, the quantitative traits are polygenically controlled and show continuous
+
+1502 HANDBOOK OF AGRICULTURE
+
+variations. The methods used to map genes for these two kinds of traits are different. These are briefly outlined below.
+
+Monogenic traits: Mapping of genes for monogenic traits in crop plants involves 3 distinct approaches: (i) use of a complete linkage map, (ii) use of near isogenic lines (NILs) and (iii) bulked segregant analysis (BSA) of F population. The first approach essentially requires availability of a complete genetic linkage map. For the purpose of mapping a gene, markers are selected from all the chromosomes such that the maximum distance between any 2 adjacent markers does not exceed 20 centimorgan (cM). The individuals of the mapping population are phenotyped for the target trait and genotyped by using markers informative between two parental lines. Co-segregation of any of these markers with trait phenotype in the mapping population reveals linkage.
+
+The other two approaches do not require a linkage map. For instance, in the case of the use of near-isogenic lines (which are developed by repeated backcrossing of the F, with the recipient parent and therefore, differ for a single gene), DNA markers distinguishing two lines (say resistant vs. susceptible) are first identified. Then these informative markers are used to genotype individuals of the mapping population often derived from the cross of two isogenic lines. Co-segregation of any of these markers with the trait phenotype is analysed to confirm linkage and determine its strength.
+
+Use of F, population in conjunction with a technique called bulked-segregant analysis (BSA) is the most rapid way of mapping genes. In this approach, DNA from ten homozygous resistant F, plants are bulked to constitute a resistant bulk. Similarly, a susceptible bulk is made 1 out of DNA from 10 homozygous susceptible F, plants. The DNA markers, which distinguish these two bulks, are considered to be putatively linked with the target gene. The linkage is confirmed by establishing co-segregation of this marker with trait phenotype in the mapping population.
+
+The first and the last methods are now being combined to harvest benefits of both. In this approach, the mapped markers selected from the complete genome map are used in BSA to identify putatively linked markers, which are then confirmed by co- segregation analysis in mapping population. This approach is most directed and allows faster progress in gene mapping.
+
+Polygenic traits: The methods applied for characterization of monogenic traits are not appropriate for studying polygenic traits because of the difficulty in categorizing individual plants of a mapping population into distinct phenotypic classes due to interaction of many genes and a significant role of environment in trait expression. The genes that influence expression of polygenic/quantitative traits are known as quantitative trait loci (QTLs). QTLs mapping in plants has been mostly carried out using structured populations derived from bi-parental crosses as described above under genome mapping such as RILs and doubled haploids. In this approach, a fairly large (>200 individuals) mapping population (preferably RILs and doubled haploids) is rigorously phenotyped over years across locations. Markers are used to genotype the same set of plants/lines of population. The genotypic and phenotypic data are used then to establish marker-trait association, localize QTL into marker intervals, estimate QTL effects and understand nature of interaction among different loci as well as between QTL and environment. Different statistical methods have been devised for QTL mapping. Three main methods are: (i) Single point/marker analysis, (ii) Interval mapping and (iii) Composite interval mapping.
+
+CROP BIOTECHNOLOGY 1503
+
+1503
+
+Single point analysis- This is carried out by looking for associations between genotypes at individual markers and phenotypic traits of interest. Single factor analysis of variance is done for each marker locus independent of information from other marker loci. F-tests provide evidence whether differences between marker locus genotype classes are significant or not. If the differences among the marker locus genotypic mean values are found significant, then the marker-QTL linkage is inferred. This method may not provide an accurate estimate of the QTL effect due to recombination between the marker and the QTL. Besides, precise positioning of the QTL to marker intervals is not possible. However, in the absence of a complete genome map, this method can be used to derive some meaningful information on QTL mappng.
+
+Interval analysis- This method was first proposed by Lander and Botstein in 1989 and it takes full advantage of a complete linkage map. In this procedure, intervals formed by the pairs of adjacent markers are taken as the unit of analysis and tested for the presence of single QTL by using genetic information from flanking markers. Presence of a putative QTL is assumed if the log of odds ratio (LOD) exceeds a critical value. Interval mapping enables QTL location in marker intervals. The QTL effects are also estimated more precisely as compared to single marker analysis.
+
+Composite interval mapping- This method combines interval mapping for a single QTL in a given interval with multiple regression analysis. It is the most powerful method of QTL analysis because of the increased precision by elimination of variance caused by other QTL.
+
+More recently, a different approach called association mapping is being followed. Unlike the first approach, association mapping does not require generation of structured populations, which involve many years of continuous efforts. Germplasm lines fairly representing total diversity for the trait are selected and phenotyped over seasons across locations. These are also genotyped either by using a large number of markers distributed all over the genome (in case of global association mapping) or by using markers specific to the region of a gene. The objective of the global approach is to identify as many QTLs as possible and map them precisely. In the case of gene specific approach, functional significance of particular genic difference among the germplasm lines is established. This helps in identifying newer alleles in germplasm lines.
+
+Marker-assisted selection (MAS)
+
+Crop improvement involves creation of genetic variations and selection of desirable variants/recombinants, which are subsequently evaluated and released for commercial cultivation. Selection of desirable variants/recombinants has been based on the phenotype. Success of such selections largely depends upon the skill of the concerned plant breeder. Selection of a genotype carrying desirable gene or gene combination via linked-marker(s) is called marker-assisted selection. Breeders sometimes practice marker-assisted selection when an important trait, that is difficult to assess phenotypically, is tightly linked to another Mendelian trait, which can be easily scored. For example, a gene for purple coleoptile colour in some traditional rice varieties is closely linked to a gene that confers resistance to brown plant hopper (BPH). In a segregating population like F,, about 95% of the plants showing purple coleoptile are found resistant to BPH. In this case, coleoptile colour is a morphological marker, which is used to assist selection for BPH resistance. Morphological markers are,
+
+1504 HANDBOOK OF AGRICULTURE
+
+however, limited in number, are specific to particular genotypes and are dominant. Morphological markers may also show tissue and developmental stage specific expression, pleiotropy and even at times, adverse effect on plant growth, vigour and viability. Molecular markers do not suffer from these limitations and thus offer advantages over morphological markers. This increases screening efficiency in breeding programmes in a number of ways: (i) The segregants can be scored at the seedling stage; (ii) It is possible to screen for traits that are extremely difficult, expensive or time consuming to score and measure, such as tolerance to drought, salt, mineral deficiencies and toxicity, root morphology, resistance to nematodes or to specific races or biotypes of diseases or insects; (iii) Selection can be practised for several traits simultaneously, which is difficult or even impossible by conventional means; (iv) Heterozygotes are easily identified and distinguished from homozygotes without resorting to progeny testing. This saves time and effort.
+
+Because of these advantages offered by MAS over conventional phenotype based selection, markers are becoming increasingly important for plant breeders. Some of the areas, where markers are currently being used are outlined here.
+
+introgression: All the important cultivated crop species have many relatives serving as rich reservoir of agronomically important genes. In wheat, for instance, most of the genes for rust resistance have been derived from wild relatives. It has been reported that introgression of a specific locus from a donor genome using a backcross-breeding programme relying on traditional method of selection requires a minimum of 6 generations of backcrosses. At this junction, the resultant progeny constitutes nearly 99% of the recipient genome and the rest from the donor genome. In comparison, marker-assisted selection (MAS) in a backcross-breeding programme would aid in attaining the same desired objective in 3 backcrosses only. Similarly, the genomic region flanking the target gene from the donor is replaced by the recurrent or recipient genome in only 2 backcrosses in MAS programme whereas the same would require nearly 100 backcrosses in the traditional method. The use of MAS thereby significantly reduces time needed to develop crop varieties with desired traits. Besides, it is possible to eliminate linked undesirable regions introgressed from the wild along with the gene of interest by exercising allele specific selection against wild species. Simultaneous mapping and introgression of QTLs present in the wild relatives by employing advance-backcross method for yield and its components in rice and tomato exemplifies application of molecular markers in breaking yield barriers in crop plants.
+
+Gene pyramiding: Marker-assisted breeding and selection has a tremendous potential in strategies such as gene pyramiding. The principle of gene pyramiding is based on combining 2 or more major genes, for instance, those conferring resistant to a particular disease in a single plant genotype. A combined effect of the resistance genes is thought to provide a broad spectrum of resistance by both individual gene action as well as quantitative or collective or additive gene action. However, it may be a very difficult and a lengthy procedure to ascertain number of genes that have been pyramided using a traditional breeding and selection programme. Therefore, molecular markers that are linked or co-inherited with individual resistance genes could be used for marker-assisted selection. A typical example of gene pyramiding is in rice. Lines carrying different combinations of 4 genes for bacterial blight (BB) resistance, Xa4, xa5, xa13 and Xa21, could be identified at the International Rice Research Institute,
+
+1505
+
+CROP BIOTECHNOLOGY 1505
+
+Philippines, using markers. Two of these genes (xa13 and Xa21) have recently been combined with Basmati quality characters in the background of the popular Basmati rice variety Pusa Basmati 1. A new BB resistant variety named Improved Pusa Basmati 1 developed through this effort jointly by the National Research Centre on Plant Biotechnology and Indian Agricultural Research Institute, New Delhi, has been released for commercial cultivation.
+
+Development of improved varieties/hybrids: Development of improved varieties by recombination breeding and hybrids by use of improved parental inbreds remain a major breeding objective in crop species. Classical breeding programmes rely mainly on phenotypic expression in respect of the complex target traits during pedigree or recurrent selection schemes to attain this objective. Molecular markers linked to the QTLs affecting target traits should help in following their transmission over generations and thus assist in more precise identification of useful recombinants. Marker aided backcross transfer of QTLs to create near-isogenic lines has been reported in tomato. In maize, through marker-aided transfer of yield QTLs from inbred line Tx303 to B73 and Oh43 to Mol7 generated improved inbreds, which were called as ‘enhanced’ lines. Fifteen enhanced B73 lines were crossed with 18 enhanced Mo17 lines to produce 93 hybrids that were evaluated in replicated field trials at North Carolina, USA. Six of the hybrids exceeded national check hybrids by two standard deviations or more and two highest yielding enhanced hybrids gave 15% more yield than checks. These results thus demonstrated that marker-facilitated backcrossing could be successfully employed to manipulate complex traits, viz. heterosis for grain yield.
+
+Characterization of germplasm resources
+
+Characterization of germplasm resources available in a crop species is essential for (i) estimation of genetic diversity, (ii) identification and elimination of duplicates, and (iii) identification and protection of elite genotypes. Germplasms can be characterized at the morphological, biochemical and molecular levels.
+
+Use of morphological data: Use of morphological characteristics to describe and identify individuals is very old. In humans, the number, spacing and orientation of the tidges in the fingertips are very specific to individuals. Analysis of this pattern formed by fingertip ridges, which is called ‘fingerprinting’, was first utilized to identify individual human beings in late 19" century. The credit for this goes to Sir Francis Galton who was the first to develop system for fingerprint analysis. In plants, morphological characters, also called as descriptors, such as seed coat colour, flower colour, hairiness, plant height, maturity, yield related traits have been used to describe and identify crop varieties and germplasm resources. Since these characteristics are ultimately expressions of genes, and their measurement has a component of genotype x environment interaction they may vary under different growing conditions.
+
+Characterization using protein profiles: Protein and isozyme profiles are generated - using (i) polyacrylamide gel electrophoresis (PAGE), (ii) starch gel electrophoresis, (iii) high performance liquid chromatography (HPLC), and (iv) isoelectricfocusing. The resolving powers of these techniques vary. The first two techniques are simpler to operate and therefore, have been used widely. However, the later two have been introduced for their high resolving power. For instance in wheat, seed storage proteins, viz. gliadins and glutenins have been analysed employing PAGE as well as HPLC.
+
+1506
+
+Better resolution of the profile with HPLC helps in precise identification. In maize, isozyme profiles have been studied using both starch gel electrophoresis as well as isoelectric focusing. Since the expression of the genes varies depending on the tissues, developmental stage of plant and environment in which plant grows, the protein and isozyme patterns depend these factors.
+
+Use of molecular markers: Their use in the characterization and identification of individuals/varieties has given rise to the concept of “DNA fingerprinting”, developed in 1985. In humans, polymorphism could be detected and used to identify individuals employing minisatellites as DNA probes in southern blot hybridization. Subsequently, PCR based molecular markers, viz. RAPD, and AFLP, were used to generate DNA fingerprints. More recently, STMS and SNP markers are being preferred for their robustness:and co-dominance over other markers in germplasm characterization and unequivocal identification of crop varieties. DNA fingerprinting is becoming method of choice for characterization of crop varieties and hybrids, because of the advantages molecular markers offer over morphological and biochemical markers. The steps involved in DNA fingerprinting include (i) DNA extraction, (ii) development of a set of clones as probes/synthesis of oligonucleotide primers, (iii) screening of probes/primers for informativeness, (iv) deciding on the number of probes/primers and restriction enzymes to be used, and (v) recording and analysing fingerprints.
+
+GENOMICS
+
+In recent years, genomics has emerged as a sub-specialization in biology. It deals with the study of genomes of biological entities. Genome of a eukaryotic organism consists of the basic, i.e. monoploid chromosome set of the concerned species. Genomics thus encompasses the study of the structure and the function of the hereditary material contained in the chromosomes composing a genome. Beginning with the discovery of the chromatin, the study of genome moved from genetic mapping of a few genes/ mutations by the group led by TH Morgan and the famous genome analysis of H Kihara, based on chromosome pairing behaviour to complete sequencing and functional analysis of the whole genome thereby bringing genomics to the forefront of biology.
+
+The first foray into genomics was a proposal to use DNA technology to the extend Sturtevant’s original concept of genetic mapping to human being. Instead of tracing visible mutations as had been done in fruit flies, David Botstein and colleagues in 1980, working at the Whitehead Institute of Biomedical Research, USA, proposed that one could construct a genome map i.e. a complete genetic map of all human chromosomes following inheritance of DNA sequence variations, termed DNA polymorphism. A more expansive vision aiming at study of genome at a very fine scale giving a nucleotide-by-nucleotide account was expounded in 1985. The entire human genome was proposed to be sequenced providing a complete catalogue of every human gene. Although, on its face, the proposal seemed a logistic impossibility, decades of hard work by vast hordes of researchers at different laboratories of the world transformed this into a reality. The first bacterial genome to be completely sequenced was that of Haemophilus influenzae in 1995. In 1998, the genome of the first multicellular organism—the 97 million base (Mb) DNA sequence of the round
+
+1507
+
+CROP BIOTECHNOLOGY 1507
+
+worm, Caenorhabditis elegans was published. The first plant completely sequenced is weed Arabidopsis thaliana, a wild relative of mustard in 2000. Sequencing, sequence assembly and annotation of the whole genome of an organism constitute structural genomics while assigning biological function(s) to the DNA sequences using a variety of tools and techniques is functional genomics.
+
+Whole genome sequencing
+
+As exemplified by the human genome, two distinct approaches are being employed for complete sequencing of eukaryotic genomes: (i) ordered clone-by-clone approach and (ii) whole genome shotgun approach. The public funded Human Genome Project employed the first approach while the private company Celera Genomics followed the second strategy in human genome. In plants, Arabidopsis Genome Initiative followed the same method as the Human Genome Project. The sequencing of the rice genome carried out by the International Rice Genome Sequencing Project (IRGSP) was also based on the first approach.
+
+Clone-by-clone approach: approach map based on a large number of DNA markers and a large fragment (>100 kb) genomic library with at least 10 fold coverage of genome of the given species. In rice for instance, a genetic map containing more than 3,000 genetic markers had been constructed which was used to develop a physical map of the genome using large fragment DNA libraries. Three different large fragment libraries using yeast artificial chromosomes (YACs), bacterial artificial chromosomes (BACs) and P1-derived artificial chromosomes (PACs) were generated which carried different rice genomic DNA fragments obtained by partial restriction digestion using enzymes, viz. Mbol, Sau3A, EcoRI and HindIII. The BAC and PAC clones have been mostly used in sequencing, while the YACs were used for gap-filling and anchoring of expressed sequence tags (ESTs). Prior to their use in sequencing, however, the BAC/PAC clones are anchored onto the genetic map to construct physical maps of the genome. For this, the genetic markers are used as probes to screen BAC/PAC libraries. Those clones, which hybridize are then placed against marker(s) along the chromosome to generate a physical map of the marker region. This way, using markers from all genomic regions, a complete physical map is created. A contiguous set of clones in a genomic region (called a contig) is further characterized for instance, by fingerprinting, to identify clones with minimum overlap at the ends. These clones constitute minimum tiling path and thus become the substrate for sequencing. This method, although laborious, provides opportunity for chromosome sharing and helps in precisely if
+
+Whole genome shotgun approach: In this approach, genomic DNA is sheared to obtain 2 and 10 kb fragments, which are then cloned and sequenced from both ends. Sequences of large number of such clones are then assembled to derive small contigs, which are ordered and oriented into scaffolds. The scaffolds are then mapped to chromosomal locations using known markers. The assembly process consists of 5 major stages, viz. screener, overlapper, unitigger, scaffolder and repeat masker. The screener marks sequence for microsatellites, and screens out all known long interspersed repeats. The overlapper compares every read of sequence against every other in search of complete end-to-end overlaps of at least 40 bp. The unitigger identifies uniquely
+
+1508
+
+1508 HANDBOOK OF AGRICULTURE
+
+assembled contigs, which are then joined by scaffolder. The repeat masker is used to resolve repeats and thus eliminates errors in the scaffolding process. This method is more straightforward and less time consuming. It requires high level of computing expertise and facility. For resolving some of the conflicts, it requires information from the genetic and physical maps.
+
+The sequence of the whole genome provides a wealth of information on the genome structure, its evolution pattern and its relationship with other genomes. It also enables analysis of biological processes/pathways at the whole genome level.
+
+Functional genomics
+
+Once the whole genome is sequenced then it becomes essential to derive meaning so that new and novel genes are isolated and utilized in crop improvement. Different approaches are followed for gene discovery. The first task after getting the sequence is to employ a set of bio-informatic tools and techniques to get sense out of the data. A variety of gene prediction packages are available that determine, if a segment of DNA contains any gene. This method takes into account structure and functions of known genes and heavily depends on computation. Actual experiments however, are required to establish correctness of the prediction of genes.
+
+Another method that promises far greater precision in establishing gene function employs a large set of mutants. By employing transposon, retrotransposon and T- DNA insertions, a variety of mutants are created which enable the process of gene identification. A third method called transcriptomics requires availability of micro- arrays, which are also known as DNA chips. Short oligonucleotides designes based on the sequence of cDNAs or predicted genes from the genome sequences are placed (arrayed) on a glass slide as microscopic dots by using a robot called arrayer. Thousands of these spots so created on a single slide are then hybridized with fluorescent-labeled cDNAs synthesized from RNA from different tissues or treatments. Different fluorescent labels are used for different tissues or treatments. When hybridized, differentially expressed genes are easily identified based on the colour pattern of the spots. Transcriptomics thus refers to analysis of the transcriptome, i.e., the total set of transcripts in a given organism or to a specific subset of transcripts in a particular cell type. Ultimately, the genes identified by different approaches validated functionally by using them in genetic transformation experiments to see if the mutant phenotypes are complemented.
+
+The genome function is also studied at the proteins level. The entire complement of proteins produced by an organism constitutes the proteome, and its study is called proteomics. A variety of approaches employing 2-dimensional electrophoresis, mass spectrometry, protein chips, and yeast two-hybrid systems are used to characterize proteome of an organism. When the genome function is understood by analyzing all the metabolites in a biological organism, it is called metabolomics. Metabolite profiling techniques used are gas chromatography, high performance liquid chromatography, capillary electrophoresis, mass spectrometry and nuclear magnetic resonance spectroscopy. It enables assessing unique chemical fingerprints that specific cellular processes leave behind. This profiling can give an instantaneous snapshot of the physiology of a cell and thus provide additional information required for understanding genome function.
+
+1509
+
+CROP BIOTECHNOLOGY
+
+TRANSGENICS
+
+Transgenic plants, genetically modified organisms (GMOs), living modified organisms (LMOs) and Genetically Engineered Organisms (GEOs) are synonyms and represent products of the process of transgenesis. In literary terms, transgenic (trans + genic), as the word denotes, means transfer of genetic material (DNA fragment carrying known gene/s) from across the biological systems, i.e. from viruses to man (donors) into plants cells (recipient), through in-vitro techniques. The plants derived from these cells are termed as genetically transformed plants or transgenic plants. These plants transmit and express introduced traits in successive generations.
+
+Importance of transgenics in agriculture
+
+Biotechnology, based on recombinant DNA technology, is being advocated as an important adjunct to conventional plant breeding for sustainable development in agriculture. Tools and techniques of recombinant DNA technology have widened the definition of ‘gene pool’ in plant breeding because it is now possible to mobilize candidate genes of interest into plants from hitherto inaccessible bioresources. Encouraged by these developments, a wider role of biotechnology in ecotechnology- based precision farming of future, especially for developing countries like India has been envisaged. There should be a judicious integration of biotechnological approaches in each of the following major components of conventional crop improvement programmes, viz. (i) integrated gene management, (ii) integrated nutrient management, (iii) integrated pest management, (iv) water management, (v) soil health care, and (vi) post-harvest management. The development of genetically tailored plants of tomorrow endowed with attributes enumerated above is a distinct possibility through recombinant DNA technologies. In recent years, the practical utility of alien genes through transgenesis has been extensively demonstrated and transgenic plants harbouring genes for insect pest and herbicide tolerance, improved post-harvest shelf life, and for quality have been developed in a number of crop plants and are being grown commercially in both developed and developing countries.
+
+Landmark discoveries leading to development of transgenics
+
+The 20th century began with the rediscovery of Mendel’s Laws of Inheritance and ended with full genome sequence of a number of organisms, including Arabidopsis among plants and human being among animals. These hundred years are dotted with revolutionizing scientific discoveries (Table 41.1), which led to the development of recombinant DNA technology and in turn to transgenics. These discoveries established that all the characters in living beings are governed by genes; each gene with a well defined nucleotide sequence in DNA occupies a pre-determined location in the chromosome; there is site specific cleavage of DNA by restriction enzymes; restricted DNA fragments can be cloned into appropriate vectors; these vectors mediate the mobilization of cloned genes into the recipient; the expression of the introduced gene in the recipient plant cell can be manipulated; and transformed plant cell can be regenerated into a transgenic plant.
+
+The recombinant DNA technology developed so far permits only random insertion of foreign DNA in the chromosomes and, therefore, the level of expression of the inserted gene and its stability is greatly influenced by the neighbouring DNA sequences in the chromosome.
+
+1510 HANDBOOK OF AGRICULTURE
+
+1900 De Vries, Carl Correns, and Erich von Tschermak—Rediscovered Mendel's Law of In- heritance
+
+1902 Walter Sutton and T. Boveri—Proposed chromosome theory of heredity
+
+1909 Wihelm Johannsen—Coined the term ‘Gene’
+
+1910 Thomas Hunt Morgan—Demonstrated linkage between genes
+
+1941 G. Beadle and E. Tatum—Proposed ‘One gene one enzyme’ hypothesis
+
+1944 Avery, MacLeod and McCarty—Demonstrated DNA as the genetic material
+
+1953 Francis Crick and James Watson—Discovered double helical structure of DNA
+
+1954 Skoog and Miller—Plant regeneration from cell cultures
+
+1961 S. Brenner, F. Jacob, and M, Meselson—Discovered mRNA
+
+1966 Nirenberg, Khorana and Ochoa—Cracked the genetic code
+
+1968 M. Meselson and H.C. Smith, K.W. Wilcox and T.J. Kelley—Described first restriction enzyme
+
+1972 Stanley Cohen and H. Boyer—Produced first recombinant DNA molecule
+
+1973 Stanley Cohen cloned first animal gene in E. coli
+
+1975-77 Sanger, Maxam and Gilbert—Developed DNA sequencing methods
+
+1976 Genentech—first genetic engineering company established
+
+1983 EL. Herrera-Estella, A. Depicker, M.Van Montagu J. Schel—Demonstrated Agrobacterium mediated transformation in plants
+
+1987 Burke ef a/.—Developed Yeast Artificial Chromosome (YAC) as vectors in plants
+
+1990 N. Sternberg—Developed Bacterial Artificial Chromosome (BAC) as vectors in plants
+
+1994 Calgene—Developed FLAVR SAVR, the first transgenic tomato, showing extended shelf- life
+
+Methods of gene isolation
+
+A large number of methods are being used by different workers for isolation of genes. However, to provide comprehensive coverage of the components required for genetic engineering, a few of the most common methods along with suitable references are listed below.
+
+The major routes being followed for gene isolation are:
+
+(i) Protein route—where gene product is known in the form of protein (Bouchez and Hofte 1998)
+
+Gi) mRNA route—where gene product is known in the form of mRNA and in tum DNA complementary to an mRNA (cDNA)
+
+(iii) Transposon mutagenesis route
+
+(iv) Molecular map based cloning route
+
+(v) Protein—Protein interaction route
+
+(vi) DNA—protein homology search from the database. From among these approaches selection of the most appropriate procedure will depend on the type of gene, the tissue, and the organism from where the gene is to be isolated.
+
+Methods of gene transfer in plants
+
+The spectacular demonstrations that the plant cells are totipotent, i.e. have the potential to develop into a full plant and that they can be transformed with foreign DNA has paved way for genetic engineering of plants for desired traits. A large number of methods of gene transfer in plant cells have been tried over years, and are discussed here.
+
+1511
+
+Direct gene transfer
+
+(i) Pollen mediated, (ii) imbibition, (iii) microinjection, (iv) particle bombardment or biolistics, (v) electroporation, (vi) ultrasound-induced DNA uptake, (vii) silicon carbide fibre-mediated DNA uptake, (viii) laser-mediated DNA uptake, (ix) liposome- mediated DNA uptake, (x) PEG-mediated DNA uptake, and (xi) agrolistics.
+
+Vector mediated gene transfer
+
+(i) Agrobacterium mediated, (ii) agro-infection, and (iii) viral vector.
+
+Of the above listed methods, two methods, i.e. Agrobacterium-mediated and biolistics, have been predominantly used in transformation work. While both of these methods are quite effective, each has distinct advantages and shortcomings, and their deployment has been largely influenced by the characteristics of the plant tissues to be transformed.
+
+Agrobacterium-mediated gene transfer: Agrobacterium tumefaciens is a gram- negative soil bacterium, which causes tumor formation (called crown gall) on a large number of dicotyledons as well as some monocots and gymnosperms. Crown gall induction is due to the transfer of a specific DNA fragment, the T-DNA (transferred DNA), from a large tumor-inducing (Ti) plasmid within the bacterium, to the plant cell. Three bacterial genetic elements are required for T-DNA transfer to plants: (i) T- DNA border sequences that consist of 25 bp direct repeats, flanking and defining the T-DNA. Usually, all DNA sequences between the borders are transferred to the plant. (ii) The virulence (vir) gene-encoded by the Ti-plasmid in a region outside of the T- DNA. Vir A and Vir G form a 2 component regulatory system responsible for transcriptional activation of the vir operons. The other vir genes are involved in the processing of T-DNA targeting to the nucleus and are probably involved in precise T- DNA integration into plant genome. (iii) The third bacterial element necessary for T- DNA transfer consists of a number of chromosomal genes—chv4, chvB, pscA, exocC and att—with functions like response to plant wounds and attachment of the bacterium to the plant cell.
+
+The development of plant transformation vectors using A. tumefaciens is based on the fact that besides the border repeats none of the T-DNA sequences are required for transfer and integration. This means that the T-DNA genes can be replaced by any other DNA of interest, which will be transferred to the plant genome. Also, length of the T-DNA is not critical. Small (a few Kb or less) as well as large T-DNA’s (150 Kb) can be transferred by the Agrobacterium into the plant cell.
+
+Particle bombardment or biolistics: The invention of the direct gene transfer technique of particle bombardment was a major development in plant genetic manipulation, as it had enabled transformation of many plants not amenable to Agrobacterium based gene transfer techniques.
+
+The method involved particle gun accelerated microprojectiles, typically tungsten or gold particles (1.2 mm in diameter) coated with plasmid DNA of interest, to velocities at which they can penetrate plant cell walls. The most widely used particle gun is PDS-1000/He marketed by BioRad, which uses helium gas for propulsion of the DNA coated gold/tungsten particles. Gold is preferred over tungsten because gold is biologically inert whereas tungsten degrades DNA over time and can be toxic to some cell types.
+
+1512
+
+Transgenics have been produced from bombardment of various explants like shoot apices, immature zygotic embryos, inflorescences etc. in maize, wheat, tobacco, barley, Arabidopsis and some other plants.
+
+STEPS INVOLVED IN PROCESSING A TRANSGENIC EVENT INTO A COMMERCIAL VARIETY
+
+currently use for plants transformation, the insertion of the gene in plant chromosomes is random. Hence, any two independent gene transfer events even in two adjacent cells in a tissue are expected to be different. The chromosomes in the functional sense are linearly mosaic, i.e. there are regions in the chromosome which either do not carry any functional gene or the resident genes are non-functional. The heterochromatic regions in the chromosome suppress activity of the inserted gene as well. In situations where the alien gene gets inserted within a normal functional gene of the plant, the function of such gene is disrupted. Such insertional transgenic events will generate genetic variability in the original genotype. Certain areas in the chromosomes have the tendency of throwing out or silencing transgene (inserted gene) after a passage of time/generation rendering transgene ineffective. It is because of these uncertainties that each transgenic event produced is subjected to detailed molecular and phenotypic analyses. In terms of developing an improved variety (Fig. 41.1), the transgenic plants as such can be evaluated for their performance vis-a-vis the best non-transgenic ruling variety. In case transgenic plants are unable to compete with the best variety then these can be used as donors of transgene to the best available genotypes in conventional backcross breeding programmes. The Bt-transgenic cotton hybrids developed by MAHYCO and released for commercial cultivation in India are the products of backcross breeding programme where Bt- transgenic cotton variety Coker 312 was used as the donor of Br-gene to heterotic inbreds developed earlier. The major steps involved in the evaluation and processing transgenic event include:
+
+* Molecular tests with transgenics at DNA, RNA and protein levels to study copy number of genes inserted in the genome, the level of expression of the gene at RNA and at protein levels.
+
+Effectivity and efficiency of the character controlled by the transgene, e.g. Br- gene, insect bioassay tests undertaken for studying the lethality in the insects on feeding transgenic plant parts.
+
+* Human and animal health and environmental safety from the use of a given transgene as per the prescribed guidelines.
+
+* Agronomic performance and field release of the transgenic variety as per the prescribed guidelines.
+
+Status of transgenic plants
+
+Phenotypic traits modified
+
+The genetically modified plants approved for cultivation express one or more of the following basic phenotypic characteristics: delayed fruit ripening; fertility restoration; herbicide tolerance; insect resistance; male sterility, modified colour, modified oil, virus resistance etc. The traits along with their genes and the sources from where these genes have been isolated are given in Table 41.2.
+
+1513
+
+CROP BIOTECHNOLOGY
+
+1514
+
+1514 HANDBOOK OF AGRICULTURE
+
+Tomato Escherichia coli bacteriophage T3 Bacillus amyloliquefaciens Agrobacterium sp. strain CP4
+
+Chimera of 2 resistant AHAS genes Chlorsulfuron tolerant line of Arabidopsis Chlorsulfuron tolerant Nicotiana tobacco Ochrobactrum anthropi Klebsiella pneumoniae subspecies oza S. hygroscopicus
+
+S. viridochromogenes
+
+Bacillus thuringiensis subsp. kurstaki (Btk) Bacillus thuringiensis subsp. kurstaki (Btk) Bacillus thuringiensis var. aizawai B. thuringiensis subsp. tenebrionis B. thuringiensis subsp. kumamotoensi B. thuringiensis subsp. tolworthi Solanum tuberosum Bacillus amyloliquefaciens E. coli P. hybrida P. hybrida Viola sp. Glycine max NULL Unbellularia californica Cucumber mosaic cucumovirus Papaya ringspot potyvirus (PRSV) Potato potyvirus Y (PVY) strain O (co strain) Watermelon mosaic potyvirus 2 Zucchini yellow mosaic potyvirus Potato leafroll luteovirus (PLRV orf 2
+
+1515
+
+Commercially released transgenics — an analysis
+
+The transgenic plant, Flavr Savr™ tomato for delayed ripening, was released for commercial cultivation in 1994. However, this transgenic could not be grown extensively because of the problems associated with its harvesting. The first commercially viable transgenics were those involving insect resistance in cotton, corn and soybean released by Monsanto, Ciba-Geigy and Monsanto respectively, in 1996. Between 1996 and 2008, there has been a steady increase in the number of transgenics released as well as the area under transgenics globally. In 1996, the area occupied by transgenics was about 1.7 million ha, which rose to125.0 million ha in 2008. A closer scrutiny of the crops, genetic traits and the countries growing genetically modified (GM) crops is most revealing. The following points were noticed: (i) The most of the global transgenic area is covered by only 5 crops, i.e. soybean, corn, cotton, canola, and papaya (Table 41.3). (i?) The most common traits engineered in these crops are herbicide tolerance, insect resistance (only cry genes from Bacillus thuringiensis, Bt) and virus resistance (Table 41.3). The crop and trait wise distribution of transgenics in 2008 has revealed that herbicide tolerant soybean dominated the scene. (iii) The country-wise distribution of the area under transgenics is higher in the industrialized countries as compared to developing countries, though both groups of countries registered a steady increase in area over years. The country-wise distribution of the transgenic area (Table 41.4) has revealed that most of the transgenic area was in USA (62.5%) and Argentina (21.0%), followed by Brazil (13.8%), India (7.6%), Canada (7.6%),China (3.8%), Paraguay (2.8%) and South Africa (1.8%). Rest of the countries had less than one million ha under transgenic crops.
+
+The unprecedented rapid adoption of transgenic crops during a short period from 1996-2008, in spite of on-going debate on GM crops, vindicated the vision of the pioneers of crop biotechnology, who have seen their early promises of transgenic crops fulfilled. Among the 25 countries, 10 industrialized and 15 developing countries, millions of large and small farmers are planting GM crops because of the significant
+
+Table. 41.3. Summary of global status of biotech/GM crops and traits in 2008
+
+Source: James, Clive. 2008 (as in Table 41.4)
+
+1516
+
+Source: James, Clive. 2008. Global Status of Commercialized Biotech/GM Crops: 2008. ISAAA Brief No.39. ISAAA: Ithaca, NY).
+
+multiple benefits which include: more sustainable and resource-efficient crop management; more effective control of insects pests and weeds; reduction in pesticide application, contributing to safer environment; and conservation of soil moisture through no or low tillage practices.
+
+1517
+
+Development and commercialization of insect resistant Bt-cotton in India: The candidate genes currently in use for developing transgenic plants for insect resistance are (i) d-endotoxin genes (Br-genes) from Bacillus thuringiensis, (ii) protease inhibitors, i.e. cowpea trypsin inhibitor, and (iii) lectins, i.e. snowdrop lectin. Of these, Bt genes have been effectively utilized in the insect pest management programmes, earlier by deploying Bacillus thuringiensis based biopesticides or as in recent years, by producing Bt-transgenic plants. The robustness of Bf-based approach in insect management programme is exemplified by the fact that there are a large number of species of this bacterium, producing more than 30 different types of endotoxins with specific insecticidal activities. The first B¢-transgenic plants harbouring codon modified Bt- gene for efficient transcriptional and translational attributes were produced. Subsequently, Br-transgenic plants have been developed in a number of crop-plants and released for commercial cultivation, the first release happened to be of Br transgenic cotton in 1996 in the USA.
+
+In India, Maharashtra Hybrid Seed Company (MAHYCO), both for technical and logistic considerations, joined hands with Monsanto, USA, for exploiting potential of Bt-technology in cotton cultivation in India. The Br-transgenic plants showed significantly higher level of protection against Helicoverpa armigera with reduced number of insecticidal sprays. A few of the promising hybrids registered an increase in productivity from 23 to 60%; an average increase of about 40% at 51 locations. Based on the extended biosafety analysis and agronomic attributes three hybrids, viz. Bt MECH 12, Bt MECH 162, and Bt MECH 184 containing Br delta endotoxin Cry 1Ac gene were approved for release on 26 March 2002 by the Genetic Engineering Approval Committee (GEAC) of the Ministry of Environment, Government of India. Subsequently, a number of other Bt cotton hybrids have also been released or are at different stages of development/testing.
+
+Table. 41.5 Area, production and productivity of cotton in India, 2002 to 2008
+
+Source: Ministry of Textile, Govt of India. 2008.
+
+The adoption and spread of Bt-technology in cotton in India has been unprecedented. The experienced gained in the last seven years of commercial cultivation of Bt-cotton led to the following conclusions.
+
+(i) Indian farmers are highly repetitive to any economically viable technologies, hence there was and, continues to be an over-whelming response from farmers for adopting Bt-technology. Within six years of its commercialization, from four acres in 2002, Bt-cotton occupied about 7.5 m ha in 2008, and contributes to yield by protecting yield losses of crop-plants from insect damage.
+
+1518 HANDBOOK OF AGRICULTURE
+
+(ii) Bt-gene/s provide tolerance to insect damage only. The yield per se depends on the overall genetic background of the cultivars in which Bt-gene has been engineered.
+
+(iii) The genetic background of the Bt-hybrids/varieties is also important for its adaptability to diverse agro-ecological situations.
+
+(iv) Science-based technology, as in the case of Bt-technology, requires continuous awareness generation among the farmers for its effective implementation. Omission of any critical step might render technological impact ineffective e.g. provision of adequate refugia and inclusion of IPM and other resistance management activities are absolutely essential for prolonging effective span of this technology.
+
+(v) Non-availability and high cost of planting material can lead to unethical trade practices.
+
+(vi) Of the total pesticides used in agriculture 30% was on cotton in 1998 (Table 41.6). After the release of Bt-cotton, the share of pesticides for this crop dropped to 18%. This is also reflect by the pesticide consumption in 2001 to 2006 (Table 41.7). Pesticide consumption dropped from 47,020 metric tonnes in 2001-02 to 37,959 metric tons in 2006-07. Reduction in pesticide usage led to substantial farmers in input cost savings and reduced environmental pollution.
+
+Source: Chemical Industry, 2007.
+
+Source: Central Insecticides Board and Registration Committee (CIBRC), Ministry of Agricul- ture, 2008.
+
+In recent years, in addition to the development of biotic stress tolerant GM crops, conscious efforts are underway for engineering plants endowed with improved or altered nutritional quality.
+
+1519
+
+vitamin A, is naturally present in a number of fruits and vegetables. However, due to food habits and lack of affordability, about 9.2 million pre-school children suffer from vitamin A deficiency and at least 60,000 children go blind each year. Hence, an adequate supply of 8-carotene through staple food is almost a necessity for overcoming vitamin A deficiency. The transgenic “Golden rice” developed, over-expressing 8-carotene, in rice seems to be an ideal approach for providing, at least in part, the vitamin A requirement to the target population. The genes involved in 8-carotene biosynthetic pathway do not express in rice grains. The waiver for the use of IPR protected technologies needed for developing ‘Golden rice’, provided by the discoverers of these technologies free of cost to the Government of India for public good has given a unique opportunity to Indian scientists to develop high B-carotene indica rice. The work on the transfer of the candidate genes in the local elite cultivars of rice by backcrossing as well as by direct transformation has been initiated. This is an example which will go a long way in (i) demonstrating how a technology of this kind can be exploited for the benefit of a vast and vulnerable segment of the population and (ii) kindling an international debate on the propriety of patenting genes meant for common good as also for sharing of IPR for general welfare of mankind.
+
+In addition to rice, a project on enriching Indian mustard oil with higher 8-carotene has been initiated by the Tata Energy Research Institute (TERI), Delhi, in collaboration with Calgene Monsanto, USA. This company has already mobilized B-carotene biosynthesis genes in canola and its transfer to Indian mustard is expected to be smooth and reasonably assured.
+
+Transgenics for enhanced vitamin E: Vitamin E (tocopherol) is present in plants in two predominant isomeric forms, «-tocopherol and y-tocopherol. Alpha tocopherol is considered more desirable for human and animal consumption because it has higher biological activity than y-tocopherol. Incidently y-tocopherol is present in plants in higher amount as compared to a-tocopherol. It is now known that gene for y-tocopherol methy]-transferase (‘y-TMT) is involved in the conversion of y-tocopherol to a-tocopherol. y-TMT was over expressed in Arabidopsis transgenic plants. This transgenic event has changed relative composition of a- and y-tocopherols from 5% a-tocopherol and 95% y-tocopherol to 95% -tocopherol and 5% y-tocopherol. Now this approach is being followed for developing transgenics for high vitamin E content in maize.
+
+Transgenics for enhanced mineral content: Plants take up different minerals relevant to human nutrition and health from soil and accumulate in specific tissues. Transgenic strategies for improvement of mineral content in plants are being designed in a number of laboratories. Genes encoding proteins (divalent metal transporter) involved in membrane transport of different mineral nutrients, viz. Fe”, Zn Mn?*, Cu2*, Ni2*,Ca?/H* and Mg?*/H* have been identified. Further molecular and functional analyses are in progress for deciding transgenic route to be adopted.
+
+Iron-rich transgenic rice for fighting iron deficiency (anaemia) has already been developed. This has been achieved by introducing and expressing ferritin gene from Phaseolus vulgaris in rice grains. Also, to increase bioavailability of iron, a gene for thermo-tolerant phytase from Aspergillus fumigatus was mobilized and over- expression of endogenous cysteine-rich metallothionein like protein was achieved. The transgenic tice with higher iron content, rich in phytase, and cystein peptide is expected to address
+
+1520
+
+Transgenics for improved protein quality: A diet with adequate quantity of protein with balanced amino acids is a prime necessity for ameliorating protein malnutrition associated maladies. In the past, conventional plant-breeding approach for increasing protein quantity did not yield desired results because of (i) narrow genetic base for these traits, (ii) elaborate and costly analytical procedures, and (iii) polygenic nature of protein quantity. The protein quality on the other hand is qualitatively inherited and therefore has been manipulated through conventional breeding. In maize, opaque-2 gene has been successfully transferred in high-yielding genotypes leading to high lysine and tryptophan content. The application of recombinant DNA technology for protein improvement in plants has been slow primarily because of the non-availability of useful candidate genes. In India, a seed albumin gene (AmA1) has been isolated from Amaranthus hypochondriacus, a minor millet, grown and consumed by people both as green vegetable and puffed grains. The amino acid composition of this protein corresponds well with the WHO standards for optimal human nutrition. AmAl has been successfully engineered in potato. The transgenic potato has showed elevated levels of protein per se as well as a significant increase in all essential amino acids. These transgenic plants are now being field tested. Attempts are also underway to transfer AmA1 gene into rice among cereals and other tuber crops like sweet-potato and cassava.
+
+Transgenics expressing human milk protein: Rice transgenics expressing human milk proteins like lactoferrin, lysozyme and α-antitrypsin have been developed. Transgenics over expressing lactoferrin in very high amount (5 g of human lactoferrin per kg dehusked rice) have been obtained which are currently being tested in large- scale field trials. The higher levels of lactoferrin in rice grains turned them pink due to the binding of the iron to lactoferrin. It is proposed to use human-milk-protein- expressing rice in formulations of baby foods, in addition to their commercial use for the target population prone to protein malnutrition.
+
+Transgenics for edible vaccines: Transgenic plants expressing antigenic proteins of pathogenic human and animal organisms have been developed. The expression of hepatitis B surface antigen (HBs Ag) and preservation of its B and T cell epitopes when expressed in transgenic tobacco plants have showed that plant derived proteins had similar antigenicity as do human and yeast derived HBs Ag. The gene coding heat labile E.coli enterotoxin (LT-B) known to immunogenically interact with cholera toxin Vibrio cholearae has been successfully expressed in potato microtubers. Subsequently the cholera toxin B subunit (CTB) against Vibrio cholerae has been over expressed in potato tubers and shown to have both mucosal and serum immune response in mice. Recently, the first multi-component vaccine has been produced in potato against 3 enteric diseases including cholera, rotavirus and ETEC (enterotoxin produced by E. coli). Oral subunit vaccine against respiratory syncytial virus (RSV) a serious pathogen that causes bronchiolitis and pneumonia-type diseases in all human age groups has been successfully expressed in- transgenic tomato.
+
+One of the advantages of oral vaccines is that they produce mucosal antibodies that are much more effective than produced with injectable vaccines. The ease with which these vaccines are delivered, stored etc. are other factors, which favour oral vaccination
+
+CROP BIOTECHNOLOGY 1521
+
+approach for the developing countries.
+
+Transgenics for enhanced plant productivity
+
+Genetic engineering of plants for productivity traits is still in its infancy internationally, in spite of the availability of voluminous information on carbon and nitrogen metabolism; the two most important and key processes contributing to growth and productivity in plants. Unfortunately, plant yield is a complex trait, contributed collectively by a large number of biochemical and morphological attributes where each one of these is governed by polygenes. Thus, as of today, a simple transgenic- route mobilizing one or two qualitative genes has not provided the required breakthroughs in increasing plant productivity.
+
+Exploitation of hybrid vigour on the other hand has been a major driving force for productivity enhancement in a number of crop-plants. In India, heterosis has been commercially exploited in maize, sorghum, pearl millet, cotton and a few vegetables by producing hybrid seed either through hand pollination or utilizing cytoplasmic male sterile systems. Commercial heterosis has also been demonstrated in a number of other crop plants, including wheat and rice but non-availability of an efficient controlled pollination system has been a major handicap in large-scale hybrid seed production. Genetic engineering approach has helped in evolving a male sterile system, popularly called Barnase-Barstar system, which is species neutral, therefore, can be adopted for any crop plant. The Barnase-Barstar system for hybrid seed production was successfully deployed in Brassica napus by the Plant Genetic Systems, Belgium. Recently, specific constructs have been developed using barnase gene, which allow high frequency generation of transgenic male sterile lines in Indian mustard. Transfer of this gene in promising inbred lines of Indian mustard and vegetable brassicas is in progress. It is envisaged that extensive and widespread exploitation of hybrid vigour in maximum number of crop-plants in India will be crucial for elevating their productivity.
+
+Transgenics for tolerance to biotic stresses
+
+Modern farming practices which led to the emergence of ‘Green Revolution’ have aggravated the problem of pest damage in almost all the agro-ecosystems but more so in the high-input agriculture in India. Extensive and, at times injudicious, use of pesticides has also forced insects to evolve pesticide tolerant biotypes, thus further compounding already worst situation. It is estimated that biotic stresses, including insects, fungal, bacterial, viral and weed related ones put together reduced is crop yields by 10-40% depending upon the crop, region and severity of pest infestation. In monetary terms, the loss estimated to exceed Rs 50,000 crore every year (1 crore = 10 million). Though the consumption of pesticides in India is only about 280 g/ha as compared to 2 kg/ha in Europe and 10 kg/ha in Japan, yet there is widespread contamination of food and food products and environment with pesticide residues, primarily because of uneven and injudicious application of pesticides. The Indian Council of Medical Research has reported that 51% of food commodities, including human milk, are contaminated with pesticide residues and 28% of these had pesticide residues above maximum residue limits (MRL). In a recent study on the pesticide residues in human milk, organochlorine pesticides levels were found very high. HCH,
+
+1522
+
+1522 HANDBOOK OF AGRICULTURE
+
+DDT and Endosulfan residues present in mother’s milk were 0.002-0.75 ppm, 003- 3.12 ppm, and 0.006-2.39 ppm respectively. Comparatively urban mother’s milk was heavily contaminated than that of rural mothers. The heavily contaminated vegetables, cattle milk and groundwater were probably the potential source of these pesticide residues. The reduced dependence on pesticides in agriculture is being addressed by breeding genetic resistances in crop varieties as well as developing appropriate integrated pest management modules. Unfortunately, for some of the pests, genetic resistance is either not available or is available only in the distant relatives whose transfer to cultivars is cumbersome and invariably suffers from linkage drag. In recent years, these difficulties are being addressed through recombinant DNA route where genes imparting tolerance to pests from alien sources are being engineered into crop- plants. A brief summary of the activities being pursued in this area in India are given here.
+
+Engineering plants for insect resistance: The candidate genes currently in use for developing transgenic plants for insect resistance are (i) 5-endotoxin genes (Bt-genes) from Bacillus thuringiensis, (ii) protease inhibitors, i.e. cowpea trypsin inhibitor, and (iii) lectins, i.e. snowdrop lectin. Of these, Br genes have been effectively utilized in the insect pest management programmes, earlier by deploying Bacillus thuringiensis based biopesticides or as in recent years, by producing Br-transgenic plants. Further details on the effectiveness and efficiency of Bt gene in insect resistannce have been elaborated in an earlier section on commercialization of Bt technology in cotton.
+
+Engineering plants for fungal resistance: Genes imparting resistance against a number of fungal and bacterial diseases are available in the germplasm of several crop plants. Use of these genes has been and will continue to be the indispensable pillar of resistance breeding programme in India. It is now being realized that molecular breeding approach must get fully integrated with conventional resistance breeding programmes for providing precision in selection and compacting the breeding time. Genetic engineering approach has had very limited success in this area. Most of the studies in the past including those in India have utilized chitinases and glucanases gene cassettes alone or in combination for developing fungal resistant transgenic plants with limited success. As of today, however, no fungal resistant transgenics have been released for commercial cultivation. A novel approach being followed for developing fungal resistant transgenics is the use of oxalate dicarboxylase gene. The transgenic plants over-expressing oxalate decarboxylase showed remarkable resistance against pathogenic fungus Sclerotinia sclerotiorum that utilizes oxalic acid during infestation. Transgenic expression of oxalate decarboxylase in plants like tomato, spinach, amaranth, etc., in addition to providing protection against the pathogens, will remove the nutritional disadvantage caused by excessive oxalic acid consumption leading to kidney stones and associated problems.
+
+Transgenics for abiotic stress tolerance
+
+More than 7 million ha of land in India suffers from salinity and alkalinity problems. With the expansion of irrigation systems in the past in areas lacking proper drainage system, the areas under salinity and alkalinity have further increased. In addition,
+
+about 40% of the cropped area is still rainfed and the crops periodically suffer from moderate to severe drought.
+
+Coastal and other low-lying areas experience seasonal water submergence. It is thus evident that abiotic stresses with their severity and recurrence cause heavy losses in agricultural production. The breeding for abiotic stress tolerance, therefore, assumes special significance in Indian agriculture. Fortunately abiotic stress tolerant genotypes in relative terms are available in the germplasm of a number of crop plants but could not be made use of effectively in the absence of an efficient selection procedure. Marker aided selection approach, therefore, deserves high priority for breeding abiotic stress genotypes.
+
+In the area of genetic engineering for abiotic stresses, two kinds of approaches are being followed. In the first, genes expressing under various stresses are being identified for their probable use in transgenesis, and in the second, genes known to play a critical role in stress related pathways are used in developing transgenic plants. In India, a number of genes are being tried for developing transgenic plants tolerant to different abiotic stresses. However, most of these studies are in their infancy. Transgenic plants using a few of the genes, viz. glyoxylase-I (gly I), and glyoxylase-II (g/y II) for salinity and metal tolerance in tobacco, arginine decarboxylose (adc), S-adenosyl-methionine decarboxylose (samdc) and manitol-1—phosphate dehydrogenese (mit d) for tolerance to osmotic stresses; choline dehydrgenese (cod A) for salt tolerance, hsp 100 for temperature tolerance, and osmotin for drought tolerance have been developed and tested under laboratory conditions. These transgenics have been shown to provide partial protection against a given abiotic stress. The field performance of these transgenics is yet to be studied. Pyramiding a few of these genes together in an elite genotype or identifying gene/s involved in the perception of stress signals seems to be the alternative approaches worth attempting for developing abiotic stress tolerant transgenic plants.
+
+Transgenic plants as bio-reactors for molecular farming of pharmaceuticals and industrial enzymes
+
+Human serum albumin was the first pharmaceutical protein produced in 1990 in transgenic tobacco & potato plants (Sijmons et a/. 1990. Production of correctly processed human serum albumin in transgenic plants. Biotechnology, NY 8: 217-221). Such transgenic plants are commonly referred to as third generation GM plants, the first and second gerneration transgenic plants being those with transgenes effecting agronomic traits and those with transgenes effecting nutritional traits. Since then a number of therapeutic proteins, including antibodies, hormones, recombinant enzymes, growth factors and human and veterinary vaccines have been produced in different transgenic for plants; a few these have been commercialized and others proof of concept has been established. Table 41.8 Mewett et al. (Mewett et al. 2007. Plant molecular farming in Australia and overseas. Australian Government, Bureau of Rural Sciences) briefly summarizes the products, their stage of development and the plants being used as “bio-reactors”.
+
+Transgenic plants—biosafety concerns
+
+Crop improvement through conventional breeding goes back to the era of the
+
+1524
+
+1524 HANDBOOK OF AGRICULTURE
+
+a The company developing this product, LSBC has recently gone into voluntary receivership, so the current status of this research is unclear
+
+"Infection of the plant tissue with a modified plant virus results in expression of the introduced proteins
+
+CROP BIOTECHNOLOGY 1525
+
+discovery of Mendelian principles of inheritance. The products of this activity have never been challenged in terms of their human biosafety concerns because the conventional breeding approach was based primarily around the primary gene pool. The biosafety concerns started surfacing only with the advent of recombinant DNA technology because it crashed barriers of sexual incompatibility. Recombinant DNA technology provided an opportunity to isolate a gene of choice from any donor source and integrating and expressing it in the genetically engineered recipient plant. Since the gene and gene products are known to interact, the behaviour ofa gene in an alien environment of the transgenic plant could not be defined precisely in terms of allergenicity and toxicity as well as its impact on environment. Moreover, the currently available methods of gene transfer inserts transgene into the host genome at random. These random insertions can result in unintended effects due to (a) silencing of some of the normal host genes, (5) alteration in host metabolic pathways, and (c) over- expressing by the host of inherently toxic or pharmacologically active substances. Keeping these uncertainities in view, the transgenic plants are being handled all-over the world as regulated items.
+
+Major biosafety concerns
+
+The major biosafety concerns from the release of transgenics are their possible negative impacts on (i) environment, (ii) human and animal health, and (iii) social and ethical issues. The environmental concerns are linked to the possibility of gene flow through pollen to sexually compatible plants and undesirable effects transgene might cause. The potential risks being envisaged are the development of (a) superweeds by the herbicide resistant genes, (b) new viral strains with potential to kill native plants by transencapsulation of virus resistant transgenes, and (c) superpests by insect resistant genes. Likewise, the potential risks to human health include (a) allergenicity, (b) toxicity, and (c) acquired antibiotic resistance by the human pathogens. The ethical and social issues are varied and are region or country specific. These are (a) selective adoption of this technology leading to further economic disparities, (b) monopolization of trade by rigid intellectual property rights and restrictive trade practices, and (c) negative impact on biodiversity by extensive cultivation of transgenics. Though most of these concerns in long-term might turn out to be inconsequential, it is gradually being realized that clubing all the transgenics under GM plants is not the right approach. The biosafety concerns will vary with the transgenes, the crop biology, the agroecological niche and the intensity of cropping. Hence, in an inter-academy discussion on “Transgenics and World Agriculture” at the Royal Society, London, in February 2000, it was agreed that there has to be (i) a case by case analysis of environmental, health and other risks related to a transgene, and (ii) there must be a continuous long-term monitoring of transgenics for evaluating perceived risks.
+
+Indian Biosafety Guidelines
+
+A brief summary of the biosafety procedures for handling transgenic plants currently in force in India is given in Fig. 41.2. Recombinant DNA products, including transgenic plants in India, are regulated articles and governed by the Environmental Protection Act (EPA) 1986 of the Government of India. In 1983, the then National Biotechnology Board, now the Department of Biotechnology of the Government of India, issued a
+
+1526
+
+set of safety guidelines for the first time to ensure safety of workers involved in biotechnology. Soon the commercial potential of this technology was realized and a new set of guidelines “Recombinant DNA Safety Guidelines” was formulated and released by the Department of Biotechnology, Government of India in 1990. These guidelines were revised in 1994 and covered the areas of research involving genetically engineered organisms. The next revision of these guidelines specifically covering research and field evaluation of transgenic plants was released by the Department of Biotechnology, Government of India, in 1998. Since then, minor changes have been added to these guidelines primarily based on the experience gained indigenously. In these guidelines, toxicity and alergenicity protocols are those recommended by Organization for Economic Cooperation and Development (OECD). Figure 41.2 briefly summarizes biosafety procedures for handling transgenic plants currently in force in India.
+
+1527
+
+CROP BIOTECHNOLOGY 1527
+
+The Government of India would like to promote safe and responsible use of biotechnology by changing effectiveness and efficiency of regulatory procedures and therefore recently in 2007 it has been decided to establish an independent, autonomous and professionally led ‘National Biotechnology Regulatory Authority (NBRA)’. Department of Biotechnology, GOI, has been given the responsibility of setting up of NBRA, and until such time rules and regulations are framed and implemented, the existing regulatory framework will continue.

@@ -1,0 +1,185 @@
+SOURCE_DOCUMENT: Chapter 26.pdf
+
+26. Farm Power and Energy in Agriculture
+
+Human, animal, diesel engine, electric motor, tractor and power tiller are the major power sources for field operations in agriculture. Animate (human beings and animals) power contributed 60% of the total farm power in 1971-72, and mechanical and electrical together contributed balance 40%. In 2005-06, the contribution from animate power reduced to 13.79%, and the share of mechanical and electrical power increased to 86.21%.
+
+Human power
+
+Human power has been extensively used in Indian agriculture. Digging, clod breaking, sowing, inter-culture, harvesting, threshing, cleaning and grading operations are still performed by human power using traditional tools and implements. The agricultural workers comprise small cultivators and agricultural labourers. The agricultural workers’ population in India has increased from 125.7 million in 1971 to 246.44 million in 2005-06, registering a growth of about 2.5% per annum. Of the total agricultural workers, 30% are women. The human power availability has increased from 6.29 million kW in 1970-71 to 13.02 million kW in 2005-06. The net compound effect of the human energy input per ha, computed on weighed energy use basis by combining all crops, has reduced. Post-harvest and processing activities in these sectors are also highly labour intensive and provide additional employment.
+
+Draught animal power
+
+Traditionally, draught animals have been used in India for field operations, transport and agro-processing. The total draught animal population is estimated about 72 million in 2005-06, It is estimated that more than 57% area is commanded by draught animals, with 2.5 ha command area per animal pair. Field operations in hill regions, Diara land and Tal land, are normally performed only by human and animal power due to difficult terrain. Though draught animal power has potential to generate yearly 27,000 million kWh energy (1,500 working hr/year), its use has been limited to 10,800 million kWh (600 working hr/year). The animals are used for seedbed preparation, sowing, inter- culture, irrigation, threshing and transportation. The use of draught animals, however, has gradually declined from 182 to 58 animal-pairs/ha on all India average basis. This is due to availability of electro-mechanical power and increased upkeep cost for the draught animals. Spatial distributions of draught population showed that it has shown positive growth in western and eastern states. In rest of the states, draught animal population registered negative growth. These regions have high draught animal intensity. Punjab, Gujarat, Maharashtra, Rajasthan, Haryana and Kerala have lower intensity (5-16.5 ha/pair) Table 26.1. These states may have more demand of mechanical power to supplement the farm power needs.
+
+Electro-mechanical power
+
+With increased cropping intensity, farmers have supplemented animate power with
+
+FARM POWER AND ENERGY IN AGRICULTURE
+
+tractors, power tillers, diesel engines and electric motors. The tractors in India were introduced through importation. The production of tractors locally (assembly of CKD units) was started in 1961-62 with 880 numbers. While approving foreign collaboration, Government of India made it mandatory that a tractor to be manufactured should be tested under laboratory and field conditions to ensure that they are suitable to Indian conditions. To improve the quality of tractors, the Government of India fixed norms of specific fuel consumption, noise, vibration, exhaust emission levels, ergonomics and safety measures. The Government of India has also allowed foreign companies to manufacture tractors, following certain prescribed procedures. There were only 8,635 imported tractors in use in 1951. More than 346,000 tractors are manufactured every year by 14 leading manufactures in 2007-08. The total estimated number is 3.82 million (2005-06) contributing 99.67 MkW. Mostly small-size general-purpose tractors are manufactured in India, ranging from 15 kW to 37.5 kW (70%). Custom hiring of tractors has become popular for tillage, transport and threshing. Financial incentive from the government and institutional credit provided by the banks has helped the farmers in adaptation of the tractors though size of the land-holdings is small. The growth of tractor number in the country has not been uniform. Sale of tractors in Uttar Pradesh, Madhya Pradesh, Rajasthan, Karnataka, Gujarat, Maharashtra, and Andha Pradesh is higher. These states account for 75% of the tractor sale in India. Uttar Pradesh now leads with 45,652 tractors in 2005-06, followed by Madhya Pradesh
+
+Shona Agricultural Engineering Data Book. 2008. Central Institute of Agricultural Engineering
+
+(28,136), Rajasthan (27,949), Karnataka (25,291), Gujarat (23,060) and Andhra Pradesh (22,444) Tables 26.2. The intensity of tractor number in Punjab (14 ha/tractor), Haryana (18 ha/tractor), Uttar Pradesh (54 ha/tractor), Gujarat (116 ha/tractor) and Rajasthan (107 ha/tractor) is much higher.
+
+Power tiller manufacture in India started in 1961 with Japanese collaboration. At one time 12 models of power tillers were made but gradually it declined. Ultimately only 2 organized firms have survived. A few models are being imported from China. Manufacturing in the unorganized sector has however, picked up based on simple local designs. About 22,000 units were sold in the year 2005-06. The number of power tillers is estimated at about 1.81million (Table 26.3).
+
+Power sources
+
+Source: FAO, 2006-07 and Agricultural Engineering Data Book. 2008. Central Institute of Agricultural Engineering, Bhopal
+
+Diesel engines and electric motors for stationary operations
+
+Animal power has been extensively used in India for stationary operations like lifting water, threshing, sugarcane crushing, oil expelling etc. Major water resources
+
+FARM POWER AND ENERGY IN AGRICULTURE 803
+
+in India for irrigation are rivers, lakes, canal, reservoirs, tanks and groundwater. Use of centrifugal pump has considerably increased for lifting water from dug well or a shallow tubewell. The sale of electric operated pump was 768,700 and diesel engine operated pump 460,800 in 2006-07. The total irigation pumps population is estimated 19.30 million (2005-06). Farmers do not bother to take measures for energy conservation due to highly subsidised cost of enegy. Proper selection of pump with appropriate size of prime mover, suction and delivery pipes and regular maintenance can increase the efficiency. Such correct selection would not only salvage the farmer from his avoidable yearly financial loss but would also save the nation a few hundred crores worth of energy through savings in diesel oil and electricity.
+
+Farm power and mechanization indicator
+
+Mechanization indicator is one of the measures of modernization of agriculture of a country. Use of unit farm power or energy in agriculture was adopted as one of the measures for expressing mechanization indicator. The total farm power in India has increased to 211.5 million kW in 2005-06, which is 1.5 kW/ha on net cropped area basis. This is very low to increase the crop productivity compared with the average farm-power intensity available in Punjab, i.e. 3.5 kW/ha. The ratio of mechanical power over total farm power has also been considered to estimate the level of mechanization (Table 26.4). The ratio of mechanical tractive power to total farm power has increased (Table 26.4). These measures, however, do not account actual use of
+
+Power sources
+
+mechanical power in the field, and therefore energy consumption has been considered as better measure.
+
+ENERGY SOURCES AND USE OF ENERGY IN AGRICULTURE
+
+Co i ner mmercial ones of energy
+
+' The commercial sources of energy, viz. coal, liquid, natural gas and electricity are extensively used, but these resources are finite. About 382 million tonnes of coal, 565 BU of electricity, 39 million tonnes of diesel oil : illion tonn heros o rn oY miition ° The ene are available in the country. Tne bulk of petroleum, oil and lubricants (POL) needs of the country (75%) is met through i i gh import, which affects the economy. The sectoral distribution of energy needs is given Table 26.5. The share
+
+— coirce-TERI, 2004-05. Energy Data pjrectory and Yearbook. Tata Energy Research Institute, New Delhi.
+
+804 HANDBOOK OF AGRICULTURE
+
+of commercial energy for agriculture sector is meagre, but agriculture provides livelihood to more than 70% people living in rural areas, and thus the energy in agriculture and rural sector is very important.
+
+Rural energy needs
+
+Energy in rural sector is required for rural domestic activities, production agriculture, cottage industries and agro-processing. The rural home management requires the major share of the total energy and only 16 to 25% for agricultural production. These are met by fuel wood, biomass, animal dung, electricity, fossil fuel and coal. Cooking alone consumes 66-80% of the total energy, which is primarily met by fuel wood, crop residues, and dry animal dung. About 3-5 kg of fuel wood per household is required for every day. The rural energy needs are different from urban needs due to economic disparity. About 75% rural household use fire-wood compared with 22% in urban areas for cooking, and 31% rural household use electricity for lighting compared to 85% in urban areas. The remaining households use kerosene. This requires about 4 litre/kerosene/month/family. This would require more than 300 million litre kerosene in rural homes for lighting. One of the reasons of poor industrialization of rural sectors is the inadequate or non-availability of assured electricity in the villages.
+
+Energy in agriculture
+
+Energy use in agriculture has been increasing since Green Revolution in the late sixties with the increasing use of high-yielding varieties, synthetic fertilizers, agro- chemicals as well as diesel and electricity in farm operations. Increase in land productivity and efficient diversification of agriculture for better economic return to the producers will call for significantly higher level of energy input to agriculture. Under ICAR sponsored AICRP on Energy Requirement in Agriculture sector, the energy requirement in traditional and modern agriculture was assessed. It varies considerably
+
+Direct energy for field operations and indirect energy for seeds, chemicals and fertilizer. Source: Annual Reports of ICAR sponsored AICRP on Energy Requirement in Agriculture. Central Institute of Agricultural Engineering, Bhopal.
+
+FARM POWER AND ENERGY IN AGRICULTURE 805
+
+from crop to crop and state to state. The data revealed that there is a correlation between yield achieved and energy inputs, but it varies from the state-to-state for the same crops (Table 26.6). The use of energy in Punjab was higher than that of other states, and hence higher yield. Irrigation requires highest energy (51%). The states using rain-water use lesser energy in irrigation. The soil fertility was improved by using manure and fertilizer, which is highly energy intensive. India is blessed with abundance of solar energy, which helps in growing crops through photosynthesis. The direct energy input to production agriculture is used for timely completion of the farm operations and for ensuring proper utilization of seed, fertilizer and other agro- chemicals.
+
+Human, animal and mechanical energy use in agriculture
+
+The trend in use of human and animal energy showed a decreasing trend. The use of diesel and electricity has increased considerably. In 1980-81, the share of electrical energy was only 17.6% of the total electricity generated (Table 26.7), which increased to 21.7% in 2005-06. The rural electrification programme, launched by the government
+
+Electrical energy
+
+Source: Government of India, 2007. Agricultural Statistics at a Glance, Directorate of Economics and Statistics, Ministry of Agriculture, New Delhi; G =10°.
+
+in the mid-sixties has helped in making available electricity to 43.5% of the total household by 2003-04. This effort, along with preferential supply to rural sectors at subsidized price has led to rapid increase in electricity consumption in the agriculture sector. In rural electrified areas, electrical energy is consumed mainly in operating irrigation pumps and threshers, and to a small extent for domestic purpose and rural agro-processing units such as flour mills etc. Due to tractorization the use of diesel has also increased. The total diesel consumption in the country has increased (Table 26.8) from 10.345 million tonnes in 1980-81 to about 35.34 million tonnes in 2003-04. With increased level of mechanization, the share of diesel use in agriculture
+
+Diesel in agriculture
+
+Source: TERI, 2004-05. Energy Data Directory and Yearbook. Tata Energy Research Institute, New Delbhi.
+
+40% of the total diesel used in rural sectors assumed for crop production and remaining for transport and other agro-industrial activities; Energy equivalent: Diesel, 63.27 MJ/kg; electricity, 11.93 MJ/kWh; bullocks’ pair, 10.10 MJ; human, 1.84 MJ (male, 70% and female, 30%).Human and animal enegy computed though extapolation.
+
+has increased to 21% in 2003-04 due to increased population of tractors and diesel engines; besides increased annual usage of mechanical power sources.
+
+Based on the All India average use, trend in use of total animate and mechanical energy, including electricity in production agriculture is given in Table 26.9. Over the years the use of animate energy per hectare basis has decreased , and use of electro mechanical energy has increased substantially. The ratio of mechanical energy over the total energy during the period 1970-71 to 2003-04 has increased from 10.3 to 87.6%.
+
+RENEWABLE ENERGY
+
+Bioenergy
+
+present energy consumption is met from the non- commercial energy in the form of traditional bio-mass such as fuel wood, animal dung and agro-waste. Renewable energy sources, viz. solar, wind and biomass have the potential to be utilized as supplementary energy source (Table 26.10). More than 540 million tonnes biomass is available from various crop residues, agro-wastes and forestry produce. Besides, 27 million tonnes municipal waste is also available @ 0.4 kg/person/day with a calorific value of 850 kcal/kg, which has the potential to be utilized for energy production. It is estimated that about 270MT of biomass is available from the forest that meets 40% of the energy needs. Growing stock of wood is estimated 4,741 million m> in 1997 with an annual increment 88 million m? (1.37m?/ha
+
+26.10 Renewable energy potential achievements (2006-07)
+
+Source: Annual Report. 2007-08. Ministry of New and Renewable Energy, New Delhi.
+
+FARM POWER AND ENERGY IN AGRICULTURE
+
+compared with world average of 2.1m3/ha). Of the total biomass, 70 to 75% is used as fuel wood and animal feed and the remaining as energy source through direct combustion or processing of agro-produce. The average biogas production is estimated 160 litres/kg dry matter. About 3.93 million biogas plants have been installed by 2006- 07, which are estimated to generate fuel gas equivalent to the saving of more than 3 million tonnes of fuel wood per year. Besides, these plants are generating enriched organic manure, containing nitrogen equivalent to 0.85 million tonnes of urea per annum. More than 35 million improved chulhas have been installed till the end of 2006, which are expected to save over 11 million tonnes of fuel-wood per annum.
+
+Direct combustion
+
+The direct combustion of biomass is used for cooking and for steam and power generation. The combustion involves evaporation of moisture, distillation and burning of volatile matter, and combustion of fixed carbon. High volume, low thermal efficiency, high far or ash content, environment pollution and health hazards are the major concems. Thermal conversion efficiency of open fire is usually 5%, domestic chulha, 12%, smokeless chulha, 20% and improved cooking stove, 20 to 35%. The improved stove and furnaces, charcoal briquettes, fluidised bed combustion with optimum air or oxygen ratio can improve the thermal efficiency besides cleaner environment.
+
+Gasification and producer gas
+
+The gasification of agricultural residues implies extraction of a combustible gas by burning it under limited supply of air. During gasification the material is pyrolysed due to heat released from the combustion. In this process the material is converted into charcoal, tar and light gases. This gas (CO) can be utilized in the engine or directly burn to generate heat. Three types of gasifiers are used, viz. up-draught, down-draught and cross-draught. The down-draught gasifier is more suited to agricultural residues, because water vapour and the products of pyrolysis pass through oxidation and reduction zones in the producer gas plants (temperature 800°-1,100°C). As a result these are adequately reduced or cracked, resulting in lower tar and water vapour contents in the producer gas.
+
+One of the major disadvantages in gasification of agricultural waste is their lower bulk density, lower effective heat value and high ash content. This leads to poor energy content per unit of volume, affecting combustion properties and conversion efficiency. Agricultural residues with low ash contents are more suitable for gasification, as residues with high ash contents have lower heating values (Table 26.11). The producer gas from the gasifier contains solid particles, tar, acidic condensates and water vapour. Scrubbing and drying improves the quality of the gas to be used in the thermal and power engines.
+
+Biogas from crop residues and animal dung
+
+The microbial conversion of organic matter to methane is a process that is becoming increasingly attractive as a method of waste treatment and energy recovery. Anaerobic digestion of the materials rich in cellulose and hemicellulose produce gas primarily consisting of methane and Co, which is combustible. The digestible organic residue is converted into fat, cellulose and protein by hydrolytic bacteria, and acetogenic bacteria convert it into soluble simple compounds except acetate. These are then converted into carbon dioxide and hydrogen by homo-acetogens and finally into ethane and carbon dioxide (biogas) by methanogenic bacteria. Besides animal dung, selected crop residue, fruit and vegetable wastes, food-industry wastes, willow dust, seaweeds, water hyacinth, domestic garbage, sanitary land-fills and night soil can also be used in biogas plants. Common weeds eg. water hyacinth and even human excreta can be used for biogas to light million of houses in the rural area. Floating metallic-type and fixed-dome (janta) type are the most popular designs being adopted in most of the states for cattle dung substrate.
+
+Liquid biofuels
+
+Increasing cost of petroleum, oils and lubricants would require alternative fuels for mobile power sources. Biogas and producer gas can only partially substitute high- speed diesel in compression ignition engines. Biodiesel and alcohol are compatible with fuel injection system of compression engines. Plant oils have successfully been used in compression ignition engines directly or after trans-esterification. Dual-fuel engines, which work on biogas and diesels, are being manufactured in India. The biomass also has the potential to be utilized as a supplementary fuel in internal com- bustion engines by converting into alcohol (biofuel).
+
+Solar energy
+
+India receives 5,000 trillion kWh/year of solar radiation. Most parts of the country have 260-300 clear sunny days in a year. It is possible to generate 20 MW/kim? solar power. Presently, solar energy is being utilized through two different routes, namely solar thermal route and solar photovoltaic routes. India is one of the 6 countries, those have developed the technology for manufacture of polysilicon material. About 191 MWp of module production has been achieved (2005-06). Over 1.95 million m? of collector area has so far been installed, ranging from domestic water heaters of 50- 100 litres capacity to industrial and commercial systems. Around 6.17 lakh box-type solar cookers are also in use. The world’s largest solar steam-cooking system for cooking food for 10,000 people has been installed at Mount Abu (Rajasthan). Solar
+
+FARM POWER AND ENERGY IN AGRICULTURE
+
+lighting and water pumping systems are now being used. Under the SPV programme, 565,828 solar lanterns, 317,066 home-lighting systems, 61,321 street-lighting systems, 7,068 water-pumping systems and non-grid power plants or packs of 1.87 MWp aggregate capacity have been installed up to July 2007.
+
+Wind energy
+
+The wind energy is used for stand alone water pumping or power generation. The gross wind-power potential of India is estimated to be 45,000 MW though the present technical achievement is limited to 7,844.5 MW up to 2006 in the potential states, which places India in the fifth position in the world, after Germany, the USA, Denmark and Spain.
+
+Major constraints in use of renewable energy
+
+Despite sincere efforts being made by the Central and State Governments for promotion of various rural energy technologies, their adoption has remained slow. A number of constraints related with the technological, socio-economical and the promotion aspects were identified for the slow adoption. Improper selection of the beneficiaries and type or size of rural energy technologies is reported to be a prime cause in many non-functional systems. Other important constrains common to most of the rural energy technologies are as follows:
+
+1. Much higher investment, requirements of a standby arrangement for reliable operation, lower unit cost of most of the commercial sources of energy primarily due to government subsidies, no financial benefit for non-polluting characteristics of renewable energy technologies.
+
+2. Most rural energy technologies have a lower life span, and requires more attention in operation, servicing and repair. Repairs and servicing are not available easily at reasonable price. The typical examples are cleaning and tracking of solar panels, preparation of fuel for gasifiers and substrate for biogas plants, etc.
+
+ENERGY CONSERVATION TECHNOLOGY
+
+Use of mechanical power has increased considerably, and therefore energy-conservation practices have become important to reduce the cost of cultivation. Mechanized energy based on fossil fuel is finite. Renewable energy offers sustainable long-term use. The aspects that need critical analysis and better effective measures are: (i) better utilization of natural resources (solar, wind and natural precipitation); (ii) water conservation technology (drip and sprinkler irrigation); (ii/) reduced cultivation practices using combination machinery (minimum or zero tillage, till planter, roto-planter, sugarcane set-cutter-planter); (iv) efficient harvesting and threshing machinery etc.; and (v) efficient fuel utilization of mechanical power sources through better designs and matching machinery. The energy-conservation system can broadly be grouped into: (i) labour-saving device where cost of labour is higher compared with the cost of machine hour (human and animal power to mechanical and electrical power operated machinery); (ii) matching implements or machinery to have full utilization of power sources through increased work output per unit energy or time; (iii) single-pass multi- functional machinery such as till-planter, and combine harvesters; and (iv) alternative farm operation technology packages to reduce farm-operations, viz. no-till drill,
+
+rotavator, chemico-mechanical weed management, fertigation etc.
+
+Energy conservation in water management
+
+Irrigation consumes maximum energy. Natural precipitation can be harnessed to store water in the field to save irrigation. Deep summer ploughing facilitates better storage of water in the soil. Water can also be stored in farm ponds to be utilized later for irrigation. Energy efficient pumps, sprinkler irrigation and drip system are other methods that conserve water and thus saving in energy.
+
+Conservation tillage and seed-bed preparation
+
+Cultural practices (deep summer ploughing and cross-ploughing) help in eradication of weeds and soil from pests. Tractor-drawn rotavator saves time and energy, to the extent of 30-35% in heavier soil (42 litres/ha diesel compared with 62 litres/ha with conventional practice). With roto-drilling, tillage and sowing is feasible in single operation, which saves considerable energy, if adequate moisture is available in the soil.
+
+Sowing, planting and fertilizer application
+
+Line sowing, whether with the bullock- drawn or tractor-drawn seed-cum-fertilizer drills, facilitates proper application of seed and fertilizer, and thus saves in these inputs up to 10-15% and operational energy up to 15~20%. Tractor-drawn seed-cum-fertilizer drill equipped with inverted T-type furrow openers (zero-till drill) is suitable for sowing seeds without seedbed preparation directly after paddy harvesting. Saving of 68% in time during sowing, 33% in labour and 62% in diesel could be achieved over conventional practices in wheat crops through zero-till drill. Improved mechanical weeders (hands and animal-drawn weeders) save energy compared to khurpi. Integrated pest management (biological, physical and natural plant-origin materials) conserves energy and protects environment, besides that do not have harmful effect of pesticide residues.
+
+Energy saving in harvesting and threshing
+
+The share of energy in harvesting and threshing varies from 10 to 35%. Manual harvesting followed by power thresher required about 1,500 MJ/ha energy compared with 1,000 MJ/ha with combine harvester.
+
+Renewable energy
+
+It would be desirable to pursue an integrated energy management approach to meet the increasing rural-energy demand utilizing commercial and renewable energy sources for modernization of agriculture, agro-industries and rural living. The future use of bioenergy and agro-waste management will include: techno-economic studies on limitation in the use of renewable energy for commercial application in rural areas; crop residues and wastes, which are otherwise not being used or are surplus from cooking and animal feed, need to be utilized through biodigestion or gasification; use of direct heat energy from biogas and producer gas for agro-processing, viz. gur making, parboiling of rice, drying of agro-produce etc., is techno-economically feasible and should be encouraged besides use in power generation; increasing cost of petroleum,
+
+FARM POWER AND ENERGY IN AGRICULTURE
+
+oils and lubricants, would require alternative fuels for mobile power sources. Biogas and producer gas can only partially substitute high-speed diesel in compression ignition engines. Biodiesel is compatible with fuel injection system of compression engines. Plant oils (biodesel) have successfully been used in compression ignition engines after transesterification.
+
+Futuristic technology
+
+The Indian tractor industry is the third largest global producer in the world. The tractor industry is fully liberalized with tightening of safety measures, emission norms and performance regulations. Sale of high horse power tractors (more than 40 hp) has increased to more than 30% of the total sale of the tractors (2005-06) . Increased usage for haulage and non-agricultural applications in rural areas may push the sale further. Tractors with multi-speed shift transmission provide more usable horse power. Comfortable, noise and dust free cabin reduce the fatigue and thereby operators can use the machinery for longer hours. To promote the export of tractors the industries may have to look for styling, appearance, better finish, fuel economy and application of electronics (GPS) on agricultural tractors. To reduce the development time, the country needs accelerated testing facilities.
+
+Bio-fuels offer scope to be utilized in mechanical power systems. Plant oils have successfully been used in compression ignition engines directly or after trans- esterification. The biomass also has the potential to be utilized as a supplementary fuel in internal combustion engines by converting into alcohol (bio-fuel). Alcohol and plant oils are compatible with fuel-injection system of the compression engines.
+
+Regular studies on fuel wood demand and supply need to be undertaken especially for the rural sector to take proper policy decision on the energy and environment problems as authentic data is lacking at regional and national level. Illegal extraction of fuel wood from the forest causes degradation, deterioration of soil and reduced availability of groundwater. Social forestry, fuel wood and fodder management, improved cooking stoves, biogas programmes for decentralized rural energy schemes through photovoltaic, biomass-based power generation, and mini-hydel power plants need to be promoted integrating rural health and environment conservation programmes.
+
+Hydrogen fuel cells convert the chemical energy of hydrogen and oxygen into, electricity and heat energy; producing water as the byproduct. There are four types of hydrogen fuel cells - phosphoric acid (PAFC), molten carbonate (MCFC), solid oxide (SOFC) and polymer electrolyte membrane (PEMFC). The PEMFC is more suited for low capacity stand alone stationary power applications. However, due to high cost of hydrogen fuel cells it may take some time to be used commercially.

@@ -1,0 +1,491 @@
+SOURCE_DOCUMENT: Chapter 13.pdf
+
+13. Watershed Management
+
+At present, our concern is on second Green Revolution (GR) and the means to achieve it. The first GR had its own share of prosperity and problems. In the Food Security Atlas by the M.S. Swaminathan Research Foundation (MSSRF), Chennai, it was pointed out in 2004, “The Punjab which is India’s granary today will become food insecure in 15-20 years from now, if the present unsustainable land and water use practices continue”. The International Food Policy Research Institute, Washington, opined, “With the rising demand for food in the coming decades, India will depend on the rainfed areas to help increase supply”. Thus R&D efforts are directed in two ways. First is to sustain the GR through conservation / zero tillage and the second is focusing on rainfed areas by establishing the National Rainfed Area Authority (NRAA) to evolve common strategies in overall development of rainfed areas. Watershed apporach is now considered as the main focus in improving the rainfed areas.
+
+Approach
+
+It is universally accepted that resource conservation is essentially an area approach and the unit of its adoption should be a watershed. In fact NRAA and Planning Commission propose to use Watershed development programme (WDP) as the conduit for overall development of rainfed areas. Then a combination of few approaches is required to be adopted in a given watershed. Integrated watershed management of the resources with peoples’ participation is a well-accepted concept for the management of natural resources. That community managed development is sustainable is also proved in several case studies.
+
+Watershed
+
+A watershed is a hydrological unit wherefrom surplus run-off drains through a common point (Fig.13.1). It has no geographical limits. It would have land- holders (marginal, small, medium and large) and landless persons. They may be of different economic strata with uneven ecological settings and aspirations.
+
+A good watershed management therefore must consider the social, economic, environmental sustainability and institutional factors operating within and outside the watershed area. The essentials of all WDPs involve newly emerging paradigms—priority areas should be identified and integrated
+
+WATERSHED MANAGEMENT
+
+development approaches should be followed; community-driven involving interaction between user agencies and developmental departments; bottom-up and flexible approach with the capacity for making interim corrections; execution through village communities / cooperative societies in perfect harmony; peoples’ participation is necessary right from planning, execution and monitoring of the programme; judicious and equitable sharing of costs and benefits to land owners and the landless people in the watershed; gender neutrality, women, who play pivotal role in agriculture should be involved in all the decisions without any gender bias; involving civil societies in watershed management; the common property resources should be managed by the people with their rights. Joint forest management needs active consideration. Similarly user groups have to be established for effective resource management with their involvement besides empowerment and with a pro-poor in the share of the usufructs.
+
+Watershed management is necessary to protect, conserve and improve the resources for efficient and sustained production by improving soil organic matter (SOM); to protect and enhance water resource, moderate floods and reduce silting up of tanks and other traditional water harvesting systems (WHSs), increase water use efficiency through concepts like life saving irrigation and come-up irrigation and conserve rainwater for crops and thus mitigate droughts; and to utilize the natural local resources for improving agriculture and allied occupation or industries (small and cottage industries) to improve socio-economic conditions of the local residents.
+
+Thus watershed management is an integrated approach, considering holistic development for all those living in the watershed area. As pronounced in Johanesburg Declaration in 2002, WDP aims at sustainable development that includes economic and social development and environmental protection at local, regional and national levels.
+
+R&D IN NATURAL RESOURCE MANAGEMENT
+
+Assets in the watershed area
+
+Coming to the planning in WDP, it is important to consider the assets in the watershed, their state-of-the-art and the ways and means to improve or manage them on a sustainable basis in the overall development of the watersheds. They include natural, human, social, physical and financial assets. Some details are discussed in the following pages.
+
+Hydrology of watershed
+
+A thorough knowledge of the different hydrological phenomena is required in alk aspects of soil and water conservation in the watershed. Knowledge of rainfall is required in estimating run-off, planning erosion-control measures, planning for irrigation, removal of excess water in relatively higher rainfall areas and conserving water in low rainfall regions. Knowledge of run-off is required in designing structures and channels that will handle natural flows of water. Data on infiltration, evaporation, transpiration and critical phenological stages of different crops are required in planning critical irrigation systems, moisture conservation practices etc.
+
+Run-off
+
+It is the portion of rainfall that moves down to the stream, channel, river or ocean
+
+as surface or subsurface flow. If the farmer can intelligently harvest the run-off from his field, store it in a pond and recycle it for life-saving or supplemental irrigation to crops, it will be possible to maximize the crop production and thus obtain good returns, Some traditional systems already in vogue need be studied and adapted. Zaho in Nagaland, Guhl/ Kuhl in Himachal Pradesh and Uttarakhand, 5% model in Jharkhand, Ahar and Pyne in Bihar, Khadin in west Rajasthan, Re/a farming in Jalore district of Rajasthan, Johad in Alwar district of Rajasthan, Ja/khund in KBK districts of Orissa, Jal in south Telangana of Andhra Pradesh are some of the examples.
+
+Factors affecting run-off: The rate of run-off and its volume from an area are influenced mainly by two factors, viz. climatic and physiographic factors besides the recent phenomenon of global warming due to climate change. These factors are also interdependent on each other. Hence it is very difficult to quantify the influence of each of the factors on run-off. Land slope, land treatment and vegetative conditions have significant influence on the rate and volume of run-off. Steeper land slopes result in higher run-off rates. Land-treatment measures, viz. contour ploughing and strip cropping retard the run-off. Due to surface detention and storage, vegetated watersheds, produce less run-off (both rate and volume) than bare watersheds.
+
+Methods for estimating run-off: \n soil and water conservation, measures and the design of hydrologic structures, quantitative estimates of run-off rates, its volumes and distribution are to be worked out. Structures and channels are planned to carry the maximum run-off that can be expected ina specified recurrence interval. Recommended peak run-off frequencies for various types of structures should be followed. There are 3 main methods, viz. (a) rational method, (b) Cook’s method, and (c) hydrologic soil-cover complex method, which are commonly used in arriving at the peak rate of run-off.
+
+Conservation measures
+
+Insofar as conservation measures are concerned adequate details both on engineering (mechanical) and agronomical (biological) measures have already been provided in Chapters 10 and 11, viz. Soil and Water Conservation and Conservation Technologies for Sustaining Natural Resources.
+
+On-farm rainwater harvesting
+
+There are several methods of on-farm rainwater harvesting. The most frequent is summer ploughing. The other is conservation furrows in use in the -miarid Deccan region. Some are institutional technologies. Two example are as “ollows: in the Situations, where rainfall is not sufficient (e.g. NW low rainfall light soil regions) to meet the water requirements of the kharif crops and enough soil moisture is not available for cultivation of the rabi crops, it would be appropriate to cultivate the crops in part of the area and the remainder area can be used as a donor area (catchment) for rainwater harvesting for the cropped area. About 60% increase in taramira yield was obtained when 50% of the area was sown under inter-plot rainwater harvesting system (25% donor area on both sides with slope of 3%) over the case where the whole area was sown without the provision of rainwater harvesting in below-normal rainfall condition. More Practical and feasible approach for rainwater harvesting in these lands is on inter-row basis by simultaneously making ridge-furrow configuration and seeding the kharif crops in the paired rows on the upper part of the shoulder of the ridges. In the
+
+WATERSHED MANAGEMENT
+
+slopy lands, the ridge-furrow configuration should be made across the slope. In this system the rainwater from the furrows percolates deep in the soil and remains conserved.
+
+The harvested water on inter-row basis in the ridge-furrow configuration improved the water-use efficiency of pearlmillet crop from 139 to 168 kg/ha-cm under good rainfall (531 mm), from 116 to 124 kg/ha-cm under normal rainfall (323 mm), and from 51 to 72 kg/ha cm under low rainfall (181 mm) conditions. This technology also helps in safe disposal of excess rainwater in high-rainfall years.
+
+The examples that exist in Jalore district of west Rajasthan (Khadin, Rela farming) and parts of Saurashtra (4d-bandh farming) are such cases where rainfall is conserved during the monsoon period and crops taken in the area that now stands charged with adequate stored soil moisture for good rabi crops like chickpea, mustard and wheat. Some fine-tuning of such systems is possible.
+
+Forestry and grassland
+
+Forest lands: Forest is the foster mother of agriculture. The main by-product of forest is water. Thus tree component is important in watershed areas. The peripheral forest areas, with dual purpose of protection and production, have been an integral part of the project. Trees growing should be incorporated not only for designated forest lands, but also on bunds, along roads and streams, and in all degraded / shallow community areas in the project, where cultivation means only uneconomic agriculture. Biomass has become an important source of fodder, biopesticides, mulch-cum-manure and energy. Vegetation, both for protection and production is therefore of vital importance.
+
+Agroforestry: Growing of trees along with agricultural crops is generally termed as agroforestry. The term is now defined as a sustainable management system that increases the overall yield of the land, combines the production of crops, forestry plants and animals, simultaneously or sequentially, on the same unit of land and applies management practices that are compatible with the cultural practices of the local population. This definition obviously includes agri-silvicultural, horti-pastoral and fodder-fuel plantation systems. In high-rainfall foot-hills of the western Himalayas, intercropping of peach with cowpea during first year and turmeric second year onwards is quite remunerative. Practices of raising horticulture in gravely river-beds have been evolved. Reshaping of surface configuration for horticultural crops has also been standardized. Land with 33-50% slopes is suitable for horticultural plantations. Growing of some forest species, viz. khejri, babul (Prosopis spp.) and ber (Ziziphus spp.), in fields with crops, viz. pearl millet, legumes and oilseed crops, are examples of traditional agroforestry, which the farmers of Rajasthan and Gujarat follow. Similarly growing Alder (Alnus nepalensis) with crops in NE states, custard apple (Annona squamosa) in parts of Maharashtra and south India and palmyrah in south Tamil Nadu are some other examples.
+
+Grasslands: Grasslands are an important component in watershed management. The existing grazing lands and those to be put under this category as per land capability classification may contribute significantly towards efficient utilization of natural resources. This is a crucial part of the watershed on which hopes of controlling the livestock number and improvement of its quality depend. The improved practices, which also include the grazing system, need to be identified for efficient utilization of
+
+pastures and grasslands.After fencing (social; barbed wire) and/or re-seeding with small additions of phosphorus (say @ 100 kg single super phosphate / ha) the biomass yield would be adequate and grazing by 4-6 small ruminants /ha may be sustainable with no effect on vegetation, soil characteristics and hydrological behaviour of the restored watershed in the low rainfall regions.
+
+R&D IN RAINFED FARMING LEADING TO WDP
+
+Earlier efforts
+
+In early seventies, rainfed areas received attention of the government based on some of the research results of the National Agricultural Research System (NARS). Research and development were taken up through opening up 23 Research Centres under the All-India Co-ordinated Research Project for Dryland Agriculture (AICRPDA) and the similar number of Pilot Projects in the farmers’ fields. The latter were taken up by the government agencies with support of the researchers.
+
+The review of the development work indicated no visible effects. This was primarily because the approach was of resource transfer rather than of technology transfer i.e. beneficiaries were provided doles. Even soil-and-water conservation on the private lands was done free-of-cost. The only technologies that settled in the real-farm situations were the use of improved varieties or hybrids of rainfed crops and use of small quantity of external inputs like fertilizers. Nevertheless a positive change could be witnessed in the form of crop diversification. Area under coarse cereals (kharif sorghum in particular) had decreased considerably. There had been a surge for oilseeds (soybean, groundnut, sunflower) due to increased demand of vegetable oils and enhanced minimum support price by the Government of India. The area under minor millets had also decreased and that under maize increased even in the low-rainfall Alfisol regions of the Deccan. The area under cotton decreased in the Deccan and crops like sunflower were taken up. Wherever cotton was taken up, Gossypium hirsutum varieties were the ones grown; G.arboreum varieties would have been a better choice in the rainfed areas. But today's scenario on cotton is fast changing. Over 60% of the area in the country is with Bt cottons. The points of concern are two—the ecological niches needed for different genotypes and the costs. As we move from traditional varieties to hybrids to GE genotypes, the ecological niches required also need be improving. The seed of Bt cotton is expensive. It is said to have control over the cotton bollworm up to 45 days. Other pest dynamics are changing. Their control is needed. So investments on management are likely to increase.
+
+Research efforts have been continued to perfect production technologies of different crops, with concurrent development of the production systems. However, the livestock and their importance in the farming systems as practised by the farmers did not receive the required attention. The efforts could enthuse farmers living in better-endowed areas to adopt partly, if not fully, the production technologies. However, acceptance or practice of the resource conservation by them was not witnessed much.
+
+Efforts from eighties
+
+In eighties, several International Agencies (e.g. World Bank, Indo-British programme, later DANIDA and Indo-German Programme), several voluntary agencies (e.g. Agha Khan, MYRADA, BAIF), enterprising individuals (e.g. Salunke and Anna
+
+WATERSHED MANAGEMENT
+
+Hazare) and some governmental institutions (NARS) had started integrating crop, soil and water components for working on an area or community basis. The area approach was primarily on the watershed basis, as suggested earlier by Sivaraman and later endorsed by Swaminathan. Any such area may have different classes of land (arable as well as non-arable). The non-arable area includes common pool resources (CPRs) of land and water and would provide run-off and biomass for use by the inhabitants in the covered area, on an equitable basis. The results of such efforts had been encouraging, particularly the efforts of the civil societies.
+
+The benefits had been accruing to only those who owned some lands. Only ina few instances, the landless persons were also benefited. Two such examples come from Salunke’s programme of Panipanchayat and that of the CSWCRTI, Chandigarh, at Sukhomajri. Here, the water generated through the programme was treated as the common pool and even the landless had a share in the water so created. In the latter case, the benefits from catchment area of the reservoir constructed in the programme were accessible to the entire community. In other words, all landless and poor communities were also beneficiaries in such programmes. In the programmes like Andhra Pradesh Rural Livelihood Project (APRLP) and Western Orissa Rural Livelihood Project (WORLP) funded by the DFID, UK, efforts were on holistic development benefiting the landless and the poor with livelihood support systems and/or micro-enterprises. Later such an approach was adopted by SUJALA funded by World Bank in Karnataka.
+
+Based on the experiences gained during the early eighties, the Ministry of Agriculture, Government of India, launched a programme, National Watershed Development Programme for Rainfed Areas (NWDPRA), in 1986 in 99 blocks of 16 states, covering 3,000—5,000 ha in each block. This programme was proposed to improve rainfed-crop production in areas that had already been treated with soil-and- water conservation measures. When such treatments were incomplete, the programme provided funds to complete the process before implementing production programme. This programme had financial rigidities, allocating exclusive budget for each of the components. The programme was developed and implemented by the government agencies (state level). Since the programme was exclusively funded by the government, beneficiaries accepted the programme as long as the funding was forthcoming. However, once the programme was completed, as in 1990s, only some components remained on the ground. Unlike seventies, this programme generated several water- harvesting structures (WHSs) and community plantations, which remained on the ground, but with less or no post-project maintenance. These approaches lead to a large number of WHSs (e.g. check-dams, percolation-dams and mini-reservoirs). Two things happened, first, the benefit of these WHSs accrued to a few and that too to the richer community; and second, larger amounts of the programme were spent on such structures. The poor had no benefit out of such works. Hence, a new divide of those with access to the harvested water and the other without the access has developed, leading to conflicts.
+
+Further, the traditional WHSs were not seriously considered. With many new WHSs coming in the catchment areas of the existing WHSs (tanks in particular), the surface and subsurface inflows into such structures were badly reduced. Some tanks had even become dysfunctional.
+
+Community plantation had little of participatory approaches. The tree choice, in particular, was not given to stake-holders. For instance, Acacia holoceresia was planted in Alfisols of Deccan, which no stake-holder liked. Their option was even Prosopis Juliflora in lieu of A. holoceresia. Instances of ecologically misfit trees being allowed in the name of demand-driven approaches were also there. Teak in Alfisols of Deccan was a case in point. Both needed correctives.
+
+The earlier efforts of the Ministry of Rural Development (MoRD), Government of India, in improving the living of the poorest of the poor in drought-prone areas as well as in desert areas through Drought Prone Area Programme (DPAP) and Desert Development Programme (DDP) were further reviewed in early nineties and the programme was taken up covering 500 ha as a unit. Funds were provided for this effort at Rs 4,000/ha. For such initiative, Professor Hanumantha Rao’s High Power Committee recognized the need of the people’s participation and involvement of the voluntary agencies in building proper social capital for better technology adoption. These suggestions led to the formation of the community-based organizations [e.g. Self Help Groups (SHGs), User Groups (UGs), Watershed Committee (WC) and Watershed Association (WA)]. They emphasized the need for demand-driven participatory approaches in developing action plan. The purported transparency in the development of action plan with mutual agreement of all sections of the society, involvement of women as equal partners while developing and executing the action plan, adequate flexibility and even mid-course corrections were, however, not fully adopted. They suggested that the beneficiaries should contribute 5—10% of the cost of all the interventions in improving their natural resources through soil conservation or water-harvesting structures. Contributions to the Watershed Development Fund (WDF) and proper use of Revolving Fund (RF) had not been satisfactory.
+
+Proper guidelines were also suggested for sharing benefits from the CPRs that were to be developed through the funding in the programme. Strong opinion was expressed against the use of bigger WHSs (e.g. big check-dams) in the programme. It was recommended that the works should be executed by the people. Machinery should be discouraged. More employment needed to be generated, and locally available materials needed to be used in WHSs as well as in plantations.
+
+More recent efforts
+
+In view of the merits of such an approach, after 8 years, both Ministry of Agriculture and Ministry of Rural Development, Government of India, evolved common guidelines in September 2001, accepting the best of both the programmes. Since 1 April 2003, the Ministry of Rural Development further improved implementation of the watershed programmes through the Panchayat Raj institutions under the name Hariyali. After a 3 year run of the Hariyali programme, it was felt that there is need to further improve upon the WDP. Parthsarathy Committee was then asked to get into a revisit to the WDPs. The committee submitted its report "From Hariyali to Neeranchal" in 2006.
+
+While suggesting the convergence of all the activities of various Ministries of Gol, the Committee called for setting aside Rs 50,000 million from NREGS for WDP. The PRI, with various activities under the domain, will not be able to deal with WDP with a sharp focus. The Committee suggested a National Authority for Development of Rainfed Areas (NASDORA) be set up. To ensure success of WDP, the programme
+
+may be extneded to a period of 8 years - Preparatory phase (2 years), Resource Augmentation and Institution Building Phase (4 years) and Sustainable Livelihoods and Productivity Enhancement Phase (2 years). In order to encompass all these activities and keeping in view of the increasing costs, the financial limit may be doubled (i.e. from Rs 6,000 to 12,000 / ha). The size of the watershed may be 4,000 to 10,000 ha as a cluster of milli-watersheds.
+
+Based on the report and the highest concerns by the Planning Commission, the NRAA was established in 2006. In 2008, the NRAA brought out common guidelines for WDPs that are being implemented by different Ministries under the Gol.
+
+These guidelines propose a cluster approach of about 5,000 ha funds being Rs 12,000/ha. There is a focus on training, planning, proper monitoring and evaluation, the share between Gol and states being 90 : 10. Further livelihood activities for assetless persons and production systems along with microenterprises are included with 10% and 13% respectively of the total sanctioned funds.
+
+Thus, the development activities in the hinterlands of the country had undergone a sea-change since fifties to the early part of this century. But what is accepted now is the need for the area development on the watershed basis in the rainfed regions.
+
+Among the criteria set by different agencies in selection of the watershed areas, the common features are: (i) the area shall be essentially rainfed with not more than 30% area under any form of irrigation; (ii) areas with limited drinking water may be considered on priority; (iii) the area should be more ecologically and economically disadvantaged; and (iv) the SC/ST-dominant areas should be preferred. The degradation of the natural resources (NRs) could be yet another criterion.
+
+STRATEGY
+
+To meet growing demands of food and to meet aspirations of the resource-poor people, a twin-track approach needs to be adopted. First, there is a need to continue enhancing productivity in better environments. Biotechnology, transgenic crops, information technology (IT), geographical information system (GIS), geographical positioning system (GPS), geographical management information system (GMIS), precision farming and other high-technology tools need to be used to achieve this objective, but it should be on a sustainable basis. Second, the degraded areas as well as resource- poor situations (rainfed areas) warrant simple, doable, economically viable, socially acceptable and eco-friendly tools. Among these are — non-pesticidal pest management (NPM), integrated nutrient management (INM), integrated water management ([WM) system, in-village seed production and easily manageable resource-conservation methods. Indigenous technical knowledge (ITK) needs specific attention in such a scenario. Proper land-use as approved by the stakeholders should be a priority in research and development (R&D). Such an approach alone would lead fruits of R&D reach the unreached, which in fact is a vast majority in our society.
+
+Many of the R&D efforts need a great shift from the present nature of efforts as rightly pointed out by Prof. Hanumantha Rao Committee (2007) while reviewing all the reports submitted to the Planning Commission. Multi-disciplinary research and integrated area development on a watershed basis is a requirement; and for this we need a comprehensive capacity-building exercise at all levels. Structural adjustments in capacitating primary stake-holders to be the decision-makers and making the women
+
+and the poor as equal partners in such an endeavour are the first requirements. For this, the Government organizations (GOs) and civil societies have to change from their governance role to promotional role. Encouraging village communities to evolve into homogeneous groups to manage their own resources, providing an access to knowledge systems including IT and enabling them to withstand any casualty (e.g. drought) should be the strategy for the future roles of the GOs and civil societies.
+
+With the arrival of the World Trade Organization (WTO) and efforts at internationalization in agriculture, Indian agriculture, particularly rainfed agriculture, must become competitive—both in quality and in quantity. As much of the rainfed agriculture practised in our country is organic in nature, smallholder consortiums through CIGs may be encouraged to export-related commodities (fruits, vegetables, medicinal, aromatic and dye plants) to meet requirements of green consumers both within and other parts of world. Also, efforts need to be made to reduce production costs.
+
+The common pool resources (CPRs), which form a part of any area meant for watershed development, are often not considered with due significance. The efficient management of CPRs to enhance their productivity and growing of plants of the choice of the stake-holders is of paramount importance. This can also enhance groundwater recharge in the lower elements of the slope, besides enabling production of both economic and other much-needed biomass (fuel, fodder, manure, fruits, non-timber forest products etc.). Such a win-win situation benefiting landless, poor and women on one side and land-holders on the other would be easily implementable.
+
+Thus, for sustainable development, the four capitals, viz. nature, human, institutional and social, are to be considered together. Their priorities and relevance may vary from place to place, but all are relevant in sustainability and livelihood security, especially in the rainfed ecosystems.
+
+In the following pages the social structure would be examined along with the changes. Also the action plan, mode of implementation, overall impact, distortions, and lessons learnt shall be discussed.
+
+SOCIAL STRUCTURES
+
+The primary stakeholders are to be organized into homogeneous groups (Fig. 13.2). The Project Implementing Agency (PIA) was to mobilize them into Self Help Groups (SHGs) for thrift and credit and user groups (UGs) for undertaking works. The Gram Panchayat (GP) will be the watershed association (WA) for which the GP President would be ex- officio President. The WA, in turn, is to elect a watershed committee (WC). They have to elect a chairman on the rotational basis. The WC would employ a secretary to assist both WA and WC in their transactions. Also, WC shall appoint two volunteers (1 male and | female) along with 4 members as the Watershed Development Team (WDT). The WDT members are paratechnical in expertise to help in social mobilization, soil conservation, water harvesting and production systems. In all these structures, the women, SC/ST and nominees of SHGs and UGs are to be represented. However, the existing structure (Fig. 13.3) had quite a few distortions. There was no election. Mostly WC Chairman and members were nominated. There was no rotation of these persons.
+
+All groups (Fig. 13.4) must be successful in credit and thrift activities. They can be men, women or mixed in nature. They include SHGs, UGs, CIGs, CBAs, graziers, VSSs and others.
+
+WATERSHED MANAGEMENT
+
+With these distortions, new proposals (Fig. 13.4) are put forth. At present, the PIA is to form groups not only of SHGs and UGs, but also of the Cattle Breeders Association (CBAs) and Common Interest Groups (CIGs). It should also recognize the already existing groups in the habitation such as DWCRAs, Chit groups, Vana Samrakshan Samithis (VSSs), graziers and other groups making a living on the Non-Timber Forest Products (NTFPs). These groups shall network as a Village Organization (VO), who would liaise with WC on the one side and the Panchayat Raj Institution (PRI) on the other. Such VOs at the village or habitat level shall federate at block or mandal level. These federations shall liaise with line departments of the government for converging existing rural development programmes with the WDP.
+
+ACTION PLAN
+
+The action plan is to be developed by the stakeholders on the demand-driven participatory approach. Professor Hanumantha Rao Committee suggested action plan based on the status of the NRs, their present use, aspirations of those that make a living in the area and the feasible or doable technologies that are eco-friendly, leading to sustainable development with equity being uppermost in the agenda. Emphasis should be on moving away from ad-hoc pre-determined programmes to need-based programmes.
+
+Then the first step is a resource inventory, not necessarily through the PRA (participatory rural appraisal). Several new approaches are now available. Appreciative enquiries to know successful ventures of the primary stake-holders in the management of NRs and production systems are one such example. They are easy to replicate and enable to move faster. Similarly, situation analysis by the primary stakeholders (APRLP-DFID funded AP programme) provides an understanding of the state-of-the-art in NRs, production systems, social and other institutional capitals. This approach helps in identifying needed capacity-building, particularly for reaching the unreached. However, the components should include: (i) natural resource management (NRM); (i/) land-based activities (LBAs); (iii) non-land based activities (NBAs), and (iv) marketing. In the new Common Guidelines (2008) livelihood activities for assetless persons and production systems and microenterprises are also included.
+
+Natural resource management
+
+The natural resources (NRs) include land and water of the CPRs and private (individual) stake-holders (Fig. 13.5). In the CPRs, land includes community lands, wastelands and fallow lands, which need development, protection and food production respectively.
+
+The water from CPRs has two dimensions. First is the traditional WHSs that need retrieval and the second is new WHSs that have to be cost effective. The private lands need conservation and improvement to enhance their productivity. The waters of the private owners are developed considerably and need proper management. In watersheds, crops requiring lesser resources need to be encouraged with necessary infrastructural support. Participatory groundwater irrigation management encouraged by civil societies like Centre for World Solidarity, is taken up on pilot scale by the Government of Andhra Pradesh.
+
+WATERSHED MANAGEMENT
+
+Land-based activities
+
+The land-based activities include plants as well as livestock (Fig. 13.6). In the action plan when the NRs are to be properly developed, the productivity of both plants and livestock needs also to be improved. Among crops, food crops must receive priority attention to minimize food insecurity and to ensure ecological access to food and nutrition. Commercial crops can then be considered. Based on the land-use capability Classes I to III, lands may be brought under crop, vegetable and flower production. Even cultivated fodder may be taken up to meet increased demands for milch bovines. Class IV lands may be considered for fruit-trees. The higher classes of land may be put to silvipasture systems to ensure increased availability of biomass. On the community-basis, commercial plants like bio-fuel, medicinal, dye and aromatic plants can be taken up. This alone can ensure easy marketability of the produce. In the community lands, silvipasture system with multipurpose trees (MPTs), grasses and legume fodders must be taken up.
+
+Among livestock, small ruminants for shepherds and milch cows and buffaloes depending on the rainfall (water availability); poultry and piggery for the poor may also be taken up. The viable units of the livestock at the household level are as follows:
+
+Type of livestock
+
+At least, two more livestock-based enterprises may also be considered. First is to rear aged crossbred cows or buffaloes for 3 months and sell. Second, dry animals could be reared for 6 months, during which they may conceive and when 3-4 months old pregnant, may be sold. Both enterprises have high economic returns.
+
+The livestock have an important role in nutrient recycling. For instance, a unit of 3 cows and 2 calves can add 113 kg N + 67 kg P,O, + 80 kg K,O per annum, where litter, dung and urine are converted into farmyard manure. Thus, the manure component in the livestock is important but is often less emphasized or even ignored.
+
+Non land-based activities
+
+The non land-based activities are important as livelihood support systems for the landless or have-nots in the habitation (Fig.13.7). These include services and other activities. Among the services the communication of information is the most critical in creating awareness, answering problems in technology spread and even in marketing. They include telephone (STD), cable network, audio-visuals, courier and internet. There are several essential services. In fact in the earlier days as many as 14 such services were existing at the rural level. They included blacksmith, barber, laundry, tailoring, carpentery, Neergatti (tank-water management), hotel etc. The
+
+WATERSHED MANAGEMENT
+
+others related to agricultural services like preparation of vermicompost, honey making, nursery, and service providers like of decorticators, threshers, sprayers and tractors. Trading, manufacturing, maintenance and repair represent infrastructural activities. Transport includes automobiles, bullock-cart and petrol-oil-lubricants (POL). Skills encompass embroidery, goldsmiths, wood carving etc., and food processing include making pickles, eatables, fruit-juices, jams, jellies, tomato puree, etc.
+
+Marketing
+
+Marketing and market intelligence are acquiring greater importance in the present- day context (Fig. 13.8). Price stability through warehousing, value-addition through product processing, barter marketing in shandys and recently organized urban marketing (super bazaar or Rythu bazaar) besides inward marketing at the rural level are the components under marketing. Present efforts are for collective marketing, which lead to reduced costs in transport, processing and storing. The producers shall have a definite say and can even specialize in products that have greater demand. The producers can also take loans and seek insurance cover.
+
+PRODUCTION SYSTEMS
+
+For enhancing productivity of crops and livestock, training and capacity-building are important. This is a two-way process and needs to be continuous. In fact, with time, it should be a self-financing institution.
+
+As per FAO, 87% agricultural extension services are in public sector. In India, with 110 million farm-families, there are 117,000 extension staff employed by the government agencies. This works out to one extension worker for 1,000 farm-families. In one estimate, it was found that effective extension contact period per year per farmer would be less than 30 minutes (‘4 hr) at this rate. What is of greater worry is the virtual stoppage of recruitment of staff in public extension. On the contrary, annually about 3.0% of staff would be superannuating from service. Thus, the public-extension system is shrinking.
+
+Private extension has excellent potential, but is not well-organized. In fact, public extension could shoulder this very concept. It is only in the present National Agricultural Policy that Government of India has recognized the need for Private Extension Service Providers (PESPs) in improving extension services.
+
+The PESPs, among others, include progressive farmers, farmers’ organizations, external input dealers, private extension workers, agricultural co-operative banks, non- governmental organizations, mass media (radio, TV, print and more recently internet), private banks and different funding agencies. Among these, the most unorganized but most effective entity would be progressive farmers. Even if one such farmer per village
+
+is considered, there would be a good number (about 625,000) of progressive farmers who could be PESPs. Recently the Department of Agriculture started Master Trainers based on the Farmers Field School Concept. The Government provides Rs 55,000 per such farmer in his endeavour to train the other farmers in adopting newer technologies as practiced by him.
+
+Presently these PESPs are not tapped fully. They constitute time-tested agricultural technologists at the habitat level. They think locally and can also act locally. What is now needed is the dissemination of their fund of knowledge through the PESP system. For this, the first attempt needs to be proper documentation of their knowledge in various production systems, as success stories. Such an approach would enable us to identify master farmers and self-employed youth to work as service providers in the crop and livestock production systems.
+
+Crop production
+
+The two cardinal principles in improving crop production are timeliness and precision. Presently the emphasis on production systems has been less in the WDP. With civil societies, however, some efforts are seen for integrating crop-livestock production systems. The GOs or civil societies with their role of promotion, and master farmers with their success stories, should work through SHGs on the systems requiring less external input-sustainable agriculture (LEISA) (Fig. 13.9). The LEISA involves participatory technology development (PTD), farmers’ field schools (FFS) and integrated crop management (ICM). The ICM encompasses in-village seed production, particularly of crops with heavy seed rate (rice, groundnut and soybean), besides integrated nutrient management (INM), non-pesticidal pest management (NPM) of insects and pests, and participatory groundwater irrigation management (PIM) in efficient use of the scarce water in rainfed areas. All these steps help in bringing out
+
+WATERSHED MANAGEMENT
+
+eco-friendly sustainable production. Although comprehensive approach encompassing all these components is ideal, one can also proceed on a tier-basis depending on the critical nature of each of the components and their availability besides skills of the producers.
+
+The INM involves less use of external inputs like chemical fertilizers, and improved organic recycling through integrated crop-tree-livestock management and legume crops in rotation, sequence or intercropping, and green-manuring or green-leaf manuring, besides proper preparation of compost (e.g. vermicompost). Many of these components are indigenous in nature. A legume crop is a part of the mixed cropping that is mostly practised by small-holders. In Vertisols of medium to high rainfall, sequence cropping is common. Pulses (greengram, blackgram) are taken as the first crop, followed by staple crop like sorghum in parts of Telangana, Vidarbha, north interior Karnataka and also in Central Maharashtra. Similarly, horsegram is common after rice in Orissa and field bean is grown prior to taking up ragi in south Karnataka. Use of Pongamia from early days and rekindled interest in use of Gliricidia in many parts as green leaf- manure are common. Growing of a short-duration legume (e.g. sunnhemp) in Deccan as a green manure prior to taking rabi crop (e.g. sorghum) is also common. Composting was badly organized by governmental agencies right from the early Independence days. It is only after the spread of vermicomposting concept, renewed emphasis is laid on it. It should be our endeavour to supply nitrogen requirements of crops through organics. The phosphorus and potassium needs would be partly met from the same sources. However, additional requirements can be met from minerals like phosphate- rock (Mussoorie) and gluaconite. The calcium and magnesium needs can be met through gypsum and dolomite. There will be little need for external applications of sulphur and zinc if recycling processes are practised. Such organic recycling is also supported by government agencies from the recent past.
+
+The NPM calls for revitalization of the earlier systems of pest control. Timely sowing, use of decoy crops in inter or mixed cropping, spray of leaf decoctions (neem, Pongamia, Vitex, tulasi) are some examples. NPM was initiated by a civil society (Centre for Sustainable Agriculture) in one village on cotton during eighties and later adapted by several civil societies and the Society for Elimination of Rural Poverty (SERP) of Government of Andhra Pradesh. Presently NPM is in practice on several crops including cotton, pigeonpea, chillies in 0.55 Mha covering 3,171 villages in 18 districts. It is planned to extend the programme to 2.01 Mha by 2013-14. This has become feasible as the technology is self sustaining using locally available resources. In fact, it is a community based development activity through SHGs. This historic achievement can be adopted by all the states since SHGs do exist in all the states (2,238,565 Nos as on 31 March 2006); covering 16.5 million people.
+
+Recently, bonfire or use of light traps for attracting insect pests and killing in kerosonated water have also gained grounds. Similarly, use of nuclear polyhedrosis virus (NPV), Trichogramma and Trichoderma is picking up. Production of such bio- agents by the stakeholders themselves on a network basis is now a reality. The government provides funds for creating such facilities. If the need arises, only relatively environment-friendly pesticides may be put to use. Whenever herbicides are used for weed control, it is mandatory to combine it with mechanical measures so as to reduce use of active ingredient, and thus leading to effective control of weeds.
+
+The PIM is slowly gaining grounds, especially with the fast depletion of groundwater. Excellent examples come from the civil society (Centre for World Solidarity). In one village, all the borewells were going dry except two. Then the farmers were encouraged to share the rechargeable groundwater of those two wells. They decide on crops and cropping patterns, based on the net available water, which includes soil-water, rainfall, 65% of rechargeable groundwater and surface water, if any. Less water requiring crops are taken up in lieu of rice, sugarcane and wheat. Priority is for foodgrains (e.g. nutritious coarse cereals), followed by commercial crops like vegetables, fruits, flowers and medicinal, aromatic or dye plants, besides bio-fuel plants. High-value crops can be taken up by using expensive gadgets, like micro-sprinkler or drip system of irrigation. Such endeavours can be successful only when proper market support is provided or developed.
+
+To practice such innovations, large-scale training and capacity-building is needed. It is best done through master farmers, promoted by GO or civil societies. The PTD involves evolution of appropriate technologies through participatory research on farmers’ fields. For this purpose, FFS would be a convenient tool, which aims at understanding ICM (from seed-to-seed) of the important crops grown or feasible in a given region. The recent effort of MoA, Gol in encouraging Trainer Farmers also needs consideration. Provision of infrastructural facilities like resource centre, warehouse, product processing for value-addition and marketing also forms a part of the capacity-building. The National Agriculture Innovative Project (NAIP) is a step in this direction. ;
+
+The LEISA approaches are eco-friendly and they reduce cost of production and meet growing demands of green-consumers. Then, the health of the soil, livestock and crops can be ensured, and, in turn, the health of the people in the habitation.
+
+Livestock production
+
+The self-employed youth can become service providers in this endeavour. They can encourage cattle breeders’ associations (CBAs), which can have a two-fold activity. First, these can outsource para-extension persons for health-care and artificial insemination (AI). Improved cattle-rearing with concurrent fodder development must also be taken up. The second activity should be marketing through co-operatives.
+
+The government also supports programmes on livestock development. These include AI and green-fodder development (both meant for enhancing milk production). They also supply subsidised improved fodder seed or slips of grasses and legume fodders. What is needed is an attempt on convergence of such programmes in the WDP.
+
+MANAGEMENT OF FINANCES
+
+Till recently funds are provided as grants at Rs 6,000/ha for all the activities in the WDP. From 2009, Government of India approved the enhanced provision of Rs 12,000/ ha. The funds are alloted to the State level Nodal Agencies (SLNAs) based on the per cent rainfed area and the extent to which they are degraded. In turn the SLNA allots the funds to each District Watershed Development Unit (DWDU) based on the proposals and the criteria stated earlier. The DWDU provide these grants to the WC, who in turn executes work through groups (UGs). There is a provision of research fund of Rs 100,000 per watershed for livelihood support systems to be given to the women,
+
+WATERSHED MANAGEMENT
+
+poor and landless as soft loans. The beneficiary of the works are to share a part of the costs (5% for the SC/ST and 10% for others). Works on community lands are to be provided 10% of the costs from the beneficiaries. This money is deposited as WDF meant for post-project maintenance of the WHSs that are to be handed over to the PRIs. Under the new Common Gudielines 50% of the WDF are meant for post project maintenance of the WHSs and the rest is considered as RF for providing soft loans to farmers intending to enhance their production systems.
+
+To correct earlier maladies, a new financial structure is proposed (Fig. 13.1 0), where the government grants are routed through PRI to federation or VO. These two groups
+
+also obtain donations as well as bank loans, and such total money shall be provided not to WC but to groups (SHGs, UGs, CIGs, CBAs ete.) based on the approved action plan (which would include LBAs as well as NLBAs) submitted by individuals through groups.
+
+production systems as soft loans, but also Fig. as grants through Federation or VO for infrastructural development on training and capacity-building, livestock and marketing (Fig. 13.11). The training and capacity- building should include a resource centre and outsourcing (service providers). Livestock must cover AI, fodder bank and health-care. Finally, marketing may cover shandy revival, warehouse facility and product-processing units.
+
+IMPACT OF WDPS
+
+Several agencies implemented the WDPs. They include Ministry of Agriculture, Ministry of Rural Development, Ministry of Environment & Forests and Ministry of Water Resources of Government of India in association with state governments besides several international agencies like World Bank, DFID, EEC, CIDA, SIDA and WOTR. By March 2005, an area of 45.58 Mha with an investment of Rs 170 billion (@ Rs 5,753/ha) was covered under these programmes.
+
+However, the thrust in the programmes of these agencies varied as pointed out earlier. To reiterate MoA emphasized on improving production systems in the rainfed areas while MoRD was concerned with retrieval of the NRs to their pristine glory through labour intensive technologies. On the other hand several of the International Agencies as well as civil societies were focusing on the need for a holistic development of the habitation which included livelihood security on a sustainable basis. The impact of them is highlighted in Tables 13.1-13.3.
+
+(ii) | CPRs received relatively less attention
+
+WATERSHED MANAGEMENT
+
+(Table 13.2 continued)
+
+Overall achievement
+
+(ii) Presently retrieval of the NRs or prevention of further degradation is the aim
+
+(iii) Improvement in productivity in arable lands may enthuse community to evince more interest in maintaining NARs without degradation
+
+(Table 13.2 concluded)
+
+(iv) New farming systems such as NPM, INM, PHM and emphasis on low duty crops were seen in a few of the watersheds, particularly those run by NGOs
+
+WATERSHED MANAGEMENT
+
+In an NATP funded review, 31 watersheds that were funded / implemented by different agencies in different agroclimatic regions of the country were examined in detail. The summary results are in Table 13.3.
+
+An overview of the various components indicates the following grading: Production > Participatory implementation > CBOs = Training and capacity building > Participatory planning = Finance management.
+
+In fact several workers emphasized the need for participatory approaches in not only implementation but also in planning, involving women. Finance management shall be transparent and flexible, because they are the two cardinal principles in devolution of the programmes on watersheds.
+
+The overall impact of 31 WDPs reviewed in 2003 in the NATP programme are as follows.
+
+1. With watershed, percentage of irrigated area increased from 38.2 in non- watershed areas to 52.4 in watershed areas.
+
+2. All socio-economic and other indicators showed marked improvement in watersheds over non-watershed areas. But the large and medium farmers (LMF) were more benefited in the programme, because the programme was land-based (at Rs 4,000/ha). Hence large farmers were more benefited.
+
+3. Further, LMF derived greater benefit even from livestock. Stall-feeding was adopted more by the LMF.
+
+4. In participatory approaches, the government-funded programmes (NWDPRA and MoRD) were poorly placed. Civil societies and international agencies were well above the governmental agencies (ICAR, NWDPRA and MoRD).
+
+5. Incrop production, cereal production was more with SMF. In other commodities the difference between small and marginal farmers (SMF) and LMF was not significant.
+
+6. The differences in yield of selected crops between watershed and non-watershed areas were generally more.
+
+7. The milk production was generally more in the watersheds.
+
+8. The rise in groundwater was more in watersheds and LMF were benefited.
+
+9. By and large employment generation was more, being 7% more with male and 14% more with female-workers. In watersheds, more work was found in agricultural sector.
+
+10. The women in the watersheds as well as in non-watersheds worked for 12-13 hr a day. However, there was a saving of 18% time in fetching water and fuel for household purposes in watershed areas.
+
+11. The family-budget analysis indicated that on an average Rs 250 more were spent/ head / year in watershed areas. Savings were more with watershed areas, average being Rs 34,491 and Rs 14,224/household/annum, respectively, in watershed and non-watershed areas.
+
+Other critical issues related to WPDs
+
+While implementing the WDPs, the distortions and correctives with regard to social structures, production systems and finances have been presented earlier. The other important issues are: (/) soil conservation in water-erosion areas; (ii) water harvesting; (iii) retrieving wastelands; (iv) drought management and food and nutritional security; and (v) monitoring and evaluation.
+
+Soil conservation in water-erosion areas
+
+The rain-splash causes water erosion. Often intensity is not considered. The light to moderate erosions can be corrected with resources available at the farmers’ level. On the contrary strong erosion needs external support, and very strong erosion would be economically beyond redemption.
+
+Thus interventions needed for various intensities of erosion need to be different. However, from late fifties, the governmental intervention in soil conservation was primarily through contour bunding. It is estimated that 42 million ha have so far been bunded. Wherever these bunds were laid across fields, farmers have razed them to ground. Further cart, tractor, animal and human trespass had been the other causes for degradation. The structures that remained intact are strengthened field bunds across the slope and those laid out in community lands, e.g. as in some of the river-valley projects.
+
+In this regard comments of Robert Chambers are pertinent. “Soil conservation programmes around the world have provided examples of arrogant ignorance and insensitivity of imposing standardized bad practice on rationally resistant small farmers. Often we—professionals—have been confident that our bookish education has given us superior insights, that we know and they are ignorant, that we should plan for them, that our packaged technology from research stations and laboratories is superior; that, in short, we know best and they know worst. But the ignorance has often been ours.”
+
+Need for doable technologies: Thus, till doable soil-conservation technologies are evolved, it would be better to accept present system of strengthening existing field bunds across the slope with soil, stones or both. It is necessary to provide inter-field drainage, so that surplus run-off is properly managed. Vegetation of all the bunds should receive utmost consideration. In high rainfall of east Indian rice-growing areas, field bunds are put to short pulses of Vigna or Phaseolus group. In irrigated paddy, semi-perennials like pigeonpea are grown. Hence it would not be difficult to enthuse rainfed farmers to grow at least grasses or fodder legumes to have additional fodder for livestock. Cenchrus ciliaris and Stylosanthes hamata are 2 good examples. Otherwise one can consider commercial grasses like Earianthus munja; syn. Saccharum munja in Shekhawati region of Rajasthan, babbar grass in north-west India and Agave- in dry semi-arid regions of Rayalaseema, south Telangana, interior Karnataka and Deccan plateau of Maharashtra.
+
+At this juncture the suggestions of Hudson, a protagonist of soil conservation at
+
+WATERSHED MANAGEMENT
+
+one time become relevant. Now he says there is a need for holistically consider the issue of soil conservation. He points out that mechanical structures, as a penacea, came into existence only in the early part of the last century. And now it is realized that land husbandry conceptually is more relevant. Hudson said the study of soil conservation is relatively new; it only began to be taken seriously in the early part of the 20th century. So we should not be surprised that it is still in a state of rapid development with new ideas arising and earlier concepts being replaced. Current changes include even the term soil conservation, which will probably fade away to be replaced by land husbandry, because that better describes the fundamentals of the new approach. The idea of the care of crops, and their management and improvement, has for years been called crop husbandry, and animal husbandry has described the care and management of livestock. Soil conservation was appropriate when we were mainly concerned with increasing the knowledge and awareness of soil degradation, and learning how to decrease the process. But that was mainly a defencive strategy, and what we now seek is a positive apporach where care and improvement of the land resource comes first, and control of erosion follows as a result of good land husbandry.
+
+The innovations of the farmers are viable. They include soil concentration and constructing waste-weirs. Vegetation as a means is other innovation. Thus farmers in a watershed may opt to one of the methods of their preference.
+
+Importance of vegetation: It is necessary to look to each of the tree species from all angles to identify their proper placement for propagation. Simple propagation techniques should be first explored and then only tissue culturing should be considered. Costs should be uppermost in our mind, because trees are needed more in fragile areas where poor people dominate.
+
+It is necessary to consider choice of vegetation in private and community lands. For example, the following choices may be considered for different situations.
+
+Situation
+
+Trees for absentee land owners Subabool (Leucaena leucocephala) in south India and poplar (Populus deltoides) in north-west India
+
+Soil is a big repository of dormant seeds. If socially enclosed, vegetation regenerates in any community land, and quite a large number of economical plants along with climax grass-species would be seen. Several trees like jamun, pongamia, sitaphal,
+
+446 HANDBOOK OF AGRICULTURE
+
+mahua, agave and vitex may regenerate. And there will be considerable protection of biodiversity.
+
+Water harvesting
+
+Water-harvesting structures (WHSs) like check-dams, rock-fill dams and percolation tanks are major components in the WDP. These are based on institutional R&D efforts. However there are several traditional WHSs, particularly in tribal / hilly regions and other hinterlands (e.g. Rajasthan). Unfortunately till recently these were not considered as a part of the WDP.
+
+Earlier suggestion was to harvest only up to 30% of the run-off into these WHSs, so that normal hydrological cycles are not disturbed. About 125-200 m3/ha pond for collecting run-off is one of the options for low rainfall areas (<750 mm). But this is ignored. More and more WHSs are coming up. Further, with the recharge of groundwater, extensive tube-well digging is taking place due to the cheap electricity and high-profile marketing by the industry. The doubling period for the tube-wells is 4 years at present. There were 21 million tube-wells in the country in 2002, and each year 1 million more are being added. In the process the inflows (surface as well as subsurface) into the existing tanks, streams and rivulets is decreasing.
+
+In one estimate run-off has fallen from about 8.5% to 2.3% with such a high density of WHSs. This is a cause for concern. It not only affects hydrological cycle, but also leads to conflicts in riparian rights of the people in the lower reaches. It has already been observed—when Alwar district had many WHSs, little outflow was for adjacent Bharatpur district. Now there are legal battles on the issue. Similarly the persons below the Pune were agitated when several WHSs were constructed in and around Pune; as the inflows into their existing water bodies started diminishing. Such conflicts can easily be avoided if the basic philosophy of harvesting not more than 30% runoff is adhered to.
+
+Perhaps it can be resolved through consensus evolved in the catchment-management committees involving representatives of all the users of water (farmers, dwellers, hotels, industry, municipalities etc.). Such systems exist in Zimbabwe from 2000 ap, and are functioning effectively even with less congenial political stability in the country. It is the committee that determines equal access of water to all users. Even a new water- extracting point (well) cannot be put in place without clearance from the Council. Such systems should be adopted and it should be ensured that the people become responsible for managing water.
+
+Drinking water would continue to be a serious concern, especially in rural areas. Even the minimum 40 Ipcd (litres per caput per day) may not be available, leave alone the quality of such a water. In the WDP, the WHSs are seen to enhance groundwater recharge, but it is not necessarily easening drinking-water situation. This is primarily because groundwater is being overexploited for agriculture. And there are competing demands for this water besides its use for agriculture and drinking. The drinking- water demands would be increasing by 100% in the rural areas within 30 years. In such a scenario the poorer groups have fewer options for alternative supply when their main source of domestic water fails. This would be more during summer and in periods of drought. The only option appears to be the model encouraged by World Bank in Maharashtra, wherein habitation committees with 50% members from women
+
+WATERSHED MANAGEMENT
+
+are formed to manage water. In this model, 10% of the costs are borne by beneficiaries. Such systems are reported to be sustainable.
+
+Even when water for irrigation is considered, an NATP study revealed that LMF are more benefited than the SMF, as shown in the box.
+
+Retrieving wastelands
+
+Wastelands are also scattered in watersheds. Wastelands are defined as the areas that for any reason are presently unproductive at a level much below their potential. Since wastelands are unproductive for various reasons, different technical solutions will be needed to retrieve them to their normal productivity. Broadly, wastelands can be grouped into uncultivable, cultivable, social and marginal (Table 13.4).
+
+Thus, there is no panacea to ameliorate wastelands. No doubt, tree farming would still remain the first choice while facing problems like shallow rocky soils, sandy, duny soils, salt-affected soils and other wastelands. Reclamation by other means is possible, but expensive. Wherever it is possible to grow high-value crops or plants, such a treatment may be considered.
+
+Fallow and leased lands: Though tree is considered a useful corrective measure for degraded or wastelands, foodgrains production also needs attention. The food- insecure persons are 50% in hinterlands. These figures vary from 25% during good monsoon periods to 75% during poor monsoon periods.
+
+To minimize food insecurity, fallow lands and leased lands should be brought under plough. Several Civil Societies (e.g. CEC and MVF, Hyderabad) showed that such lands can be cultivated with food crops on the community basis (e.g. SHGs).
+
+Fallow lands: The fallow lands could be from farmers own lands that could not be cultivated for quite sometime for want of labour or cash input. These could also be from village panchayat (common lands). Such lands need some investment for reclamation. While reclaiming such lands, the following points may be kept in view.
+
+1. No simple panacea
+
+2. Problems: (i) Boulder (removal); (ii) bushes (clearance); (iii) pernicious weeds (deep ploughing and hand-picking); (iv) capped soils (tractor ploughing); (v) marginal areas (tank - silt application)
+
+3. Access (reach)
+
+4. So funding for reclamation must be site specific
+
+5. First preference of stake-holders own fallow lands
+
+Leased lands: Many a times cultivable lands remain fallow either because of absenteeism or incapacity of land-owners. Such lands could be taken on lease either on annual or triennium basis by individuals or groups of food-insecure farmers. They can then, grow food crops. Such lands could be put to immediate farming, because they are otherwise normally under cultivation. There is no need for additional cost in bringing such lands under plough.
+
+Drought management, and food and nutritional security
+
+Drought occurrence is common in the rainfed areas where only WDPs are taken up. Presently a special dispensation is not made to mitigate effects of drought. Earlier a drought used to lead to famine, causing deaths. Today we have moved to a situation where we are able to manage drought.
+
+In nineteenth century Col. Baird Smith described Indian famines as famine of work and not of food. He pointed out that when there was no work, there was no money, and consequently adequate food was not available. This situation is as relevant even today as it was 150 years ago. Presently Food for Work and other employment-generation programmes have received greater attention in the management of drought, the latest being the NREGA.
+
+However to tackle drought, a two-pronged strategy is needed, a short term as well as a long term. The issues needing attention are seed for ensuing season after drought, and food, fodder, nutritional and drinking as well as irrigation water security along with compensatory programmes to ensure improved ecological access to foodgrains, generation of employment and crop insurance. Diversification and tree-based farming also needs our attention. Some details are discussed here.
+
+Seed
+
+Short term: Work for the next year’s requirements, particularly of bold seeds (e.g. groundnut, soybean) under protective irrigation on the priority basis.
+
+WATERSHED MANAGEMENT
+
+Long term: Develop seed banks to cover at least 30% in low-rainfall zones, 15% in medium-rainfall zones and 10% in high-rainfall zones. If the season is normal, these seeds may be sold as grains and the difference in costs be underwritten in budget. Encourage in-village seed production to make seed availability timely and on assured quality basis. It would also be cheaper.
+
+Foodgrains
+
+Short term: Generate employment and create money in hands of the poor. Food for Work (FFW) had been one of the venues. Now NREGA is put in place to ensure money in the hands of the needy poor.
+
+Long term: Capitalize on good rainfall years. Develop local grain storage at the habitat level. Aim at high productivity with a proper blend of soil and crop husbandry.
+
+Fodder
+
+Short term: Goshalas and transport of fodder from available areas should be the first task. This should be followed by green-fodder production under protective irrigation. Increase use efficiency of fodder through chaff cutters.
+
+Long term: Improve silvipasture systems. Allow grazing on charge. Develop fodder banks. Process alternative feeds and fodders. Develop silage systems for dairy cattle.
+
+Nutrition
+
+Short term: Care for children and pregnant and lactating women. Provide mineral mixture to livestock.
+
+Long term: Develop homestead farming to include leafy vegetables, other vegetables, fruits, small poultry unit (Giriraja, Vanaraja) and small dairy unit (improved breeds)
+
+Drinking water
+
+Short term: Reserve wells or bore-wells for drinking water. Consider the needs of the livestock.
+
+Long term: Evolve exclusive water-bodies for the purpose.
+
+Irrigation
+
+Short term: Research and Development should encourage adoption of methods to enhance water-use efficiency, e.g. proper lining of channels, use of micro- sprinklers and drip systems. Provide irrigation to match critical phenological stages in growth.
+
+Long term: Develop PIM and use of water from various water-bodies by mutual agreement. The cropping patterns should match available water in any given season, Wherever feasible, recycling of waste-water must be encouraged, The pay-off being high in low rainfall areas and in hinterlands, future RVPs must be attempted only in such areas.
+
+Compensatory programmes
+
+Short term: Stress on rabi production systems. Also work in favourable areas (receiving normally more rainfall and which are better cndowed).
+
+Long term: Work on good-weather code. Develop local (in-village) storage of foodgrains.
+
+450 HANDBOOK OF AGRICULTURE
+
+Generate employment
+
+Short term: NREGA, which is now under implementation in all the districts, need to be streamlined as social audit has shown inadequacies in quite a few instances. Avoid contractorship and machinery.
+
+Long term: Evolve shelf of projects to create permanent assets. Also as per NREGA Schedule 1, the poor may be helped to generate assets for livelihood support on a sustainable basis.
+
+Crop insurance
+
+Short term: In the Varha Bhima, the proposal is to compensate on rainfall distribution with reference to its distribution and phenology of crops. This pilot project needs further coverage. Compensate tillers and not the owners (if they are not the tiller). The NAIS, now under implementation, needs fine tuning with reference to coverage of different crops, yield indicies, timely payment of compensation; the livestock insurance needs further expansion.
+
+Long term: Let insurance companies takeover crop insurance scheme. Evolve achievable yield isolines to pay compensation.
+
+Diversification
+
+Short term: Diversify production systems.
+
+Long term: Encourage product processing and value addition. Maintain biodiversity (locals are more tolerant to drought).
+
+Tree-based farming
+
+Short term: Develop tree farming in homesteads to cover lean periods for earning money in crisis periods.
+
+Long term: Ensure biomass production though MPTs in CPRs. The trees should not only yield fodder, fuel, manure and fruits, but should also be useful as botanicals in managing pests.
+
+Thus the four-bank concept of Swaminathan must be encouraged for community food, fodder and water security to humans and livestock. Then fodder, seed, water and grain banks should be included in the system.
+
+Climate change
+
+The new paradigm that needs our attention is the climate change and consequent global warming leading to aberrations in precipitation. Agriculture contributes up to 28% in warming up (climate change) in India. Climate change is leading to skewness in rainfall pattern, reduced or increased rainfall and increased glacier melt over time and space. The agricultural biodiversity, crop and livestock production and health of the living systems are expected to be affected over time.
+
+While research efforts to minimize the emission of GHGs due to agricultural activitie (CO,, CH,, N,O) are continuing, the farmers who practice the means to minimize the effects have to be compensated for their environmental services. Details have to be worked out in this regard. The efforts could be adopting ecological farming, more efficient use of fertilizer N, moving to SRI cultivation from the traditional puddled paddy, accepting low methane emitting ruminants, protecting agriculture biodiversity, etc.
+
+WATERSHED MANAGEMENT
+
+The research need be focused on tolerance to enhanced thermal regimes, adopting C, pathway in C, plants, breeding for low CH, - emission (crops, livestock) besides developing capabilities in predicting future climatic changes due to global warming. Climate literacy, now assumes more relevance.
+
+Coming to warming up of the globe, DFID emphasized the need for a revisit to criteria in WHSs, particularly in wet semiarid and humid regions with possible increases in rainfall and their intensity. With every 1°C rise in temperature, the intensity of rainfall is expected to be higher by 10%. Axiomatically the water erosion would enhance. And the estimates are suggestive of an increase by 24%. The means to alleviate the resultant problems need active consideration by R&D.
+
+Monitoring and evaluation
+
+The WDP and rainfed farming are highly location-specific. It would be essential to resort to participatory M&E. Presently, external M&E deals essentially with financial and physical achievements. The physical ones include number of WHSs, soil- conservation measures, area brought under irrigation, yield of crops, milk yield, CPR area covered with plantation etc. The social parameters include only number of groups formed, whether meetings are held by WA and WC. Neither the action plan nor even the NRs and their state-of-the-art are considered.
+
+However, with participatory M&E, besides the above, the maturity of the groups in the management of financers, the usufruct access, gender, equity, food security and the like would also be considered.
+
+Some of the important lessons learnt, while reviewing the completed and on-going watersheds are mentioned as follows:
+
+1. The two important paradigm shifts in the WDP are participatory development and bottom-up approach. The IA programmes only indicated superior adoption of participatory management (67.2%), followed by civil societies (59.0%). The government supported programmes had less than 50.0%.
+
+2. In resource conservation, the farmers tend to take up strengthening of field bunding (68.8%), followed by leveling (57.1%). They opted even for soil concentration in the natural drainage lines (44.6%). Thus there is a need to accept farmers’ innovations as practical and easily adoptable, and should be financed in the WDP. Wherever institutional R&D measures are accepted, the earlier attempts may also be continued.
+
+3. In the WDP the farmers appear to be more comfortable with water that can be tapped individually (farm ponds and wells) than through community (tanks). In the process the LMF are more benefited in accessing harvested rain-water. But in the recent past, the civil societies could show even the groundwater, that is now becoming scarcer, can be efficiently managed by PIM. This needs wider adaption in the WDP.
+
+4. Inthe WDP equity is not achieved and the LMF are more benefited followed by SMF. The least benefits are accrued to landless, because WDP was largely land- based and rich obtained more funds for improving their holdings. They are also able to reap better out of CPRs. It was the case with the availability of fuel and fodder. Hence there is a need to specifically apportion funds for developing CPRs with a pro-poor bias on the share of the usufructs. The RF should properly
+
+be organized to benefit the landless. Based on the experiences gained in the externally funded programmes, it is realized that the have-nots and women need a separate dispensation through livelihood support systems as well as micro- enterprises. Adequate funds are now made available in WDPs under the new guidelines of 2008.
+
+. The WHSs have been mostly the job of the contractors except with Civil societies and selected IAs where the stakes of the beneficiaries had been more with their increased contribution and involvement in putting the WHSs in place. Hence post-project maintenance was also less of a problem, besides the quality of the works, The indigenous WHSs also received approval when the stake-holders had a say in their construction. In the new guidelines, 50% of the WDF is apportioned for post-project maintenance of the WHSs through UGs.
+
+. InLBAs there has been, 75% increase in cereals yield, 50% in oilseeds and 30% in pulses. Similarly there are increases in milk yield. However, these increases cannot be sustained unless needed infrastructure facilities are provided. They include not only in-village seed production, INM, NPM and PIM but also a resource centre for continued support in training and capacity building, besides collective marketing through warehouse, product processing, credit, insurance cover and other marketing facilities. This is in addition to AI centres, co- operatives for sale of milk and milk products, and increased green-fodder availability to ensure sustained and enhanced milk production. Similarly, improvement of silvi-pasture systems in CPRs for enhancing grazing or carrying capacity for the livestock, particularly small ruminants would be necessary. Some of the NREGA funds can be diverted (with the approval of the Gram Sabha) for building up the needed infrastructure. By convergence with various rural development programmes, many of the other requirements proposed above can easily be put in place.
+
+. That NLBAs also need support has come into focus to ensure equity and sustainable livelihood-support systems for one and all, particularly for the women and landless, tiving in these hinterlands as pointed out earlier.
+
+. Open access to the CPRs had been the bane and must be stopped. While giving due attention to the existing rights on CPRs (graziers, NTFP — livelihood, fishing rights to the locals) care should be taken to develop the silvipasture systems through social fencing. The new WHSs should not put the traditional WHSs in jeopardy. The additional water harvested at least must be treated as a common pool with access to all the habitants. Such an approach leads to a win-win situation, benefiting the landless from the silvipastures and the landholders from the WHSs.
+
+. It is necessary to treat WHSs (e.g. tanks or johads) on a cascade basis. Similarly, the vegetating of the CPRs should be beyond one watershed. So would be the federating of the SHGs on mandal or block basis. All these structures need to be viewed beyond one watershed. Hence the community should be geared up to meet such a challenge cutting across habitations.
+
+. Finally, the success of a watershed can be measured with four parameters, e.g. (i) rain-water harvesting without jeopardy to the traditional WHSs and riparian rights; (i?) proper vegetating of CPRs with social fencing and with a pro-poor
+
+WATERSHED MANAGEMENT
+
+bias in the share of usufructs; (iii) a good training and capacity building of the CBOs to ensure sustainable LBAs and NLBAs; and (iv) participatory development in action planning and execution by groups and not by WC or PRI, with adequate flexibility and transparency in management of finances that are routed through PRIs to federation or village organizations to reach the groups. The best technical parameter to indicate the success of the watershed is the clean (with least turbidity) runoff from the completed watershed.

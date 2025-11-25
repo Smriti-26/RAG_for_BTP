@@ -1,0 +1,537 @@
+SOURCE_DOCUMENT: Chapter 19.pdf
+
+19. Diseases of Crops
+
+A healthy plant carries out its normal physiological functions such as cell division, differentiation and development, absorption of water and nutrients from soil and their transport to other parts, photosynthesis and translocation of photosynthetes to areas of utilization or storage, metabolism of synthesized compounds, reproduction and storage of food supplies for overwintering or reproduction. But, a plant becomes diseased when it is continuously disturbed by some causal agent inducing an abnormal physiological process that disrupts the plant’s normal structure, growth, function, or other activities. This interference with one or more of a plant’s essential physiological or biochemical systems elicits characteristic pathological conditions or symptoms. There are more than 80,000 plant diseases known worldwide. In fact, all plants are vulnerable to attack by disease. Crop plants are frequent victims, and crop diseases can result in enormous agricultural and economic losses. Fossil evidence indicates that plants were affected by disease 250 million years ago. The Bible and other early writings mention diseases, such as rusts, mildews, blights, and blast that have caused famine and other drastic changes in the economy of nations since the dawn of recorded history. Other plant disease outbreaks with similar far-reaching effects in more recent times include late blight of potato in Ireland (1845-60); powdery and downy mildews of grape in France (1851 and 1878); coffee rust in Ceylon now Sri Lanka (starting in the 1870s); Fusarium wilts of cotton and flax; southern bacterial wilt of tobacco (early 1900s); Sigatoka leaf spot and Panama disease of banana in Central America (1900- 65); leaf spot of rice causing Bengal Famine in India in 1942; black stem rust of wheat (1916, 1935, 1953-54); and the southern corn leaf blight (1970) in the United States.
+
+Causes of plant diseases
+
+Plant diseases can be broadly classified according to the nature of their primary causal agent, as infectious (biotic) or noninfectious (abiotic). Organisms responsible for infectitious diseases include fungi, algae, prokaryotes (bacteria, mycoplasma like organisms and Rickettsia like organisms), viruses and viroids as well as phenerogamic (angiosperms) parasites, nematodes and even protozoa. Noninfectious plant diseases are caused by unfavourable extraneous conditions such as scrotching sunlight, high temperature, moisture stress; excess or deficiency of micro-nutrients; heavy metal toxity; atmospheric pollution; acid rain etc. Because noninfectious causal agents are not organisms capable of reproducing within a host, they are not transmissible. Nutrient deficiency can induce vulnerability to infection by other pathogen or a plant infected by one pathogen may become prone to secondary pathogens. There are several diseases that are of complex etiology and therefore proper disease diagnosis is essential to achieve enduring adequate plant health.
+
+Disease diagnosis (symptomatology)
+
+Diagnosis means identifying the root cause of the disease, which can be due to
+
+DISEASES OF CROPS
+
+biotic or abiotic stress. Generalized symptoms may be classified as local or systemic, primary or secondary, and microscopic or macroscopic. Local symptoms are physiological or structural changes within a limited area of host tissue, such as leaf spots, galls, and cankers. Systemic symptoms are those involving the reaction of a greater part or all of the plant, such as wilting, yellowing, and dwarfing. Primary symptoms are the direct result of pathogen activity on invaded tissues (e.g. swollen “clubs” in clubroot of cabbage and “galls” formed by feeding of the root-knot nematode). Secondary symptoms result from the physiological effects of disease on distant tissues and uninvaded organs (e.g. wilting and drooping of cabbage leaves in hot weather resulting from clubroot or root knot). Microscopic disease symptoms are expressions of disease in cell structure or cell arrangement seen under a microscope. Macroscopic symptoms are expressions of disease that can be seen with the unaided eye. Specific macroscopic symptoms are classified under one of four major categories: pre-necrotic, necrotic, hypoplastic, and hyperplastic or hypertrophic. These categories reflect abnormal effects on host cells, tissues, and organs that can be seen without a hand lens or microscope. Main disease symptoms that are classified in these four categories are given in Table 19.1.
+
+Besides symptoms, a diagnostician must recognize signs and characteristic of a given disease. Signs are either structures formed by the pathogen or the result of
+
+590 HANDBOOK OF AGRICULTURE
+
+(Table 19.1 continued)
+
+DISEASES OF CROPS
+
+(Table 19.1 continued)
+
+592 HANDBOOK OF AGRICULTURE
+
+(Table 19.1 concluded )
+
+Gall, knot, or tume- faction Formation of local, fleshy to woody outgrowths or swellings; the outgrowth is often composed of unorganized cells Crown gall; black knot of plum; nematode galls
+
+interaction with the host—e.g. ooze of fire blight bacteria, slime flux from wetwood of elm, odour of tissues affected with bacterial soft rot. Most frequent signs of pathogen presence and examples of organisms producing them are given in Table 19.2.
+
+DISEASES OF CROPS
+
+Perithecium pycnidia Speck-sized fungal fruiting body that produces large numbers of sexual spores; perithecia are dark-coloured, round to flask-shaped, usually partially buried tissue; they resemble in diseased Apple scab; Gibberella stalk and ear rot of corn
+
+Powdery mildew diseases of wheat, apple and rose (see also Cleistothecium, this table)
+
+(Contd...)
+
+(Table 19.2 concluded)
+
+Pycnidium Speck-sized fungal fruiting body that produces Septoria leaf spots; Diplodia large numbers of asexual spores (conidia); stalk rot of corn pycnidia are dark-coloured, round to flask- shaped, usually partially buried in diseased tis- sue; they resemble perithecia
+
+Rhizomorphs Cord-like or root-like strands, composed of a Armillaria and Clitocybe root bundle of closely intertwined hyphae, by which rots; Sclerotium rolfsii stem rot certain fungi make their way through soil and of groundnut over or under bark of woody plants
+
+Sclerotium Brown to black, compact, hard resting body of Foot rot of wheat; onion white certain fungi with a rind-like covering; the size rot varies from a fly speck to a large sweet potato depending on the fungus forming it
+
+Seed Dodder seed is a sign of this parasitic flowering dodder (Cuscuta, about 170 plant when found in clover or alfalfa seed species)
+
+Sorus(pustule) A compact mass of spores, or a cluster of spor- Black stem rust of cereals angia (spore-bearing structures), produced in or on the host by fungi causing such diseases as white rust, smut, and true rust; before rupturing, the sorus is normally covered by host epidermis
+
+Spores Microscopic, usually single- or few-celled repro- - ductive bodies of fungi corresponding in func- tion to seeds of higher plants; spores vary greatly in size, shape, and colour; they are asexually produced or result from sexual processes; asexual spores may be formed directly from veg- etative hyphae but often are produced in spe- cial fruiting structures (e.g. acervulus, coremium, pycnidium, and sporodochium)
+
+Sporodochium A cushion-shaped stroma covered with Cercospora leat spots, brown conidiophores bearing asexual spores; found rot of stone fruits and scattered in leaf, stem, and fruit lesions Fusarium blights
+
+A crust-like or cushion-like mass of fungal hy- Tar spot of phae often intermingled with host tissue on or in which spores are produced—usually in repro- ductive bodies
+
+Synnemata A tight cluster of erect conidiophores forming an Black rot of sweet potato elongated column on which asexual spores are borne
+
+*The structures listed are formed by the pathogen
+
+Technological advances in the identification of pathog-nic agents
+
+Developments in microscopy, serology and immunology, molecular biology, and instrumentation has led to the development of handy laboratory procedures for the
+
+DISEASES OF CROPS
+
+identification of plant pathogens, particularly bacteria, viruses, and viroids. The techniques of traditional scanning microscopy and transmission electron microscopy have been applied to immunosorbent electron microscopy, in which the specimen is subject to an antigen-antibody reaction before observation and scanning tunneling microscopy, which provides information about the surface of a specimen by constructing a three-dimensional image.
+
+Serological tests have been made more specific and convenient to perform since the discovery of a technique to produce large quantities of monoclonal antibodies, which bind to only one specific antigen. The sensitivity of antigen-antibody detection has been significantly increased by a radioimmunoassay (RIA) procedure. In this procedure a “known” antigen is overlayed ona plastic plate to which antigen molecules adhere. A solution of antibody is applied to the same plate; if the antibody is specific to the antigen, it will combine with it. This is followed by the application of radioactively labeled anti-antibody, which is allowed to react and then washed off. The radioactivity that remains on the plate is a measure of the amount of antibody that combined with the known fixed antigen. Another highly sensitive immunoassay is the enzyme-linked immunosorbent assay (ELISA). In principle this assay is similar to the RIA except that an enzyme system, instead of radioactivity, is used as an indicator of an antigen-antibody combination.
+
+New analytical methods in molecular biology have made the characterization and identification of bacteria more practical. The DNA hybridization technique is an example. A strand of DNA from a known species (the probe) is radioactively labeled and “mixed” with DNA from an unidentified species. If the probe and the unknown DNA are from identical species, they will have complementary DNA sequences that enable them to bind to one another. Bound to DNA from the unknown species, the probe acts as a marker and identifies the bacteria.
+
+The growing demand for quick identification of microorganisms has resulted in the development of instrumentation for automated technology that allows a large number of tests to be performed on many specimens in a short period of time. The results are read automatically and analyzed by a computer program to identify the pathogens.
+
+Classification of symptom types of major plant physiological processes affected by diseases
+
+A pathogen can cause immediate or delayed injuries to plant functions following infection, inducing many morphological changes in the host plant. Systems for the
+
+classification of plant diseases proposed by McNew recognised seven plant functions and seven corresponding groups of diseases where the causal agents predominately disrupt one function. These plant functions and groups of diseases affecting them are as given in box on previous page.
+
+Generally characteristic symptoms are produced by a or a group of pathogen and has a unifying identification procedure, which is followed to check the disease spread. Since symptoms generally result as a consequence of infection they may also be defined on the basis of distinct underlying mechanisms described below:
+
+1. Disruption of growth: Stunting- dwarfing, atrophy, rosetting, suppression of growth or differentiation (hypoplasia); Etiolation- excessive elongation; Meristematic activity - (i) Hypertrophy(abnormal cell enlargement)- deformation, curling, puckering, intumescence, savoying, sarcody; (ii) Hyperplasia (excessive cell division)- galls, tumours, fasciation, callus, tumefaction, proliferation; Storage life - post-harvest diseases of fruits, perennating and storage organs; Epinasty - downward growth of petioles; Abscission - leaf drop, shelling, proleptic abscission; Disruption to photosynthesis - chlorosis, mottling, silvering, albication, vein clearing and may indirectly result from abscission; Yield loss - without clearly marked symptoms
+
+. Disruption of mobilization of stored food: Seedling blights
+
+. Disruption of absorption of water and minerals: Root and foot rots
+
+. Disruption of water transport: Vascular wilts
+
+. Disruption of translocation: Phyllody and decline
+
+. Disruption to many or all functions producing symptoms of: Yellowing, i-e. breakdown of chlorophyll; Hydrosis, i.e. water soaking; Necrosis- disruption of cellular processes leading to death of cells etc.
+
+Disease initiation, development and transmission (pathogenesis)
+
+Pathogenesis caused by an inféctitious.agent begins as soon as the pathogen comes in contact with any portion’of a susceptible plant. A series of interacting factors such as temperature, moisture, susceptibility of plant tissues, aggressiveness of the pathogen etc. determine whether infection will occur or not. Once host-pathogen contact is established, the pathogenesis progresses through a chain of events such as prepenetration (germination of pathogen spores to form germ tube or infection hyphae or release of enzymes disintegrating host tissue), penetration of host tissue either directly facilitated by infection pegs or through natural openings/wounds on host surface and colonization of the infected plant by the pathogen, e.g. haustorial contact in case of some fungal pathogens.
+
+The biotic pathogens can reproduce and are disseminated mainly by spores (fungi) or seed (angiosperms). Wind, water, diseased plants, cuttings, planting material, insects and frequent travelers help to disseminate the pathogens. Virus diseases are spread as the result of direct contact, through seeds, diseased cuttings and grafts, and more commonly by insect and other vectors. Most of the fungi and bacteria errupt or ooze from the surface after the host tissue that has been infected, whereas the viruses move and multiply internally. Therefore, the control of plant diseases usually lies in preventing infection, as it is very difficult to arrest the fungi or bacteria or inactivate the viruses
+
+DISEASES OF CROPS
+
+inside the host plants. Some novel chemotherapeutants show promise in eradicating the disease incitants established in the internal plant tissues. Though the cheapest, easiest, safest and most effective control of plant diseases can be achieved by using resistant varieties, yet, this method of control has its limitations because of the appearance of new pathotypes of the bearing down the resistance.
+
+Disease occurrence and epidemics
+
+In a population pressure when several plants show disease symptom, then the prevalence of the disease is said to be high. An epidemic occurs over a large area/tract often with a very high disease pressure. Plant disease epidemics are also called epiphytotics, which if occurs year and again is called epidemic. Most epidemics are localized and cause minor to moderate losses unless they are severe pandemics. Occasionally, some epidemics develop so quickly under highly favourable environment the pathogen inflicts huge crop loss. Such epidemics occurs due to strange combination and convergence susceptible host, a virulent pathogen and confirmed favourable environment (Fig. 19.1).
+
+Crop protection through integrated disease management
+
+Crop protection aims at preventing losses due to diseases, keep the crops healthy to attain maximum yield. Of the various strategies, the chemical based practices are the most common. Over-emphasis on chemical control of plant diseases has caused serious imbalances in the agro ecosystems. About 70% amount of chemicals sprayed on field crops is never retained on the foliage-the target for control. Enormous quantities of chemicals that fall onto earth and get mixed up with soil, adversely affect microbial population and the soil fertility. Some problems like damage to foliage, emergence of non- target disease and damage to soil microflora occur due to over -kill spray schedule. A shift towards non-chemical strategies is likely to correct the imbalance created to the natural ecosystem. The most logical approach is known as the integrated pest management (IPM) that has the integrated disease management (IDM) as a sub system within it (Fig.19.2).
+
+The IDM is structured to use an assortment of procedures rather than relying only on chemical pesticides to control the pest population. Some commonly used specific practices for each type of method are indicated in F ig.19.3. IDM makes use of all the available methods for prevention and keeping the pathogen population below the economic threshold level. In this approach promoting ecological balance, environmental safety and sustaining productivity and profitability are given due attention. Biological control, agronomic procedures and promoting the cultivation of correct genotype are the main elements. Disease surveillance, quarantine, regulatory measures, exclusion and judicious use of chemotherapeutants are all important in harmonizing an effective disease management.
+
+DISEASES OF CROPS
+
+Crop health surveillance is an important component of IDM system. Disease surveillance involves the monitoring of disease prevalence and severity, auxillary crop information and other relevant data for making decision to adopt a management strategy. Surveillance may be a single or a continuous action as well as periodic or a regular activity. In the present -day context, surveillance focusses primarily on decision making for the proper timing of fungicide usage so as to reduce it to bare minimum. Surveillance activities also help in identifying potentially important diseases early enough and may indicate that the disease feared by farmers may not actually warrant intensive crop protection. The another important benefit accrued through surveillance is that information availed on virulence distribution permits the deployment of resistance genes along the Puccinia Path (Table 19.3).
+
+* Adult plant resistance
+
+DESCRIPTION OF CROP DISEASES BY GROUPING ACCORDING TO THE PLANT PHYSIOLOGICAL PROCESSES AFFECTED BY THEM
+
+GROUP 1: MOBILIZATION OF STORED FOOD
+
+Damping-off
+
+Mobilization of food stored in seeds, tubers etc. is hindered by infection often resulting in death of seedlings. Infection at the collar region of the young nursery plants resulting in the collapse of aerial parts is damping-off. As the term indicates it is associated with too wet a situation, promoted by poor drainage and generally occurs in patches. The greatest damage occurs to the seed seedling roots during germination either before or after emergence. Extent of losses depends upon the degree of soil moisture, temperature and other factors. Seedlings in seedbeds are worst hit as they are completely destroyed or they die soon after their transplantation. Older plant parts may not be killed but they develop root and stem lesions leading to growth retardation causing drastic yield losses.
+
+Target crops: Nursery of vegetables, flowers, cereals and fruit/ forest trees. Etiology: Oomycetous fungi, e.g. Pythium aphanidermatum, P. debaryanum, irregulare, P. ultimum,Pytophthora parasitica, P. cryptogea.
+
+Symptoms: Seeds sown in infested soil fail to germinate and oftenly become soft and mushy followed by shrinkage and disintegration. The poor stands result after infection in the soil. Disease initially appears as slightly darkened and water-soaked spots. The diseased area spreads quickly on seedling leaves which are later covered
+
+by the fungal mycelium. The disease is called pre-emergence damping-off if infection takes place before the seedlings emerge. Disease also occurs after seedling emergence called as post-emergence phase. During this phase, the basal part of the seedling is much thinner and softer than the above parts and as a result seedling falls over on soil due to loss of supporting power.
+
+Pathogenesis and disease cycle: Disease spreads with the help of motile propagules disseminated through water. Fallen diseased leaves act as source of infection for healthy seedlings in the standing crop. Infective propagules overwinter in or on seed. Losses due to damping-off and seedling blights are greater when the soil water contents are at least 50% of normal water-holding capacity for prolonged periods, when there is an excess of nitrogen in soil, when temperature is unfavourable for host plant and when the same crop is planted in the same field for several consecutive years.
+
+Integrated disease management: Control of Pythium spp. and Phytophthora spp. on field scale is difficult, as it produces oospores and chlamydospores which persist in soil for many years. However, in greenhouses Pythium can be eliminated through the use of soil sterilized by steam or dry heat. Fumigation with volatile chemical such as Chloropicrin is a standard practice followed in nurseries and horticultural operations, but such practices are discouraged now due the damage they cause to environment.
+
+Pre-emergence damping-off can be prevented by seed dressing with Captan, Thiram and Zineb. Soil drenching with chestnut compound, 1% Bordeux mixture, 0.3% Blitox, 0.2% Essofungicide 406 is also quite effective.
+
+Pythium seed rot and damping-off are also checked by treating the seeds with conidia of the antagonistic fungi Trichoderma spp., Penicillium oxalicum and Gliocladium virens. Conidia of these bioagents can also be mixed in greenhouse and nursery soil. Laetisaria arvalis (Corticium spp.) present naturally in soil organic matter is another promising antagonistic fungus.
+
+Some cultural practices do help in reducing the amount of infection. Planting in well-drained soil should be done when temperatures are favourable for disease out- break. Application of excessive amount of nitrate form of nitrogen should be avoided. Same crop should not be planted in same field for more than two consecutive years.
+
+Solarization through covering the sites of nursery plots with polythene sheets or exposing the soil by deep ploughing in summer sun eleminates several soil-borne pathogens.
+
+Use of VAM (Vesicular-arbuscular mycorrhiza) exhibit, tremendous potential in biological control of soil-borne pathogens. The mycorrhiza provides disease resistance to host plant by early colonization of root surface, uptake of phosphorus and zinc etc., thus promoting crop health. These fungi also exert a selective pressure on the population of soil micro-organisms, including the root pathogens of several crops. There are several genera of VAM fungi which are classified in the order endogonales of Zygomycotina consisting a single family endogonaceae. The genera used as VAM fungi are Endogone, Glomus, Sclerocystis, Enthrophospora, Acaulospora, Scutellospora and Gigaspora.
+
+Similarly, Ectomycorrhizal symbiosis can also be exploited to induce resistance to root infections. A pathogen attacking a well-colonized ectomycorrhizal root system is initially confronted externally with highly interwoven network of ectomycorrhizal fungus (Fungal mantle) and then internally with cortical cells whose cell-walls are
+
+DISEASES OF CROPS
+
+surrounded by fungal hyphae (Hartig’s net). Ectomyrorrhizal fungi protect the delicate root system of the host from pathogenic soil-borne fungi through (a) use of surplus carbohydrates, (b) provides physical barrier, (c) secretion of antibiotics, e.g. diatretyne nitrate, and (d) favouring beneficial rhizosphere microflora around the roots.
+
+Seedling blight
+
+Basically seedling blight is secondary syndrome associated with the foot and root rot diseases caused by fungi and bacteria. Unlike damping -off, collar and root regions of growing seedlings do not collapse but show brown or creosote coloured black lesions, resulting in yellowing of leaves in general and death of seedlings in severe cases. The diseased plants can be easily pulled out from the soil and show poor root growth with white mycelial growth on the crown and root region. Sclerotial bodies may be found adhering around the collar region. Rootlets are thin and fuzzy and the diseased plants are usually dwarf.
+
+Target crops: Same as damping-off
+
+Etiology: (a) Ascomycetes and Fungi imperfecti, e.g. Fusarium spp. (with Gibberella teleomorph), Helminthosporium (with Pyrenophora teleomorph), Alternaria, Cercospora, Septoria, Mycosphaerella, Colletotrichum, Rhizoctonia solani (teleomorph: Thanatephorus cucumeris), Sclerotium rolfsii, Sclerotinia; (b) bacteria, e.g. Pseudomonas and Xanthomonas.
+
+Pathogenesis and disease cycle: These pathogens are mainly soil and or seed borne. The infection establishes in the root or collar region of the germinating/growing seedling. The perpetuating mycelium of these pathogens remains dormant in dry infected leaves for a year or more. The seed-borne inoculum is the major source of perennation of the disease from season to season.
+
+Integrated management strategy: Same as damping-off.
+
+GROUP II. ABSORPTION OF WATER AND MINERALS
+
+Hindrance in water and mineral absorption processes leads to decrease in their uptake and transport which result from blocked vascular system, destruction of the roots or increased transpiration through the leaves. Pathogen causing foot and root rot disease prevent the absorption of water and minerals through the roots leading to drooping and yellowing of leaves and to irreversible wilting. Wilting due to water stress (drought) is reversible with availability of water. Injuries similar to pathogenic foot and root rots can also result from mechanical damage, insects, nematodes, burrowing animals, herbicides and salinity.
+
+Foot and root rots
+
+The collar region gets constricted and is wet when sensed by finger. The collapse of the tissues results in toppling of the seedling. And fungal pathogen like Fusarium cause blackening of the vascular bundles and this becomes visible when the bark at collar region is peeled off by a field knife and examined under hand-lens.
+
+Etiology: (a) Oomycetous fungi, e.g. Pythium and Phytophthora; (b) Ascomycetes e.g. Gibberella (imperfect stage Fusarium);(c) Basidiomycetes, e.g. Thanatephorus (Anamorph: Rhizoctonia) and Athalia/Pellicularia (Anamorph: Sclerotium); (d) Fungi imperfecti, e.g. Aphanomyces, Rhizoctonia, Sclerotium, Phymatotrichum, Thielavia,
+
+Helicobasidium, Ophiobolus, Armillaria, Cochliobolus (Bipolaris and Helminthosporium).
+
+Target crops: (a) All herbaceous plants: mainly attacked by Rhizoctonia and Sclerotium; (b) woody plants and forest trees: Armillaria, Poria and Polyporus; (c) turf grass: Marasmius; (d) cereals (wheat and other grasses) - Cochliobolus (Bipolaris, Helminthosporium) and Fusarium.
+
+Symptoms: Details on Pythium, Phytophthora are described under the heading damping-off. Rhizoctonia symptoms vary on different crops and even on same host, depending upon the growth stage and environment. The most common symptoms in cold and wet soils, are damping-off of seedlings, rotting of roots and lower portion of stem. Stem canker may be incited in grown-up plants. Very young seedlings may be killed before or soon after they emerge from the soil. Generally growing tips of seedlings are killed. In case of older seedlings, attack is limited to the outer cortical tissues on which reddish brown lesions are produced. Reddish brown lesions are also formed on root surface just below the soil line resulting in weakening, yellowing and death of plants. In lowlying areas, leaves of cabbage and lettuce touching the soil surface are vulnerable, produce reddish brown shrunken lesions at petioles/midrib, turning the entire leaf dark brown and slimy. Under hot and humid conditions, Rhizoctonia causes characteristic sign brown patch called “black scurf’ in lawns and fine turf grass. On the runners and root surface, the pathogen produces small, hard, black sclerotia which are difficult to remove even by washing.
+
+Selerotium spp., particularly S. rolfsii is common in warm climates and causes damping -off of seedlings, cankers on lower stem, crown blight, root and crown rot of bulb, tuber rot and a variety of symptoms and diseases. Because Sclerotium diseases are quite prevalent in southern US, these are also known as southern wilts or southern blights world wide.
+
+Pathogenesis and disease cycle: Pathogens associated with foot and root rots are generally soil inhabitants, as Rhizoctonia, Sclerotium, Sclerotinia and fungi belonging to the group mycelia sterilia. These pathogens survive saprophytically in the soil or on organic matter and the sclerotia can contaminate the planting material thus ensuring the availability of primary inoculum to cause disease.
+
+Important diseases in India: Root rot of cotton (Rhizoctonia bataticola and R. solani), root and stem rot of jute (Macrophomina phaseolina, sclerotial stage: Rhizoctonia bataticola), black scurf of potato (R. solani), stem or foot rot of papaya (Pythium aphanidermatum), rhizome rot of ginger (P. myriotylum and P. aphanidermatum), root rot of apple (Rosellinia necatrix) and collar rot of apple (Phytophthora cactorum).
+
+Integrated disease management: Pythium - and Phytophthora-induced diseases cause damping-off symptom. Soil sterilization using aerated steam or hot water helps in reducing root rot due to Rhizoctonia. Since the pathogen is also seed rot contaminated, usage of clear or treated seed will reduce the disease severity. Rhizoctonia-induced disease in vegetables can be checked by spraying Chlorothalonil or Thiophanate methyl on the soil prior to planting of the seedlings. Several soil-living biocontrol organisms such as Trichoderma, Gliocladium and Laetisaria or even mycophagous nematodes like Aphelenchus avenae reduce the disease incidence. These beneficial soil dwellers
+
+DISEASES OF CROPS
+
+can be augmented by the extraneous application along-with seed or by dipping roots in solution containing them prior to transplantation. Field mulching with 2-3 cm thick layer of rice husk may control Rhizoctonia diseases. Wet and poor drainage conditions should be avoided.
+
+Proper crop rotation with non-host crops, adoption of cultural practices such as deep ploughing to bury fungal sclerotia in surface debris and promotion of Trichoderma, Pseudomonas bacteria and some Streptomyces spp. aS biocontrol agents will reduce the disease severity. Fluorescent bacteria Pseudomonas fluorescens and P. putida applied to seeds, propagating materials and roots of plants have resulted in less soft rot and in consistent better growth of the plant and in greater yield, e.g. potato.
+
+GROUP III. WATER TRANSPORT AND TRANSLOCATION
+
+Vascular wilts
+
+The most important symptom associated with blocking water transport is wilt or vascular wilt. Vascular wilts seriously disrupt the translocation of water, resulting in drooping of the wilted plant by blocking the xylem bundles. The main pathogen associated with this disease are Verticillium spp. and many formae species of Fusarium oxysporum. Although viruses (tobacco etch virus) and bacteria (Clavibacter michiganensis and Pseudomonas solanacearum) also cause serious wilts in some other crops, their symptom vary from fungal wilts.
+
+In contrast to the wilt pathogens which confine to the xylem, there are phloem diseases caused by viruses, viroids, mycoplasmas and rickettsias. In such cases, the translocation through phloem gets physically blocked. The plant parts with depleted water and photosynthates become stunted, as in citrus stunt and pear decline or the flower become photosynthetic. Yellowing is another typical symptom associated with virus blocked phloem resulting in phyllody. In coconut, the leaf flacidity caused by mycoplasma predisposes the palm to leaf rot and ultimately to wilting of tree. The symptoms of vascular wilt caused by fungi are not seen in coconut root wilt.
+
+Xylem wilts
+
+Etiology: (a) Ascomycetous fungi, e.g. Ceratocystis; (b) fungi imperfecti, e.g. Fusarium and Verticillium;(c) bacteria, e.g. Clavibacter (Corynebacterium), Erwinia, Pseudomonas and Xanthomonas;(d) virus, e.g. TSWV (Tomato Spotted Wilt Virus); (e) Mycoplasma-like organisms.
+
+Important diseases: (a) Fungal: (i) fungal wilt of pigeonpea (F' oxysporum f. sp. udum);(ii) wilt of cotton (FE oxysporum f. sp. vasinfectum); (iii) wilt of linseed (F: oxysporum f. sp. lini); (iv) panama disease of banana (F. oxysporum f. sp. cubense; and (v) wilt of vegetables, flowers, fruit trees (Verti; cillium albo-atrum and V. dahliae); (b) Bacterial: (i) wilt of bean (Clavibacter flaccumfaciensis), (ii) bacterial canker and wilt of tomato (Clavibacter michiganensis); (iii) cucurbit wilt (Erwinia tracheiphila); (iv) corn wilt (E. stewartii ); (v) black vein of crucifers (X. campestris pv. campestris); and (vi) sugarcane gumming (X. vascularum); (c) Viral: (i) coconut root wilt (coconut root wilt virus) ; and (ii) tomato spotted wilt virus (TSWV).
+
+Symptoms: The leaves of infected plants loose turgidity, turn greenish yellow, become flaccid, droop and finally wilt and then die. The infected portions contain mycelia and sproulating area, especially in the xylum bundles or cortex area. The wilt
+
+syndrome includes vein clearing, epinasty, chlorosis, vascular discoloration, stunting and temporary and permanent losses of turgidity. Predominantly, leaves loose turgour and become dessicated and dry. There are two schools of thought on the reasons for wilting in plants where fungal pathogens are involved. The first one is the toxin theory, which is based on the fact that the permeability of the parenchymatous cells in leaf tissue increases, leading to loss of osmotic efficiency and wilting. The second one, known as plugging theory, is based on the fact that there is very high resistance to flow of water through the xylem, leading to lesser supply of water than what transpired by the plant; and gradually wilting symptoms set in. Invariably in most of the fungal wilts both the toxin and xylum obstruction mechanisms are operative.
+
+Pathogenesis and disease cycle: Pathogens such as Fusarium and Verticillium that produce wilt disease on several crops are soil borne and survive on the stubbles of diseased plants. These pathogens spread to short distances through surface run-off, irrigation water and contaminated farm equipment. The contaminated planting material is responsible for the spread of the pathogen over long distances. There is evidence that in some abnormal cases the wilt pathogen are seed borne and hence may be carried by infected seed. Pathogen propagules as spore or germ-tube or mycelium enter host root directly or through wounds or at the point of formation of lateral roots. Mycelium advances through root cortex intercellularly and reaches the xylem vessels. The Fusarium wilt occurs primarily due to toxin secreted by pathogen, known as fusaric acid, or other enzymes capable of killing or disintegrating the cell wall. Generally Fusarium wilts are favoured by soil temperature in the range of 20 to 30°C.
+
+The bacterial wilt pathogen enter through terminal twigs or water sprouts and move downward in the xylem vessels of the host plants. In the fire-blight of pome fruits, infection usually takes place through pedicel, but direct infection is also common. Bacterial wilts are distinguished from fungal wilts by conspicuous presence of milky and sticky ooze appearing on the surface of any infected part. The bacterial ooze usually turns brown soon after exposure to air. Bacterial wilts generally lead to the formation of cankers on branches and pathogen overwinters at margin of cankers. In spring, the bacteria in ‘holdover’ canker become active, multiply and spread into adjoining healthy bark. Bacterial ooze of fire-blight pathogen of apple and pear is carried along to open blossoms, water sprouts and nectaries by rainfall and more often by flies, ants, honey-bees, aphids and leaf hoppers. Wounds in the bark or branches caused by prunning, hail damage or wind also serve as the point of entry for the pathogen. The other wilt-inducing bacterium also overwinters in plant debris, soil, seed and in the vegetatively propagated materials. It enters plant tissue through wounds that expose open the vascular elements and spread through handling of the horticultural tools, through direct contact or through insect- vectors and by mechanical rubbings.
+
+The viruses that cause wilt-like symptoms are mainly disseminated by several types of insect vectors, mechanical tools, greeting etc.
+
+Integrated disease management: Fusarium and Verticillium that cause wilt can survive saprophytically in soil for several years and thus are very difficult to control. Thus, control through crop rotation or other cultural practices is impractical or ineffective. The dissemination of Ceratocystis spores over long distances by insect- vectors makes its control problematic. Cultural practices such as deep ploughing, crop
+
+DISEASES OF CROPS
+
+rotation, fallowing and flooding may sometimes help in reducing pathogen population in soil but do not completely eliminate it. Soil fumigation can be practised in some cases. However, in greenhouses, this technique is quite effective. Discovery of systemic fungicides containing Thiabendazole or its derivatives has opened new avenues in control of fungal wilts. Cultivation of resistant varieties is the most promising’ method of containing fungal wilts in pigeonpea (cultivars NP15, NP 38), cotton (Vijay, Pratap, Verun, BDS, Jayadhar and Jarila) and banana (Gross Michel and Cavendish).
+
+Bacterial and viral wilts can be best contained by controlling the insect-vectors with insecticides such as Carbaryl (Sevin), Methoxychlor and Rotenone. The dreadly fire-blight of pome fruits does not occur in India but it can be effectively managed with chemicals but only on moderately susceptible cultivars. Dormant sprays with Copper sulfate (4 pounds in 100 gallons of water) before bud break or Bordeux mixture (12:12:100) offer some protection, and Bordeux mixture (2:6:100) and streptomycin 100 ppm are very effective blossom sprays. If streptomycin resistant strains prevail in an area, oxytetracycline can be used for disease control.
+
+Phloem wilts
+
+The wilt pathogens are, in general, confined to xylem bundles. But wilt-inducing viruses, viroids, MLOs and RLOs (walled organisms in xylem) are translocated through phloem. The phloem vessels get blocked due to disease, and result varied symptoms like yellowing, stunting, decline and green petals.
+
+Etiology and important target crops : (a) Viral: Bean yellow mosaic virus (stunting);(b) Mycoplasma: aster yellow, alfalfa witches’ broom, apple proliferation, blue berry stunt, brinjal little leaf, citrus greening and stubborn, clover dwarf, corn stunt, grassy stunt of rice, mulberry dwarf, papaya bunchy top, peach yellows, tomato big bud, western-x disease of peach and cherry, yellow wilt of sugarbeet;(c) Viroids: potato spindle tuber, citrus exocortis, Chrysanthemum stunt, hop stunt, tomato bunchy top, avocado sun-blotch, coconut cadang cadang and cucumber pale fruit;and (d) RLOs (Rickettesia like organisms): now known as fastidious and vascular bacteria, these are parasitic bacteria that simply cannot be grown on synthetic culture media in the absence of host cells. Examples are: pierce’s disease of grapes, phony peach, alfalfa dwarf and ratoon stunting of sugarcane etc.
+
+Symptoms: The general symptoms are characterized by severe reduction in the sizes of leaves and branches, excessive tillers, shortening of internodes and rosetting of leaves as the whole or of its parts. Affected plants may not bear flowers or fruits, and phyllody is generally induced in most of the cases, and sometimes vein-clearing of leaves is also induced. Stimulation of axillary buds results in profuse branching and flower can get transformed into green leaf-like structures, resulting in sterility and total loss of yield.
+
+Disease cycle: MLOs are transmitted through graft or by insect-vectors, e.g. Psyllid (citrus greening), Orosius albicinctus (Sesamum phyllody), aphid (grassy shoot), Nephotettix (rice yellow dwarf) and Hishimomus phycitis (little leaf of brinjal). Potato spindle tuber viroid (PSTV) is mainly transmitted mechanically by knives used to cut healthy and diseased tubers. Incidental insect transmission also occurs in PSTV. Viroid citrus exocortis, apart from mechanical spread through orchard operations, is also transmitted by angiospermic parasitic-plant dodder.
+
+The gram-negative, xylem-inhabiting fastidious bacteria (RLOs) are transmitted by xylem-feeding insects such as sharp-shooter leaf-hoppers and spittle bugs. So far, no insect-vector is known for the gram positive, xylem-inhabiting fastidious bacteria, but at least one of them, the cause of sugarcane stunting, can be transmitted mechanically by cutting implements during harvest.
+
+Integrated control measures: Antibiotic treatments with tetracycline, ledermycin and terramycin control both the MLOs and RLOs effectively. Heating of bud-wood in moist air at 45°C in sandal wood inactivates the greening virus. Similarly, exposing seed- canes to hot air at 54°C for 8 hr almost eradicates the grassy shoot of sugarcane (sugarcane stunt) to the extent of 100%. Aerial application of insecticide over large areas and seed dressing with systemic insecticide Propoxur chemical class: (Carbamate) reduces general insect-vector population. Pierce’s disease of grapes can be suppressed by weekly or bi-weekly drenches of plants with tetracycline. Injection of antibiotics into trunks of affected trees is effective, and repeating the treatment every year is recommended.
+
+GROUP IV. MERISTEMATIC ACTIVITY
+
+(LEAF CURL, WITCHES’ BROOM, CLUB ROOT AND GALLS)
+
+In this group disruption of meristematic activities occurs, leading to abnormal growth. Deviation from normal growth results in hypertrophy of organs or formation of witches’ broom, galls and tumours.This happens due to enlargement and unrestricted division of parenchymatous cells in the cortex region. Leaf curl, thickening and distortion are some of the common symptoms induced due to stimulated division and enlargement of the mesophyll cells.
+
+Important diseases and their etiology: Fungal:(i) Plasmodiophoromycetous fungi: Plasmodiophora brassicae (clubroot of crucifers); (ii) Chytridiomycetous fungi: Synchytrium endobioticum (wart disease of potato); (iii) Oomycetous fungi: A/bugo candida (white rust of crucifers); (iv) Ascomycetes fungi: Protomyces macrosporus (stem gall of coriander); Taphrina deformans (leaf curl of peach); Claviceps purpurea (ergot of bajra); Bacterial: Agrobacterium tumefaciens (crown gall of stone fruits); Corynebacterium (leaf galls on many annuals and perennials);Pseudomonas (olive knot disease); Agrobacterium rhizogenes (witches’ broom); Viral : Potato virus-I (leaf curl of potato and tomato); enation; tobacco virus, leaf curl of papaya.
+
+Symptoms: Hypertrophy is one common symptom, followed by some degree of distortion of various kinds, specific to highly specialized parasites. In Plasmodiophora brassicae, which causes well-known club root or finger and toe disease of crucifers, the infected roots become greatly swollen and develop numerous spindle-shaped knob or club-shaped galls. Leaf curl, thickening and distortion is produced by Taphrina on peach. In case of potato-wart, caused by Synchytrium endobioticum, tubers bear dark- brown, warty and cauliflower-like overgrowths. In severe infection, the galls may also be produced on the aerial shoots, which generally turn green with convoluted leaf-like masses of tissues. Tumour-like swellings on leaf veins, stalks, peduncles and fruits give hanging appearance to leaves in stem-gall of coriander. Initially, tumours are glossy but later rupture and become rough. The leaf blades become thickened and puckered along the midrib and leaves curl downwards in peach leaf curl incited by Taphrina deformans.
+
+DISEASES OF CROPS
+
+The symptoms of ergot in pearl millet appear at first as creamy to golden-colour droplets of sticky-liquid exuding from young florets of infected heads. These droplets soon get replaced by a hard horn-shaped purple-black fungal mass, called sclerotia or ergot. Ergot bodies contain ergotoxins and are poisonous to human beings and cattle. The ergot sclerotia of pearl millet contain a group of water-soluble alkaloids, i.e. ergotoxin, ergotamine and ergometrine. The bacterial crown-gall is characterized by the formation of tumours or galls of varying size at the crown of the plant below the soil surface. Crown-gall tumours are somewhat similar to human and animal cancers, and therefore the cause and mechanism of their formation have been extensively studied. In viral leaf-roll, the leaves roll up along with the margin, leaving the midrib at the bottom of the trough. Crinkling and curling leaves occur in papaya due to infection by viruses.
+
+Pathogenesis and disease cycle: Plasmodiophora and Synchytrium persist in the soil in form of resting spore in diseased host tissue or as resting sporangia in soil. Plasmodium (mass of protoplasm) in Plasmodiophora multiplies and spread in soil, and infect roots when the host is planted. In Synchytrium, resting sporangia liberate zoospores, which cause new infection on developing potato tubers. Similarly, crown - gall bacterium is also a soil-borne pathogen. Coriander stem-gall is both soil- and seed-borne. Chlamydospores of Protomyces present in soil or seed act as primary source of infection. The leaf curl casual agent Taphrina overwinters in form of ascospores,which are lodged on young unfolding leaves and buds, where they infect young meristematic tissue. Mycelium also persists in cortex of infected tissue and penetrates the bud. The ergot disease spreads from one region to another mainly by admixture of sclerotial bodies with seeds used for sowing and its secondary spread occurs by insect-bome conidia. The leaf-roll caused by virus is transmitted by insect- vector such as the aphid (Myzus persicae) while papaya leaf curl is spread by white fly (Bemisia tabaci).
+
+Integrated control measures: Liming to increase the soil pH is one of the most common and efficient prophylactic measures to control club root of crucifers and potato wart. Soil drenching with sodium methyl dithiocarbamates and Vapam, gives good control of these diseases. Long rotation and cultivation of resistant cultivars offer satisfactory control of Plasmodiophora. Resistant cultivars could not be developed for potato wart due to presence of too many biotypes of the pathogen. To contain disease, domestic quarantine has been imposed, which helps restrict potato-wat disease only to the north-eastern Himalayan region of India.
+
+Stem gall of coriander can be effectively controlled by seed and soil treatments with Thiram. Infected seeds with galls should not be selected for sowing. Bordeux mixture (6:6:5) or Blitox 50 (0.25%) application before bud-break stage of peach controls the leaf curl effectively. Sprays of Ziram or a mixture of Copper oxychloride and Zineb (1:2, 375-450 g a.i/ha) should be applied 2-3 times at 5-7 days intervals, starting prior to ear emergence for controlling bajra ergot. Sclerotial segments can be removed from seed lots by soaking in 10% brine solution. Fusarium sambucinum can be utilized as biocontrol agent for Claviceps purpurea. Combinations of streptocycline and agrimycin, as well as bleaching powder control the bacterial crown-galls of stone-fruits. Waterlogging in field and dense planting should be avoided. Potato-seed certification and rogueing should be practiced to control potato leaf-roll virus.
+
+GROUP V: PHOTOSYNTHESIS
+
+(LEAF SPOTS, ANTHRACNOSE, BLIGHT, MILDEW, RUSTS, LEAF SMUTS AND VIRUSES)
+
+Any interference by the pathogen in the photosynthesis results in disease. Pathogen’s impact on the plant by disturbing photosynthesis is obvious from varied symptoms on the host-plants such as chlorosis, necrosis, reduced growth and lesser yields. Chlorosis and necrosis of host-plants are common symptoms associated with almost all the diseases incited by pathogens that disrupt photosynthesis.
+
+In leaf spots, blights and several other diseases cause leaf destruction or defoliation and as a consequence, photosynthesis is reduced because photosynthetic area of the plant is reduced. The overall chlorophyll content gets drastically reduced due to infection by Puccinia. Also, photosynthesis is affected by toxin-producing pathogen such as Bipolaris and Drechslera.
+
+Leaf spots, blights and anthracnose
+
+Symptoms: As a consequence of pathogenesis some organisms like Cercorpora Spp. cause symptoms such as spots (lesions) on leaf or stem due to the necrosis of the invaded cells. In leaf blight, a larger area of leaf or whole leaf gets burnt or even whole plant is blighted. Infection by some pathogen may lead to abscission (Xanthomonas pruni, peach leaf-spot) around necrotic areas or perforation of spots (Venturia carpophila; syn. Cladosporium carpophilum, almond) formed as shot-hole. These pathogens generally produce resting spores at the centre of the dead lesions and sporangia at the margins of the necrotic/chlorotic spots (Phytophthora infestans, late blight of potato). The Anthracnose is characterized by sunken black lesions that contain several acervuli (Colletotrichum beans) or the spore-producing bodies.
+
+Important diseases and their etiology: Fungal: (i) Chytridiomycetous fungi - Physoderma zeae maydis (brown spot of maize); (ii) Ascomycetous fungi - Taphrina maculans (leaf spot of turmeric); (iii) Fungi imperfecti- Alternaria solani (early blight of potato), Alternaria triticina (leaf blight of wheat), Helminthosporium sativum (Spot blotch of wheat), Helminthosporium tritici-repentis (tan spot of wheat), Helminthosporium gramineum (stripe disease of barley), Helminthosporium oryzae (brown spot of rice), Pyricularia grisea; syn. Magnaporthe grisea (blast disease of tice), Cercospora arachidicola and C. personata (tikka disease of groundnut), Colletotrichum falcatum (red rot of sugarcane), C. capsici (ripe fruit rot of chillies), C. gloeosporioides (mango anthracnose), Elsinoc ampelina (grape anthracnose), Spilocaea pomi ; Venturia inaequalis (apple scab); Bacterial: Xanthomonas oryzae (bacterial blight of paddy), X. oryzicola (bacterial leaf streak of paddy), X. citri (citrus canker), X. malvacearum (angular leaf spot of cotton); Viral: potato virus X (potato mild mosaic), tobacco mosaic virus, cucumber mosaic virus, potato latent-mosaic virus, potato vein banding virus (tomato mosaic), Hibiscus virus I (yellow vein mosaic of bhindi), Saccharum virus I (mosaic of sugarcane), Phaseolus virus I (bean mosaic).
+
+Pathogenesis and disease cycle: Fungal pathogen- induced leaf spots, blights and anthracnoses are predominately caused by ascomycetous fungi, that sporulate both sexually and asexually. The sexually produced asci enable survival during adverb conditions and with the onset of favourable weather produce ascorpores to initiate
+
+DISEASES OF CROPS
+
+fresh disease symptoms. Continued favourable weather and vulnerable host ensures rapid secondary disease spread and in the build-up of epidemic. In some cases, as the tice-blast pathogen, as grasses, act as collateral hosts. Diseased sets are chief means of survival and spread of Colletotrichum falcatum that causes red-rot of sugarcane; dieback of chilli and mango anthracnose caused by C. capsici and C. gloeosporioides survive as plant debris, and each year supply the initial inoculums for the perpetuation of the pathogen and disease build-up.
+
+Integrated control strategy: Disease spot incited by lower fungi like Physoderma on maize can be controlled only through crop rotation or by planting resistant varieties. Deep seated A/ternaria in potato-tubers (early blight of potato ) can be treated by pre- soaking seeds in water for 4 hr, followed by 10 min dip in hot water at 52°C.Dithane M45, Vitavax and Zineb effectively control Al/ternaria. Pyricularia (rice blast pathogen) is controlled by the application of antibiotics such as Cepholothecin, Imotocidin, Antimycin A, Blasticidin and Kasumin. However, the most effective means of blast control is by growing disease-resistant varieties such as Jaya, IET, 1444, RPC 2B 849, CR12-178, RP 5-2, Teteps, Tadukan and Zenith. Helminthosporium diseases of wheat, barley and rice can be controlled by spraying copper fungicides or Dithane Z-78 at regular intervals (3-6 times) during crop growth and by growing resistant varieties. Tikka disease of groundnut is easily controlled with one application of 0.03% Carbendazim or 0.05 % Benomyl. However, burning and burying crop debris together with crop rotation and early planting reduce severity of this disease significantly. Bordeux mixture, Zineb and Captan give effective control of Colletotrichum diseases on fruit and vegetable crops. Overcrowding of orchards should be avoided and prunning of infected twigs be practised to avoid anthracnose in mango and grapes. Apple scab can be effectively manged by sanitation, destroying older leaves carrying sexual fruiting bodies, which act as the source of primary infection, and by spraying 5% urea on the orchard floor in winter, process of leaf decay can be accelerated. Contact fungicides like Captan and Foltaf sprayed before bud break to avoid primary infection and systemic Dodine and Benzimidazoles for restricting the secondary infection during summer
+
+Bacterial spots or blights
+
+The bacterial lesions or localized spots occur on leaf blade, petioles and may appear on fruits. The pathogen invades the host tissue through natural stomatal openings or through injuries and ramifies in parenchymatous tissues, causing necrotic lesions. The pathogen can be soil borne and may overwinter on wild grasses. Some of the bacterial pathogen are both externally and internally seed-borne as in the case of the pathogen that causes angular leaf spot of cotton. The infected cotton bolls, leaves and twigs that fall on the soil surface also form important source for carry-over of disease causal agent. In citrus canker, the inoculum is provided by diseased twigs and old leaves. Citrus leaf miners play a significant role in the dissemination of the diseases, besides wind and rain.
+
+Integrated management: Seed-borne bacterial infection can be prevented by seed treatments. Soaking seeds in mercurial fungicide plus antibiotic like Agrimycin, followed by hot-water treatment at 52-54°C give an effective control of bacterial blight of paddy. Seed-soaking in 0.5% Thiram is an alternative method to control bacterial
+
+leaf-streak of rice. Most of the japonica-rice varieties are highly resistant to bacterial pathogens, hence must be preferred for cultivation. Citrus canker can be best managed by adopting exclusion strategy involving quarantine eradication and destruction of infected trees. Neem-cake at 7 kg/ 0.4 ha should be sprayed to check citrus canker as well as leafminers, responsible for spread of this disease. Seed treatment with 0.1% mercuric chloride for 30 min is effective in eradicating seed- borne infection of angular leaf spot of cotton. Hot-water treatment of seed at 50°C for 30 min or drenching seed beds with 5% formalin also help in checking this disease. Minimum 3- year crop rotation is desirable to minimize incidence of black-rot phase.
+
+Viral diseases
+
+Most viruses are transmitted by insects. Mites, beetles, nematodes and even fungi belonging to Chytridiales also act as virus vectors. About 400 species of insects are known to transmit over 200 different viruses. One species of aphid, Myzus persicae alone is the vector for 60 different viruses.
+
+Control: The control strategy of viral diseases is a complicated sequence of actions and involves eliminating source of virus infection, avoiding vector, directly attacking vector and breeding resistant varieties. Virus-free seeds can be grown by adopting tissue-culture techniques or growing crop in vector-free areas, e.g. potato-seed is raised in vector-free northern hills of India where vector-transmitting potato viruses are absent. Removal of all diseased plants (also known as sanitation) as soon as they are spotted may prove advantageous in crops like potato and sugarcane. Virus-free planting material, which has been inspected and rogued carefully at regular intervals, should be preferred for cultivation.
+
+Virus- free clones must be used in vegetatively propagated crops. Apical meristems of systemically infected plants containing little or no virus can be propagated through tissue culture for raising healthy seed stocks. And by raising a seed crop during vector- free period (as followed in potato) virus-free planting material can be generated. There are several insecticides available in the market to control the insect -vectors. Inhibitors of viral infection and multiplication can be successfully employed for control of virus diseases. A number of antibiotics like Blasticidin successfully inhibit the tobacco mosaic virus. Similarly, Trichothecin against tobacco viruses, Gentamicin against tomato mosaic virus, and Actinomycin D against cowpea yellow mosaic virus can be used.
+
+Mildew is a group of plant disease that shows powdery whitish growth of fungal colony on the host surface.
+
+If the powdery growth of the pathogen is on the upper side of the leaf infecting the epidermal layer, the disease is called powdery mildew. But if the pathogen sporulates on the lower side of the leaf pushing the sporulating through stomata, such disease symptoms are called downy mildew. The downy mildews attack primarily under- surfaces of leaves and tender green tissues including twigs and fruits. Their appearance depends greatly on presence of a micro-film of water on plant tissues or on high relative humidity. Downy-mildew pathogen multiply fast and the high terminal disease severity can cause heavy crop losses all of a sudden. These pathogens belong to family
+
+DISEASES OF CROPS 611
+
+Peronosporaceae of class Oomycetes. They produce sporangia on sporangiophores that are distinct from mycelium. Each genus under Peronosporaceae has its own distinctive type of branching of the sporangiophores, and this serves as the key for their identification.
+
+Powdery mildew appears as spots or patches of white to grayish mycelial growth on young plant tissues or on entire leaf surface and other organs covered by white powdery coating of mycelium. Pinhead-size spherical fruiting bodies known as cleistothecia; at first white, later yellow, brown and finally black-may be present singly or in groups on the older areas of infection. In spring, cleistothecia absorb water and split open and the ascospores released become wind-borne, and through this process the pathogen spreads to new sites to cause primary infection.
+
+Etiology of important mildew diseases: Downy mildews. Peronospora pisi (downy mildew of pea), P. parasitica (downy mildew of cucurbits); Plasmopara viticola (downy mildew of grapes), Sclerospora graminicola (downy mildew of bajra); S. philippinensis, S. sacchari, S. maydis, S. sorghi and Sclerophthora rayssiae (downy mildew of maize); S. macrospora (downy mildew of cereals); Powdery mildews: Erysiphe graminis (powdery mildew of wheat); E. pisi (powdery mildew of pea); Uncinula necator (powdery mildew of grapes); E. cichoracearum (powdery mildew of cucurbits); Podosphaera leucotricha (powdery mildew of apple) and Sphaerotheca pannosa (powdery mildew of rose).
+
+Pathogenesis and disease cycle: Downy mildews. In general, infection in downy mildews is of two types — one is due to systemic infection from the oospores and other due to local infection caused by conidia responsible for secondary spread of the disease. Moist and cool weather is conducive to general development of downy mildews. Pathogens survive as oospores in soil on the leftover plant material of the previous crop. Seeds contaminated with trash may also carry the disease. In some cases, alternate hosts also play a role in carry-over of the disease, e.g. Sclerospora sacchari (downy mildew of maize) produce oospores on sugarcane also.
+
+Powdery mildews. The cleistothecia produced by the powdery mildew pathogen are generally soil-borne and are primary source of inoculum in the cooler areas where temperatures go below freezing point during winter months. Conidia do not retain their viability at high temperatures and are produced in a relatively cool and moist environment. They are dispersed easily by air currents and are chief secondary inoculum source during the usual growing season. Conidia and mycelia may also overwinter in diseased buds, fallen fruits or stems. The powdery-mildew fungus of apple survives as resting mycelium or encapsulated haustoria in buds.
+
+Integrated disease control strategy: Downy mildew. It is difficult to control diseases like downy mildew that are soil-borne. It will be a good practice to destroy the crop- debris which may contain oospores of pathogen. A crop rotation having 2-3 years may also help in cutting down the disease impact. Bordeux mixture (1%) may prevent downy mildew of cucurbits, and the new systemic fungicides, viz. Metalaxyl, Fosetyl Al, Cyprofuran and Ridomil, seap also provide satisfactory disease control. Downy mildew of bajra and maize are effectively controlled by planting resistant varieties. Spray of Dithane M 45 at periodical intervals may help in checking the downy mildew of maize. Seed treatment with Metalaxy] is also suitable for controlling downy mildew of maize.
+
+Powdery mildew. A majority of the powdery mildews are effectively controlled by dusting sulfhur (200 mesh) or 1% Karathane. Spray of Benlate (0.1%) followed by Karathane (0.1%) and soil drench of Bayleton (Triadimefon) at 0.05 kg/ha and Calixin (0.01 %) control powdery mildew of wheat. In case of pea, use of seed from disease- free areas or seed treatment with Captan and Thiram gives good control. Trimming of developing shoots to reduce shading and allow free ventilation of vines is important for control of powdery mildew in grapes. Benomy]l is effective as foliar spray in controlling powdery mildew of cucurbits. Breeding resistant varieties appears to be the most promising control measures for powdery mildews.
+
+Rusts
+
+Rust pathogens infect a wide range of host-plants. They are notorious for their destructiveness on cereals, especially wheat, barley and oats: They are also pathogenic on vegetables such as bean, pea and asparagus; field crops such as cotton and soybeans; and ornamentals such as carnation and snapdragon. Very severe losses are also caused to perennial crops such as pineapple and coffee.
+
+Symptoms: Rusts are among the most serious diseases of cultivated plants. In cereals, they may kill young plants, but more often, they reduce foliage, root growth and yield by reducing the rate of photosynthesis. They appear as long, narrow, elliptical pustules or blisters parallel along axis of stem, leaf or leaf sheath in wheat (stem rust). Blisters also may appear on neck and glumes. Later on, epidermis covering pustules rupture irregularly and can be seen around mass of brick-red coloured spores, the urediospores. Telial pustules arise later in the season,which are black in colour. Uredopustules of brown rust of wheat are bright orange, gathered in irregular small clusters on entire or portion of leaf, and burst on the upper surface. Stripes of yellow rust form on the leaves and in severe cases, symptoms appear on the sheath, stalk, glumes and awns . The green colour of leaves fades in long streaks on which rows of urediosori appear. Urediosori of yellow rupture the epidermis, enabling the wind dispersal of the spores. Rust disease symptoms on non-cereals appear as brick red coloured uredial spots on leaves and green stems that later in the season may be replaced by black telia. In cotton, symptoms appear as circular, slightly elevated, orange yellow. aecia, mostly on the undersurface of the leaves.
+
+The oomycetous pathogen A/bugo candida causes white-rust symptoms on foliages of cruciferous crops. White or cream-yellow pustules of various sizes and shape appear on the leaf surface. Leaves may become thick, fleshy and in rolled due to hypertrophied growth.
+
+Etiology and target crops: Basidiomycetous fungi: Puccinia graminis tritici (black rust of wheat), Puccinia recondita tritici (brown rust of wheat), Puccinia striiformis (yellow rust of wheat and barley), Puccinia penniseti (rust of bajra), Puccinia purpurea (sorghum rust), Melampsora lini (linseed rust), Uromyces appendiculatus (bean rust), Uromyces fabae (pea rust), Uromyces ciceris -arietini (gram rust), Hemileia vastatrix (coffee rust), Gymnosporangium juniperi-virginianae (cedar-apple rust); Oomycetes: Albugo candida (white rust of crucifers).
+
+Pathogenesis and disease cycle: Rust fungi are generally obligate in nature. In principle, they produce five distinct fruiting forms (pycnium, aecium, uredium, telium and basidiospores) that appear in a definite sequence. Some of the spore stages parasitize
+
+DISEASES OF CROPS
+
+one host, whereas the others may infect and parasitize a different alternate host. Rust fungi producing only teliospores and basidiospores are called microcyclic, and those additionaly producing pycniospores, aeciospores and urediospores are called macrocyclic. Basidiospores, aeciospores and urediospores can infect host plants,and teliospores serve only as sexual, overwintering stage, which upon germination produces basidium. Aeciospores are formed after dikaryotization of pycniospores which appear after infection of basidiospores. Aeciospores upon infection produce dikaryotic mycelia, which then bears urediospores.Some macrocyclic rusts complete their life-cycle on a single host and are called autoceious. Others, such as stem rust of wheat, require two different hosts and are called heteroecious.
+
+Rust pathogens spread from plant to plant, mostly by wind-blown spores. In India, the wheat-rust inoculum for plains comes either from northern hills, Nepal Himalayas or Nilgiri hills in south, where all three rusts survive on self sown plants or volunteer plants throughout the year. Berberis, the alternate host of Puccinia graminis tritici, does not play any role in the perpetuation of black rust of wheat in India.
+
+Soil-bome teliospores on crop refuse act as the source of primary inoculum in linseed - rust and bean - rust. Rust of pea disseminates through aeciospores. A legume weed, Medicago polyceratia; syn. Trigonella polycerata harbours the gram - rust. In hills upto 1,600 m during summer the pathogen survives in uredial stages and supplies the primary inoculum to the plains in winter. Brinjal or other Solanum species that grow all the year-round serve as the alternate host of Puccinia penniseti, while. Oxalis corniculata acts as alternate host for the sorghum rust caused by P. sorghi. Cleansing the alternate host is one way to curtail the disease spread.
+
+Red rust of tea — an algal disease
+
+A few algae, mainly green algae, cause plant diseases. The most important is Cephaleuros virescens, a member of Trentopohliaceae, which causes a disease of tea and other tropical crops, known as red rust. It sometimes causes leaf spotting and premature leaf fall and die-back in tea. This disease is common in Sri Lanka and parts of South India. The alga reproduces by means of zoospores, but means of infection are uncertain.
+
+Integarted control: Control of rust diseases in some crops such as cereals, linseed, sorghum and coffee is mainly achieved by cultivating resistant varieties. Koorg and Kanta are rust-resistant varieties of coffee. Wheat rust epidemics can be controlled to a considerable extent by reducing initial inoculum through cultivation of horizontally resistant genotypes in the hills and foothill areas. Varieties having resistance due to major genes (vertical resistance) or adult plant resistant genes should be cultivated in the plains. Growing a mosaic of varieties in a given area avoids yield losses to a greater extent. Breeding for rust resistance is complicated by appearance of newer pathotypes, hence it is a continuous process. PBW 343, WH 542, HD 2425, PBW 502 and PBW 17 are some of the recent genotypes which are resistant to brown and yellow rusts in north -western India.
+
+In some vegetables, ornamentals and fruit trees, the rusts are controlled by chemical sprays. Several new fungicides, viz. Triademifon, Triforine, Triadimenol and Propiconazole (Tilt), are effective against rusts.
+
+A good control of pearl millet rust can also be achieved by means of biocontrol
+
+agents such as Trichoderma koningi, Aspergillus japonicus, Fusarium oxysporum and Chaetomium globosum.
+
+Sooty moulds
+
+Sooty mould refers to saprophytic growth of dark fungal colony on the upper surface of leaves, stems and fruits. Sooty moulds are found on all types of plants including grasses, ornamentals, crop plants, shrubs and trees.
+
+Etiology: Sooty moulds are primarily caused by dark-coloured ascomycetes of Order Dothideales. Such as the Capnodium, Limacina and Gloeosporioides, as such are saprophytes and survive on the honey dew deposit of aphids and scale insects. The saprophytic growth becomes so extensive that the leaf surface gets covered by a dark sooty crust, which interferes with the normal process of photosynthesis. The black papery layer can be even peeled off from the underlying leaf surface in case of orange sooty mould. Usually sooty mould fungi do not cause heavy economic losses, but may reduce quality and market value of plant products, as for apple infested by Gloeosporioides. Presence of sooty moulds indicate that it has been preceded by the availability of honey dew droppings of aphid, flies and other sap-feeding insects.
+
+Pathogenesis: Sooty moulds are most common in warm and humid climates. Pathogens survive saprophytically on old and dead plant parts and ascospores are carried by wind or rain splash to the healthy-plant parts.
+
+Control: In general, no control measures are followed against sooty moulds. However, as they grow on insect droppings, the appropriate insecticidal sprays may eliminate or reduce the severity. Black sooty mycelial growth can also be wiped off the leaf or fruits with a moistened cloth or paper.
+
+Foliar smut
+
+This disease is represented by 4 single example of flag smut of wheat, which is widely distributed in many wheat-growing areas of the world, but is of major importance only in limited areas in Australia and Europe. In India, it is confined to the areas of western Haryana and northern Rajasthan, but without causing any significant losses. The early symptoms of the disease are formation of gray to grayish black linear sori in the older leaf blades and leaf sheaths. Sori are formed in the mesophyll tissue between the veins and are covered by epidermis during early stages. Later, the epidermis ruptures, releasing a black powdery mass of spores, leaves become twisted and assume drooping habit followed by withering. The leaves are shed and often the plant dies. Culms remain sterile and bear no grains.
+
+Etiology: Urocystis tritici and U. agropyri belonging to the order Ustilaginales of class Basidiomycetes.
+
+Disease cycle and pathogenesis: The disease perpetuates through seed and soil. It can persist in soil as spore balls for many years. Fungus causes infection at seedling stage. The point of entry during infection is restricted to the young coleoptile. After infection, the fungus grows both inter- and intra-cellularly. Sowing in relatively dry soils favours infection, and that of in moist soil is deterimental to disease development. The optimum soil temperature for infection is 20°C.
+
+Integrated disease management: Cultivation of resistant wheat varieties like VL
+
+DISEASES OF CROPS
+
+426 and HD 2617 should be preferred in highly problematic fields. Besides, the disease can also be controlled by crop rotation for minimum 2 years and shallow sowing of seed. Seed treatment with Vitavax (2 g/kg seed) gives almost complete control of the disease.
+
+GROUP VI: STORAGE AND REPRODUCTION DISEASES
+
+Smuts and bunis
+
+Smuts often attack the reproductive parts but in some cases may infect leaves and stems also. These fungi generally infect ovaries and sometimes other meristematic tissues. They develop characteristic brown spores, the chlamydospores, in floral structures; which consequently impart a black powdery appearance. Smut and bunt pathogens spend a part of their life-cycle (sporidia) saprophytically and a part (mycelium and smut spores) parasitically with in the plant tissues. They are thus facultative parasites.
+
+Symptoms: These diseases generally manifest only when floral parts emerge. As a Tepresentative case, in loose smut of wheat, the diseased spikes emerge from boot leaf a little earlier than the healthy ones and a black powdery mass of spores replaces the flowers. Smutted heads consist of deformed spikelets filled with a black, dry powdery mass of spores. This mass may be covered by a thin transparent membrane in the initial stages. In case of bunts, instead of the whole inflorescence, only the grains are transformed either wholly or partially into black powdery mass. Bunted grains in wheat emit a foul smell of rotten fish due to the presence of trimethylamine.
+
+Etiology and target crops: Ustilago nuda tritici (segatum) (loose smut of wheat), Ustilago maydis (common smut of maize), Ustilago scitaminea (whip smut of sugarcane), Ustilaginoidea virens (false smut of paddy), Sphacelotheca sorghi (covered smut /grain smut of jowar), Sphacelotheca reiliana (head smut of sorghum and maize), Sphacelotheca cruenta (loose smut of sorghum), Tolyposporium ehrenbergii (long smut of sorghum), Tolyposporium penicillariae (smut of bajra), Tilletia caries and T. foetida (hill bunt or stinking smut of wheat), Tilletia indica (karnal bunt of wheat), Tilletia controversa (dwarf bunt of wheat), Tilletia barclayana (bunt of rice)
+
+Pathogenesis and disease cycle: Smut and bunt pathogens exhibit several infection pathways- through embryo, seedlings and on shoot. Embryo infection by. Ustilago leads to the development of loose smut disease in wheat. The pathogen gains entry through the ovary-wall and also through stigma and style. Grain is converted into a sorus containing millions of dark coloured chlamydospores. The infected grain during harvest ruptures, contaminates other grain. In many smuts, the spores are externally seed borne and the infection takes place at the seedling stage of the plants. In such cases, spores contaminate the seed and stick on outer surface of the seed-coat. When these seeds are sown, the smut spores also become active and invade the young seedlings with the help of sporidia formed on promycelium.
+
+In case of bunts, the spore masses are broken during threshing and healthy seeds or soils of nearby fields become contaminated. Infection by sporidia formed after germination of teliospores occurs either at seedling stage (hill bunt and dwarf bunt of wheat) or during flowering of the host (Karnal bunt of wheat). A few of the smut fungi gain entry through the young shoots (whip smut of sugarcane and long smut of sorghum). In general, rice bunt (Tilletia barclayana) infection is either systemic where
+
+mycelium moves upward in the host system and ultimately infects floral parts or is localized on floral parts. In such cases, infective sporidia reach infection site with rain splash or wind turbulences. In case of Karnal bunt of wheat, soil-borne infective sporidia lodge on flag leaf with the help of rain splash or by monkey jumps, multiply there and are then washed down along with dew drops or rain water into the boot to cause infection of emerging spikelets.
+
+Integrated control strategy: Excellent control of the smut diseases is now obtained by seed dressing with systemic fungicides such as Carboxin (Vitavax) or Benzimidazoles at 2-2.5 g/kg seed. Hill bunt can also be controlled by treating seeds with similar Benzimadazole formulations. Two to three sprays of Propiconazole (Tilt) at 250 mil/ha, effectively controls Karnal bunt of wheat. Seed disinfection by steeping them in 2% solution of CuSO,- for 15 min or 0.5% formaldehyde for 1-2 br protects sorghum from covered smut and loose smut. Whip smut of sugarcane can be prevented by disinfecting the seed setts with 0.1% mercuric chloride. Fungicidal seed treatments are also effective in checking the covered smut and loose smut of barley.
+
+Resistant varieties are also available to control loose smut, Karnal bunt and hill bunt of wheat. In case of rice bunt, late - maturing varieties are more resistant than early or medium varieties. Similarly, sugarcane smut, bajra smut and common smut of maize can be best contained by cultivation of resistant varieties.
+
+Loose smut of wheat can also be easily controlled by solar treatment of seeds soaked in water for 4 hr in the forenoon on a bright summer day, followed by drying them on hot cemented/brick floor for 4 hr in the sun. Early and shallow sowing helps in reducing hill bunt of wheat. Avoiding irrigation of wheat at flowering stage lessens the chances of Karnal bunt prevalence. Biocontrol agents like Trichoderma and Gliocladium may be used to supplement the chemical control of loose smut and Karnal bunt of wheat by Carboxin and Benzimidazole fungicides.
+
+Post-harvest diseases and rots
+
+Post-harvest diseases of plant produce or plant products develop during harvesting, transit of commodities to market or at the consumer and storage centres. These problems arise because of exposing products to environmental conditions or treatments that are themselves harmful to the product and deteriorate its appearance and food value or product may be subjected to conditions that favour its attack by decay-producing microbes. The numerous diseases which occur in transit and storage result mainly from the spoilage by fungi and bacteria. Harvested fruits and vegetables are vulnerable to attacks by microorganism because of their high moisture contents and richness in nutrients. Injuries of various kinds caused during harvest or packing operations facilitate the entry of pathogens. A single infected fruit can become a source of infection to other fruits or vegetable during storage and transit.
+
+All pathogens and organisms that cause pest-harvest damage produce extracellular enzymes responsible for degenerative process. In general, a majority of these organisms are saprophytes or at best weak pathogen and obtain nourishment from dead or decaying cells.
+
+Bacterial soft rots
+
+Erwinia and Pseudomonas spp. are mainly responsible for bacterial rots in storage.
+
+DISEASES OF CROPS
+
+The common targets of bacterial rot pathogens are generally succulent plant parts of fleshy vegetables such as carrots, potatoes, onions, cucumbers etc. The soft rot is brought about by the action of enzymes (pectolytic and cellulolytic) on pectin and cellulose components of cell walls, due to degradation of cell- wall components, and total of protoplasm. The factors which predispose the fruits and vegetables to soft rots under stored conditions are high humidity, high temperature, presence of bruises or lesions or attack by other pathogens.
+
+Fungal rots
+
+The fungal pathogen responsible for various kinds of rots of fruits and vegetables belong to class Zygomycetes, Oomycetes, Ascomycetes, Basidiomycetes and Fungi imperfecti. Of the Oomycetes, Pythium and Phytophthora cause only soft rots of fleshy fruits and vegetables that are usually in contact with or very near the soil. Zygomycetous fungi Rhizopus and occasionally Mucor affect fleshy fruits and vegetables after harvest and also stored grains and legumes. Under humid conditions, the typical cottony, coarse and stringy mycelium of Rhizopus, with characteristic black sporangia (pin-heads) cover the affected tissue. Aspergillus and Penicillium are very often responsible for deterioration of stored grains and Aspergillus flavus produces a fungal toxin known as aflatoxin in several important agricultural commodities like groundnut, maize, soybeans etc. Rotting brought about by Penicillum and Gloeosporium musarum to citrus and banana fruits during transit are known as green and blue molds.
+
+Sclerotinia is another important ascomycetous pathogen of stone and pome fruits in temperate regions. S. fructigena, S. laxa and S. fruiticola generally induce brown rots in a variety of temperate fruits. Fruits get shrivelled and mummified when completely parasitized by the prolific growth of the mycelium and the conidia. Of the Fungi imperfecti, Rhizoctonia and Sclerotium cause rotting of fruits and vegetables, and several basidiomycetous fungi such as Polyporus, Poria and Heterobasidium (Fomes) cause deterioration of wood and wood products. Several genera of Fungi imperfecti, eg. Alternaria, Helminthosporium, Cladosporium, Colletotrichum, Diplodia, Botrytis, Fusarium and Geotrichum, bring about deterioration of grains during the process of storages. :
+
+Non-pathogenic rots
+
+Some rots also appear as a result of bulking together of large number of fruits or vegetables. For example, when apples and potatoes are stored in poorly ventilated room, the level of CO, may become excessively high, leading to corresponding decrease in O, contents in atmosphere. This results in a diseased condition of commodities specifically known as black heart in potato. Externally tubers look normal, but when they are cut open, the central portion appears black. Black heart is caused due to death of tissue in deficient oxygen. It is aggravated by high temperature of 32°C and above. Discoloration and scalds also develop on skin of fruits due to release of volatile substances.
+
+Integrated control: Rots can be successfully contained by integrating various methods of control based on fungicidal application, heat and irradiation treatments, low temperature and moisture storage and host resistance.
+
+Pre-harvest protection: These treatments provide a cover on the surface of the produce with a fungicide deposit before harvest, so that any superficial injuries contain an inhibitory concentration of a fungicide. For example, spraying orchards with Benomy|l before harvest greatly reduce the likelihood of brown rot of stone and pome fruits.
+
+Post-harvest protection: Post-harvest treatments deposit an inhibitory quantity of fungicide in the injuries created during harvesting and handling of crop. Sodium-O- phenyl phenate and sodium tetraborate, sodium bicarbonate and thiabendzoles are the chemicals which can be employed to prevent storage rots due to a variety of pathogens.
+
+Heat treatments: Heat treatments have several advantages of being economic, simple and without danger of harmful chemical residues in the products. An effective treatment consists of submerging fruits in water at 51.5°C for 2-3 min or at 46°C for 5 min. This treatment is particularly effective for control of Penicillium and Diplodia on mangoes, Colletotrichum on papaya and crown rot of banana.
+
+Irradiation: Gamma-rays are generally employed since these are capable of penetrating fruits and vegetables and destroying pathogens of all kinds established in the interior tissues. Generally, some of the deep-seated pathogens are sensitive to higher doses which are deleterious for host tissues also. Hence irradiations are more suitable for superficial infections in lower doses only. :
+
+Low temperature storage: Post-harvest decays of most of the commodities can be delayed by storing them at low temperatures. Geotrichum and Erwinia are completely inhibited by storage at 0°C. Pathogens such as Botrytis, Penicillium, Sclerotinia and Cladosporium grow slowly at near-freezing temperature and reduce the storage life of the crops if they are not controlled by some other treatment.
+
+ANGIOSPERMIC PARASITES OF CROP PLANTS
+
+There are number of flowering plants which are totally parasitic on crop plants and cause considerable damage. They belong to angiospermic families such as Convolvulaceae, Scrophulariaceae, Orobanchaceae, Lauraceae, Santalaceae and Balanopheraceae.
+
+The angiospermic pathogens establish relationship with their host by penetration by apprasorium like bodies and formation of haustoria to derive nutrition from vascular system of infected plant. They are generally termed as hemiparasites, since they possess their own chlorophyll also to synthesize food. These hemiparasites are spread with the help of their mucilaginous berries and minute seeds by birds and air currents. Some of the important angiospermic pathogen are Loranthus on fruit, avenue and forest plants; broomrape (Orobanche) on roots of brinjal, tomato, cauliflower, turnip and other solanaceous and cruciferous plants; Striga on roots of sugarcane; and Cuscuta on a variety of plants excepting cereals.
+
+Control: Mechanical removal, which ensures complete sawing off of parasites from the branches of host, ensuring complete removal of entire haustorial system is the best method of controlling above-ground infections of Loranthus and Cuscuta. In root infection like in broom rape, the best protection can be achieved by separating the seeds of parasite mechanically before sowing the crop. Flood irrigation helps in eradicating the Striga, a semi-root parasite of sugarcane, maize and millets. Chemical control can also be practised. Injection of CuSO, and 2, 4-D controls Loranthus; seed
+
+DISEASES OF CROPS
+
+treatment with 2.5% CuSO, destroys the seeds of broom rape and weedicide 2, 4-D gives effective control of Striga.
+
+NEMATODE DISEASES
+
+Nematodes are parasites belonging to animal kindgom which are of concern in agricultural crop health. They belong to Phylum Nemata, previously named Nemathelminthes or Aschelminthes. They are sometimes called eelworms and are worm like in appearance but quite distinct taxonomically from the worms that parasitize man and animals. Several hundreds of nematode species are known to feed on plants as parasites and cause a variety of diseases. General features of all plant parasitic nematodes are presence of excretory canals (protoplasmic), cuticularized,terminal excretory duct , absence of caudal glands, usual presence of plasmids, amphids usually minute, pore-like and cephalic in position, sensory organs papilloid, seldom setose, absence of hypodermal glands,and male with or without caudal alae.They can be broadly grouped as follows.
+
+Family Tylenchidae : Anguina (gall nematode), Ditylenchus (stem or bulb nematode), Tylenchorhynchus (stunt nematode).
+
+Family Heteroderidae : Heterodera (cyst nematode), Meloidogyne (root-knot nematode)
+
+Family Haplolaimidae : Helicotylenchus (spiral nematode), Haplolaimus (lance nematode), Pratylenchus (lesion or meadow nematode), Rotylenchus (reniform nematode), Belanolaimus (sting nematode), Dolichodorus (awl nematode)
+
+Family Tylenchulidae: Tylenchus (citrus nematode)
+
+Family Criconematidae: Pratylenchus (pin nematode), Criconema (ring nematode) Family Aphelenchoidae: Aphelenchoides (bud and leaf nematode)
+
+Family Tylencholaimidae: Longidorus (needle nematode), Xiphinema (dagger nematode)
+
+Family Trichodoridae : Trichodorus (stubby root nematode).
+
+Symptoms
+
+Knots: These are the root enlargements induced by nematode feeding, occasionally enclosing nematodes. Swellings may vary in size from 1mm to2cm. Due to stimulation of cell division by nematode feeding, giant cells are formed in the root tissue. Nematode exert an adverse impact on the physiology of plants by interfering with the synthesis and translocation of growth hormones produced in roots. The most important nematode causing root knot is Meloidogyne, which attacks almost all cultivated plants. The stubby- root nematode Trichodorus attack a wide variety of plants including oats, cabbage, tomato, clover, corn, bean, grape and peach. Trichodorus devitalize root-tips and stop their growth, resulting in reduction of the root system of plants.
+
+Root lesions:The plants affected by lesion nematodes appear stunted and chlorotic as though they suffer from mineral deficiency or lack of water. Discolored areas appear on roots which have collapsed and consist cells on which nematodes have fed. Lesions vary in size, from being invisible to naked eye to as large as girdling the whole root. Necrotic lesions are probably caused by toxic salivary secretions injected during feeding by the nematode. Secondary fungi and bacteria usually accompany nematode infections in soil and contribute to further discoloration and rotting of the affected root areas.
+
+620 HANDBOOK OF AGRICULTURE
+
+The representative genera in this category are Radopholus (banana) and Pratylenchus (vegetables, fruits and ornamentals).
+
+Seed galls: It is a common symptom caused by Anguina tritici in wheat and rye, and known as earcockle. Diseased spikes are shorter and thicker than healthy ones and the glumes are spread apart by the nematode filled seed galls. The diseased head may have one, a few or all of its kernels turned into nematode galls. Galls are shiny green at first, but turn brown or black as the head matures. The earcockle syndrome is generally accompanied by another symptom the yellow ear rot (tundu disease), caused by the bacterium Corynebacterium tritici. The nematode Anguina tritici overwinters in the seed galls as second-stage larvae. The second-stage larvae are released from wheat seed galls during warm moist weather. When a film of water is present on the surface of the plants the larvae swim upward and feed ectoparasitically on the tightly compacted leaves near the growing point, causing the leaves and stem to become malformed. When the inflorescence begins to form, the larvae enter the floral primordia and produce the third- and fourth- stage larvae and the adults. Each infected floral primordium becomes a gall.
+
+Leaf nematodes
+
+The typical foliar nematodes are represented by several species of Aphelenchoides. They feed ecto- and endo-parasitically on above-ground plant parts. Some of the most improtant species are: A. ritzemabosi (Chrysanthemum foliar nematode), A. fragariae (dwarf nematode of strawberry) and A. bessey (white tip of rice). The affected buds or growing points become abnormal bush-like with short internodes. The leaves produced on infested buds are small and distorted. The stem and petioles show brown scars caused by nematode feeding externally on these tissues while still in bud. Nematodes also cause small yellowish spots, later turning brownish black. These spots soon coalsce, form large blotches turning leaf brittle and ultimately heavy defoliation occurs.
+
+Cysts: Infected plants appear stunted and have an unthrifty look. The foliage turns yellow prematurely and falls-off early. The most characteristic symptom of this disease is the presence of female nematodes in varying stages of development and cysts attached on roots. Young females are small, white and partly buried in roots, with only a part of them protruding on the surface. Older females are larger, present superficially on the surface of the root and appear yellowish or brown. The important pathogenic nematodes causing cysts are Globodera rostochienensis (potato, brinjal) and Heterodora avenae (cereals).
+
+Excessive root branching or rots: Numerous branches of short roots develop in the vicinity of nematode injury. Rots occur as secondary symptoms after infection by plant-pathogenic bacteria or fungi. Some nematodes feed on or near root tips and cause cessation of root growth and induce swelling. These nematodes feed ectoparasitically at the root tips and suppress cell division in the apical meristem and result in short roots. The classical example in this case is Trichodorus, the stubby root nematode.
+
+Pathogenesis of nematode diseases
+
+oo, Most of the damage by nematodes is caused by the secretion injected into plants while they feed. This secretion, called saliva, is produced in three glands, from where
+
+DISEASES OF CROPS
+
+it flows into oesophagus and is injected through stylet. The males of species generally may not penetrate the roots, but females invariably get established on roots and are responsible for destruction of host. Nematode saliva liquifies the cell contents of host making them easier to ingest and assimilate. As result of action of the saliva, the host responses are expressed in disease symptoms such as hypertrophy, hyperplasia, suppression of mitosis, cell necrosis and growth stimulation.
+
+Ecology and spread of nematodes
+
+Plant pathogenic nematodes are permanent soil dwellers. They live soil, feed superficially on roots and underground stems. Though nematodes cause injury to plants, they are not strictly parasitic. Soil temperature, structure (porosity), moisture and aeration affect the survival and movements of nematodes in soil. They occur abundantly at a depth of 0-15 cm in the soil. Distribution in the cultivated soils is irregular and is greatest in or around roots of susceptible plants. Nematodes spread through soil very slowly and by their own strength. However, nematodes can also be spread by anything that moves and carry particles of soil. Farm equipment, irrigation, flood or drainage water, animals and dust storm spread nematodes. Soil temperature plays a significant role in the survival, spread and multiplication of nematodes. For example, Meloidogyne spp. develop most rapidly at about 27°C. Reproduction in M. hapla is reduced extremely at 35°C. The larvae hatching in M. incognita occurs at 30°C. Soil moisture is also important in nematode pathogenesis. For example, galling of potato tubers is less in dry soils. Meloidogyne spp. can enter potato-tubers through lenticels which occur on tubers only in wet soils. Other factors which influence the activity of nematodes are soil pH, soil texture, aeration, plants grown between susceptible host, organic matter, inorganic fertilizers and status of nitrogen and potash in soil.
+
+Integrated management of nematode diseases
+
+Chemicals: Nematodes population in soil can be kept down effectively by applying various techniques involving chemicals, cultural practices and host resistance. There are number of chemicals having nematocidal properties and categorized as fumigants and non-fumigants. Chloropicrin, 1, 3-D, EDB, DBCP and MIT are some of the important nematicidal fumigants. Fumigants must be handled with great care, because they may be toxic or even fatal if inhaled by human-beings. Ethoprop, Fensulfothion, Phenamiphos and Oxamy] are some of the non-fumigant chemicals used for nematodes control by soil application through drenching. Nematicidal action of these fumigants is limited to narrow root zone only and moreover they are highly toxic to mammals. Therefore, chemical contro! of nematodes did not progress much in India. However, there is evidence that chemical control would be economical if they are judiciously used on some cash crops such as cotton, sugarcane, tobacco, citrus, grapevine, potato and vegetables.
+
+Cultural practices: Several nematode species are crop-specific for their feeding. Since nematodes are obligate parasites, absence of susceptible host for 2-3 years may eliminate them. The potato-cyst nematode Heterodera rostochiensis can be eliminated by cultivating maize, corn, beans or clover as rotation crops for three years. Meloidogyne spp. can also be checked by growing non-host crops for two consecutive seasons.
+
+Crop rotation in certain cases like Trichodorus is of no use since nematode has a very wide host range. Crop rotation with Tagetes patula and T. erecta is useful in case of majority of the nematodes particularly Pratylenchus, since its roots release certain nematicidal compounds.
+
+Nematode spread can be checked by use of uncontaminated nursery plants and keeping soil fallow to deprive them of roots on which they feed. Flooding the land results in death of some nematodes which are adapted to living in normal soil with ordinary moisture. Heat treatment may be given for killing nematodes within plant tissues before planting the infested bulbs, tubers and roots or plants such as Chrysanthemum, strawberries and banana. Hot-water treatment is given by soaking the material in water at 52-55°C for 10 min.
+
+Biological control: This strategy aims at increasing the parasites and predators of nematodes in soil. This is done by changing the environment, adding organic amendments or intraducing other organisms directly. Oilcakes of margosa, castor and peanut applied at 0.2% (w/s) three weeks before planting reduce infestation of Meloidogyne javanica on okra and tomato.
+
+Use of VAM fungi for avoiding the damage caused by plant pathogenic nematodes can also be practiced (Table 19.4).
+
+There are several nematophagous fungi that parasitize nematodes or their eggs or larvae.
+
+Such fungi have been categorized into three groups: (a) predators that develop special nematode-trapping structures (adhesive or non-adhesive) on the mycelium; (b) endoparasites, which produce adhesive or non-adhesive spores either to adhere to the surface of the nematode or get ingested by them; (c) parasites of root-knot and cyst nematodes that attack eggs or females of these nematodes. (Table 19.5).
+
+Host resistance: Cultivation of resistant varieties is perhaps the best strategy to achieve an easy and economic control of nematode diseases. Varieties are available in several crops with resistance to Meloidogyne, Heterodera (potato), Ditylenchus dipsaci (oat), Radopholus (citrus) and Meloidogyne gramincola (rice; variety: TK M6).
+
+DISEASES OF CROPS
+
+Table19. 5 Control of nematodes by fungal parasites
+
+Transgene technology: a new innovation in crop-disease management
+
+The crop -protection measures discussed above have evolved as a result of scientific inventions made from time to time in the field of cultural practices, chemical pesticides, biocontrol agents and breeding for host resistance. With the advancement of molecular biology in the recent times, a new innovation of genetic engineering lure the plant scientists worldwide and so is true with agricultural scientists. Plant protection scientists are now capable of manipulating the genetic material of a cell in order to produce pest- resistant varieties of several crops. For this purpose, genes from plants, microbes, and animals are recombined and introduced into the living cells of crop plants to make them resistant to pests and weeds.
+
+Organisms that have had genes from other species inserted into their genome are called transgenic. India also made its entry into commercial agricultural biotechnology when the Genetic Engineering Approval Committee (GEAC), Ministry of Environment and Forests, Govt of India, at its 32nd meeting held in New Delhi on 26th March 2002 approved three Bf-cotton hybrids for commercial cultivation. This is a historic decision as Bt-cotton became the first transgenic crop to receive such an approval in India. These transgenic hybrids were developed by private sector in collaboration. These contain lepidopteron specific Bollgard Bt gene, cry1Ac, which offers protection against all the major species of Indian bollworms - Helicoverpa armigera, Pectinophora gossypiella, Earias vittella and E. insulana. These bollworms, especially H. armigera, have been responsible for heavy yield losses. In addition to many trials conducted by MAHYCO as per DBT’s guidelines and supervision, several Br-cotton hybrids were also evaluated by the ICAR (India Council of Agricultural Research) in multi-location field trials in 2001. These trials have indicated that Bt-cotton provided effective control of bollworms, requiring no or fewer application of chemical insecticides. The approval by GEAC was based on the strength of such scientific data. The B-cotton hybrids approved were MECH 12, MECH 162 and MECH 184.
+
+Several public sectors and private companies in India are now engaged in doing research on some 17 crops for various transgenic traits. Some of these traits are :
+
+Sources: Rai, Mangala and Prasanna, B. M. 2000. Transgenics in Agriculture. Indian Council of Agricultural Research, New Delhi, 144 pp. ; Sharma, Manju, Charak, K. S. and Ramanaiah, T. V. 2003. Agricultural biotechnology research in India: Status and policies. Current Science 84 (3): 297-302.
+
+Despite their proven safety and benefits, there has been an unending debate and unsubstantiated allegations on the safety and benefits of transgenic crops. Spirited debate continues globally over the impact of genetically modified (GM) crop varieties on pesticide use, emergence of superweed species and breach of valuable genetic diversity of crop plants available at the source areas of their origin. Perhaps there is a need to put more efforts towards biotech awareness and education to mobilize wholehearted support for this remarkable technology which has the potential to revolutionize sustainable agriculture and benefit the farmers and consumers alike. The next generation of transgenic products in the field of crop protection will focus more on use of antimicrobial peptides, recombinant antibodies and gene silencing techniques.

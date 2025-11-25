@@ -1,0 +1,521 @@
+SOURCE_DOCUMENT: Chapter 35.pdf
+
+35. Seed Production and Technology
+
+Seed acts as a catalyst in agricultural production. It is the most vital and critical input, on which the efficacy of other agricultural inputs depends. Seed may be defined asa fertilized ovule consisting of intact embryo, stored food and seed coat, which is viable and has got the capacity to germinate. The term seed is also used for any propagating material, often called “propagule”, encompassing even those forms that are not true botanical seed such as seedlings, tubers, bulbs, rhizomes, roots, cuttings, all types of grafts and other vegetative parts, tissue-culture-generated material, sperm, semen and ova of animals and fish etc. Therefore, seed means any type of living embryo or propagule used for sowing, planting, raising or culturing, that is able to regenerate and give rise to an agricultural plant or an animal form, that is true to its type. Seed, thus, broadly includes planting/propagating material or production resources of all living forms.
+
+In recent times, seed has also emerged as an important carrier of a combination of inputs. It can be value-added for delivering an input package to farmers and other end-users. By using various modern technologies, particularly of seed enhancement and seed coating, the seed is suitably treated and value-added to meet the planter’s and grower’s requirements. The seed, then, besides being a seed and a propagule, also carries with it seed treatment chemicals, nutrients, bacterial (Rhizobium) culture, protective coating, proprietary marks of identification for product authentication etc.
+
+The seed sector in India has made impressive progress over the last three decades. There has been a steady increase in the breeder seed and quality seed produced over the years. The breeder seed production for different crops has collectively reached over 90,000 quintals (q) annually. The current level of nearly 300 seed agencies/ companies in public and private sectors, make available around 1.48 million tonnes of quality seed at an estimated market value of over Rs 60,000 million. Nevertheless, there is a need to increase seed replacement rates for several crops in the country and also cater to the increasing demand of seed in horticulture and fisheries.
+
+Limited generations seed multiplication system, followed in India
+
+Testing, release and notification of crop varieties
+
+Crop varieties are released after a thorough assessment of their value for cultivation and use under the unique and the most successful Indian model of multilocation testing system under various crop-commodity specific All-India Co-ordinated Crop Improvement Projects. Some of the distinctive features of the system are (i) multi- disciplinary approach to fulfil varietal improvement and crop-production needs; (i) collective planning, programming, conduct of research and testing cutting across all administrative and geographical boundaries; (iii) free exchange of germplasm and breeding material; (iv) needed flexibility in operations; (v) establishment of needed national and international linkages; and (vi) overall tapping and harmonization of collective capability and wisdom of all the components of the national agricultural
+
+1270
+
+research system (NARS) towards varietal improvement and development of commensurate crop production technologies.
+
+The official varietal release system was started in October 1964 with the formation of the Central Variety Release Committee (CVRC) in the ICAR at the national level and the State Variety Release Committees (SVRCs) at the state levels. Varieties can be released after testing for their value for cultivation and use (VCU) and eventual identification under the All-India Co-ordinated Crop Improvement Projects both at the central and state levels, but their notification is carried out only at the central level by the Central Sub-committee on Crop Standard, Notification and Release of Varieties having respective Deputy Directors-General of the ICAR for Crop Sciences and Horticulture as Chairpersons. The Seed Division, Department of Agriculture and Cooperation (DAC), Ministry of Agriculture, Government of India, documented a total of 3,897 notified varieties of field (3,279) and horticultural (618) crops by the end of X Plan period. In another publicly accessible database of Seed Net India, published on the web, 4,154 varieties of various field and horticultural crops have been listed.
+
+After the release and notification of a variety, its seed has to be multiplied in sufficient quantity, which takes three to four generations before it reaches to the farmers for commercial use. During these multiplication cycles, care should be taken that the variety does not degenerate and maintain its original characteristics. For achieving this goal, the seed production programme becomes an arduous task, requiring high technical skills, financial investments, proper methodology and care.
+
+Classes or types of seed
+
+Seed of an officially released and notified variety or kind may be of the following types, which are sequentially produced through a limited generation system.
+
+Nucleus seed: The nucleus seed is the initial seed obtained from the selected individual plants of a particular variety or a parental line for the purpose of purifying and maintaining that variety or parental line by the originating breeder, and its further multiplication under his own supervision or supervision of a qualified plant breeder. It is used to produce breeder seed and forms the basis of the total seed production chain.
+
+Breeder seed: \t is the seed or vegetative propagating material directly controlled by the originating or sponsored plant breeder or an institution. Its production is personally supervised by a qualified plant breeder. It serves as the source for production of foundation seed. Breeder seed shall be genetically so pure as to guarantee that the subsequent generations, i.e. foundation and certified classes shall conform to the prescribed standards of the genetic purity.
+
+Foundation seed: The foundation seed is the progeny of the breeder seed. Sometimes, it may be produced also from the foundation seed which could be clearly traced to the breeder seed. The production of foundation seed shall be supervised and approved by the Certification Agency and be so handled as to maintain specific genetic identity and genetic purity, and shall be required to conform to the certification standards specified for the crop that is being certified.
+
+Certified seed: \t should be the progeny of the foundation seed and its production should be so handled as to maintain specific genetic identity and purity according to
+
+1271
+
+SEED PRODUCTION AND TECHNOLOGY 1271
+
+the standards prescribed for the crop being certified. It is provided in the Seed Rules, 1968 under Section 14 (2) that at the discretion of the certification agency (when considered necessary to maintain adequate seed supplies), certified seed may also be the progeny of certified seed, provided its reproduction does not exceed three generations beyond foundation seed stage | and it is determined by the Certification Agency that the genetic purity will not be significantly altered in doing so.
+
+Truthfully labelled seed is also a type of seed that is not certified but the labelling is done to indicate its quality or standard in a truthful manner.
+
+Thus, in India, a three-generations system comprising sequential production of breeder, foundation and certified seed is followed.
+
+Agencies involved in seed production
+
+Formal and informal seed-supply systems
+
+The seed supply systems in India can be divided into the formal and informal systems. The major division within the formal sector is between the public sector organizations and private companies. Within the informal sector also there is farm- saved seed, i.e. seed-saved directly on the farm on one hand and the seed obtained through local trading and exchange within the community on the other.
+
+Seed supplied through the formal seed sector is characterized by planned production, some form of (mechanized) processing, inclusion of only identified or notified varieties and a system of quality control. These generally deal with large quantities of seed, and correspond to “organized seed sector” and “conventional seed sector”.
+
+The formal seed supply system consists of seed production by: (i) national government agencies; (ii) state government agencies; (iii) government-assisted and other co-operatives; (iv) multinational (MNCs) or trans-national companies (TNCs); (v) domestic private sector (a) with its own R&D and (b) without its own R&D; and (vi) joint ventures such as (a) MNCs with domestic private company and (b) a domestic with other domestic company etc.
+
+The informal seed supply systems are characterized by lack of functional specialization, and are heterogeneous in space and flexible in time. These systems are traditional, informal, operating mainly at the community level through exchange mechanisms and involving limited quantities per transaction. These broadly include — (i) farm-saved seed and farmer- to-farmer exchange; (ii) farmers’ co-operatives; (iii) community groups; (iv) seed growers’ associations; and (v) non-governmental organizations (NGOs) etc. The informal seed-supply systems correspond to the local seed supply systems and traditional seed sector.
+
+Indian seed industry
+
+The Indian Seed Industry at present consists of two national organizations (NSC and SFCI), 15 State Seeds Corporations, about 150 large private seed companies (a total of about 300 private seed companies), 19 State Seed Certification Agencies and 63 Notified Seed Testing Laboratories. Several multinational seed companies have their own R&D. Public sector produces bulk of self-pollinated crops, of which wheat and rice account for 60%, and private sector deals mostly with hybrids, vegetables and flowers, accounting for about 50% of the total production of seed in India. Basic
+
+1272 HANDBOOK OF AGRICULTURE
+
+reason for private companies focusing on these crops is that they involve low volumes and high returns. The following public and private- sector agencies are presently involved in seed production in India.
+
+Public seed sector: The public seed .ector mostly comprises the Indian Council of Agricultural Research (ICAR) and the State Agricultural Universities (SAUs), National Seeds Corporation (NSC), States Farms Corporation of India Ltd (SFCI), several state Jevel seed corporations, state-assisted or parastatal farmers’ co-operatives etc. The public sector mainly looks after the requirement of high-volume low-value crops such as self-pollinated crops.
+
+The ICAR and SAUs are the main agencies that undertake nucleus and breeder seeds production in the country. The SAUs also facilitate the quality seed production of the state-released varieties. Nucleus seed from the respective breeder or authentic source is used for the production of breeder seed. Indents for the breeder seed are placed by the State Governments to the Department of Agriculture and Cooperation, Government of India, which passes it on to the ICAR. Breeder seed production, as per DAC indent, is the mandate of the ICAR. The breeder seed produced is allocated by the DAC to the indenters who use it for the production of foundation seed and eventually certified seed. In case of hybrids, the seed of parental lines are produced as breeder seed by the ICAR/SAU system which are made available to seed agencies for production of foundation, and then hybrid seed of certified seed class.
+
+The first public organization, The National Seeds Corporation, was established in 1963. The States Farms Corporation of India Ltd (SFCI), established in 1969, is presently undertaking seed production through its farms situated in different agro- climatic zones of the states. Subsequently, 13 State Seeds Corporations were established. State level seed corporations undertake substantial production of quality seed, especially foundation, certified and truthfully labelled seeds. A few of them also undertake sponsored breeder seed production in crops like groundnut. Besides, several state-assisted or parastatal farmers’ co-operatives such as MP State Oilseed Growers Federation (MPOILFED) and RAJFED (for Rajasthan) have been undertaking seed production and supply of oilseeds in their respective states.
+
+Foundation and certified seeds are produced mainly by the NSC, SFCI and the State Seed Corporations. Truthfully labelled seed is produced by all formal and informal systems. Besides, farmer-to-farmer exchange of farm-saved seed also occurs, especially in high-volume, self-fertilized crops like wheat and rice.
+
+Private seed sector: Although old private seed companies like Sutton had been in business since pre-Independence period, an organized and systematic growth of the private sector started in the early 1960s. A rapid phase of development of private seed sector was experienced recently under the liberalized government policy, particularly under the New Seed Policy, 1988. At present there are about 150 private seed companies operating in the country. These are mainly concentrating on low-volume, high-value crops with a strong emphasis on hybrids and vegetable crops. It has been estimated that private seed sector is contributing little less than 50% of seed requirement of the country, and the public sector is contributing a little over 50%. Private sector is very dominant in horticultural crops and flowers. Karnataka (with its epicentre or hub at Rane Bennur), Maharashtra and Andhra Pradesh are the leading states where most of the private seed companies organize their seed production programmes.
+
+1273
+
+SEED PRODUCTION AND TECHNOLOGY
+
+Informal and local seed supply agencies: A bulk of the seed of self-pollinated high-volume crops like wheat and rice is farm-saved seed. The landraces of self- fertilized crops and populations of cross-pollinated crops predominate in the fields of small and marginal farmers of India. In addition, informal and local seed-supply systems operate. Apart from farmers and key-diffusers, several co-operatives and NGOs work in a local context. Of late, farmer-participatory seed production, of not only self- pollinated but also of hybrid crop varieties, has become sizeable. Several agricultural universities, in particular, have undertaken such endeavours successfully.
+
+An integration of both formal and informal systems is in practice for some of the crops, and is desirable in other crops as well for spreading quality seeds among farmers at affordable cost. :
+
+Public-private partnership has also to be fostered. A partnership between Indian Agricultural Research Institute (IARI, a unit of ICAR) and Indian Foundation Seed and Services Association (IFSSA), has helped in fast spread of rice hybrid Pusa RH 10, developed by the IARI. Similarly, a partnership of Konkan Krishi Vidyapeeth, Dapoli, with Syngenta has led to popularization of rice hybrid Sahyadri.
+
+Seed-production methodology
+
+Seed production requires availability of proper location and season, maintenance of isolation distances, roguing, proper harvesting, threshing and processing, and all other related operations necessary to meet seed-quality standards.
+
+Location and season
+
+India has a wide range of agro-ecological situations, which make it possible to undertake seed production of almost all crops at one or the other locations. The choice of location and season depends on the crop and variety, of which seed is to be produced. Generally, the regions with abundant sunshine, less rainfall and moderate temperature, particularly during flowering to maturity of seed crop, are most ideal for seed production. The seed-production areas should be free from diseases, particularly those which are seed-borne and are carried through seeds, and weeds which hamper seed production in many ways including their role as alternate host to insect-pests and diseases. Seed-production areas should desirably have good irrigation facilities. The availability of needed infrastructure for processing and storage and trained and experienced persons also decide suitability of a location for seed production.
+
+Selection of land
+
+Seed crop should be grown in a clean land that has not produced the same crop species earlier for desirably two preceding seasons/years to avoid genetic contamination by volunteer plants of the same species. The limit of years fixed for different crops needs to be followed. Voluntary plants are potent sources of genetic contamination. The field used for nucleus or breeder seed should be free from such voluntary plants. This requirement becomes much more important in crops having longer dormancy such as paddy.
+
+Isolation distance
+
+Isolation of a seed-crop is essential to avoid genetic contamination and deterioration
+
+1274
+
+of varietal purity by cross-pollination from the plants of nearby plots. Maintenance of proper isolation distance prescribed for the seed-crop also helps avoid physical or mechanical admixture with other crop species or other varieties of the same species from the nearby plots. In the absence of isolation, many sources of contamination such as natural crossing with other varieties through wind and insects; off-types present in the seed field; mechanical mixtures during sowing, harvesting, threshing, processing and handling of seeds; and contamination due to seed-borne diseases from the nearby fields could seriously hamper seed quality. Protection from these sources of contamination is necessary er
+
+Isolation distance is the specified distance from potential contaminants, where an acceptable level of contamination is expected. It is affected by the mode of pollination, pollination activity as well as wind direction and velocity. Normally, the isolation distance is fixed according to the extent of natural cross-pollination ina crop species (Table 35.1). Prescribed isolation distances for some crops are given in Table 35.2.
+
+Essentially self pollinated crops like wheat ang soybean have only 3 m as isolation distance.
+
+1275
+
+SEED PRODUCTION AND TECHNOLOGY
+
+Isolation is to be maintained from other varieties, and the same variety not conforming to varietal-purity requirements for certification.
+
+Roguing in seed plots
+
+The off-type plants, i.e. plants of the same crop or species differing in their characteristics from those of the seed variety or the kind proper, are called rogues, and are a potent source of genetic contamination. ‘Roguing’ is defined as selective removal of such undesirable plants from a seed-crop on the basis of visual field inspection, to improve one or more quality attributes (such as genetic purity, freedom from disease etc.) of the seed lot to be harvested. Diseased plants are also rogued, especially if they pose risk of transmitting seed-borne diseases. Thus, all rogues are not necessarily off- types from the morphological point of view. Thinning and weeding do not fall within the definition of ‘roguing’.
+
+Roguing of undesirable plants is one of the most important tasks in seed programme. It should be done at several times during crop growth particularly at (i) vegetative stage, (ii) before flowering, (iii) at flowering, and (iv) before and at maturity. In cross- pollinated crops, roguing should be completed before flowering. In some vegetable crops it is essential at specified stages, e.g. at curd stage in cauliflower.
+
+At the level of nucleus seed production, if any progeny is showing variations, the total progeny (row) should be rejected and uprooted. If this is done after flowering, the adjacent progeny rows should also be rejected. In breeder seed, all the undesirable types including off-types and diseased plants should be removed as and when noticed, preferably before flowering. For variety maintenance or nucleus seed production, Positive selection of true-to-type plants for further generation is also considered effective.
+
+1276
+
+Maintenance breeding consists of maintaining genetic purity of the variety or inbred line. Stringent measures should be followed in maintenance breeding to cull out rogues. The system of crop variety maintenance and nucleus seed production should be rigorously followed to ensure genetic purity.
+
+There are two main sources of off-types. First, the off-type plants may arise due to the presence of some recessive genes in heterozygous condition at the time of release of varieties. The recessive genes may also arise by mutation. The heterozygous plants segregate for the characters affected by the particular gene or genes in later production cycles and give rise to off-types. Another source of the off-type plants is the volunteer plants arising from the seed produced by earlier crops. For this reason, the fields for producing seed of a particular variety should not have grown a potentially contaminating variety for a specified number of preceding years. Off-type individual plants should be rogued out of the seed-production fields before pollination occurs. Regular supervision by trained personnel is essential.
+
+In all nucleus and breeder seed programmes of most of the crops, line sowing is recommended which helps in various ways like mechanical weeding, monitoring, inspection etc. In order to walk through the plots for inspection and effective rouging, a proper path after every 8th or 9th row should be maintained. Thorough cleaning of machinery like seed drill, thresher, combine etc. is necessary to avoid mixture of other varieties.
+
+FS, Foundation seed; CS, certified seed. * Objectionable weeds are: (i) wild rice in rice, (ii) Argemone mexicana in case of rapeseed and mustard, (iii) wild okra, A. manihot and A. moschatus, in okra. ** Plants affected by seed-borne diseases (i) loose smut in case of wheat and barley, (ii) 0.05 and 0.1% downy mildew or green-ear disease in pollinator and grain smut in seed parent, and 0.02 and 0.04% ergot-ears in seed parent for F and C classes, respectively, in pearl millet.
+
+After roguing, the seed crop should conform to the prescribed field standards for off- type. Field standards for some crops, indicating possible rogues, are given in Table 35.3.
+
+SEED PRODUCTION AND TECHNOLOGY 1277
+
+to the processing plant. During these operations, the seed producer should take all precautions to safeguard seed from admixture and other causes for seed deterioration. Methods of harvesting and threshing vary with the kind of crop.
+
+Harvesting time is one of the important factors that influence planting value of seed. Physiological maturity is generally considered the stage having very high germination and vigour of seed. There are crop morphological indicators, specific for a variety or crop, of harvest maturity, which is attained shortly after physiological maturity. Delayed harvest in a crop like soybean adversely affects seed longevity besides posing a risk of loss in yield due to pod shattering. Moisture content of seed could be used as one of the deciding factors for the harvesting time. In other dry, dehiscent pods or fruits like peas, cowpea and beans, the crop should be harvested before the pods begin to dehisce.
+
+Threshing methods also affect seed quality and could lead to mechanical damage. Crops like soybean are highly sensitive and are easily damaged mechanically. If mechanical threshers are used, proper cylinder speed and revolutions per minute (rpm) should be maintained during threshing to avoid mechanical damage. Dropping seed from a height and improper stacking also leads to damage and result in reduced germinability and longevity of seed.
+
+Seed processing means cleaning, drying, treating, grading and other operations that will upgrade the quality of seed. The seed conforming to the standards at field stage should be processed as soon as possible after the harvest. The most common form of seed technology is seed upgrading, which aims at obtaining maximum uniformity and germination potential. First the seed-lots are cleaned to remove inert matter and weed seeds. Differences between seeds in shape, width, length, colour, weight etc, make it possible to separate a seed-lot in two or more fractions, of which the good one is kept. Further, seed treatment or disinfection is also done to eradicate seed-borne diseases. The aperture sizes of the screen specified for a particular crop/ variety shall be used, so that typical contaminants such as weed seeds, small seeds, damaged seeds and diseased seeds, straw, chaff, leaves, twigs, stones, soil particles etc. are removed. Use of gravity separator, which removes light, poorly filled seeds, greatly enhances quality of seed. The seed-lots after grading should be packed in packets of proper size, as described for different crops.
+
+Seed production in horticultural crops
+
+In horticultural species, propagules comprise true seeds; vegetative parts of the plant as well as the micropropagated planting materials. The system of variety release and maintenance, production and quality assurance for the true seed of horticulture species is essentially similar to that for the other field crops as detailed above. The quality standards are available for most of the vegetables and some important flower, medicinal crops and spices etc. As per an estimate there is requirement of ~ 16,000 tonnes of seeds of vegetables, other than potato, against the availability of ~9,000 tonnes. Similarly, there is a huge gap of seed and planting materials of spice crops, plantation crops, tuber crops, flowers and ornamental plants. To bridge this gap, micropropagation techniques are being standardized, and standards for such planting materials are being developed. The Technical Committee of Central Seed Certification Board has submitted field and seed standards for Potato-tissue culture raised — mini
+
+1278 HANDBOOK OF AGRICULTURE
+
+tuber (PTCMT). The laboratories at the IARI, New Delhi, IIHR, Bangalore, IHBT, Palampur, and CPRI, Shimla, are identified as referral laboratories for virus testing.
+
+Seed plot technique in potato: Virus-free potato tuber-seed system developed by the Central Potato Research Institute, Shimla (ICAR), covering nucleus, breeder, foundation and certified seed chain, and seed-plot technique, together make a unique success story in regard to specific seed-production requirement of this crop. Seed-plot technique involves growing of seed crop during low aphid period (generally during October to early January) in North Indian Plains. Aphids are insect vectors that spread potato virus diseases. Prior to the development of this technology, the main sources of potato seed were high hills, mid hills and North-eastern plains.
+
+Micropropagation: Several horticultural crops are multiplied through micro- propagation also under controlled conditions. Mainly these are as follows.
+
+Availability of quality seed of desired species at appropriate time and place largely decides the success of any aqua-farming system. The overwhelming increase in Indian aquaculture production during the last three decades, i.e. from an annual production of 0.37 million tonnes in 1980 to 3.12 million tonnes presently, has been mainly due to the development of freshwater aquaculture in stagnant ponds and tanks. With a contribution of over 90% of 2.97 million tonnes/year, carps have been the principal component of freshwater aquaculture production, while shrimp forms the major component of the brackishwater aquaculture production of about 0.14 million tonnes. The breakthrough in induced breeding of carps in 1957 and thereby ensuring assured seed supply of desired species practically guided the subsequent aquaculture development in the country. The technologies of controlled breeding, hatchery production and consequent seed rearing not only met entire seed requirement, but also eliminated dependence on riverine seed resources. Emphasis on culture diversification further led to development of induced breeding and seed-production technologies of several other cultivable catfishes, freshwater prawns and a few medium carps.
+
+In the last three decades, the country has witnessed significant developments in adoption of technology of breeding and seed production with equal involvement of public and private sectors.
+
+Establishment of as many as 1,100 hatcheries across the country has contributed to annual production of over 22 billion carp fry at present. Carp seed are categorized under three stages based on their size, viz. spawn, fry and fingerlings; with hatchlings up to 8 mm (3-4 days old) as spawn, 15-20 days-old seed measuring up to 40 mm as fry, two month-old measuring up to 100 mm as fingerlings. In a recent national effort at seed certification in 2007, they are redefined spawn as: up to 8 mm (yolk sac completely absorbed), early fry: 9-25 mm; fry: 26-50 mm; advanced fry: 51-100 mm;
+
+1279
+
+SEED PRODUCTION AND TECHNOLOGY 1279
+
+and fingerlings: more than 100 mm. A concept of juveniles or stunted fingerlings has come up in the last decade, with farmers in Andhra Pradesh using a year-old seed for stocking 100-150 g fish in ponds for semi-intensive culture. Lot has still to be done in this regard.
+
+In aquaculture, stocking material of varied stages and sizes, viz. spawn/larvae, fry or fingerlings/juveniles is considered as seed, which is specific to the culture system and the species. In carp culture, while fingerlings of about 100 mm are recommended for stocking in grow-out system, spawn and fry are often used as seed material in most of the culture ponds. Similarly, while post-larvae of 20 days (PL20) are recommended as ideal stocking size in coastal shrimp farming, farmers often resort to stocking of post-larvae of early duration (PL5-PL20). This results in low survival rates and consequently, low production rates, thereby needing corrective measures.
+
+In the case of freshwater prawns, presently over 70 freshwater prawn hatcheries, mainly in the states of Andhra Pradesh, Tamil Nadu and Kerala are functioning that totally have an annual production capacity of 2,000 million seed.
+
+In the case of shrimps, at present, there are over 300 shrimp hatcheries with a total production capacity of 14 billion post-larvae. The commercial penaeid shrimp seed production, however, is restricted to one species, viz. Penaeus monodon. The states of Andhra Pradesh and Tamil Nadu possessing 191 and 81 hatcheries respectively with production capacities of over 9 billion and 3 billion post-larvae together constitute 85% total shrimp seed production of the country.
+
+In case of fisheries, only recently development of seed certification system has been attempted. In this context, guidelines for hatchery accreditation and seed certification of different groups of cultivable species like carps, catfishes, freshwater prawns and shrimps have been prepared.
+
+Quality assessment and seed standards
+
+The seed lots of field and horticultural crops should also be assessed for various seed quality parameters in addition to genetic purity like physical purity, from other distinguishable varieties, weed seeds, designated diseases, germination etc. as per the requirement. Seed standards are dealt under certification and specifications, and are detailed therein with some examples of crops.
+
+Labelling
+
+The seed lots meeting the quality standards should be packed in proper size of bags as described for different crops and labelled with the required information. Different label colours and sizes have been specified for different seed categories as given in Table 35.4.
+
+1280
+
+The content of the labels has also been specified which generally includes the name of crop or variety, label number, lot number, date of test, physical purity (minimum), genetic purity (minimum), inert matter (maximum), name of the chemical with which the seed is treated, germination (%), duration or date up to which it is valid, name and address of producing institute and weight.
+
+The purpose of seed storage is to minimize loss of viability of seed lots during storage. It is recommended to store seeds at low temperature and low relative humidity (RH). There is a close relationship between RH of the atmosphere and seed moisture. Each kind of seed will attain a characteristic moisture content at a given RH and at a particular temperature, which is known as the equilibrium moisture content (EMC).
+
+Drying: Before storage, seed of field crops should be properly dried to 10-12 % moisture content (or below 9 %, if packed in moisture-proof container) and stored in a proper store, preferably under dry and cool conditions. Drying of seed should be performed at a safe level of temperature so as not to affect their vigour and viability. The safe limits of drying depends on the initial moisture and chemical composition of the seed. As a general rule, seeds having >15% moisture content should be dried at temperature below 35°C and under no condition the seed drying temperature should exceed 43.5 °C in the case of field crops and 32.5 °C in vegetables. During storage, care should be taken for control of storage insects. Seeds should be packed in smaller units to avoid risk of physical gradients, particularly vapour pressure, which arise in large bulks.
+
+Storage/containers: Containers can be classified into the following types.
+
+(i) Containers permeable to moisture-vapour, viz. jute bag, cloth bag, paper bag, multi-wall paper bag etc.
+
+(ii) Container resistant to moisture-vapour, viz. jute bag laminated with thin (200- 300 gauge) polythene film.
+
+(iii) Containers that are moisture-vapour proof, viz. tin cans, polythene bags of 700 gauge or more, aluminium foil pouches etc.
+
+Packaging material: The choice of packaging material and amount of seeds to be packed will depend on several factors such as the kind of seed, intended duration of storage, storage environment and geographic area, the seed-moisture content, and the cost of packaging materials. Certified seeds of cereals, pulses and oilseeds are mostly packed either in jute bag or cloth bag in India. However, polylined cloth or jute canvas bags and non-laminated interwoven HDPE bags are also becoming popular, particularly for hybrids of field crops. Paper bag, card-board box, aluminium-foil pouches, polythene bags and cans are used for packaging high value, low volume flower and vegetable seeds. Commercially available polythene are of three types, viz low, medium and high density and are used as per the need.
+
+If containers are used for packaging that are moisture-vapour proof, seed-moisture content should be kept as per the critical level for each kind of seed, which is normally <9% in field crops and 5 - 6% in vegetables. Therefore adequate facilities are needed for seed drying.
+
+Transportation: All types of seeds should be saved from mechanical damage during storage, packaging and transportation. Some seeds, such as soybean, are highly sensitive
+
+1281
+
+SEED PRODUCTION AND TECHNOLOGY
+
+to mechanical damage. Proper stacking of storage bags, avoiding dropping of seeds from a height, and proper road transportation are needed to avoid mechanical damage to such seeds. Road transportation was found to cause 7-12% increase in mechanical injury to soybean seed, resulting in about 10% reduction in germination. This can be minimized significantly by using a bubbled polyester cover to the jute canvas bags for safer transport of soybean seed.
+
+Hybrid-seed production
+
+Hybrid seed is the produce of a cross between two selected parental lines. Hybrids (F, or first filial generation) are unstable in nature in the sense that they segregate in the next generation (F,) into homozygotes and heterozygotes. Due to this reason, seed of a hybrid is to be produced every year/season and farmers have to replace their seed every year/season.
+
+Sterility systems to facilitate hybrid-seed production
+
+Hybrid-seed production is done either manually (manual emasculation and hand pollination) or is facilitated by using different sterility systems in crop plants.
+
+Nuclear (Genic) male sterility system: In some major crops such as cotton, genic male sterility system is followed for hybrid-seed production. The genic male lines are maintained by sib-mating with fertile plants. If the male sterility is due to a single locus gene, the fertile plants would be heterozygous for a single locus. In the following generations, the plants segregate into 1:1 ratio for sterile and fertile plants. In the hybrid-seed production plot the fertile plants are rogued at the time of flowering. The presence of a marker gene may facilitate identification of fertile plants.
+
+Cytoplasmic male-sterility system: Cytoplasmic male sterility (CMS) is controlled by genes present in the cytoplasm, rather than in the mitochondrial genome. The lines carrying sterility factors in the cytoplasm and homozygous non-restorer (rf rf) gene in the nuclear genome are male sterile. The cytoplasm carrying sterility factor is known as sterile (S) cytoplasm. A cytoplasmic male sterile line (A-line) is maintained by crossing with a maintainer line (B-line), which is a fertile counterpart of the A-line having normal fertile cytoplasm (N/F) and non-restorer nuclear gene (rf rf). Hybrid seed is produced by crossing A-line with a pollinator having diverse nuclear background, which produces heterotic hybrid in combination with the A-line. The pollinator has normal fertile cytoplasm (N/F) and non-restorer gene (7/7) in the nucleus. Thus, the hybrid seeds produce male sterile F, plants because of the maternal inheritance of the sterile cytoplasm. This type of male sterility is useful in hybrid-seed production of crops propagated by seed, but fruits or seeds are not the commercial produce as in ornamentals, onion, cole crops etc.
+
+Cytoplasmic-nuclear (Genic) male sterility system: Cytoplasmic nuclear (genic) male sterility (CGMS) system is the result of interactions between the cytoplasm inducing male sterility and nuclear fertility restorer gene(s). The system consists of three lines, ic. a CMS‘ line (A-line), a maintainer line (B-line) and a restorer line (R-line). The CMS source is stable and is maintained by resorting to cross between CMS (A) lines with fertile isogenic (B) line for production of A line seed. The nuclear genome of a variety, designated B-line, is transferred by repeated backcross into the male-sterile CMS source, i.e. A-line, to get its CMS counterpart, as an isoline. The
+
+1282
+
+lines A and B are isolines, except that B-line is normal (fertile), and A-line has sterile cytoplasm from the basic source. The A-line is maintained by pollinating with B-line, while B-line is maintained by selfing. By crossing A-line with R-line having fertility restorer gene, fertility is restored in F, hybrid. The hybrid (A x R), thus obtained is fully fertile and is grown as a commercial crop. Every time a potential hybrid combination is newly identified, the female parent has to be converted into CMS A- line and the male parent into R-line.
+
+Environment sensitive nuclear (Genic) male sterility system: Induction of male sterility in response to change in environmental conditions is under genetic control, and is being used for hybrid seed production. Several types of such genic male-sterility (GMS), viz. photo period-sensitive (PGMS), temperature sensitive (TGMS) and photo- thermo sensitive (PTGMS) genic male sterility systems, are known. For example, in rice TGMS line Annong-! and others, temperature of more than 27-28°C works as critical sterility point, above which TGMS lines are male sterile, and at a temperature of 24°C or below, these lines transform themselves into fertile ones.
+
+Chemically-induced male-sterility: Many chemical compounds such as maleic hydrazide, ethrel or ethephon, fluoro or chloro or methoxy-oxinilates and arsenates are known to possess gametocidal properties. Such chemicals are generally called chemical hybridizing agents (CHA), which induce male-sterility when used in appropriate concentration. In this system, any two parents, that give desirable heterotic effect can be used for hybrid-seed production. Sterility is induced in one of the parents by spraying chemical hybridizing agent and thus the sterile line obtained serves as the female parent for hybrid-seed production.
+
+Transgenic male sterility systems
+
+In transgenic male sterility system, the sterility gene ‘barnase’ is linked to a herbicide resistance gene. Male sterile and male fertile plants segregate in the progeny of a cross between male sterile and male fertile maintainer. Male sterile plants, then are selected by applying herbicide which kills male fertile plants. Upon crossing, thus selected, genetically engineered male sterile plants with transgenic fertile plants carrying barstar restorer gene, the hybrid is obtained, which is fertile. In India also, a male sterility and a restorer system based on transgenics with barnase and barstar genes respectively for hybrid-seed production in Brassica juncea have been developed.
+
+Synchrony in flowering
+
+- Proper synchrony in flowering of the parental lines is essential to achieve optimum production of hybrid seed with assured quality. Any deviation in flowering of the parental lines will result in poor seed-setting and poor seed quality. The synchronization in parental lines of pearl millet, sorghum, maize, sunflower, rice etc. could be achieved by adjusting or staggering sowing of male and female lines.
+
+Planting ratio of parents
+
+The quantity and quality of hybrid seed is determined mainly by the proportion of seed parent in relation to pollen parent. Appropriate row ratio of male and female is essential to realize economic yield of hybrid seed. Optimum planting ratios have been worked out in many crops, and are recommended for commercial seed production.
+
+1283
+
+SEED PRODUCTION AND TECHNOLOGY
+
+Specific requirements for hybrid-seed production
+
+The requisites and specifications for seed production vary depending on the crop and the method used. The success of hybrid-seed production depends upon various factors such as type of parents, extent of synchronization, effective roguing, GA, usage, supplementary pollination etc. Such requirements are to be necessarily met for hybrid- seed production which are specific to each case or crop. For example, most of the Wild Abortive (WA) based CMS lines in rice have imperfect panicle exertion, with the result several spikes remain enclosed in the flag leaf and are not available for outcrossing or hybridization. Gibberellic acid is, therefore, applied to increase panicle exertion of CMS lines based on the Wild Abortive system in rice.
+
+Seed testing
+
+Seed testing comprises evaluation of the planting value of the seed. There are internationally recommended procedures to assess genetic and physical purity, germination, moistures viability, seed health and field emergence of seed. In recent times, new seed technology applications are finding increasing use to deliver a complete value-added package to the farmers. Some of the seed testing procedures (as per the ISTA, 2008) are briefly given here.
+
+Seed sampling
+
+A seed lot is a specific, physically identifiable quantity of seed in respect of which a seed test certificate can be issued. Samples are obtained from the seed lot by taking small portions at random from different positions of the lot and combining them. From this composite sample, small samples are obtained in one or more stages. At each stage, thorough mixing is followed by progressive subdivision. Besides hand- sampling, sampling can also be done with the help of samplers or triers available for this purpose. The samples may be of the following kinds.
+
+(i) Primary sample: It is a small portion taken from one point from the seed lot. (ii) Composite sample: \t is formed by combining and mixing all primary samples taken from the lot.
+
+(iii) Submitted sample: \t is the sample submitted to seed testing laboratory. The size of the submitted sample is specified in Seed Testing Rules.
+
+(iv) Working sample: \t is a sample taken from the submitted sample in the laboratory, on which one of the quality tests is made.
+
+The sampling intensity depends upon the lot size based on which the number of primary samples are prescribed. Sampling is carried out only by qualified, trained and experienced persons.
+
+Physical purity analysis
+
+Physical purity analysis aims to know the percentage composition by weight of the sample in regard to (i) pure seed, (i/) other seed and (iii) inert matter (ISTA, 2008). In the Indian system there are four fractions for physical purity analysis, i.e. (i) pure seed, (ii) other crop seed, (iii) weed seed and (iv) inert matter. In addition in some species, standards for other distinguishable varieties (ODV) have also been prescribed, viz. in paddy. All species of the seeds and each kind of inert matter are identified. Weight of the working sample for purity analysis depends on the seed size, for example,
+
+1284
+
+it is 700 g for Frenchbeans and 7 g for tomato. The working sample for purity analysis should contain not less than 2,500 seeds.
+
+Seed germination testing
+
+Germination test is made on the pure seed fraction of a physical purity test. Tests are made under controlled conditions of temperature and relative humidity. Examination of seedlings and of hard, fresh or dead seeds is done after a prescribed period. General requirements for seed germination are a suitable substratum, adequate moisture, and favourable temperature and light. Crop-wise media or substrata, temperature and duration of testing have been prescribed by the International Seed Testing Association (ISTA 2008).
+
+Rapid testing of seed viability
+
+It is often needed to ascertain the viability of seed in a short time. The following methods are generally used for this purpose.
+
+Topographical tetrazolium test: The method of tetrazolium test (TZ) was pioneered by the German scientist Lakon during the mid-nineties (1939-58). By hydrogenation of the 2,3,5-triphenyl tetrazolium chloride, a red, stable and non-diffusable substance, triphenyl formazan is produced in living tissues or cells. The live parts of viable seed are stained red when incubated in the solution of this chemical, whereas dead ones remain unstained. In addition to completely stained viable seed, unstained non-viable seed and partially stained seeds are also observed. Varying proportions of necrotic tissues are found in different zones of partially stained seeds. The position and size of necrotic areas determine whether such seeds are viable or non-viable. For these reasons, the test is designated as the Topographical Terazolium Test.
+
+Embryo-excision method: This test is used to determine the viability of certain kinds of seeds (mostly bee species), which germinate vary slowly or show prolonged dormancy. In this method the embryos are excised from the soaked seeds and are incubated under normal conditions of light and moisture, generally at a constant temperature of 20° C for up to 14 days. Germinating embryos, those with one or more cotyledons, showing growth or greening, and embryos remaining firm and slightly enlarged, are generally considered viable.
+
+Ferric chloride test for mechanical damage
+
+Mechanically injured areas of most of the legume seeds turn black when placed in a solution of ferric chloride. This practical method can be used for rapid assessment of mechanical damage.
+
+Seed vigour testing
+
+Seed vigour is the sum total of those properties that determine activity and performance of seed lots of acceptable germination in a wide range of environments (ISTA, 2008). Seed lots with similar germination may give varying results with regard to field emergence, seedling performance and field stand. Several tests, commonly known as "vigour tests", are capable of reliably predicting field-stand potential of the seeds. A vigorous seed lot is likely to succeed under a wide variety of field conditions. Nevertheless, a vigour test is not a test for field emergence and field response per se.
+
+1285
+
+It may be a direct test such as brick gravel test (The Hiltner Test), paper piercing test, conductivity test, accelerated ageing test, the cold test for corn etc. It may be indirect test also, comprising measurements of seedling growth rate, dry weight of seedling, speed of germination etc. However, till now ISTA has recommended only two tests for vigour assessment. These are accelerated ageing test for soybean and electrical conductance test for seed. Several other tests are being standardized by the vigour committee of the ISTA.
+
+Seed health tests
+
+Seeds carry an extensive and complex micro-flora. Many micro-organisms such as fungi, bacteria, viruses and nematodes are carried through seeds. For example, loose smut of barley and wheat are predominantly seed-borne. Detection and management of seed-borne pathogens is therefore an important aspect of seed technology.
+
+Seed health tests may done through (i) visual examination of dry seed, (di) washing tests, (iii) seed soak method, (iv) examination after incubation using blotter, sand or compost or agar plate method, (v) examination of growing plants, (vi) other crop and disease-specific techniques, (vii) bioassay test, and (viii) other advanced tests including those using modern molecular techniques.
+
+For a particular crop-specific disease, specific tests are available. For example, for Karnal bunt of wheat, the following specific test could be feasibly used.
+
+NaOH seed-soak method for Karnal bunt of wheat: Seeds, preferably 2,000 in two replicates of 1,000 each, are soaked in a 0.2% sodium hydroxide solution (2 g NaOH/1,000 ml water) for 24 hr at 20°-30°C. Next day, the solution is decanted and seeds are spread over to a blotter paper and examined visually. The portion of the seed infected with Karnal bunt (c.o. Nevossia indica fungus) exhibits a jet black shiny appearance contrasting to pale-yellow healthy portions of the seed. The Karnal bunt infection is then reported in percentage by number. :
+
+The seed-soak method is also used to detect bunt of rice.
+
+Moisture tests
+
+Moisture in the seed can be determined by various methods. The recommended method of moisture determination is based on oven-drying, either for 1-4 hr at 130°C or for 17 hr at 103+2°C (the latter for seeds having volatile oils in large proportion). However, there are alternative procedures, both destructive and non-destructive, which may also be used. These are: (i) drying without heat, (i/) lyophilization (freeze drying), (iii) reversibility method, and (iv) Karl Fisher titration method after extracting water from finely-ground seed with methyl alcohol and determining moisture content by titration, and air-oven method.
+
+Species and variety testing
+
+These are based on morphological, physiological, cytological or bio-molecular examinations of seeds, seedlings or mature plants grown under controlled or field conditions and can be carried out by (i) grow-out test and verifying the presence of distinguishing morphological and other characters, (ii ) laboratory tests using controlled growth chambers or chemical tests on seeds and seedlings, (iii) by using biochemical
+
+1286
+
+and molecular markers, which are quite prevalent presently, or (iv) DNA-fingerprinting, if available and feasible.
+
+Grow-out test: The monitoring of genetic purity and freedom from seed-borne infection of seed lots is very important which can be done by post-season control-plot testing or grow-out tests. For this, a sample of appropriate size is drawn from the graded seed lots and grown as per the guidelines in the field to observe genetic purity. The grow-out test is conducted in the area where the crop can express the maximum characters without any variations due to environment. The crop is monitored throughout the growing season, and off-type plants if any, are tagged and counted at the maturity to assess genetic purity. The lots, which are not of desired genetic purity, should be rejected. Recently, electrophoresis and PCR-based technologies have been standardized for grow-out test which are effective yet costly tools to assess genetic purity of seeds.
+
+Seed enhancement
+
+Seed enhancement may be defined as the post-harvest treatment that improves germination or seedling growth, or facilitates delivery of seeds and other materials required at the time of sowing. This definition includes three general areas of enhancements: pre-sowing hydration treatments (priming), coating technologies and seed conditioning. Integration of these methods can also be performed.
+
+Priming of seed: Seed priming is a pre-sowing hydration treatment of seeds to achieve rapid and uniform emergence, improved germination, vigorous seedling growth etc. The seeds are treated with precisely controlled conditions to allow most events of germination to occur while preventing seeds from actual germination or sprouting.
+
+The priming treatment requires seed to be hydrated. Once the priming is completed, the seed is returned to the moisture content that promotes good storage. Once primed, seed will often perform better in stressful conditions than non-primed seeds.
+
+Use of water is the simplest way for priming. Controlled seed hydration could also be brought about by regulating osmotic potential of water by polyethylene glycol (PEG), KNO,, KH,PO,, NaCl, glycerol, mannitol etc. Growth regulators/vitamins or plant extracts can also be mixed with water. Solid matrix priming (matri-conditioning) is controlled seed hydration through solid carriers with low matric potential. For example, okra seeds primed in solid matrices lead to improved germination performance and vigour.
+
+Apart from resulting in general invigoration, many of the different limitations of the seed, such as dormancy problems, are overcome. Seeds may suffer from various natural limitations like post-harvest dormancy, photo dormancy (light sensitivity preventing germination in insufficient light), and thermo dormancy (temperature sensitivity, preventing germination under temperature extremes). Priming is a good tool to overcome these limitations.
+
+On-farm seed priming: Farmers can prime their own seed by pre-sowing on-farm seed soaking if they know the safe limits, i.e. the maximum length of time for which the seeds can be soaked and which, if exceeded, could lead to seed or seedling damage. These safe limits are calculated for each variety so that germination does not continue once the seeds are removed from the water. On-farm seed priming is, in fact, an indigenous technical knowledge known to farmers since ages. Farmers of Malwa plateau, Madhya Pradesh, for example, have practised it since long. Similarly, use of
+
+1287
+
+pre-germinated paddy seeds is a common practice.
+
+Primed seed will germinate only if it takes up additional moisture from the soil after sowing. It is important to note this distinction between priming and pre- germination. In most cases seed can be primed overnight and simply surface-dried and sown the same day. Apart from swelling slightly and weighing more, primed seed can be treated in the same way as non-primed seed. Occasionally, sowing may be unavoidably delayed—by heavy rains for example. If primed seed is surface-dried and kept dry, it can be stored for several days and then sown as usual; it still perform better than non-primed seed. Both pre-sowing and mid-storage treatments could be given for seed invigoration.
+
+Pre-sowing seed invigoration treatment is given prior to sowing for achieving a rapid, uniform and better field emergence, applicable both for the direct seeded and the transplanted crops. The method comprises the following steps.
+
+(i) Soak the seed in a clean shallow container with just enough water (1:1 seed: water v/v) for 4-6 hr to overnight (17-18 hr) preferably at a temperature below 20°C. It is to be remembered that seed of certain crops like ‘mung’ may sprout by 18 hours and would need a lesser duration of soaking.
+
+(ii) Drain excess water and floaters and spread evenly on a clean sheet or surface for only surface drying (1-2 hr).
+
+(iii) Sow seed as normally practised.
+
+This treatment is effective in most of the vegetable crops and maize, paddy, sunflower etc., and is being widely practised in the tribal belt of the central-western India, which has low water availability. The treatment results in faster and better emergence and faster growth, particularly in less favourable conditions of moisture, temperature, soil etc.
+
+Pre-sowing seed invigoration treatment of maize, sunflower, Cenchrus ciliaris by overnight hydration (seed : water = 1:1) at a temperature below 25°C, followed by air drying and dry-dressing of primed seed with Thiram @ 0.25% further improves field emergence, stand establishment and yield, particularly if the seed used is of a relatively lower vigour.
+
+Pelleting and coating
+
+Pelleting is the application of a proportioned mixture of powders around the seed with the help of an adhesive. Some species are difficult to plant mechanically because of their shape (lettuce) or size (Begonia). Pelleting makes seed more uniform in shape, weight and size. This makes it easier to plant precisely, using various types of planters. Seeds are planted at correct distances and depths with less seed loss. Approved fungicides and insecticides can also be incorporated into the pellet to protect some species from pests. The desired amount of active chemical ingredient can be placed near the emerging seedlings, where it will be used more efficiently.
+
+Coating is generally done by using a thin film. Film coating is the application of a very thin layer of high quality polymer (synthetic or natural), with virtually no change in size or weight. The polymer coating is effective in controlling imbibitional injury as well as is a carrier of pesticides and nutrients. It seals precise amounts of chemical protectants or colouring onto the seed. Thus, coatings may serve as delivery systems. Seed enhancement and seed coating technology offer excellent opportunities for
+
+1288 HANDBOOK OF AGRICULTURE
+
+1288
+
+disease and pest control throughout the seed industry. The incorporation of pesticides in seed coatings is a well established and generally known way for safe and accurate application of fungicides and insecticides. Further, this application technology greatly contributes to a strong reduction in the use of chemicals and thus to a more environmental friendly pest and disease management.
+
+Seed coating using natural or synthetic adhesives (e.g. starch gruel or carboxy methyl cellulose), natural filler (e.g. arappu leaf powder, neem kernel powder or vermicompost) and thiram 0.3% or ZnSO, (0.3 g/kg) enhances field emergence and crop growth in soybean. Storability of the coated seed is also satisfactory up to 3 months.
+
+Seed regulatory and certification system
+
+Seed legislation in India
+
+The Seeds Act was enacted by the Parliament on 29 December 1966. The Seeds Rules were notified in 1968. The Act came into force throughout the country on 2 October 1969. After 1969, the functions of the Central Varietal Release Committee were taken over by the Central Seed Committee and its constituents, viz. the Central Sub-committee on Crop Standard, Notification and Release of Varieties and also State Sub-committees established under the provisions of the Seeds Act. As per the need, amendments in the Seeds Act and Rules were made from time to time, i.e. in 1972, 1973, 1974 and 1981. Notification of kinds or varieties, as provided for in the Seeds Act, was started in 1969.
+
+A Central Seed Laboratory at the National Seed Research and Training Centre (Ministry of Agriculture, GOI), Varanasi, and the Seed Testing Laboratories at the state level, now numbering about 100, were established or designated. Minimum standards for purity and seed germination were set. Seed Certification Agencies, now about 20 in number, were established at state level. Seventeen laboratories in the country (3 in public sector and 14 in private sector) are members of the International Seed Testing Association (ISTA). Of these, 6 in the private sector have obtained accreditation of the ISTA to issue certificates.
+
+Seed was declared as an essential commodity under the Essential Commodity Act, 1955. Seed (Control) Order was issued in 1983. Its main features are: (i) Seed Controller, (ii) Issue of License to Dealers, (iii) Renewal of License, (iv) Appointment of Licensing Authority, (v) Time limit for analysis of samples by Seed Testing Laboratory, (vi) Suspension or Cancellation of License, and (vii) Appeal. The Seed (Control) Order makes it obligatory for seed traders to obtain a license. The Plants, Fruits and Seeds (Regulation of Import into India) Order was issued in 1989.
+
+A New Policy on Seed Development (NPSD), which came into force from September 1988, was evolved with special emphasis on the areas such as: (i) import of high-quality seeds, (ii) a time-bound programme to strengthen or modernize plant quarantine facilities, (iii) effective observance of procedures for quarantine or post- entry quarantine, and (iv) incentives to encourage domestic seed industry. It was envisaged that the NPSD (1988) would help seed industry to grow, and the farmers will be benefited by getting access to the best seed and planting material available anywhere in the world.
+
+1289
+
+SEED PRODUCTION AND TECHNOLOGY 1289
+
+The seed industry is also covered by a large number of legal provisions such as the Seeds Act, 1966; the Protection of Plant Varieties and Farmers’ Rights Act, 2001; the Plants, Fruits and Seeds (Import into India) Order (PFS Order); the Essential Commodities Act, 1955; the Consumer Protection Act, 1986; the Biological Diversity Act, 2002; the Patents Act, 1970 (with amendments), the Geographical Indication of Goods (Registration and Protection) Act, 1999; the Environment Protection Act, 1986; Packaging Commodities Order, 1975; Standards of Weights and Measurements Act, 1976, etc. Broadly, these legislations would ensure that adequate and good quality of seed is supplied to farmers by the formal seed sector, or alternatively regulate/provide access, ownership and benefit-sharing over seed resources. To meet the emergent national and global needs, seed policy and seed law have been recently improvized. The new Seed Policy is already approved and the new seed law, the Seeds Bill, has been put up for approval.
+
+Seed certification and seed quality assurance
+
+Seed quality is the summation of certain quality attributes,viz. (i) cultivar purity, germination potential, (ii) freedom from weed seeds, inert matter and other crop seed, (iii) freedom from seed-borne diseases and pests, and (iv) appropriately low moisture content etc. At times seed size and its uniformity, treatment coverage etc. also form a part of seed quality.
+
+* F Foundation seed; C, certified seed; ODV, other distinguishable varieties
+
+1290
+
+*F, Foundation seed; C, certified seed; ODV, other distinguishable varieties
+
+The principal objective of seed certification is to maintain and make available to the farmers high-quality seed and propagating materials of notified kind or varieties so grown and handled as to ensure cultivar identity and purity. To achieve this objective, minimum seed standards have been fixed for each quality attribute of seed. Seed standards for some crops are given in Tables 35.5 and 35.6.
+
+Use of tissue culture for micropropagation provides means not only for rapid multiplication but also for multiplying disease-free plants. The technique is highly useful and feasible in horticultural plants/crops such as potato. The disease-free plants can then be used to produce healthy seed tubers for farmers. First viruses and other pathogens are eliminated by growing potato plants in a controlled environment at high temperature. The disease-free shoot tips of the plants are then placed on a standard nutrient medium in vitro ina sterile laboratory environment. Tips develop into plantlets that are then transferred to either a greenhouse or a field protected from insect pests, where they grow well but produce smaller tubers called “mini-tubers” or potato tissue- culture-raised mini-tubers (PTCMC). Field and seed standards for PTCMC have been recently put in place and are presented in Table 35.7.
+
+Certification comprises pre-marketing quality control of seed. The Seeds Act, 1966 provides for voluntary certification of seed. It is up to the seed producing and marketing agencies whether to get the seed certified or not. While certification is voluntary and applicable only to the notified varieties in the country, the labelling is compulsory to all classes of seed. Nevertheless, the genetic purity in commercial seed production is often maintained through the system of seed certification. The Seeds Act provides that seed of notified varieties can be sold only if it conforms to its kind and to the minimum standards of germination and purity (Section 7). For seed quality control, voluntary certification and compulsory labelling are in vogue. A tag has to be affixed with each container of seed meant for marketing.
+
+About 90 crops have been notified for maintaining quality of seeds. The seeds of these crops cannot be sold by anybody including farmers if the seed does not meet the
+
+1291
+
+SEED PRODUCTION AND TECHNOLOGY
+
+Field Standards
+
+(a) Specific requirements
+
+*Of the two inspections, the higher virus percentage will be considered for the purpose of the specified limits of tolerance.
+
+**The presence of brown rot infected plants within the specified limits of tolerance shall be permitted in the areas known to be infected with this disease. In case of plants suspected to be infected with brown rot, the neighbouring plants, one on either side should also be rogued along with tubers.
+
+**Standards for re-growth after destruction of haulms shall be met at fourth inspection to be conducted about 10 days after haulms cutting.
+
+(b) Potato seed standards
+
+Specification in respect of size and weight of seed material for foundation stage-|, foundation stage-Il and certified class shall be as under:
+
+1292
+
+(c) Maximum tolerance limit of potato tubers showing visible symptoms caused by the diseases:
+
+*Even if a single tuber infected with common scab is detected in a seed lot, the entire seed lot shall be treated with approved fungicide before seed lot is declared fit for certification. Seed lots having infected tubers more than the prescribed limits will not be certified even after treatment.
+
+minimum limit of germination and purity. It is intended to extend the list for all the crops where the varieties are registered for protection.
+
+Seed-certification agencies of different states are authorized to discharge function of seed certification to ensure standards of seed viability, vigour, purity and seed health. For this purpose of law enforcement, qualified and well experienced personnel of seed certification agencies carry out field inspections at appropriate stages of crop growth. Seed certification agencies also lay down and ensure adherence to the field and seed standards to which the seed crop and seed lot respectively must conform to get approval as certified seed. The field standards include land requirements, isolation requirements maximum permissible off-types, shedding tassels (in hybrid maize production), etc.
+
+Measures are taken for: (i) verifying proper source used for seed production; (ii) verifying adherence to the limitedgenerations system of seed production; (iii) undertaking field inspections for evaluation of growing crop in regard to maintenance of isolation distance, varietal purity, presence/absence of admixture, presence of objectionable weeds, diseased plants and overall quality evaluation; (iv) drawing samples and analysing for seed quality evaluation; (v) carrying out bulk inspection and checking homogeneity of the bulk and comparing with the sample inspected; (vi) carrying out control plot testing and grow-out tests as needed; and (vii) grant of certificate and tags for quality seeds.
+
+The genetic purity of seed is thus assured if the certification agency has approved the seed. Seed certification implies that the crop and seed lot have been duly inspected and that these meet both field and seed standard requirements of good quality seeds. Several large private companies have their own internal system of ensuring quality.
+
+1293
+
+To ensure production and sale of genuine planting material of improved fruit varieties in sufficient quantities to meet requirements, there is an urgent need to modernize fruit nurseries with effective quality control. Spread of poor quality planting material through private nurserymen poses a great problem to horticulture industry. Quality standards of individual horticultural crops are under development. At present, only a few states, such as Punjab, have Fruit Nursery Act in force, and people in the state are required to obtain license from the state government for establishment of a fruit nursery. Others states largely do not have any such system for regulating quality and sale of planting material.
+
+The concept of mandatory registration of all seeds for sale is envisaged to be introduced through the revision of seed law. Thus, all seed and planting material for marketing, whether domestic or foreign, will have to be registered. This is a significant change from the existing law, which sought to regulate quality of only a limited number of notified varieties. Similarly, all registered varieties will be recorded in a National Register of Seeds database. Registration will be granted for new varieties for a period of 15 years in the case of annual and biennial crops and 18 years for long duration perennials. Seeds, including genetically modified seeds, need to be correctly labelled on their containers. Furthermore, seed producers, seed processing units, seed dealers and horticulture nurseries all have to be registered with the respective state government where they operate.
+
+International seed quality assurance
+
+In the international trade, the USA, the Netherlands, France and Brazil are the major seed-exporting countries. International seed trade depends on seed-quality assurance from seed-exporting to seed importing countries. International seed quality assurance is facilitated mainly by OECD (Organization of Economic Co-operation and Development), Seed Certification Schemes and ISTA (International Seed Testing Association) Certificates.
+
+ISTA certificates: International Seed Testing Association (ISTA) was founded in 1924 for ensuring uniformity in seed testing and determining seed quality testing methods. The ISTA rules for seed testing are followed all over the world. The ISTA has a system of referee testing by which participating centres can get appraisal of their strength and shortcomings. The ISTA distributes standardized international certificates on behalf of international seed trade organizations. The types of ISTA certificates, as marks of seed quality, are as given below.
+
+Orange Certificate: It is given when official sampling and testing is done in the same country
+
+Green Certificate: It is given when the lot is sampled in one country and analysed in the another country
+
+Blue Certificate: It is given when the test results relate to the submitted sample, which is not officially sampled
+
+These certificates are internationally accepted, and they facilitate seed trade. OECD seed certification schemes: Organization of Economic Co-operation and Development (OECD) has developed seed schemes for various crops. The OECD Scheme for varietal certification for forage crops was developed in 1953, which started functioning in 1962. The OECD Seed Schemes have been developed for cereals,
+
+1294 HANDBOOK OF AGRICULTURE
+
+sugarbeet, forestry and vegetable seeds. OECD Vegetable Scheme was established in 1971 for both certified and standard or quality seed. In contrast to the certification of seed, quality of the standard seed is entirely the supplier's responsibility and there are no field or plot requirements for previous cropping, isolation etc.
+
+These schemes aim to encourage the use of high quality seed in the participating countries. The schemes authorize the use of labels and certificates for seed produced and processed for international trade according to the agreed principles. The schemes are open to all OECD countries and also to the member countries of the United Nations. India obtained membership of OECD in July 2008.
+
+The schemes include only those varieties that are distinct and have acceptable value at least in one country. Each member country must keep an official list of varieties, which is published and revised annually. Every year, a list of varieties eligible for certification is compiled. The accepted generation system of multiplication is breeder to pre-basic to basic to certified seed. All certified seed so produced must be related directly to one or more generations of authentic basic seed.
+
+The main factor determining the standard of certified seed is the varietal purity assurance of the basic seed. Satisfactory conditions for the production and processing of basic and certified seeds are ensured and verified by field inspection and field test. Field tests are conducted to ascertain that the characters of the varieties remain unchanged in the process of multiplication. These tests enable and ensure the varietal purity of new seed lots produced. The seed may be produced in the country of origin or in another country under the control of Designated Authority (DA) for certification. There exists a close co-operation between breeders and DA for seed certification of the participating countries, particularly when seed multiplication takes place outside the country or region.
+
+Plant breeders' rights and their implications in seed production
+
+Varieties of crops can have proprietary or intellectual property rights (IPRs) on them through either patents or plant variety protection or a combination of both. India has its own sui generis system of plant variety protection. The Indian legislation is entitled Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001. Salient features of the legislation are discussed here.
+
+There is a provision for an Authority and a Standing Committee on farmers' rights. A National Register of plant varieties shall be maintained. Criteria for protection are novelty, distinctiveness, uniformity and stability (DUS). The variety should have a single and distinct denomination. Duration of the protection shall be 18 years for trees and vines, 15 years from the date of notification for extant varieties, and 15 years in other cases. A variety derived from an initial variety can be registered or protected. For such essentially derived variety (EDV), authorization by the breeder of the initial variety to the breeder of the EDV shall be needed on mutually agreed terms and conditions.
+
+The breeder (or his successor, agent, licensee) would have the rights to produce, sell, market, distribute, import or export the variety. Researchers shall have rights to use plant variety for experiment or research or as an initial source of variation for the purpose of creating other varieties excepting repeated use of a protected variety for commercial production of another variety.
+
+1295
+
+SEED PRODUCTION AND TECHNOLOGY
+
+Farmers are entitled to save, use, sow, re-sow, exchange, share or sell his farm produce, including seed of a protected variety. However, farmers will not be entitled to sell branded seed of a protected variety. The Act provides for recognition of the role of the traditional communities in conserving and preserving genetic resources of landraces and wild relatives. There shall be a compensation for contribution of village or local communities in evolution of a variety available through a National Gene Fund in the prescribed manner and through suitable schemes.
+
+Transgenics, the genetically modified (GM) varieties that have introgression of transformed genes in them through recombinant DNA-technology, have already entered the Indian agriculture. The first genetically modified (GM) crop in India was released in the form of Bf-cotton hybrids during 2002. Technologies that prevent germination of seeds of the produce are not permitted in India. Such genetic use restriction technology (GURT) including terminator technology are not allowed. No variety of any genera or species that involves any technology injurious to the life or health of human beings, animals or plants shall be registered.
+
+The protection of plant varieties would make the varieties or kinds and their production a proprietary endeavour. This is expected to bring about a change in seed production modes. The seed, especially of high-volume, low value crops, has yet been largely in the public domain. The Protection of Plant Varieties and Farmers’ Rights Act, other IPR (intellectual property rights)-regulatory systems such as geographic indication (for Basmati rice), bio-diversity, biotechnology or transgenics etc. are, however, going to change the present scenario.
+
+Perspective
+
+A change in seed production mode is on the anvil owing to new emerging trends involving (i) transgenics or GM crop varieties, (ii) IPRs, which are making seed increasingly a proprietary item, (iii) globalization of seed-production and supply systems, (iv) advent of new seed technologies, (v) consumer demand for making seed as a ready-to-use package of inputs, (vi) increasing privatization, (vii) increasing corporate and commercial management of even the public sector institutions.
+
+A significant feature of the current Indian agricultural economy is that where appropriate institutional alternatives were available the small farms were as competitive as the large farms. In case of seed sector, this has given rise to seed cooperatives which are managed by those farmers who are seed producers. Total factor productivity (TFP) growth in the Indian fisheries sector was remarkable during the 1990s. The value of the fisheries sub-sector has witnessed steady increase in its share in the agricultural output and both demand and supply of fish-seed have increased and are poised to increase further. Crop sector is steadily diversifying with a strong shift towards fruits and vegetables. Share of fruits and vegetables production increased from 17% in the beginning of 1990s to 25% in 2006. This has led to increased demand of seed and planting material of vegetables/fruits. According to Seed Association of India, total overall quantity of certified/quality seed of vegetables has been estimated at 41,700 tonnes and that of potato alone at 91,100 tonnes at present, and the projected requirement of seed for potato and other vegetables by 2020 has been estimated at 3.25 million tonnes and 68,000 tonnes, respectively.
+
+Indian scenario has also experienced network projects encompassing plurality and
+
+1296
+
+breadth of the system. Projects namely Mega Seed Project of the ICAR along with other schemes have greatly helped in enhancing the supply of quality seed to the farmers. Mega Seed Project covers 85 centres, including 37 agricultural universities having components of seed production of various crops and fishes.
+
+The ICAR has successfully harnessed the molecular marker aided selection (MAS) tool for development of improved crop varieties and pyramiding of genes for stress tolerance/resistance. In rice (Improved Pusa Basmati 1 and Improved Samba Mahsuri) and pearl millet, some of the hybrids/varieties have been developed by using MAS tool.
+
+Genetically modified crops have come to stay in the country. The most recent developments in transgenics in cotton in India include (i) transgenic products with stacked genes, and (ii) deregulation of first four events of Bf cotton released in India, and (iii) development of Br cotton in the background of a stable cotton variety Bikaneri Nerma by public sector. The latter has opened avenues for the use of farm-saved seed of a transgenic crop variety for the first time in India.
+
+New tools and methods are poised to affect seed production including hybrid seed production. Synthetic seeds are going to be a realized possibility and will be used in certain crops/conditions. Transgenic male sterility systems, like barnase-barstar, are also coming up for hybrid-seed production. Fertility restorer genes have been cloned. Fixation of heterosis by apomixis is also being attempted.
+
+Varieties are now being characterized by not only distinguishing or diagnostic morphological characteristics but also by using biochemical and molecular markers as well as DNA-fingerprinting, which would help in staking claims of ownership on the variety in the new IPR-regime. The genetic purity as well as hybridity can be precisely checked using these tools. Electrophoresis and PCR- based technologies have been standardized for testing hybridity in a number of crops viz., paddy, cotton, sunflower, pearl millet, sorghum, castor etc. which are effective tools to assess genetic purity of hybrid seeds. Many protein- and DNA-based analytical techniques have been standardized that provide rapid and reliable alternatives to morphological (plant- based) characterization of plant varieties in a number of crops. For detection of transgenes, several PCR-based DNA kits, anti-serum based ELISA kits and lateral low assay kits are available.
+
+The Indian PPV&FR Act, 2001 provides for the protection of plant varieties, including the new genetically modified (GM) plant varieties as well as the essentially derived varieties. Plant varieties are not coverable under patent protection in India. Under the new IPR regime, even public sector agencies can legitimize the commercialization of the IPR-enabled products through suitable licensing arrangements and R&D partnerships with both private and other public sector agencies. National public good nature of the varieties/products can be maintained by giving non-exclusive licenses for seed production. A system of contractual production, sharing of rights, licensing and sub-licensing has already commenced, resulting in such linkages, that did not exist hitherto. The system has become more dynamic than ever, and desired changes are being swiftly effected accordingly.
+
+India is endowed with all kinds of agro-ecological situations to suit seed production of almost any crop. It is to be noted that for several crops, many developed countries do not have ideal climates for seed production. A bulk of such hybrid tomato seeds
+
+1297
+
+SEED PRODUCTION AND TECHNOLOGY 1297
+
+that are planted in the developed countries are produced in developing countries. We may greatly benefit from custom seed production for global agencies. With proper quality control, sanitation and phyto-sanitation, our seed export may also be increased. With the increasing use of information technology, new avenues of seed-sector promotion like E-commerce have been opened up. There are websites that, through the internet, give update status of prevailing availability, domestic and global prices, demands including global demands, and acceptable condition of trade and related aspects. It would be worthwhile to benefit from existing trade and trade-related networks and further strengthen them in order to build up a robust domestic seed sector and also to have an increasing share in global seed trade.

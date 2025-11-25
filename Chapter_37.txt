@@ -1,0 +1,1133 @@
+SOURCE_DOCUMENT: Chapter 37.pdf
+
+37. Forage Crops and Grasses
+
+Agriculture and animal husbandry in India are interwoven with the intricate fabric of the society in cultural, religious and economical ways as mixed farming and livestock rearing forms an integral part of rural living. Although the contribution of agricultural sector in the Indian economy is steadily declining (from 36.4% in 1982-83 to 18.5% in 2006-07), the agriculture and livestock sector still provides employment to 52% of the work force.
+
+Livestock provides draught power, rural transport, manure, fuel, milk and meat. Most often, livestock is the only source of cash income for subsistence farms and also serves as insurance in the event of crop failure. Further, global energy crisis will lead to utilization of livestock-based bioenergy as well as waste recycling for organic manure and organic forage production for quality animal products.
+
+India supports nearly 20% of the world livestock and 16.8% human population on a land area of only 2.3%. It is leader in cattle (16%) and buffalo (55%) population and has world’s second largest goat (20%) and fourth largest sheep (5%) population.
+
+The 17 Livestock Census (2003) has placed the total livestock population at 485 million and that of poultry birds at 489 million. Total population is expected to grow 1.23% in the coming years. The livestock population in terms of million adult cattle units is presented in Table 37.1.
+
+Source: Based on X Five Year Plan Document, Government of India.
+
+There is a shift in composition of livestock towards small ruminants due to natural resource degradation in arid and semi-arid regions and high growth in meat sector. Buffalos and goats are becoming more important in India.
+
+Demand for livestock products
+
+India’s milk production has grown from 43 million tonnes in 1983 to 101 million tonnes in 2006-07. India stands first in milk production besides being self-sufficient in meat and poultry, the livestock productivity is low, providing limited resource returns. Further, the consumption of milk, meat and eggs on a per capita basis is still below the recommendations of World Health Organization (WHO).The availability of milk per
+
+1354
+
+1354 HANDBOOK OF AGRICULTURE
+
+head per day in the country in only 178 g against the norm of 250 g. Similarly, the consumption of eggs and meat is only 35 and 800 g per head per year against the norm of 180 eggs and 11 kg respectively. Compared to productivity in other parts of the world, India’s livestock sector offers considerable scope for enhancement. Our cattle and buffalo produce less than 1,000 kg of milk per lactation as compared to 4,500 kg in Europe, more than 7,000 kg in the United States and 10,000 kg in Israel. The low productivity of livestock is a matter of concern. This is mainly due to inadequate supplies of quality feeds and fodder.
+
+Global trend in animal production indicates a rapid and massive increase in the consumption of livestock products. It is predicted that meat and milk consumption will grow at 2.8 and 3.3% per annum, respectively, in developing countries like India where the whole system of rural economy has revolved around livestock production.
+
+In the 11th Five-Year Plan (2007-2012), targeted growth in milk, meat and egg production has been projected at the rate of 5, 6 and 12%, respectively, to produce 130 million tonnes milk, 7 million tonnes meat and 95 billion eggs by 2012. In 2006-07, this sector contributed 101 million tonnes of milk, 51 billion eggs, 45 million kg wool and 2.3 million tonnes of meat.
+
+The human population in India is expected to reach over 1,400 million by 2025. The 27.8% urban population is poised to increase by over 58% by 2025. Urbanization has brought a marked shift in the lifestyle of people in feeding habits towards milk products, meat and eggs with resultant increase in demand of livestock products. Peri- urban livestock farming and emerging fodder markets are indicators of fast changing economic scenario in livestock sector.
+
+Forage and feed — demand and supply scenario
+
+The data/estimates of fodder production in the country vary widely. Fodder production and its utilization depend on the cropping pattern, climate, socioeconomic conditions and type of livestock. The cattle and buffaloes are normally fed on the fodder available from cultivated areas, supplemented to a small extent by harvested grasses and top feeds. Grazing and harvested grasses are the chief fodder source for equines, while camels usually subsist on top feeds, either browsed or lopped from shrubs and trees. The three major sources of fodder supply are crop residues, cultivated fodder and fodder from common property resources like forests, permanent pastures and grazing lands.
+
+At present, the country faces a net deficit of 61.1% green fodder, 21.9% dry crop residues and 64% feeds. Supply and demand scenario of forage and roughage is presented in Table 37.2. The deficit and supply in crude protein (CP) and total digestible nutrients (TDN) are given in Table 37.3.The situation is further aggravated due to increasing growth of livestock particularly that of genetically upgraded animals. The available forages are poor in quality, being deficient in available energy, protein and minerals. To compensate for the low productivity of the livestock, farmers maintain a large herd of animals, which adds to the pressure on land and fodder resources.
+
+Due to ever-increasing population pressure of human beings, arable land is mainly used for food and cash crops, thus there is little chance of having good-quality arable land available for fodder production, unless milk production becomes remunerative to the farmer as compared to other crops. To meet the current level of livestock
+
+1355
+
+FORAGE CROPS AND GRASSES 1355
+
+production and its annual growth in population, the deficit in all components of fodder, dry crop residues and feed has to be met from either increasing productivity, utilizing untapped feed resources, increasing land area (not possible due to human pressure for food crops) or through imports.
+
+Source: Based on X Five Year Plan Document, Government of India. Figures in parentheses indicate the deficit in percentage
+
+CP, Crude protein; TDN, total digestible nutrients.
+
+Regional imbalances in fodder availability
+
+The regional deficits are more important than the national deficit, especially for fodder, which is not economical to transport over long distances. The pattern of deficit varies in different parts of the country. For instance, the green fodder availability in Western Himalayan, Upper Gangetic Plains and Eastern Plateau and Hilly Zones is more than 60% of the actual requirement. In Trans Gangetic Plains, the feed availability is between 40 and 60% of the requirement and in the remaining zones, the figure is below 40%. In case of dry fodder, availability is over 60% in the Eastern Himalayan, Middle Gangetic Plains, Upper Gangetic Plains, East Coast Plains and Hilly Zones. In Trans Gangetic Plains, Eastern Plateau and Hills and Central Plateau and Hills, the availability is in the range of 40-60%, while in the remaining zones of the country the availability is below 40%.
+
+1356 HANDBOOK OF AGRICULTURE
+
+1356
+
+Role of coarse grain cereals as crop residues
+
+In animal feed supply, coarse cereals have a major role and four major cereals, viz. maize, barley, sorghum and pearl millet, account for about 44% of the total cereals. Production of these cereals is stagnating at around 30 million tonnes. Of the total coarse cereals, maize accounts for almost three-fourths and barley accounts for 15%. Sorghum and millets account for 11%. India’s production of these cereals is stagnating around 30 million tonnes, which is less than 3% of the world’s production. Most of the coarse cereals in the developed countries are mainly used for cattle feed and some of the cereals like barley are used in breweries. However, in India their use is mainly for direct consumption mostly by poor in the villages. Many minor millets, viz. finger millet / ragi (Eleusine coracana), little millet (Panicum miliare), kodo millet (Paspalum scrobiculatum), foxtail millet (Setaria italica), barnyard millet (Echinochloa frumentacea), proso millet (Panicum miliaceum), and savan millet (Echinochloa colona), are also important for fodder. The role of food grains and especially of the coarse cereals in providing the balanced nutrition to the livestock for ensuring higher productivity needs no emphasis.
+
+Area under fodder production
+
+Fodder crops are the plant species that are cultivated and harvested for feeding the animals in the form of forage (cut green and fed fresh), silage (preserved under anaerobic condition) and hay (dehydrated green fodder). The total area under cultivated fodders is 8.3 million ha on individual crop basis. Sorghum amongst the kharif crops (2.6 million ha) and berseem (Egyptian clover) amongst the rabi crops (1.9 million ha) occupy about 54% of the total cultivated fodder cropped area (Table 37.4). The area under permanent pastures has been declining over the years and the trend could well continue in the future. Due to overgrazing, the productivity of the pastures has been declining too. The area under fodder crops has almost remained static for the last
+
+1357
+
+3-4 decades. This is mainly for want of proper land cover data reporting. However, the area under fodder crops has increased in peri-urban areas that have developed as milk sheds under intensive dairy production systems during the past years
+
+Sizeable amount of fodder demand is fulfilled through vast grasslands and rangelands (Table 37.5). Any positive or negative change in its position will have impact on several environmental issues. Similarly, the increase in livestock population will also affect the availability of organic wastes which in turn can boost the agricultural production.
+
+Biodiversity in forage resources
+
+Indian sub-continent is one of the world’s mega centres of crop origin and crop plant diversity, as it presents a wide spectrum of eco-climate ranging from humid tropical to semi-arid, temperate to alpine.
+
+The Indian gene centre possesses a rich genetic diversity in native grasses and legumes. There are reports of 245 genera and 1,256 species of Gramineae of which about 21 genera and 139 species are endemic. One-third of Indian grasses are considered to have fodder value. Most of the grasses belong to the tribes Andropogoneae (30%), Paniceae (15%), and Eragrosteae (9%). Similarly, out of about 400 species of 60 genera of Leguminosae, 21 genera are reported to be useful as forage. The main centers of genetic diversity are peninsular India (for tropical types) and North-Eastern Region (for sub-tropical types) besides some micro-centres for certain species.
+
+Major forage genera exhibiting forage biodiversity include legumes like Desmodium, Lablab, Stylosanthes, Vigna, Macroptelium, Centrosema, etc.; grasses like Bothriochloa, Dichanthium, Cynodon, Panicum, Pennisetum, Cenchrus, Lasiurus, etc. and browse plants such as Leucaena, Sesbania, Albizia, Bauhinia, Cassia, Grewia, etc. These genera besides many others form an integral part of feed and fodder resources of the country. The country is further endowed with the rich heritage of traditional know-how of raising, maintaining and utilizing forage, feed and livestock resources.
+
+Forage crop improvement
+
+The opportunity for area expansion under fodder crops seems to be very remote and the fodder yields have reached a plateau in most of the fodder crops. However, a great scope exists to increase forage availability through strengthening research and
+
+1358
+
+1358 HANDBOOK OF AGRICULTURE
+
+development activities in grasslands/grazing lands/rangelands. The future strategies should focus on developing dual type grain-cum-fodder crop varieties, stay green QPM maize varieties, application of biotechnology to evolve genetically engineered improved varieties tolerant to abiotic and biotic stresses and enhancing forage productivity in berseem (Egyptian clover), lucerne, oat, forage sorghum, range grasses and legumes as well as fodder trees, processing and nutrient enrichment of low quality roughage and designing economic feeding systems for different categories of livestock under different rearing systems.
+
+Forage crop improvement requires a long-term and multidisciplinary approach involving several disciplines, viz. plant breeding, genetics, agronomy, pathology, nematology, entomology, physiology, biotechnology and animal nutrition, etc. A thorough understanding of species relationships, chromosomal constitution, genome structure, putative parentage and extent of possible gene exchange/ recombination and nature of polyploidy is also required for the breeding programme. The strategy for various crops varies as per the problems encountered in particular species.
+
+Breeding objectives
+
+The major breeding objectives include: (i) high dry matter yield (ii) better quality components— crude protein content, in-vitro dry-matter digestibility, low percentage of neutral detergent fibre and toxicity, (iii) high response to inputs, (v) tolerance to adverse soils- acidic/saline soils, tolerance to extreme weather conditions — high rainfall/ low moisture regime, (v) resistance to diseases and insect-pests, (vi) greater persistence- summer persistence in annual multicut forages, e.g. berseem and exploitable regeneration ability in perennial multicuts e.g. lucerne, (vii) greater aggressiveness/ fast growth and competing ability or complementation with the companion crop, for example, oats competes well in an intercropping of oats + berseem and yield better in early cuts or first cut and subsequently it allows berseem to flourish over and above its own production potential.
+
+Limitations/constraints
+
+Forage crop improvement has its own limitations. Many aspects related to forage breeding, plant genetic resources, plant-protection measures, forage quality, palatability and seed production need to be appropriately addressed adopting an integrated approach. Some of the general constraints/limitations in forage crop improvement and production are as follows:(i) non-availability of sufficient quantity of quality fodder seeds as the crop for fodder is harvested before seed set and also the non-availability of dual-purpose varieties, (ii) non-synchronous flowering /anthesis and spikelet maturity, abscission of spikelets after maturity in grasses and the presence of large number of sterile glumes in grasses, (iii) overlapping of vegetative and reproductive growth phases, uneven pod setting, non-synchronous maturity and seed shattering in forage Jegumes and (iv) apomictic nature of most of the tropical forage grasses that limits their genetic improvement
+
+Biotechnological approaches of forage crop improvement
+
+Tremendous technological development in the recent past has equipped the plant
+
+1359
+
+scientists with enormous options to tailor the plants according to need. The improvement of forage crops through biotechnological approach has started in late eighties has made remarkable headway at the global level. The various biotechnological tools include molecular techniques for understanding the genetic structure of the plants, inserting foreign genes directly into the plant genome, in-vitro regeneration of plants from any plant part.
+
+A number of techniques such as embryo rescue, micro-propagation, androgenic haploid plant production and creation of novel variations help at one or more steps involved in conventional breeding methods. These techniques save time and energy required for conventional methods. Further, the plants developed through these techniques do not attract attention of those who are against the genetically modified organisms. The embryo-rescue technique has well been exploited in Lolium-Festuca complex for production of hybrids. Lolium- Dactylis hybrids and many interspecific hybrids in Trifolium have also been developed by this method. Progress in developing interspecific hybrids of berseem at the Indian Grassland and Fodder Research Institute (IGFRI) has also been made. Regeneration of the plantlets from reproductive parts such as anther results in haploid plant production.
+
+Hence, the process is very effective in developing plants with double set of genome in the otherwise tetraploid tropical grasses.
+
+Biotechnological approach offers opportunities for creation of novel variations in forages which as such are not possible through conventional methods. The various means of creating variation in forage grasses and achievement are somaclonal variation, somatic hybridization, genetic transformation, etc. Artificial introduction of some foreign gene in the plant genome is genetic transformation. Insertions of genes may be by chemical, electrical, physical or micro-projectile transfer. In grasses, the success achieved so far has been limited and successful transformation has been reported only in a few perennial grasses, viz. Lolium, Festuca, Agrostis , Dactylis, Paspalum and Dichanthium species.
+
+There are several molecular techniques, viz. restriction fragment length polymorphism (RFLP), amplified fragment length polymorphism (AFLP), random amplified polymorphic DNA (RAPD) and isozymes that may be used from time to time for characterization of germplasm, cultivar identification, detection of hybrids and genetic mapping, quality trait loci (QTL) identification and gene tagging. The molecular characterization of agriculturally important plants including forage crops and weeds is equally important because, through the transformation techniques, the genes identified from any plant or living organism can be transferred to the target species on account of similarity in DNA sequence across various species and genera. Characterization of germplasm is one of the most important aspects, especially in the context of the changing scenario with regard to Plant Biodiversity Act. Presently, forage germplasm characterization is mainly on isozyme basis. There is a need to classify forage germplasm for the two objectives — firstly for developing DNA fingerprints and secondly for identifying the duplicates in the germplasm.
+
+It is desirable that the forage crop varieties are also subjected to molecular characterization in order to avoid any dispute regarding use of germplasm in the coming
+
+1360
+
+years. The major problem encountered with these molecular markers of the forage species is that most of the cultivars are synthetic populations and variability exists within the population. However, the efforts have been made for characterizing the varieties based on RAPD, RFLP markers and discrimination between the varieties can be based on gene frequencies.
+
+Genetic mapping and gene tagging in forage specics have not been attempted much. For single gene control traits, gene tagging is important but in case of forages most of the desirable agronomic traits are multi-genic and hence are difficult to tag. There are also opportunities for improving the amino acid balance of the plants used in intensive feeding production systems. At the Commonwealth Scientific and Industrial Organization (CSIRO), Australia, incorporation of gene normally expressed in sunflower for sulfur amino acid to lupin (deficient in sulfur amino acid) increased sulfur amino acid content of transgenic lupin grain, resulting into higher animal productivity through usage of lupin meal.
+
+Another important area needing attention of biotechnologist is the development of stress tolerance, both biotic and abiotic, in fodder crops and range species through gene pyramiding of identified QTLs. Encouraging results have been obtained in different crops in identifying the genes and regulatory elements. Selection of germplasm for salinity tolerance is very important for efficient utilization of such degraded lands. The germplasm can be screened in vitro at two levels: (i) seedling level and (ii) tissue or cell level. /n-vitro studies have shown significant interspecific and intraspecific variation among legumeand clover species for salt tolerance. Intracultivar variation had been identified in lucerne (Medicago sativa) and white clover (7. repens). In case of post- fertilization incompatibility barriers, embryo rescue is most effective and successful technique.
+
+In grass breeding, identification of genes controlling apomixis is an area that can pay good dividends. Identification and cloning of these genes can well be patented and can also be used in transferring in other cross-pollinated crops for fixing heterosis and thus save on the cost on account of producing hybrid seeds every year. Although this aspect is receiving global attention, success has been very limited till date. Another important aspect is the identification of sexual lines in grasses. There is need to develop reliable molecular techniques for screening of the grass species for the presence of sexuality, as it would accelerate the breeding process in such grasses as many of these plants could be used in crossing. The plants with better agronomic traits and apomixis can be selected and advanced for developing better varieties,
+
+Improved varieties
+
+Systematic forage crop breeding programmes at the research institutions under the Indian Council of Agricultural Research (ICAR) and the State Agricultural Universities (SAUs) have led to the development and release of a large number of improved varieties in different forage crops suitable for different agro-ecological zones. These varieties resulted in substantial increase in the productivity and production of forages in the country. The improved varieties released/notified during the past three decades are given in Table 37.6.
+
+1361
+
+1362
+
+(Table 37.6 continued)
+
+FORAGE CROPS AND GRASSES
+
+(Table 37.6 continued)
+
+1364 HANDBOOK OF AGRICULTURE
+
+1364
+
+(Table 37.6 continued)
+
+Cultivated fodder - grasses
+
+(Contd...)
+
+1365
+
+FORAGE CROPS AND GRASSES
+
+(Table 37.6 continued)
+
+1366
+
+(Table 37.6 concluded)
+
+H.P., Himachal Pradesh; M.P., Madhya Pradesh; U.P., Uttar Pradesh
+
+Fodder production systems
+
+Intensive irrigated systems
+
+Efficient utilization of limited land resources and other agricultural inputs for obtaining the best from the harvest in the form of herbage per unit area and time is the primary objective of intensive forage production system. An ideal system, besides giving higher yields and making the maximum use of available resources, must have favourable effect on soil productivity and provide sustainability to the production system. In fact, intensive cropping is the only alternative to boost forage yield from irrigated lands and overall productivity which covers about 30% of the cultivated area in the country. The multicut nature and flexibility in manipulating the duration for several forage species are desirable traits to increase cropping/harvesting frequency.
+
+Multiple cropping
+
+It consists of growing 3 - 4 appropriate annual forage crops as sole crops in mixed stands (graminaceous and leguminous) in a calendar year to improve herbage quality substantially and to enhance forage productivity per unit area. It also helps maintain soil fertility over long period due to addition of root organic matter. The degree of its success depends upon agro-climatic conditions, crop and soil management practices followed and availability of inputs. Selection of appropriate crops/varieties and adoption of scattered sowing and harvesting schedules ensure the regular supply of the quality forage.
+
+1367
+
+Year-round forage production through combination of perennial and annual forages
+
+Overlapping cropping systems developed at the Indian Grassland and Fodder Research Institute (IGFRI), Jhansi, to fulfill the needs of dairy farmers for green fodder throughout the year and for small farmers requiring maximum forage from a piece of land. It consists of raising berseem, inter-planted with hybrid Napier in spring and intercropping the inter-row spaces of the grass with cowpea during summer after the final harvest of berseem (Table 37.7). This system was found superior to multiple crop sequences both in terms of production and economic returns. The hybrid Napier could be successfully replaced with relatively soft and palatable perennial grasses like Setaria and guinea grass and berseem with lucerne wherever required.
+
+Crop sequence
+
+Association of perennial grass and legume components
+
+Attempts were made to select suitable ideotypes of perennial grass and forage- legume components in order to reduce the necessity of repeated sowing and tillage and to economise the use of irrigation water in the system. This resulted in the identification of an erect, leafy and compact hybrid napier-IGFRI No. 3 and K 8 variety of subabul (Leucaena leucocephala). These crops when grown together in alternate paired rows (2:2) yielded around 200 tonnes of nutritious green forage/ha/year. Such types of system are less sensitive to fluctuations in soil moisture and are more suited to southern region where both the components grow throughout the year.
+
+The associated legumes improve the herbage quality in terms of protein and minerals and help to economise on the use of nitrogenous fertilizers. Moreover, such production systems are less expensive and offer continuous employment potential. The component crops of the system can be changed depending upon inputs availability and yield indices of the crops in a region. Similarly, cultural management practices like crop geometry, spacing, planting pattern, etc. could be adjusted to facilitate use of appropriate farm machinery and effective utilization of irrigation water.
+
+Intensive forage sequences recommended for different regions
+
+The intensive cropping systems when managed properly using modern techniques of soil and crop management are able to yield 180 - 300 tonnes of green fodder (30 - 55 tonnes dry fodder) per ha/year. Some of the intensive cropping systems have been suggested for different regions.
+
+North Zone
+
+* Maize + Cowpea — Sorghum + Cowpea (two cuts) — Berseem + Mustard.
+
+* Sudan grass + Cowpea — Maize + Cowpea — Turnip — Oats (two cuts).
+
+1368 HANDBOOK OF AGRICULTURE
+
+* Hybrid Napier or Sefaria inter-planted with cowpea in summer and Berseem in winter (9 -10 cuts/year).
+
+* Teosinte + Cowpea (two cuts) — Carrot — Oats + Mustard/Senji (two cuts).
+
+Western and Central Zone
+
+* Bajra + Guar (Clusterbean) (two cuts) — Annual Lucerne (6 cuts).
+
+* MP Chari + Cowpea (2 cuts) - Maize + Cowpea - Teosinte + Cowpea (2 cuts).
+
+* Hybrid Napier or Guinea or Setaria grass inter-planted with Cowpea in summer + Berseem in winter (8-9 cuts/year).
+
++ Hybrid Napier or Guinea or Setaria grass interplanted with Lucerne (8-9 cuts/ year).
+
+Southern Zone
+
+* Sorghum + Cowpea (3 cuts) — Maize + Cowpea — Maize + Cowpea.
+
+Hybrid Napier or Guinea or Setaria grass inter-planted with Lucerne (8-9 cuts) or Hybrid Napier + Subabul / Sesbania (9-11 cuts/year).
+
+* Sudan grass + Cowpea (3 cuts) — M.P. Chari + Cowpea (three cuts).
+
+* Para grass + Centro (Centrosema pubescens) (9-11 cuts/year).
+
+Eastern Zone
+
+* Maize + Cowpea — Teosinte + Rice bean (2 cuts) — Berseem + Mustard (3 cuts).
+
+* M.P. Chari + Cowpea — Dinanath grass (2 cuts) — Berseem + Mustard (3 cuts).
+
+* Para grass + Centrosema pubescens (8-9 cuts/year).
+
+* Hybrid Napier or Setaria grass inter-planted with Subabul or Common Sesban
+
+* (Sesbania sesban) (9-10 cuts/year).
+
+Principles and practices of growing important irrigated fodder crops
+
+Crop production is concerned with the utilization of plant morphological and physiological responses within an agro-climatic environment to produce maximum yield per unit area and time. The development of crop production technologies is the master key to unlock the yield potential of crops. Fodders as a group of crops differ from food and commercial crops in several aspects; the principles and practices of their cultivation vary accordingly.
+
+Water is the most important input for crop production especially in fodder crops where the maximum vegetative growth is desired within a short period of time. Provision of irrigation allows the maximum utilization of resources .for intensive forage production, which is very important in our country with small land holdings. There are certain fodder crops like berseem, lucerne, turnip, etc. which, can be grown with adequate moisture while in others the production potential can be realized fully with irrigation.
+
+A combination of diversified soil types, wide range of climatic conditions (cloudy to sunshine, hot to cold, dry to rainy) and a large group of forage species suited to different agro-ecological conditions and input situations, makes a congenial environment for intensive forage production programme in our country. The cultivated fodder crops can be grouped as follows:
+
+Cereal fodders: Cereals are the crop plants belonging to grass family Gramineae and grown for their edible starch seeds botanically known as ‘caryopsis’. Cereal fodders
+
+1369
+
+and grasses are characteristically determinate in growth habit and their herbage quality starts deteriorating after flowering. Cereal fodders like maize, sorghum, pearl millet and oats provide energy-rich herbage to livestock. These have wider adaptability and variability in terms of growth, regeneration potential, yield and quality of herbage.
+
+Legumes: The word legume is derived from the Latin word “Legre” (to gather) because the pods have to be gathered or picked by hand as distinct from ‘reaping’ the cereals. The plants belong to family Leguminoseae and having nitrogen fixing nodules on their roots. Legumes by and large are indeterminate in growth and thus, maintain quality traits over longer periods. The leguminous fodders have special significance because of high herbage protein and partial independence from soil for their nitrogen needs.
+
+Other crops: Besides these important groups of fodders, root crops (turnips, carrots and fodder beets), Brassica spp. and vetches are used as supplementary source of feed to the livestock. Due to early bulking capacity and short duration, these are often gown as catch crops.
+
+Salient features of forage crops
+
+The knowledge of salient features of forages would be useful in understanding the techniques of their management and tailoring the cultural and fertilizer schedules for increased forage production. The important characterstics are: (i) short growth period, (ii) grown in closer spacing with high seed rate, (iii) dense stand to smother weeds and prevent soil erosion, (iv) improve soil health through addition of higher amounts of organic residues in the soil, (v) crop duration can be adjusted and risk due to aberrant weather conditions minimized, (vi) high persistency and regeneration capacity reduce the need for frequent sowing and tillage, (vii) crop management differs with the purpose of growing forages and mode of their utilization, (viii) wider adaptability with capacity to grow under stress conditions, (ix) high nutrient and water requirement under intensive cropping, (x) multicut nature with capacity to provide regular income and employment, (xi) economic viability depends on secondary production (livestock products), (xii) storage, transport, processing and conservation are cumbersome, (xiii) shy seed producer, poor harvest index and narrow seed multiplication ratio, and (xiv) the cost of cultivation goes down in subsequent cuts in case of multicut and/or perennial forages as well as in forage- cum-seed crops.
+
+Package of practices
+
+The forage production per unit area is a consequence of the interactions between genotypes and environment. A crop environment may be regarded as having two components, the gross environment, which takes into account the environmental factors affecting crop growth, and the current environment, which takes into account the general soil and atmospheric conditions outside the crop and also the changes caused by the plant community. However, the phenomenal increase in productivity is possible mainly through better varieties, seeds, fertilizers and agronomic technology. The package of practices of some important fodder crops (rainy season, winter season and perennials) are elaborated in Table 37.8.
+
+1370
+
+1371
+
+Oat (Avena sativa)
+
+Oat is one of the most important cereal fodder crops of rabi season in North, Central and West Zone of the country. It provides soft and palatable fodder rich in crude protein (10-12%). The chemical composition of green fodder varies with the stage of harvest. Oat is also used as straw, hay or silage. Its grain makes a good feed particularly for horses, sheep and poultry.
+
+Climatic requirement: Oats are well adapted to cooler environment. Its optimum growth is attained in sites with 15-25° C temperature in winter with moist conditions. Although, it can tolerate frost up to some extent but its fodder yield and quality is reduced due to hot and dry conditions.
+
+Soil: Oat grow the best in loam to clay loam soil with adequate drainage. They produce satisfactory yields on heavy or light soils with proper moisture. It can be grown under moderate acidic or saline conditions also.
+
+Seed rate and sowing: A seed rate of 60-70 kg/ha is recommended for uniform stand in oats. Low tillering varieties should be sown with 20-25 cm row spacing while higher tillering type should be sown 30 cm apart. Sowing of seed should preferably be done in line with seed drill or pore/kera behind the plough. Sowing time varies from one location to other. Normally, oat sowing should be started in early October to end of November in North-West to East Zone of the country. For regular supply of fodder from December to March, scattered sowing is also advocated.
+
+Manures and fertilizers: The requirement of oats for manures and fertilizers is less as compared to other rabi cereals. It depends upon number of cuts taken. In general, addition of 20-25 tonnes of farmyard manure (FYM) before 10-15 days of sowing with the application of 80 kg N, 40 kg P,O,/ha to single cut and a dose of 120 kg N, 40 kg K,O/ha to multicut varieties attains good crop growth. In double and multicut varieties, top-dressing of 40 kg N/ha after first cut and two equal split doses of 40 kg N/ha after first and second cut should be done respectively.
+
+Irrigation: Oats require 4-5 irri gations including the pre-sowing irrigation. If soil is dry, first irrigation is given before preparing the seedbed. Subsequent irrigations are given at intervals of about one month mostly after each cut. Timely irrigation improves the tillering remarkably, which contributes to higher forage ield. /
+
+Weed control: Oat is infested with winter season grassy and broad-leaved weeds mostly found as in wheat. Effective control of weeds in oats can be obtained with weeder cum mulcher at 4 week crop stage followed by application of 2, 4-D @ 0.37 kg a.i./ha at 6 weeks crop stage.
+
+Harvesting: Proper stage of harvesting determines the herbage yield and quality of Oat, The harvesting of single cut oat varieties is done at 50% flowering (about 50-55 days of sowing). In double cut varieties, first cut should be taken at 60 days followed by second cut at 50% flowering stage. However, in multicut varieties, first cut is recommended at 60 days, second cut at 105 days and third cut at 50% flowering. For seed production, the crop should be left for seed after the first cutting, which should be taken 50-55 days after sowing. For good re-growth, first cut should be taken 8-10 cm above the soil surface.
+
+Yield: The average green fodder yield from single, double and multi-cut varieties of oat ranges from 30-45, 40-55 and 45-60 tonnes/ha respectively. If crop is left for
+
+1372 HANDBOOK OF AGRICULTURE
+
+seed, 25 tonnes/ha green fodder from first cut and 2.0-2.5 tonnes/ha seed and 2.5-3.0 tonnes/ha straw is obtained.
+
+Sorgum (Sorghum bicolor)
+
+Sorghum as a green foliage is very popular in most parts of north India and nearly 2.5 million ha area is planted during kharif. In summer, under irrigated conditions, multicut sorghum is very popular. Forage sorghum is characterized by quick growth, high biomass accumulation, and dry matter content and wide adaptability beside drought withstanding ability. It is also suitable for silage and hay making.
+
+Varieties: There are improved varieties and hybrids capable of yielding on an average 50 tonnes/ha in single cut varieties and up to 70 tonnes/ha in multi cut varieties. The dual-purpose varieties and hybrids, CSV 15 and CSH 13 are suitable for both forage and grain production. A promising dual-purpose kharif variety SPV 1616 was released as CSV 20 for the states of Andhra Pradesh, Tamil Nadu, Maharashtra, Karnataka, Madhya Pradesh and parts of Gujarat. It has distinct superiority in fodder yield.An early high-yielding hybrid SPH 1290 has been released as CSH 23 for kharif season for the Zones 2 and 3 during 2005. This hybrid matures early (103 days) and is superior to the early checks, CSH 14 and CSH 17 for grain and fodder yields. It is also relatively less susceptible to shoot fly, stem-borer and grain mold compared to the checks. A forage sorghum hybrid CSH 20 MF was released in 2005 by GBPUA&T, Pantnagar, for tan, dark green heavy foliage with green midrib. This has medium thick juicy stem and resistant to foliar diseases.
+
+Field preparation and sowing: Normally 2-3 harrowing are required before taking up planting as rainfed crop and sown with the onset of monsoon. Seed rate of 12-15 kg/ha for singlecut and 20-25 kg/ha for multicut sorghum is required. Optimum spacing is 45 cm between rows for multicut sorghum and 30 cm for single cut sorghum. As regards fertilizer application 100 kg N and 60 kg P,O,/ha for multicut sorghum and 80 kg N and 40 kg P.O, /ha for single cut sorghum is recommended. In forage sorghum, the mixed cropping is also practiced with fodder legumes, viz. cowpea and cluster- bean, in 2:1 ratio to improve fodder yield and quality,
+
+Harvesting: Since HCN is present in sorghum especially in early stages up to 40- 50 days, proper care has to be exercised during harvesting for avoiding HCN poisoning. Single cut varieties are harvested at 50% flowering to full bloom stage and in multicut varieties the first harvest is taken at 55 days after sowing and subsequent cuts at 40 days interval.
+
+Pearl millet (Pennisetum glaucum)
+
+Pear] millet is the fourth most important grain crop next to rice, wheat and sorghum. The crop is cultivated for grain as well as fodder in the semi arid tropical regions of Africa and Asia including India. In India, annual planting area is around 10 million ha producing nearly 7.5 million tonnes of grains. It is grown mainly in Rajasthan, Maharastra, Gujarat, Uttar Pradesh, Haryana, Karnataka, Tamil Nadu and Andhra Pradesh.
+
+Pearl millet traditionally is an indispensable component of dry farming system. With the advent of pearl millet hybrids in mid sixties, its cultivation doubled. The crop is mainly confined to low fertile water deficit soils. Because of its
+
+1373
+
+remarkable ability to withstand and grow in harsh environment, reasonable and assured harvests are obtained. The crop responds to nitrogen, cultural management, and water harvesting.
+
+Soil and climate: The crop is mostly grown in kharif season from June to October. Crop grows on a wide range of soils from very light soils from sand dunes in Rajasthan to red loams of Karnataka and Maharatsrta.
+
+Seed rate and sowing: The recommended spacing is 45 cm between rows and 10- 12 cm between plants within row. The seed rate of 8-10 kg/ha for single cut and 12-15 kg/ha for multicut is required to obtain desired yields.
+
+Manures and fertilizers: It responds well to applied nutrients. Besides recommended dose of fertilizers, application of 8-10 tonnes of FYM is also helpful as it conserves moisture. An application of 20-40 kg N/ha in 2 split doses is recommended in Rajasthan, while in Gujarat, Haryana and Maharatstra, 60-80 kg N/ha is recommended as optimum. Application of 20 kg ZnSO/ha enhanced grain and fodder yields. Also foliar application of ZnSO/ha at tillering and pre-flowering stage increased grain and fodder yield. Maximum grain yield was recorded in plots of dust mulching when trial was conducted to mitigate the adverse effect of drought stress under rainfed condition. Spray of 0.1% thiouorea at tillering and flowering stages also helped to mitigate drought stress.
+
+Inter-cultivation and weed management: The fields should be maintained free from weeds for the first 30 days as it is very important to ensure good crop growth. Two inter-cultivation and one hand weeding is necessary to minimize weed competition. Chemical weed control with Atrazine @ 0.5 kg ai/ha given as pre-emergence spray is also useful.
+
+Diseases and pest management: Crop is comparatively less prone to pests and diseases. However, downy mildew among diseases, shoot fly and root grub among pests are prevalent in many states. Choice of diseases resistant variety is an important step in effectively managing the diseases. A seed treatment with Apron 35 SD @ 2 g ai /kg seeds followed by Ridomil 25 wp (1,000 ppm) spray 20-25 days later will effectively check the disease. Rotation of different varieties and hybrids in alternate years is also effective in arresting spread of downy mildew. Seed treatment with neem oil 5 ml/kg seed + spray of 5% (neem-seed-kernel extract (N.S.K..E.) at 50% flowering was found effective in controlling pests. Plant-protection measures are essential for white-grub and shoot fly. White-grub infestation is managed by mixing of Phorate 10G or Quinalophos 5G @ 12 kg/ha with seed and applying in furrows at sowing. Four varieties, MH 1336, MH 1364, MH 1392, and Pusa 383, were found to be resistant to
+
+Pearl millet-based cropping systems: In Rajasthan, intercropping of pearl millet with clusterbean or moth bean or cowpea or greengram in 2: 1 proportion is followed. This not only covers the risk due to failures of monsoon but also provides the grain legumes which help in better nutritional security and as source of additional income. In most parts of north India, Andhra Pradesh, Maharatsrtra, Tamil Nadu, and Karnataka, intercropping of pearlmillet with pulses is followed, viz. red gram/green gram/cowpea/ horsegram/clusterbean.
+
+Harvesting and storage: When grain moisture is around 20%, pearl millet is harvested as the grains are prone to spoilage during storage. It is very important to
+
+1374 HANDBOOK OF AGRICULTURE
+
+bring down moisture to 12% or less for safe storage. Improved storage structures, viz. metal bins made out of GI sheets, are suitable for safe storage of grains. The stover is a valuable feed for cattle.
+
+Maize (Zea mays)
+
+Maize in India ranks fifth in total area and third in total production and productivity. The level of production has to be raised because of substantial demand as food, feed and poultry feed. Maize can successfully be grown as kharif, rabi and zaid crop. Presently, the maize crop is grown in 20-30% irrigated conditions only.
+
+Varieties: Mostly maize is grown during rainy season. Some cultivars require 60- 70 days to mature; others require 100-110 days to mature. Grain colour also varies from yellow to orange to white, Mainly flint types are preferred.
+
+Soil: Very sandy soils rapidly respond to management practices than those that are fine textured. Intermediate texture of loam to silt loam in surface horizon and little higher content of clay as silt loam to silty clay loam in subsoil is the most ideal. Soil PH of 7.5-8.5 supports good crop growth, as the crop is grown under rainfed conditions it is important that soil must have good water holding capacity, with proper drainage system to avoid waterlogging conditions.
+
+Seed rate and sowing time: About 50-60 kg seed would be needed to sow one hectare. Seed should be grown 5 cm deep into soil for good germination, seedling growth and vigour. Transplanting should be avoided as the plant cannot cope up with main crop stand. It is preferred to sow 10-15 days before start of rain which will give 15% higher yield.
+
+Manures and fertilizers: A balanced application of 60-12 kg N, 40-60 kg P and 40kg K/ha is recommended. Early maturing varieties require less quantity than full season maturity crops. It is also advisable to apply 20 kg zinc sulphate /ha along with basal dose of fertilizer. One-fourth of nitrogen and entire quantity of phosphorus, potassium and zinc should be applied 5-7 cm deep before sowing. The rest of the doses are applied at knee-high stage and after emergence of flag leaf but before tassel emergence.
+
+Plant population: A population of 65,000-70,000 plants /ha at harvest is optimum for realizing higher yields. For attaining desired level of plant density, a row to row and plant to plant spacing of 75cm x 18cm or 60cm x 22cm should be maintained,
+
+Irrigation: To ensure high and stable yield, it is desirable to give 1 or 2 irrigations at critical stages. Flowering and grain-filling stages are most critical; the crop should be irrigated at these stages, if rain fails.
+
+Intercropping: Short-duration varieties of pulse crop, oilseed crop and vegetable can successfully be grown as intercrop. A ratio of 2 rows of maize with 1 row of other desired crop can be adopted.
+
+Harvesting: In absence of irrigation, crop can be harvested at any stage, at pre- flowering it can be used as fodder and at dough stage green ear and stover may be used for cattle. For fodder purpose, the milk to early dough stage is preferred for higher yield and protein content. For silage, late dough stage is preferred.
+
+Berseem (Trifolium alexandrinum )
+
+Berseem is the prominent legume fodder crop of rabi in entire North West, Zone,
+
+1375
+
+FORAGE CROPS AND GRASSES 1375
+
+Hill Zone and part of Central and Eastern Zone of the country. Berseem makes most digestible and palatable green fodder to the cattle and especially milch animals are very much benefited with berseem. It provides fodder with high tonnage over a long period from November to May in 5 - 6 cuts. It has 20-24% crude protein and 70% dry matter digestibility. It is very good soil builder and adds about 0.38-0.46% organic carbon, 15 -26 kg available phosphorus and 45 kg available nitrogen to the soil.
+
+Climatic requirements: Berseem prefers dry and cool climate for its proper growth. Best productive crop can be obtained between 15-25° C temperatures. Its regenerative growth is retarded during severe cold or frosty period or at temperature above 40°C. It can be grown successfully in areas which receive annual rainfall of 150-250 cm or even lower but the irrigation must be assured.
+
+Soil: Berseem can be grown on all types of soils except very light sandy soils. Well-drained clay loam soils rich in calcium and phosphorus are ideally suited for its cultivation. The crop can be grown successfully on alkaline soils having good water retention capacity. The crop can tolerate mild acidity also.
+
+Field preparation: The seeds being very small, berseem requires a fine seedbed. One deep ploughing with soil turning plough and 2 harrowings are essential. The field may be laid out in to smaller beds of convenient size according to topography and source of irrigation water.
+
+Sowing time: After the arrest of rains, sowing of berseem can be done from last week of September to first week of December in North West to Eastern and Central India. The time of sowing berseem is ideal when mean day temperature is 25° C, which is recorded mostly in the first to third week of October in north India.
+
+Seed rate: The optimum seed rate is 25 kg/ha, which may be increased up to 35 kg in early or late sown conditions. For yield compensation in first cutting, 1.5 kg mustard should be sown along with berseem. For elimination of chicory weed (kasani), the seed should be poured in 1% common salt. Floating chicory seed should be taken out and remaining seed of berseem should be sown.
+
+Seed treatment: Seed treatment with Rhizobium culture is essential, when the berseem crop is to be grown first time in the field. Before treating the seed, it should be first soaked into fresh water for about 8-12 hours. For better sticking of culture with seed, the culture is prepared with jaggery. About 1.5 litres of water is mixed with 150 g of jaggery and boiled. After cooling, 2.5 packets of berseem culture are mixed with it and then seed is well mixed and dried in a cool shady place.
+
+Sowing method: There are two methods for sowing of berseem i.e. dry and wet bed. For satisfactory germination and good plant stand, wet method is better. Seed should be sown in beds of convenient size by broadcast method after flooding the beds with 5-6 cm deep water. Before sowing seeds, the water in the beds should be stirred thoroughly with the help of puddler or rake so as to break the clods and capillary to avoid leaching during successive irrigations. The crop should be re-irrigated after 5-6 days of sowing when germination is complete.
+
+Manures and fertilizers: Berseem, being a legume crop, requires less nutrient replenishment in the soil. For obtaining good yield, 20 kg N and 80 kg P,O,/ha should be applied as basal dose. In saline or light textured soil, addition of 20 tonnes of well- decomposed FYM is beneficial. FYM may be excluded if the previous crop of the totation was liberally manured and fertilized.
+
+1376
+
+1376 HANDBOOK OF AGRICULTURE
+
+Irrigation: The depth and frequency of irrigation is decided by soil type, number of cuttings and nature of berseem crop, i.e. sole or mixed. First two very light irrigations (4-6 cm depth) should be given at 5-6 days interval. Subsequent irrigations may be given at an interval of 10 days in October, 12-15 days in November to January, 10-12 days in February-March and 8-10 days in April-May. Thus, about 12-15 irrigations will be needed during the entire crop season. Normally the crop should be irrigated after each cutting.
+
+Weed control: Chicory, the associated weed of berseem should be eliminated for higher herbage and good quality fodder. Application of Fluchloralin @ 1.2 kg a.i/ha at pre planting stage controls the chicory and other weeds effectively. However, floating of berseem in 10% common salt is effective against chicory only.
+
+Harvesting: The first cutting should be taken at 50-55 days after sowing of crop. The subsequent cuttings should be taken at 25-30 days interval. The number of cuts depends upon rate of growth and temperature during the life cycle of the crop.
+
+Yield: A good berseem crop can give 100-120 tonnes/ ha green fodder and 15-20 tonnes/ha dry fodder.
+
+Lucerne (Medicago sativa)
+
+Lucerne is a valuable leguminous forage and hay crop which is generally grown in areas where water supply is inadequate for berseem. Its deeper root system makes it very well adaptable to dry areas with irrigation facility. It grows well as rainfed or unirrigated crop in high water table areas. It is an important winter fodder crop in Rajasthan, Gujarat, and parts of Tamil Nadu, Kerala and in Leh area of Laddakh. It is perennial (3-4 years), persistent, productive and drought tolerant forage legume which contains 15% crude protein with 72% dry matter digestibility. It sup- plies green fodder for a longer period (November - June) in comparison to berseem (December - April).
+
+Climatic requirements: Lucerne is adapted to relatively dry conditions and it may tolerate heat as well as cold. It can not be grown under humid conditions with high temperature. It has wide ecological amplitude and can grow at 2,500 m asl to hot summer with 49°C with adequate moisture available in the soil.
+
+Soil: Lucerne needs sandy loam to clayey soil but heavy soils need an efficient drainage system as the crop does not tolerate waterlogging. It cannot thrive on alkaline soils but can be grown on acid soils with liberal application of lime. Luceme prefers a fertile soil which is rich in organic matter, calcium, phosphorus and potash.
+
+Field preparation: Like berseem, lucerne also needs very fine seedbed, as the seeds are very small. One deep ploughing with 2-3 harrowings followed by planking is sufficient.
+
+Sowing time: The best sowing time of the crop is mid-October to early November. However, sowing date may spread from early October in the North to late December in the East and South Zone. In the temperate zone, spring sowing is done in March.
+
+Seed rate and seed treatment: The seed rate depends upon method of sowing and
+
+1377
+
+FORAGE CROPS AND GRASSES 1377
+
+type of the crop, i.e. pure or mixed stands. In case of broadcast method, a seed rate of 20-25 kg/ha should be used while line sowing needs only 12-15 kg/ha but in case of intercropping, it requires only 6-12 kg/ha. Like berseem, seed treatment with Rhizobium culture is beneficial.
+
+Method of sowing: Line sowing is preferred over broadcasting. Like berseem, 10— 20 m long beds should be made along with slope with irrigation channels 4-5 m apart. Water-soaked seed is sown in shallow furrows at row distance of 30 cm by seed drill or kaira at sufficient soil moisture.
+
+Manures and fertilizers: Lucerne being a leguminous crop requires less nitrogen. However, due to perennial nature of the crop, it is beneficial to add well-decomposed FYM @ 20-25 tonnes/ha before sowing in the first year. Normally, 20 kg N and 100 kg P,O,/ha should be applied as basal dose for good harvest. Application of molybdenum and boron may be done based on soil test. In subsequent years, annual supplementation of 80 kg P,O, and 40 kg K,O/ha should be done.
+
+Irrigation: To attain good germination, pre-sowing irrigation is essential. The crop needs very frequent irrigation during its early growth period at an interval of about one week but once the plants are established, subsequent irrigations are provided at an interval of 15-20 days during winter and 10-12 days during spring and summer seasons. Proper drainage should be ensured to avoid waterlogging in rainy season.
+
+Weed control: Lucerne takes a long time to establish and therefore heavy weed infestation occurs up to first cutting. The sowing in lines makes weeding easier. Trifluralin, @ 4 kg/ha should be applied before sowing for good harvest. The akasbel (Cuscuta reflexa) should be removed from the field and burnt. The akasbel should not be allowed to set seed in any case. :
+
+Harvesting: The first cut should be taken at 55-65 days after sowing and the subsequent cuts may be taken at 30-35 days interval. In general, annual lucerne gives 4-5 cuts while in the perennial crop, 7-8 cuts can be taken.
+
+Yield: Annual lucerne yields green fodder to the tune of 65-80 tonnes/ha while perennial crop may provide 80-1,100 tonnes/ha.
+
+Cowpea (Vigna unguiculata )
+
+Cowpea is native to Africa and Asia and is now cultivated throughout the tropics and sub tropics. It is used as pulse, vegetable fodder and green manure. It is of considerable importance in dryland farming.
+
+Soil and climate: It is adapted to variety of soil types, viz. red loam, black clay loam, coarse gravel, sandy loam, light sandy soils. It is also grown in sloppy land in hilly tracts and heavy loam soils. It is more tolerant to heavy rainfall than any other pulse crop. It suffers from water stagnation and heavy drought. It thrives well under the temperature range of 21- 35°C.
+
+Cropping system: The crop is usually grown as dryland kharif crop and can also be grown as pre-monsoon and late monsoon crop. It is also grown as second crop during rabi after rice in southern parts of country.
+
+Cultivation: Fields should be prepared well for sowing. The crop is sown in the first week of July in the hills and in the second fortnight of March in lower hills and in October in plains. One hand weeding or hoeing 30-35 days after sowing or application
+
+1378
+
+1378 HANDBOOK OF AGRICULTURE
+
+of weedicide Pendimethalin @ 1.0-1.5 kg a.i /ha immediately after sowing helps in control of weeds. The crop requires adequate moisture. In plains, 3-4 irrigations are required. About 120 kg N and 80 kg P/ha are recommended. Half the nitrogen is applied as basal dose and half for top dressing. The crop matures in 120-125 days. The tow to row spacing is 30-45 cm. The recommended seed rate is 20-25 kg/ha. Seed yield up to 1.0 tonnes/ha is obtained.
+
+Integrated nutrient and pest management
+
+The fertilizer management strategies in fodder crops aim at increasing the herbage production per unit area and time along with improvement in forage quality parameters and maintenance of soil health. The requirement of fodder crops for nutrients particularly nitrogen is comparatively higher.
+
+Chemical fertilizers have played a significant role in increasing crop productivity. But, for sustainable production from arable lands, it is important to prepare a balance sheet of nutrients depleted and nutrients supplemented. Majority of the soils at present are rich in potassium but continuous cropping without application of potash over the years may turn them to be deficient. On an average, perennial grass removes 9.40 kg N, 1.45 kg P, 14.2 kg K, 4.61 kg Ca, 2.65 kg Mg and 1.85 kg S per tonnes of dry herbage production.
+
+Biofertilizers, the products containing living cells of different types of microorganisms, play important role in enhancing fodder production and also cutting down the usage of chemical fertilizers. Different types of biofertilizers include nitrogen fixers (symbiotic and nonsymbiotic bacteria) Rhizobium, Azotobacter, Azospirillum, Azolla and blue green algae, Phosphate solubilizers (bacteria and fungi)- Bacillus polymyxa, Pseudomonas and Aspergillus etc. , Mycorrhizal fungi -VAM (Vesicular arbuscular mycorrhizae), Sulphur and iron oxidizing bacteria, etc., PGPR (Plant growth promoting rhizobacteria) are available now. Studies have shown that a saving of 20 kg N/ha may be achieved with application of Azotobacter/Azospirillum in cereal fodder crops. Similarly, increase in forage yield due to Rhizobium inoculation to legume forages ranged between 14 and 46%. Seed inoculation of berseem with phosphate solubilizer significantly increased the green fodder (103.6 tonnes/ha), dry matter (16.19 tonnes/ha) and crude protein (3.20 tonnes/ha) yields over the control. Integrated use of organic, inorganic and biofertilizer sources of nitrogen in sorghum + cowpea— berseem cropping system led to over 25% saving in N through use of Rhizobium and/ or Azotobacter. However, a reliable system of quality control and efficient system of storage, transportation and management of biofertilizers is required for its wider applicability.
+
+The requirement of fodder crops for nutrients particularly nitrogen is comparatively higher. This is due to the fact that fodder crops are desired to produce luxuriant vegetative growth with succulent and nutritive herbage in a short period. Thus, the fertilizer management strategies in fodder crops aim at increasing the herbage production per unit area and time along with improvement in quality parameters. Based on the experimental evidences at the IGFRI, Jhansi, the fertilizer recommendations for important fodder crops have been worked out (Table 37.9). Recommended doses of NPK with S and Zn increased grain yield significantly over NPK by 17.9 and 15.9% respectively. The nutrient-use efficiency can be improved by balanced fertilizer
+
+1379
+
+FORAGE CROPS AND GRASSES
+
+SC, Single cut; MC, multicut.
+
+application, based on soil test values, at right times, through best source, along with other management practices like irrigation, use of amendments and other agro- chemicals, etc.
+
+Organic manure-induced improvement in soil physical, chemical and biological properties is well established. Build up of secondary and micronutrients, counteracting deleterious effects of soil acidity, salinity and alkalinity and sustenance of soil health are the key beneficial effects associated with organic manure application. Use efficiency of N fertilizers is improved in the presence of FYM. The major contributors of organic source of nutrients are animal dung, crop residues and sewage sludge, etc. The use of organic and inorganic forms of P in 50:50 ratio could perform better in solubilizing and mobilizing more P for producing higher crop yield and better quality of produce.
+
+Crop residues are good source of plant nutrients and are important components of integrated nutrient management. In regions where mechanical harvesting is done, sizeable quantities of residues are left in the field. Major portion of the residues is used as animal feed and about 33% of these residues are available for direct use. The leguminous plant residues are degraded at a faster rate than wide C: N ratio of cereal crop residues. The uses of residues are generally most effective for water conservation when managed as surface mulch. The most effective and environmentally sound methods of organic manuring offer an opportunity to cut down the dose of chemical fertilizers. Green manuring provides organic source of N and organic matter in the soil. Sesbania spp. and Crotolaria juncea are more popular leguminous crops. Amongst trees, subabul, Casuarina, Gliricidia moculata, Pongamia and Calotropis, etc. grown on bunds and wastelands for utilizing their vegetative parts are used for green manuring of soils, besides cowpea, urd bean, mung bean, etc. About 200 million tonnes of crop residues are produced from different crops annually. The potential of these has been estimated to be around 100 million tonnes annually for recycling in agriculture. Integrated pest management is emphasized these days in order to reduce the use of
+
+1380
+
+1380 HANDBOOK OF AGRICULTURE
+
+chemicals. The population of the three major pests, namely leaf hoppers, lucerne weevil and aphids, can be managed effectively by growing of least susceptible variety of cowpea, IGFRI 450 in first week of July with fertilizer application of 30 kg N, 100 kg P,O,, 80 kg KO per hectare and if required berliner @ 0.84 kg/ha may be applied. In cowpea, the damage due to major pests like, leafhoppers, semilooper, tobacco caterpillar and grasshopper can be managed without using insecticides by planting the least susceptible variety in the first week of July, using an optimal fertilizer combination of 30 kg N, 100 kg P,O,, 40 kg KO per hectare with two weedings at 15 and 30 days crop growth stages. However, use of bio-pesticides is desirable to ensure the products with least residues cycled through livestock.
+
+Water management
+
+Scientific water management will hold the key to intensive agriculture in the years to come. Irrigated agriculture and water management aim to provide suitable moist environment to the crops to obtain optimum yields, commensurate with maximum economy in irrigation water and maintenance of soil productivity. The limited availability of water enables only 30% of country’s cropped area under irrigation and that too lion’s share goes to food/cash crops. In view of mounting human and livestock population pressure, the forage -farming is faced with twin problems of meager allocation of land and water resources. However, water is required in huge quantities for producing high tonnage succulent biomass of forage species. Moreover, the interacting processes involved in crop growth, water use and mineral composition of forages are complex and do not easily lend themselves to quantification in soil-water- plant-atmosphere continuum. It is in this context that irrigation management requires entirely different approaches in forage production systems.
+
+Proper irrigation schedules
+
+Development of stitable irrigation schedules offers an important approach to water saving because timely supply of water to crops in adequate quantity is the crux of the efficient water management for ensuring optimum yield and quality of produce. The suitable soil moisture environment for forage crops where objectives tend to be luxuriant vegetative growth, higher dry-matter yield and better forage quality have been worked out and given in Table 37.10. The optimum soil moisture regime for berseem, oat, maize, teosinte, sorghum, hybrid Napier and cowpea has been found to be 75% available soil moisture (ASM). Luceme, clusterbean and barley may be irrigated at 50% ASM,
+
+FORAGE CROPS AND GRASSES
+
+1381
+
+whereas triticale can be grown at 25% ASM with acceptable yield.
+
+The following inferences could be drawn from the experimental results:
+
+* The irrigation at 25, 50 and 75% ASM corresponds to 10-12, 14-18 and 26-30 days intervals, respectively, in medium-textured soils under the agroclimatic conditions of Bundelkhand region. Under a particular moisture regime, the irrigation interval needs to be advanced during summer and delayed during rainy months by 3-5 days due to variation in evaporative demand and associated environmental conditions.
+
+* The total number of irrigations for particular crop depends upon interval of irrigation and duration of crop. The irrigation requirement in terms of total delta of water is a function of amount of water at each scheduling and number of irrigations needed.
+
+* Thus, soil-moisture characteristics, atmospheric evaporative demand and crop characteristics are taken into account for developing technically sound, economically feasible, socially desirable and culturally compatible irrigation schedules.
+
+Forage production from rainfed areas
+
+Drylands are those regions where rainfall is scanty (less than 750 mm) and different aspects of rainfall like amount, duration, intensity and distribution are uncertain. In the absence of irrigation facilities, crop production depends on moisture conserved regimes. These uncertainties are highly unstable and lead to low productivity, no income and employment opportunities ultimately resulting in poverty and poor civic amenities and degradation in living standards of the people.
+
+To ensure certain degree of stability to agricultural production, soil and crop management practices are to be adopted. Among the crops, coarse grains, legumes, oilseeds and grasses are better suited for growing under moisture-stress situations. Besides, rain water-conservation techniques and soil fertility management are also required since the soils are not only thirsty but hungry also. In addition to arable farming, alternate farming systems like agroforestry having perennial forage trees, bushes and grasses are essential to provide sustainability to the production system.
+
+The following soil and crop-management techniques will be beneficial for optimum forage production, which is a key factor for successful livestock production.
+
+Management practices
+
+The areas of light soils with poor water retention are utilized for raising crops during rainy season while medium and heavy textured soils with high moisture-holding capacity and poor workability are used for growing crops both with rain water during rains and on conserved water during the season when there is no rain. The important crop-management practices for cultivation of forage crops under dryland conditions are given in Table 37.11.
+
+The soil-management practices are discussed here.
+
+Bunding: To retain rainwater in the soil, at least 30 cm high bunds are needed. On light soils, grasses should be planted on bunds to make them stable. On sloppy lands, bunds are formed along the contour or across the slope.
+
+Tillage: On sandy and other light-textured soil cultivation should be limited to the
+
+1382
+
+1383
+
+extent essential for weed control and optimum tilth for seeding. Light cultivation with about 15 cm depth is enough. On heavy soils, deep ploughing once in three years helps to improve water infiltration. Cultivation should be done across the slope on sloppy lands.
+
+Manuring: An amount of 10-15 tonnes FYM or compost/ha should be applied every year along with appropriate doses of chemical fertilizers depending on crops under cultivation and season. Fertilizers are placed 2-3 cm below the seed line with the help of seed-cum-fertilizer drill or other equipment. Spray fertilization is also important in dryland areas.
+
+Sowing: In dryland areas, the crop should always be grown in rows to facilitate inter cultivation for checking weed growth and mulching to prevent water loss from the soil. The plant population should be about 25% less to ensure better utilization of limited moisture. In sloppy fields crop rows should be along the contour. Depending on field conditions, ridge and furrow method and-strip cropping can also be employed.
+
+Choice of forage species: Forages are better suited to moisture- stress situations since the duration of crop harvest can be adjusted. Pearl millet, sorghum, maize, barley, cowpea, clusterbean and field beans are ideally suited for drylands. Stay green types of these crops can also be utilized for forage after maturity of grains.
+
+Weed control: Weeds should be checked from the very beginning through pre- emergence use of herbicides, clean and pure seeds and inter cultivation practices to save the moisture and nutrients for crop plants only.
+
+Mulching: Different types of mulches could be used to conserve moisture in the soil especially in widely spaced row crops.
+
+Integration of forage production with food and other crops
+
+An important aspect of fodder production is to adjust the cultivation of fodder crops with that of main crops and harvest as per the need arises. This can be easily be practiced by all classes of farmers both under irrigated and rainfed conditions. The appropriate forage crops can be included in the crop-production programme of the farmers in the following ways:
+
+Inclusion of forages in crop sequences
+
+On medium and heavy soils in rainfed areas, only rabi crops are taken on conserved moisture through fallowing in the rainy season. In this situation, short duration forage crops like cowpea, rice bean, and pearl millet can be taken. This will conserve soil and suppress weeds besides providing forage. Under irrigated conditions inclusion of fodder crops in sequences improves the soil productivity due to dense canopy and addition of large amounts of stubble biomass. Leguminous forages enrich the soil nitrogen also by utilizing nitrogen fixing bacteria like Rhizoctonia and Azotobactor. Successful examples are: paddy — berseem; maize + cowpea (fodder) — wheat/potato.
+
+As catch crops
+
+Short duration forages can be adjusted in gap periods of main season crops and grown on residual moisture. Example: maize + cowpea/sorghum/pearl millet after harvest of rabi season crops and before planting of rainy season crops. Similarly, turnips, carrot and mustard can be taken as catch crops after the harvest of early rainy
+
+1384
+
+season crops. Leguminous forages like horsegram (Macrotyloma uniflorum), moth bean (Vigna aconitifolia) and grasspea (Lathyrus sativus) are suitable for cultivation on residual moisture after the harvest of late paddy.
+
+As intercrops in widely spaced row crops
+
+Cotton, sugarcane and grain crops of maize and sorghum offer scope for growing short statured forage crops like cowpea, moth bean and guar (clusterbean) in the interspaces without affecting their yields. Besides fixing the nitrogen, some of these forages benefit the main crop indirectly, for example, moth bean reduces root rot disease while cowpea controls spotted bollworm. Similarly, cultivation of pangola grass (Digitaria decumbens) in tobacco has been reported to control root knot nematode.
+
+Through ratooning
+
+Crops like pearl millet (BJ 104) and barley (DL 36, DL 157, DL 457) have good regeneration capacity. These crops can be harvested 40-50 days after sowing to harvest green forage yields (100-150 q/ha) without adversely affecting the grain yields. Likewise, maize (grain) can be planted at 30 cm spacing, alternate rows may be harvested for forage 45-50 days after planting to get around 20 tonnes/ha green forage.
+
+Dual-purpose crops
+
+These crops give forage as byproduct. Preference must given by farmers to such crops in their cropping schemes so as to get substantial amounts of forage along with main product (grain). Among vegetables, turnip, carrot, pea, cauliflower, cowpea, guar, etc. are the important examples while in commercial crops, maize for cobs and sugarcane are important. These crops besides main product yield 9-20 tonnes/ha green fodder for animal feeding.
+
+Mixed intercropping system of forage production
+
+It consists of growing together two or more plant species with different growth habit, canopy structure, rooting pattern and offering little or no mutual competition. Mixed cropping of cereals/grasses and legumes is commonly practiced to improve herbage quality, increase biomass production and economize on fertilizer usage. Besides, it also ensures efficient land utilization, suppression of weeds and insurance against aberrant weather conditions.
+
+In India with warm climate, most of the grasses and cereals do not have enough protein to support animal growth and production. It was found that by associative cropping of graminaceous and leguminous forages the nutritive value of the mixed herbage could greatly be improved. Thus, besides enriching the soil productivity and ensuring better utilization of plant nutrients from different soil layers, mixed cropping produces nutritious herbage since the legume component contains higher amounts of protein, calcium and phosphorus. Investigations on intercropping systems showed that sorghum/maize/Pennisetum pedicellatum! pear| millet with cowpea/rice bean (Vigna umbellata) and oat with Melilotus albalpea in paired rows (2:2) recorded good forage yields along with higher forage protein (Table 37. 12).
+
+1385
+
+FORAGE CROPS AND GRASSES
+
+Integration of perennial forages on bunds and boundaries
+
+Bunds around fields are a common feature on cultivated lands and occupy 2-10% of the cultivated area. Bunds are formed to demarcate field boundaries, conserve water and soil and to use as pathways. If not properly protected, the bunds are eroded by rains and damaged by animals. Growing of appropriate forages/bushes stabilizes the bunds through protective cover and soil binding action of roots, besides providing considerable amount of forage for feeding animals. Experiments conducted at the IGFRI, Jhansi, showed that in rice fields, Sesbania grown on field boundaries yielded maximum forage among perennials. Similarly, under rainfed conditions planting of hybrid Napier + stylo along with fruit trees like aonla (Indian gooseberry), ber (Ziziphus spp.) and karonda recorded maximum forage yields.
+
+Tips for efficient cultural management and production optimization
+
+The following important points need to be given due consideration while adopting appropriate cultural practices aimed at higher forage production:
+
++ Efficient forage crops of the area should be identified and grown on properly prepared seedbeds well in time. Timely sowing is very important in forage crops, as these have very limited growth period.
+
+Since forage crops need higher amounts of seeds and/or planting materials, these should be obtained from reliable sources and germination should be tested before sowing.
+
+* The seed rate and spacing need to be adjusted depending upon the purpose and growing conditions. For instance, higher seed rates are used when the crop is raised for hay or the field is likely to be infested with weeds.
+
+* During rainy season, sometimes, it becomes difficult to re-sow the field due to incessant rains and wetting of the soil. Under such conditions, multicut forage crops can be sown in the beginning for continuous supply of green forage throughout summer and rainy seasons. Moreover, growing of multicut forage crops/varieties results in the saving of seeds, fertilizers and tillage operations.
+
+* Mixed cropping of graminaceous and leguminous fodder crops is better from the viewpoint of herbage quality and maintenance of soil fertility. Both the crop
+
+1386 HANDBOOK OF AGRICULTURE
+
+components of the system should be of similar duration to facilitate harvesting at one time.
+
+* Maximum crop-weed competition occurs up to 4-5 weeks in most of the seasonal forages. Weed menace should be checked from very beginning through proper land preparation, use of clean seed and well decomposed FYM, pre-emergence application of herbicides, careful crop rotation and growing of intercrops that smother the growth of weeds.
+
+Nutrient management practices should always be based on soil test values and cropping systems being followed. The fertilizer recommendations are of general nature. Use of bulky organic manures @ 15-20 tonnes/ha takes care of soil health and micronutrient deficiencies to a large extent. Economy in nutrient use can be ensured though efficient weed management, use of biofertilizers and inclusion of legumes in crop sequences.
+
+* Irrigation management practices vary with season, soil type, and crop growth stage and fertilizer practices. Water requirement of fodder crops is usually greater because of dense stand and higher vegetative growth in a short period. Similarly, adequate drainage is important for crops like maize, pearl millet and cowpea, etc. grown in the rainy season. Forage crops respond well to sewage irrigation.
+
+* Forcontrolling insect-pests and diseases, it is better to avoid the use of chemicals particularly when the harvesting is due. However, if any pesticide is applied on the crop, the forage should not be harvested for 3-4 weeks to avoid the risk of residual toxicity in animals.
+
+* Cutting management influences not only the yield but also the forage quality. The fodder crops should, therefore, be harvested at appropriate growth stage to obtain adequate fresh fodder with acceptable dry matter and nutrients particularly the crude protein.
+
+* Multicut forages especially those regenerating from auxiliary buds should be harvested on time leaving 8-10 cm stubbles to promote quick regeneration and adequate stand of the ratoon crop.
+
+Grassland and silvipasture management
+
+Grazing resources
+
+Since ancient times, cattle breeding and milk production have been the important professions in India. Free grazing was practiced and it became a way of life. Presently also, livestock production is primarily based on rangeland grazing. The grazing activity is mainly dependent on the availability of the grazing resources from pastures and other grazing lands viz. forests, miscellaneous tree crops and groves, cultivable wastelands and fallow land. Such lands are about 40% of the total geographical area of the country. Vast area in the country (about 157 million ha) is classified under various types of degraded land where one or more limiting factors render the cultivation of crops economically unviable. The grazing intensity in the country is as high as 12.6 adult cattle units (ACU)/ha as against 0.8 ACU/ha in developed countries, Therefore, the task to deal with such situation is two-fold (i) improvement of pastures, and (ii) judicious implementation of grazing management.
+
+Since India is characterized by tropical monsoon climate and active growth in
+
+FORAGE CROPS AND GRASSES 1387
+
+1387
+
+grazing lands occurs only during monsoon months, there is surplus fodder available during rainy months and deficits of various levels in other months. The natural calamities like drought and flood that affect some or the other parts of the country creates imbalances in fodder supplies
+
+The total potential area of grazing lands in India is 85.9 million ha. Considering the total arable lands to be 147.38 million ha and calculating that croplands one-tenth of its organic produce as fodder, total arable land can be put as equivalent to 14.73 million ha of grazing lands bringing up total to 100.3 million ha. Taking average potential above ground net primary productivity as 500 g/m?/year, the total fodder production will come down to 501.5 million tonnes of dry fodder per year with a total bovine population of 239.09 million, excluding sheep, goats, horses, camels and donkeys and also assuming that a normal healthy cattle consumes 7 tonnes dry herbage per year, the normal annual consumption will come to 1,673 million t/year. Thus, the net primary production level of grasslands in India is far below the total requirements. The overgrazing and continuous degradation of grazing lands along with loss of fertility is further decreasing their productivity. The problems of grazing lands are related to ecological and socio-economic causes. In arid areas, water is the limiting factor, in semi-arid areas, proper land utilization and excessive grazing are the main problems and in high rainfall zones, it is the lower nutritive value of the herbage. Another serious problem is low proportion of legume component in the herbage.
+
+In India, grazing based livestock husbandry continues to play an important role in rural economy of the country as around 50% animals depend on grazing in forests and other grazing areas in many parts of the country. Total area available for grazing in the country is in the range of about 40% of the land area. Pasturelands constitute the main grazing resources of the country, available over an area of 12 million ha (3.94% of the geographical area). There is a lot of difference in the extent of grazing lands in various states. In some states, namely Himachal Pradesh, Jammu and Kashmir, Meghalaya, Nagaland and Arunachal Pradesh, the grazing land availability is as high as 70%. The distribution of pasture lands are mostly noticed in the states like Himachal Pradesh (36.44%), Sikkim (13.31%), Karnataka (6.54%), Madhya Pradesh (6.35%), Rajasthan (5.39%), Maharashtra (5.11%) and Gujarat (4.49%). The northern region has pasture lands in Jammu and Kashmir, Himachal Pradesh and Uttarakhand. This region has a potential resource in the form of green meadows and pasture, which at some places are mixed with the forests. The alpine meadow has an important economic value, providing pasture for the sheep and goats. In Rajasthan, the available grazing land is over 40% and in Gujarat, the area is about 30%. The land under permanent pasture is about 5.4% in Rajasthan and 3.5% in Gujarat, providing good quality fodder for livestock.
+
+Nearly 30 pastoral communities in northern and western parts of the country depend on grazing based livestock production. Based on the practice followed by these pastoral communities in various regions, the grazing systems may be categorized either on the basis of methods of grazing or patterns of migration. Considering methods of grazing the pastoral communities change the site of grazing after its utilization. The example of such type of grazing system is Kharak in Uttarakhand and Goals in the desert area of Rajasthan. Based on migratory habits, the nomadic tribes are classified in 4 groups, viz. (i) total nomadism, (ii) semi- nomadism, (iii) transhumance, and (iv) partial nomadism.
+
+1388 HANDBOOK OF AGRICULTURE
+
+1388
+
+The grass cover of India
+
+A reconnaissance survey of grasslands of India conducted from 1954 to 1962 revealed 5 major grass covers based on distribution. The distribution of grasses is primarily governed by climatic factors, chiefly by latitudinal influence followed by altitude and topography particularly the soil moisture relationship. The five grass covers identified are: Sehima-Dichanthium type, Dichanthium-Cenchrus-Lasiurus type, Phragmites-Saccharum-Imperata type, Themeda-Arundinella type, and Temperate Alpine type.
+
+Sehima-Dichanthium type: This cover type is spread over the whole of Peninsular India, including the central Indian plateau, the Chhota Nagpur Plateau and the Aravali ranges with a coverage of approx. 1,740,000 km? between 8° and 28°N and between 68° and 87° E. The cover is also found in the coastal region. Dominant perennial grass species are Dichanthium annulatum, Sehima nervosum, Bothriochloa pertusa, Chrysopogon fulvus, Heteropogon contortus, Iseilema laxum, Themeda triandra, Cynodon dactylon, Aristida setacea, Cymbopogon spp.etc. Important associated species are Apluda mutica, Bothriochloa intermedia, Arundinella nepalensis, Desmostachya bipinnata, Eragrostis and Eragrostiella spp.
+
+Dichanthium-Cenchrus-Lasiurus type: This type is associated with sub-tropical arid and semi-arid regions comprising the northern portion of Gujarat, the whole of Rajasthan, excluding the Aravalli ranges in the south, western Uttar Pradesh, Punjab, Haryana and Delhi State with a coverage of more than 436,000 km? between 23° and 32° N and 68° and 80°E. The principal perennial grass species are Cenchrus ciliaris, C. setigerus, D. annulatum, Cymbopogon jawarancusa, Cynodon dactylon, Eleusine compressa, Lasiurus sindicus, Sporobolus marginatus, Dactyloctenium sindicum, Desmostachya bipinnata etc. Important associate species are: Chloris, Desmostachya, Heteropogon contortus, Saccharum bengalense, Vetivaria zizanioides, etc.
+
+Phragmites-Saccharum-Imperata type: This grass cover occurs throughout the Gangetic Plain, the Brahmaputra valley and extends westwards into the plains of Punjab between 26° and 32°N and 74° to 96°E. The area comprises approx. 2,800,000 km? in north-eastern states, W Bengal, Bihar, UP, Punjab and Haryana. Principal perennialest species in drier regions are: Imperata cylindrica, Saccharum arundinaceum, S. spontaneum, Phragmites karka, Desmostachya bipinnata. Other important species of this grass cover are: Bothriochloa intermedia, Vitevaria zizanioides, Imperata cylindrica, Chrysopogon aciculatus, Panicum notatum, etc.
+
+Themeda-Arundinella type: This grass cover occurs in the entire northern and north western mountain tract, on an area of approx. 230,000 km? in the north-eastern states, West Bengal, Uttar Pradesh, Punjab, Haryana, Himachal Preadesh and Jammu and Kashmir. In the west, this type is found approximately between 29° and 37°N, and between 73° and 81°E, and in the east approximately between 22° and 28.5°N, and 88° and 97°E. This type is associated with undifferentiated forest and hill soils, and also with undifferentiated forest sub-mountain regional soils. The principal species of this grass cover are represented by Arundinella benghalensis, A. nepaolensis, Bothriochloa intermedia, Chrysopogon fulvus, Cymbopogon jwarancusa, Cynodon dactylon, Heteropogon contortus, Themeda anathera, Euloliopsis binata, Ischaemum barbatum. Associated perennial species are: Apluda mutica, Arundinella khaseana, Pennisetum flaccidum, Chloris, Desmostachya, etc.
+
+FORAGE CROPS AND GRASSES 1389
+
+1389
+
+Temperate Alpine type: This cover type occurs on the high hills of Uttarakhand, Jammu and Kashmir, Himachal Pradesh, West Bengal and North-eastern regions. The tract lies approximately between 29° and 37°N, and between 73° and 81°E in the western part of the country. On eastern side, it is situated approx. between 27° and 29.5°N, and 88° and 97°E. It essentially occurs at higher elevation, beyond timberline, approximately above 3,000 m in the west and above 2,000 m in the east. The principal perennial species are: Agropyron conaliculatum, Chrysopogon gryllus, Dactylis glomerata, Danthonia cachemyriana, Phleum alpinum, Carex nubigena, Poa pratensis, and Stipa concinna. Associated species are: Poa alpina, Festuca lucida, Eragrostis nigra, Bromus ramosus, etc.
+
+Rangeland restoration
+
+Rangeland includes grasslands and regions where even woody vegetation is dominant. It is important from the viewpoint of livestock production and it also serves as a habitat for wildlife. Productivity of grazing lands has declined to a great extent, one-sixth of that on the ancient lands of civilization, on account of demographic pressures. So the efforts in restoring the rangeland productivity and arresting land degradation are very important.
+
+The restoration package may be worked out as per the intended major use. If it is livestock production, productivity per unit of land is to be increased. In order to increase the pasture productivity in dry areas, it is essential to replace low yielding annual grasses with high yielding perennial grasses that are adaptable to the prevailing conditions of that region. As the use of fertilizers in these lands is of little practical value on account of high costs, introduction of suitable pasture legumes is one of the best ways to improve the quality.
+
+Under poor soil, water and nutrient situations where cropping is not possible, silvipasture systems integrating woody perennials and pasture species, can serve the twin purpose of forage and firewood production and ecosystem conservation. It has been possible to increase land productivity from 0.5-1.5 tonnes/ha/year to about 10 tonnes/ ha/year on a rotation of 10 years through such interventions on degraded rangelands. The concept of hortipasture, utilizing land in the orchards by developing pasture stands, is also finding applicability with the farmers to have forage for the livestock. The additional forage availability through such systems is likely to reduce grazing pressure. Similarly, if it is wildlife conservation, protection and creation of wildlife habitats and development of water and food resources for particular wildlife communities are required.
+
+Provision of forage during lean period
+
+The surplus production from rangelands during rainy season is to be carefully preserved in various forms to meet the forage requirements of the lean periods. Leafmeal of the leguminous woody perennials and herbaceous plants such as Leucaena leucocephala and stylo should be developed and strengthened for meeting the lean period deficit. The post-harvest technologies suchas biomass processing, enrichment and densification appear to be the key for better animal husbandry in the deficit zone.
+
+Amelioration of environment
+
+In the present scenario, land degradation due to over-grazing and illicit tree felling
+
+1390
+
+1390 HANDBOOK OF AGRICULTURE
+
+is a major environmental issue. Excessive run-off leading to soil erosion and nutrient loss could be effectively checked by development/restoration of degraded rangelands. Many studies have supported this view that grasses, legumes and trees in a silvipastoral system provide effective land cover as well as produce nutritious fodder for livestock, sequester carbon and upgrade the environment. The success behind any grazing management practice depends on the accurate stocking rates considering the condition of the rangeland. Moderate and conservative stocking rates sustain returns on a long- term basis as compared to heavy stocking rate,
+
+Major cultivated grasses and legumes
+
+There are about 620 and 650 genera and 10,000 and 18,000 species of grasses (Poaceae) and legumes (Leguminoseae) respectively, in the world. Of these, only about 40 grasses and legumes are used to appreciable extent in the establishment of sown pastures. Moreover, it has been found that livestock prefer indigenous forage species in comparison to selected varieties of grasses and legumes despite the fact that indigenous species may be low in productivity and nutritive value,
+
+On the basis of following characters, the grasses are considered suitable as forage plants for grazing/mowing and soil and water conservation: (i) grasses should have wider range of adaptability from humid tropics, arid areas and alpine peaks, (ii) species those are able to reproduce fresh shoots by tillering and able to withstand / recover from grazing or cutting, (iii) grasses that maintain continuous vegetative growth even during drought or cold, (iv) grasses that spread by rhizomes or stolons, which readily form adventitious roots and give rapid ground coverage and soil and water conservation in terms of sustainability point of view, (v) the root system binds the soil particles together forming a sod and brings to the surface layer nutrients, which have been leached into the subsoil by heavy rainfall, and (vi) in addition to above, the pasture species should possess the qualities of higher productivity, palatability, high nutritive value and adaptation to local soil and climatic conditions. The important grasses and legumes grown in India are given in Table 37.13.
+
+1391
+
+FORAGE CROPS AND GRASSES 1391
+
+(Table 37.13 concluded)
+
+*Area not known.
+
+Techniques for nursery raising
+
+The seed is the prime material for establishing the grasslands /pastures. In forage species particularly grasses, the seed production varies from species to species. When seed becomes a limiting factor; seedlings/ rooted slips are the only alternate source for establishing the pasture. These seedlings are raised in nursery. The raising of grass seedlings is best done in the middle of May. However, it may differ depending upon the onset of monsoon in the particular area.
+
+After well preparation of land, seedbeds (6 m 6 m) are prepared. The beds are ploughed thoroughly and 30 kg farmyard manure (FYM) + 25 g urea + 75 g of single super phosphate are to be mixed in each bed. The bed is watered 4-6 days before sowing and germinated weeds are to be removed. Grass seeds are sown @ 40-50 g/ bed at 0.4-0.8 cm deep in lines at 10 cm apart. About 2 g Bavistin is mixed with sun- dried seeds. Beds are watered using a rose can and covered with wet gunny bags till the seeds germinated (3-4 days). Gunny bags are removed soon after germination particularly in the evening time.
+
+Germination of dehusked seeds is recorded as 94-98% as compared to husked seeds, which is 35-42%. The stored seeds showed better germination as compared to freshly collected seeds. Twelve beds are required to provide seedlings for one hectare land. Grass seedlings will be ready for transplanting after 4-6 weeks when they attain 15-25 cm height.
+
+Seedlings/rooted slips are transplanted in well-prepared field immediately after the onset of monsoon. The nursery beds are watered copiously before pulling out the seedlings. The seedlings are pulled out with ease and without damage to their root
+
+1392
+
+systems. Two seedlings are transplanted per hill. The soil around the seedlings needs to be pressed gently. Weeding and hoeing is essential during the initial year of establishment; gap filling to be performed for maintaining optimum plant population.
+
+Some of the important forage grasses, viz., napier, para grass, are suitable for cultivation with fairly better moisture conditions, while anjan grass and range legumes like stylo and siratro are suitable for rainfed conditions both as cultivated fodder and pasture grass.
+
+Napier - Bajra hybrids, often also referred as Bajra-Napier hybrids, N-B Hybrids, King grass, Elephant millet, Cumbu-napier hybrids, are tall growing (200-300 cm), erect, stout, deep rooted, perennial hybrid grass derived from inter specific cross between Pennisetum glaucum and P. purpureum. The hybrid is a triploid and hence sterile. They spread by short, stout rhizome to form large clumps or stools up to 1 m across and are propagated by two nodded stem cuttings or by division of rootstock. Among grasses, N-B hybrids are the highest green forage yielder in a unit time and space. It is vigorous, nutritious, succulents, palatable and responds to heavy nitrogenous fertilization. Young leafy fodder is highly palatable and possesses a fairly good quality, but mature grass has large portion of stem and hence not considered of good quality.
+
+It grows well on deep, retentive soils of moderate to fairly heavy texture and also grows on light textured with sandy loam to loamy soils. For better response to management, loamy soils with good drainage are preferred.
+
+One rooted slip or stem cutting is planted at a depth of 3-5 cm on one side of the ridge at 75 x 30 cm spacing at the rate of 40,000 rooted slips or stem cuttings/ha in the month of mid-February to July. In irrigated situation, it can be planted throughout the year.
+
+A basal dose of 5 tonnes of FYM/compost: nitrogen: 50 kg/ha (urea 110 kg); phosphorus 50 kg/ha (super phosphate 310 kg); potassium 40 kg/ha (muriate of potash 65 kg) should be applied followed by a top dressing of 50 kg N/ha after each cut. The basal application should be repeated once in a year for sustained higher yields. The fields should be irrigated 3rd day after planting and as and when required thereafter. The irrigations need to be frequently applied especially during spring and summer.
+
+First cut should be taken 60-75 days after planting and subsequent cuts once in 45 days. The normal yield levels range from 150-160 tonnes/ha/year. Co 2 variety yielded 300-350 tonnes green fodder/ha in southern India when cut at 10-15 cm from the ground at regular intervals of 45 days.
+
+Anjan grass is also commonly known as buffel grass and African foxtail grass. It is a perennial, tufted grass, 0.3-1.2 m tall; leaf blade linear, 2.8 - 24.0 cm long and 2.2 - 8.5 mm wide; inflorescence dense, cylindrical, 2.0-12.0 cm long; seed count 450,000- 703,000/kg. Seeds remain viable for 2 - 3 years. In India, it is a natural species largely found in Rajasthan, Haryana, Punjab, Gujarat and parts of western Uttar Pradesh and Tamil Nadu state.
+
+FORAGE CROPS AND GRASSES. 1393
+
+It grows well in rainfall zones ranging between 125 and 1,250 mm in arid and semi-arid regions of the country. It comes up best on well drained, light (red coloured) to medium textured soils and calcareous in nature.
+
+It can withstand drought and can also grow very well under irrigation. It is an excellent grazing grass for hot, dry areas in tropics and sub-tropics. The rhizomatous drought resistant plants are dormant during summer months and with the arrival of rains they regenerate quickly and produce enough canopy to cover the soil. It is a good soil binder and hence used as a cover crop on bunds for soil and water conservation purposes.
+
+In well-levelled land, the sowing is to be done in lines using 4 - 5 kg seeds/ha after first shower in monsoon at very shallow depth (0.5-1.0 cm). Rooted slips or six weeks old seedlings can also be transplanted in a drizzly day at 50 cm row spacing and 30 cm plant spacing. Thus, about 33,000 seedlings or rooted slips are required for one hectare area with 2 seedlings at each spot.
+
+In the first year, a basal application of 5 tonnes of farmyard manure (FYM) along with 40 kg N and 20 kg P,O,/ha is to be mixed thoroughly in the soil at land preparation. Afterwards, 20 kg N/ha is top-dressed at one-month crop stage. However, in subsequent years 40 kg N + 20 kg P,O,/ha needs to be top-dressed as a single dose at the onset of monsoon. For higher tonnage, another dose of 20 kg N/ha may be applied after the first harvest.
+
+In the first year of establishment, only one cut is to be taken in mid-October. From first year onward, this grass gives 2-3 cuts. The first cutting should be taken at 60 days and subsequent cuttings at 30 45 days intervals depending on the rainfall. Cutting height may be kept 5-10 cm from ground level to ensure good regrowth in the following years. The pasture is more productive during 2nd to 4th year; afterwards the pasture should be burnt moderately or ploughed between the lines for its sustained production.
+
+Depending on rainfall, the yield varies greatly and in arid tract with less than 300 mm rainfall a well-established pasture produces 90-110 tonnes/ha green matter. For seed production, 75 cm spacing is advocated from line to line in order to avoid overcrowding through self-seeding. A well-established pasture yields around 125 kg seeds/ha. The grass is relished by all classes of livestock. It contains 11.0% crude protein at young stage with suitable ratio of calcium (Ca) and phosphorus (P).
+
+The grass is mostly used as cut and carry fodder but also well suited to grazing. This provides very good hay since it retains its nutritive value even when ripe fully. For silage the grass should be harvested at flowering or seeding stage. Cultivars S 262 and S 358 are found suitable for soil conservation purposes also.
+
+Dinanath grass (Pennisetum pedicellatum)
+
+The grass is good for monsoon season or Kharif season in tropical and semi-arid areas. Optimum temperature for growth is 30-35°C. Optimum rainfall for proper growth is 500-650 mm but can grow well and produce seed in even less rainfall. It grows well on fertile loam soil but with manuring can be grown in sandy soils. The grass can tolerate both acidic and alkaline soils; however it has little frost tolerance. It responds well to added nitrogenous fertilizers. It is one of the fastest maturing grasses. It has good compatibility with legumes like Vigna mungo and Melilotus alba.
+
+It needs a well-prepared moist seedbed. Seed is broadcast or drilled at | cm in rows
+
+1394
+
+1394 HANDBOOK OF AGRICULTURE
+
+40-50 cm apart. Sowing is usually done just before rainy season when one or two good showers are received. The seed rate is 1-2 kg/ha, a basal application of 5 tonnes of farmyard manure (FYM) along with 40 kg N and 20 kg P,O,/ha is to be mixed thoroughly in the soil at land preparation. Afterwards, 20 kg N/ha is top-dressed at one-month crop stage It can withstand several cuts per year for green fodder production. The grass has good ability to spread naturally by self seed set; regenerating each year and therefore has a tendency to become a notorious weed in certain areas.
+
+It has good quality forage with production up to 45 tonnes/ha under medium to high rainfall conditions. The crop can be grown under both rainfed and irrigated conditions. Although it was reported to be growing wild in Chota Nagpur and Gaya districts of Bihar and other parts of peninsular India such as Ganjam district of Orissa. The grass is mostly used as cut and carry fodder. It is also very good for hay making.
+
+Para grass (Brachiaria mutica)
+
+Para grass is also commonly known as buffalo grass, California grass, giant couch grass, water grass and pani wali ghas. It is an exotic, hairy and perennial grass, spreading rapidly by surface runners, profusely rooting at nodes. Stems rhizomatous with ascending branches; culms hollow, succulent and glabrous with hairy internodes; leaf blade linear, dark green, 30 cm long and 6-16 mm broad; inflorescence open panicle and 6-20 cm long.
+
+It is native to Brazil and was introduced to India in 1894 at Pune. It grows well in waterlogging conditions on river and canal banks and can withstand prolonged flooding. This grass is more suited for water-inundated conditions and sewage farms. It is a grass of tropical climate and grows well in warm humid situations of high rainfall areas but in protected areas, it can persist with rainfall as low as 900 mm per year.
+
+It performs well in moist clayey/silty/peaty/sewage farm soils and waterlogged soils. It is highly profitable to grow on submerged or low lying as well as saline soils where nothing else survives. The grass performs well with legumes like Centrosema, Calpogonium, Lotononis sp., Vicia and Aeschynomene.
+
+In a well prepared and levelled field, shoot bits of 30 cm length each with 2 3 nodes are planted in lines at about 50 cm distance; under irrigated conditions best time of planting is in March while under rainfed conditions at the onset of monsoon. 40,000 rooted slips are required to plant one hectare of land. A basal dose of 5 tonnes of FYM/compost is given with 40:50:50 kg NPK/ha followed by a top-dressing of 40 kg N+/ha after each harvest.
+
+Generally, the first cut is taken in 3 months from planting and subsequent cuts at monthly intervals. The green forage production ranges 130-140 tonnes/ha. The grass is less nutritive with 7% crude protein, 0.76% calcium and 0.49% phosphorus.
+
+The grass is used as green fodder, soiling and even for hay. It can withstand moderate grazing. It should not be grazed too closely and first grazing should be deferred till the grass attains the height of 30-60 cm and is well established. Controlled/ light grazing ensures rapid growth.
+
+Stylo (Stylosanthes hamata)
+
+This is also known as Caribbean stylo and Verano stylo.Jt is herbaceous and dichotomously branched perennial. It attains a height of 1.2 m; leaves wifoliate, leaflets
+
+1395
+
+lanceolate, acute, and glabrous with 4-6 pairs of veins; rachis 4-6 mm long and bidentate; stipules adnate to the base of the petiole with hairs on the sheath and teeth. The inflorescence is an oblong spike with 8-14 yellow flowers on a long stem. The pods or so-called seeds are medium to dark brown in colour, 2-2.5 mm long asymmetrical by reniform, radical ends fairly prominent and beak is slightly coiled. Actual seed comes after removing the brown covering and is light yellow in colour.
+
+It is a native of the islands of West Indies and found generally adjacent the coastal regions of North and South America, and introduced in many tropical regions of Australia, Burma and India. It thrives well in the areas receiving annual rainfall from 500 to 1,270 mm with a pronounced dry season. It is adapted to a wide range of soil types and is drought resistant.
+
+In a well prepared field the seeds are broadcast or sown in line at 50 cm apart @ 5- 6 kg/ha in pure and 3-4 kg/ha in mixed pasture during the early rainy season. Before sowing, the seeds should be scarified or treated with hot water for 1 1.5 minutes. During the establishment year, 1-2 weedings and interculturing are required for better growth.
+
+At the time of field preparation and before sowing 5-8 tonnes/ha FYM + 20 kg N and 40 kg P,O,/ha and 40 kg K,O/ha are applied. From second year onwards, 30 kg P.O, and 15 kg N/ha are sufficient. It may be mixed with Cenchrus, Dichanthium, Heteropogon, Sehima, Chrysopogon, sabai grass and blue panic.
+
+During establishment year (first year), it should not be allowed to be grazed at all but should be harvested at the height of 10 cm from ground level after four months of sowing. From second year onwards, it may be grazed or harvested 2-3 times. Rotational grazing is preferred for higher production. The green forage production ranges from 20 - 30 t/ha, while the dry forage is 6-10 tonnes/ha. It generally produces 350 - 400 kg seeds/ha but from well-managed pasture seed production reaches up to 1000 kg/ha. It, contains 12 18% C.P., 0.61 - 1.72% Ca, 0.10 0.12% P and 7.0 -14.2% ash.
+
+Being nutritive and palatable, it is used as feed for all types of animals in the form of hay, silage. Among the species of Stylosanthes, S. hamata and S. viscosa lines were found rich in crude protein and lower in fibre contents as compared to S. scabra and S. sebrana lines.
+
+Siratro (Macroptilium atropurpureum)
+
+Siratro is a deep-rooted perennial herb and has trailing habit. Stem is hairy and roots readily at the nodes. Leaves are trifoliate, dark green and silvery slightly hairy on upper and very hairy on lower surface. Leaflets are somewhat oval shaped but the lateral ones are unevenly lobed. Inflorescence is raceme; peduncle 10-30 cm long with a cluster of 6-12 flowers, often paired deep purple in colour. Pods are straight, cylindrical, pointed, 7-9 cm long many seeded. Pods dehisce violently when ripe. Seeds are flattened, brown to black in colour and 4 cm x 2.5 cm x 2 mm in size. The species is native to Central and South America and is now distributed to Australia, South East Asia and Pacific Islands. In India, it is found in semi-arid regions.
+
+It is adapted to subtropical to tropical climates and is found in areas of 615 - 1,800 mm rainfall and 26.5 - 30°C temperature. It thrives well on wide range of soils from light-textured sandy soils to heavy clays with good drainage. It grows over a range of pH from 4.5 - 8.0 and even in moderately saline soils.
+
+1396
+
+1396 HANDBOOK OF AGRICULTURE
+
+For natural grassland or already established pasture, the seeds should be sown after inter-culturing at the onset of rains. For pure pasture, the recommended seed rate is 12 kg/ha but for mixed pasture, the seed rate is 6 kg/ha. Seeds are sown in July after first heavy shower either in line at 50 cm space or broadcast. Sowing depth is 1.0 - 1.5 cm. During monsoon, one interculturing or weeding improves the crop performance. In the beginning, 10 cart loads of FYM is thoroughly mixed in soil followed by 20 kg N and 40 kg P,O,/ha. In subsequent years, 40 kg P,O,/ha is broadcast at the onset of monsoon. The average green fodder yield ranges from 15 to 20 tonnes/ha and dry fodder from 3 to 5 tonnes/ha. It produces the seeds two times in a year- i.e. October November and April May. The total seed production is 50-100 kg/ha. It gives high yields of palatable protein rich fodder with 16.8% crude protein, 33.4% crude fibre and 9.8% ash.
+
+It fixes nitrogen very effectively and can be grown with a wide range of grasses such as Rhodes, Setaria, green panic and guinea grass. It is utilized as hay and for grazing purpose and is persistent under heavy grazing when the plants are well established. It is also used for silage. Due to heavy and fast leaf fall, it helps in improving the soil and is also used for checking the soil erosion.
+
+Grass-legume mixtures
+
+Grass-legume mixtures have been used in many countries for realizing higher total herbage yield by growing them in association, rather than in individual swards where no fertilizer N is applied. The legumes in the pasture may also increase N content and digestibility of the herbage. In the diet of animals, grasses and legumes have also greater beneficial associative effect through rumen than when they are fed separately. Further, the adopted legumes in the mixture provide a simple and practical means of meeting the nitrogen need of the associated grasses as most of the legumes fix atmospheric nitrogen.
+
+The plant interaction in the mixtures often becomes competitive for available water, nutrients and light, thus affecting the overall yield. Studies conducted at the IGFRI, Jhansi, have shown the nitrogen equivalence of legume to the tune of 40-60 kg N/ha when introduced in natural grasslands. This means that 40-60 kg N/ha can be added to the grassland soil as microbial fertilizer manufactured by legumes. Besides being a substitute and a cheap source of nitrogenous fertilizers, legume also influence total dry, matter production and crude protein yield.
+
+Grassland improvement/rangeland restoration techniques
+
+Concerted research efforts in various research institutions have resulted in the development of technologies for restoration / improvement of rangelands/ grasslands. Grassland improvement techniques for forage production are based on various ecological approaches, e.g. protection of grassland for vegetation recovery, removal of unwanted bushes, re-seeding of grasslands with perennial and productive species of grasses and legumes, application of fertilizers for higher productivity and subsequently utilization of grassland either through cutting or grazing ina suitable manner. Considerable emphasis needs to be given on the important components given here for grassland improvement/ rangeland restoration: (i) protection, (ii) soil and water conservation, (iii) bush cleaning, (iv) re-seeding, (v) fertilization, (vi) cutting management, and (vii) grazing management.
+
+1397
+
+1397 FORAGE CROPS AND GRASSES
+
+Protection from grazing
+
+Overgrazing results in degradation of grasslands leading to dominance of unpalatable and noxious vegetation. Protection from grazing through fencing leads to remarkable recovery of vegetation status. Grazing lands can be protected through barbed/ woven/ chain links supported by angle iron/cement/stone/wooden poles or through fencing using unpalatable bushes. Live hedge fencing was found low-priced and most effective for protecting large areas. For live hedges, the suitable species are Pithecolobium dulce, Lantana camara, Carissa carandas, Agave sislana, Agave americana, Opuntia ficus-indica, Ziziphus nummularia, Jatropha curcus, Palensoria aculata, Lawsonia inermis, etc.
+
+For grazing lands in hills, 5 years protection is recommended in order to improve the degraded low altitude grazing areas. Closure of these grazing lands not only improves forage quantity but also its quality. A stonewall fencing (1 m high and 45 m wide) supported by live hedges of Agave americana, Barberis and Yucca sp. were found economically and ecologically viable. Studies conducted at the IGFRI, Jhansi revealed increase in the herbage yield from 0.1 to 3.5 tonnes/ha within 3 years of protection of degraded grazing lands with increase of plant population of desired perennial grasses.
+
+Soil and water conservation
+
+Soil-and-water conservation measures are extremely important for range and pasture management especially in dry areas and on sloppy degraded lands.
+
+Bunding: This is quite effective in sloppy and undulating lands. Along the contour lines and periphery, various types of bunds are made depending upon the topography of the area. In dry degraded areas, bunds are required to be stabilized with suitable grass species. In areas having better soil and rainfall, technique of graded bunds along with grassed waterway and drop structure for safe disposal of water has been found to be better than contour bunds.
+
+Water storage/discharge structures: These are extremely useful in ravines and watersheds, water storage/ discharge structures, viz. checkdams, anne-cuts and embankments of desired engineering specifications, are constructed for efficient conservation and utilization of already scarce water resources in dry areas. In some ravinous and hilly areas, gully plugging may also require erecting structure of various engineering specifications.
+
+Biological measures: Various grass and legume species are known to play an important role in soil and moisture conservation by reducing run-off and soil loss. In excessive windy areas, a combination of trees may be planted as wind/shelter belt, in specific designs, to check wind impact. The spreading of dry grasses or shrubby material on bare ground along the contours or terraces has been found to check soil and water loss.
+
+Bush cleaning
+
+Heavy infestation of bushes in grazing lands not only adversely affects the availability of open space for growing grasses but also forage production. The standard practice of bush cleaning includes either manual or mechanical felling or removal of stumps, or application of selective weedicides on the cut stumps to kill them to stop coppicing. Leaf fodder-yielding stumps, however, should be maintained in the grazing lands as these provide fodder during lean period or drought.
+
+1398 HANDBOOK OF AGRICULTURE
+
+Re-seeding
+
+For the improvement of productivity of deteriorated rangelands, it is essential to replace low yielding annual grasses by re-seeding with high yielding perennial grasses, which are adaptable to the prevailing condition of the region.
+
+Suitable species for re-seeding have been identified at the IGFRI, Jhansi and elsewhere. Species choice depends upon the condition of site, soil type and intended use. For arid and semi-arid zones, the most suitable grasses are Cenchrus ciliaris, C. setigerus for sandy-loam soils, Chrysopogon fulvus for red gravelly and sloppy lands, Lasiurus sindicus (particularly for extreme arid conditions), Panicum turgidum (for sand dunes), Dichanthium annulatum for loamy soils of better moisture status and Iseliema laxum and Panicum maximum for clay soils with higher moisture status. D.annulatum and C. ciliaris are two versatile grasses possessing adaptability over a wide range of climate and soil and are suitable for sandy or sandy loam soils in the areas having rainfall uptown 750 mm. Under such situation, suitable legumes for re- seeding are Stylosanthes hamata, Siratro, Alysicarpus rugosus, Lablab purpureus, etc.
+
+Pre-monsoon broadcasting of Stylosanthes seeds was found best for legume establishment. Use of pelleted seeds also gave good establishment.
+
+Fertilizer application
+
+Application of fertilizer has positive effect on increasing the productivity of grasslands. The response is best in case of nitrogen followed by phosphorus. Studies conducted at the IGFRI, Jhansi revealed that application of 40-60 kg N/ha and 20-30 kg P₂O/ha increased pasture production by 50-100% in majority of grasses besides increasing crude protein content considerably.
+
+Cutting management
+
+Proper cutting and harvesting mmanagment is vital for the grassland management. Cutting at suitable interval promotes tillering and increases the basal area of the tussocks of perennial grasses. It also promotes tillering and more effective seed formation as well as vegetative growth. In case of fodder trees also suitable pruning and lopping management is essential for desired growth and canopy formation.
+
+Grazing management
+
+The greatest single factor, which causes deterioration of grasslands, is overgrazing. During the course of grazing certain grasses are preferred while others are avoided. On account of this, selective grazing, desirable species tend to get depleted in grasslands much faster than undesirable species. In most perennial grasses, utilizing the reserve food material that is stored in the underground parts produces new shoots. Due to over-grazing, the reserve food material is lost faster and perennial grasses are unable to re-generate due to continuous drain on food reserve. Therefore, certain period of rest is essential for the perennial grasses to recoup and rejuvenate. Based on these considerations, the following types of grazing systems are practiced: (i) continuous grazing, (ii) deferred grazing, (iii) rotational grazing, and (iv) deferred-rotational grazing. In the continuous grazing system, the grassland is not divided into compartments or paddocks and animals move in the whole area. Long period of
+
+FORAGE CROPS AND GRASSES 1399
+
+continuous grazing often leads to deterioration in composition and production of good forage grasses and increase in unpalatable ones. It also affects soil fertility levels and exposes the habitat to rain beating leading to runoff and soil loss. In the deferred system, the grazing area is divided into compartments and at least one of those rested until seed setting. In the rotational grazing, no compartment is rested and so all of them are grazed in rotation of specific duration. The deferred rotational grazing system is a mix of above two types and is considered the best system of grazing because of the following benefits: (a) more number of grazing days from the same grassland used otherwise, (b) maintenance of proper vegetation composition through self seeding, (c) health of sward is maintained as the optimum utilization of biomass takes place and a period of rest is available to grasses, (d) soil fertility level is maintained, and (e) erosion hazards are avoided.
+
+In Sehima dominated grasslands at Jhansi, deferred rotational grazing system was found superior as compared to continuous system. For arid rangelands, it was found to increase the dry matter yield of Cenchrus species by 22% under deferred-rotational grazing compared to continuous grazing. In the Lasiurus-dominated grasslands in western Rajasthan, the deferred-rotational grazing system was superior in terms of average body weight gain of Tharparker breed of heifers over continuous grazing system. The calving of animals was also higher (26%) in deferred rotational grazing system than continuous system.
+
+Under different pasture utilization systems, viz. rotational, deferred rotational, continuous and cut and carry system, the highest run-off and soil loss was recorded in continuous system while minimum run-off was recorded in rotational system. However, the minimum soil loss was recorded in cut and carry system. The observations showed that improved practices of pasture establishment, contour bunding, grazing management reduced soil loss, made more water available and improved the soil conditions. Out of the four systems of grazing management, relatively higher values of organic carbon and available nutrients (N, P, K) and lower average loss of nutrients were observed in deferred rotational system, indicating its superiority over other pasture utilization systems.
+
+Silvipasture management
+
+Considering the continuous pressure on cultivable lands and deterioration already set in on the grazing lands, it is imperative’ to look for alternate land use systems that integrate the concerns for productivity, conservation of resources and environment and profitability. Agroforestry technologies such as silvipasture, hortipasture, etc. hold promise not only for bioremediation of degraded habitats but also for forage production to meet the demands of livestock and environmental security.
+
+Silvipastures integrate pasture and/or animals with trees. Woody perennials, preferably of fodder value, are introduced deliberately and systematically and managed scientifically. This system aims at optimizing land productivity, conserving plants, soils and nutrients and producing forage, timber and firewood on a sustainable basis. It involves replantation, substitution or intervention in the existing vegetation by desirable species. The tree selection is based on its easy regeneration capacity, coppicing ability, fast growth, nitrogen-fixing ability, palatable leaves (fodder),
+
+1400
+
+high nutritive value and less toxic substances, short rotation and high fuel value. The grasses and legumes should have easy colonizing ability, high production efficiency and high nutritive value.
+
+The biodynamics of silvipastoral systems involves four major distinct life forms, viz. the herbaceous vegetation (mostly grasses and legumes), the woody foraging component (fodder trees), the domesticated animals surviving on the vegetation, and the man who controls the other three components. In addition, soil and climate have their own roles to play and compliment the diversity. Since these systems are close to nature, they offer an ecologically viable and sound approach. The tree loppings/ prunings are also used as top feeds.
+
+It has been possible to increase land productivity from 0.5-1.5 tonnes/ha/year to > 10 tonnes/ha/year (10-year rotation) by developing silvipastures. Now, the concept of hortipasture is also gaining popularity with the farmers for utilizing their degraded lands. The additional forage availability through such systems is likely to reduce grazing pressure and thus have important environmental implications. Efforts to design silvipasture systems to produce > 15 tonnes/ha/year through species introduction, planting geometry, canopy manipulation and sustainable management through in-situ grazing or cut and carry system are continuing.
+
+The grasses have a lot of conservation benefits in reducing soil and water loss to a great extent. Average soil loss from deforested land is reported to be 12-43 tonnes/ha in black soil and 4-10 tonnes/ha in red soils whereas soil loss from natural grassland has been only 3.2 tonnes/ha from a protected site. Silvipastures are still better for soil conservation and the soil loss from these areas has come down to 0.9 tonnes/ha. Grasses and legumes are primarily valued as forage and their value in checking soil erosion is often less viewed. There are specific recommendations for a particular type of soil and rainfall. For example, Dichanthium annulatum is best in reducing soil loss from 20.5 tonnes/ha to 1.5 tonnes/ha on sandy-loam soil (2% slope) in 790 mm rainfall situation. Adoption of silvipasture system on marginal rainfed lands was tested on the Institute research farm. Based on land holdings of the farmers around Jhansi, allocated lands were subjected to appropriate combination of trees - grasses and legumes (Table 37.14). The production after 10 year cycle showed higher production on small holdings compared to medium and large holdings.
+
+1401
+
+Suitable species
+
+In order to improve the productivity of common lands/wastelands, it is essential to replace low yielding annual grasses by seeding with high-yielding perennial grasses that are adaptable to the prevailing conditions of that region. Similarly, introduction of leguminous species, browse shrubs and top feeds is considered important from the viewpoint of quality forage supply and grazing. The choice of suitable species shall vary with agro-climatic conditions. Suitable species have been identified depending on the site, soil type, micro-climate and need, etc. An account of promising forage grasses, legumes, shrubs and trees for various agro-climatic regions of India is presented in Table 37.15. The agronomic potential of different grass species is given in Table 37.16.
+
+1402
+
+o wi < 2 @ & a (0) é
+
+1404
+
+1405
+
+2) Ww oO FS (0) a = Ps oo o (S) Ww oO a fe)
+
+1406 HANDBOOK OF AGRICULTURE
+
+Forage conservation
+
+India being a tropical monsoon bound country with unimodal rainy season, surplus green herbage is available at the flush growth periods during kharif as well as rabi (in irrigated areas). It is desirable that these are preserved /conserved with minimum loss of nutrients. These can be conserved either as hay or silage or artificial dehydration for feeding to livestock during lean periods when availability of fresh forage is meager or negligible (mid October-mid December and mid April-June).
+
+Ensilage has many advantages over the other methods of forage conservation. There is high-energy output in high temperature dehydration. Hay making is difficult during monsoon season because of unscheduled rainfall and little availability of sunlight in addition to loss of nutrients due to leaching. Crops can be well conserved as silage but it requires precautions as lack of understanding of the factors associated with ensiling technique may produce silage of bad quality leading to poor animal performance or even wastage of fodder.
+
+Silage
+
+Silage is the material produced by controlled fermentation of crops under anaerobic conditions. This process is known as ensilage and the container used for the purpose is known as silo. The fermentation process is governed by microorganisms present in fresh herbage or by additives to maintain anaerobic condition. When herbage is placed in an airtight container, naturally occurring bacteria ferment the carbohydrates (sugar) present in the herbage to produce mainly the lactic acid. The aim is to achieve a sufficient concentration of lactic acid to prevent other type of bacterial activity, i.e. clostridia activity. The main requirements are the exclusion of air to maintain anaerobic conditions and to discourage clostridial fermentation which leads to production of carbon dioxide, ammonia, amines, butyric acid, etc.
+
+Methods of controlling fermentation: There are several ways in which the clostridial type fermentation can be checked. One of the commonly used practices is to increase the dry matter of the herbage. In ensiled crops containing 30% or more dry matter, crop ensile satisfactorily. Promotion of lactic acid fermentation is important pathway for controlling clostridial growth. Other method of controlling fermentation is by addition of preservatives and additives. Carbohydrates in the forages may be naturally occurring or may be added as a separate ingredient such as molasses obtained as sugar industry byproducts, which acts as a fermentable substrate.
+
+Additives for effective ensiling of nutrients: Various types of additives can be used to improve or inhibit the fermentation or supplement nutrients needed by ruminants to be fed as silage. Propionic acid, formaldehyde, etc. have been used to increase the rate of lactic acid fermentation and produce stable silage.
+
+Carbohydrate sources such as molasses, whey, yeast and other energy-rich ingredients have also been used as additives to increase the fermentation and feeding value of silage. Urea @ 0.5-1.0% have been found to increase crude protein content and also the lactic acid content of silage made from cereal fodders.
+
+Microbial activity: As anaerobic conditions are achieved in silo, the species of Escherichia, Bacillus, Clostridium, Leuconostoc, Lactobacillus and Pediococcus develop. Lactic acid bacteria (Streptococcus, Leuconostoc, Lactobacillus and Pediococcus) are the important organisms for preservation of silage of good quality.
+
+FORAGE CROPS AND GRASSES 1407
+
+Silos: The different types of silos generally used are: (i) pit silo, (ii) tower silo, (iii) trench cum bunker, (iv) trenches, and (v) drum and PVC silo. The silo must provide a solid surface to permit consolidation of the ensiled material and elimination of air. It must protect the silage from water. In India, pit silo is the most common.
+
+Techniques of silage making: (i) Dry matter: Dry matter should be above 30%. Crops of high moisture should be ensiled with the addition of preservatives and additives. In poor weather, wilting should be avoided and additive should be used for good fermentation.
+
+(ii) Stage of growth: Crops should be cut at a proper stage of maturity as it is the most important factor for controlling the silage quality. The appropriate stage of growth for cutting different fodder crops for silage making is given below:
+
+Sorghum - Flowering to dough stage
+
+Maize - Milk to dough stage
+
+- 50% flowering to dough stage
+
+Grasses - Early flowering stage
+
+(iii) Chopping: Crop should be chopped before ensiling. For good silage, the shorter the chop length, the better is the quality. Chopped silage is more palatable to livestock and has little chance of secondary fermentation.
+
+(iv) Filling of silo: Silo should be filled rapidly and should not be left open. It should be sealed as soon as possible. Packing is important to create anaerobic conditions. It should be thoroughly pressed so that no air pocket is left in the silo otherwise chances of mould formation will be there which will spoil the silage. After filling, silo should be covered with polythene sheet followed by that of a layer of soil, etc.
+
+(v) Removal of silage: After 45 days of ensilage, the silage can be removed for feeding to animals. Caie should be taken in removing the silage from silo. It should not be allowed to deteriorate after the silo is opened for feeding. Covers should be kept firmly in place as long as possilie and the minimum face should be exposed at one time. The sugars, proteins and lactic acid present in the silage are subject to attack by mould growth and oxidation as some air is allowed to fermentation and causes loss of feeding value and intake by the animals.
+
+(vi) Silage quality: Silage quality is determined mainly by the odour, physical state, pH, ammonical nitrogen, volatile acids and lactic acid. For desirable fermentation, the forage should be rich in water soluble sugar (more than 5% on dry-matter basis). A good-quality silage should have the following characteristics: (i) pH 4.5-5.0, (ii) ammonical nitrogen of total N — less than 10% of total N, (iii) butyric acid- less than 0.2%, (iv) lactic acid -3 to 12%, and (v) volatile acids, alcohol should below.
+
+Hay making
+
+Conservation of high-quality forages by drying is termed as hay making. The principle of hay making is to preserve nutritional value of forages through drying it to a level at which the activity of microbial decomposers is inhibited. In India, sunlight is available in abundance, which enables farmers to dry the green forage in open sunlight and thus making hay more economical. The hay making leads to reduction of moisture content to 10-20%, which inhibits the enzyme activity in the plant to be conserved. Thin stemmed cereal crops like sorghum, oat, guinea grass, range grasses,
+
+1408
+
+1408 HANDBOOK OF AGRICULTURE
+
+range legumes particularly Sylosanthes, Siratro, lablab bean, and all the cultivated legume fodders like berseem, lucerne, and cowpea are suitable for hay making. Leguminous forages have high buffering action and high nitrogen content, and hence are more suitable to be conveniently conserved as hay.
+
+Hay making is relatively more convenient and easy for Indian farmers. It can be done by sun drying. During inclement weather, hay making may be done by drying under shade or artificial drying through solar energy, Harvested forage particularly thick stemmed should be chopped and spread over the ground for sun curing and the layers should be changed every day to prevent any sort of fermentation or bacterial growth. After it is well dried (dry-matter content at the time of storing should be around 85-90%), this can be stored for feeding during the lean periods. Thin stemmed crops including legumes can be dried without chopping while thick stemmed fodders like sorghum, maize and bajra (pearl millet) require chopping or crushing before they are allowed to dry.
+
+Factors affecting the quality of hay
+
+The following factors affecting the quality of hay are important and should be given due consideration: (i) plant species, (ii) stage of harvest, (iii) leaf : stem ratio, (iv) chemical composition, (v) physical form, and (vi) deterioration during storage.
+
+Bailing and densification
+
+The transport of dry grass occupies voluminous space and takes lot of time to transport resulting into higher costs. Bailing and densification of dry grass helps in reducing the volume and could be transported economically and efficiently. By using these techniques, the hay could be transported from excess producing areas to deficit areas especially during the calamities of drought. Wheat straw (bhusa) could be added with 20% molasses and then densified and bales can be prepared to increase the digestibility of feed intake. Densified block of wheat straw, molasses and urea could be developed through high density bailing machine. The average density of wheat straw and stubble block obtained thus would be 398 kg/m? and 355.0 kg/m}, respectively. Moisture level of admixture was maintained at 20% for densification. The optimum ratio of physical composition of straw block is 78:20:2 (wheat straw: molasses: urea).
+
+Production of complete feed blocks
+
+Complete feed blocks could also be prepared by densifying machine. Nutritive value of forage is enhanced through mixing with molasses and blending with leguminous fodder, concentrate mixture, minerals and vitamin additives. The composition of complete feed blocks included wheat straw (40%), molasses (20%) dry leaves of berseem (20%), concentrate mixture (19%) and mineral mixture and vitamin additives (1%).
+
+Preservation in the form of leaf meal
+
+Preparation of leaf meal out of top feeds and leguminous forages as an animal feed stuff because of high concentration of protein of high biological value and other nutrients such as carotene and minerals. There exists a big deficit of concentrate in the
+
+FORAGE CROPS AND GRASSES 1409
+
+1409
+
+country to the tune of 60% and this deficit can be partially bridged by replacing the concentrate feeds by leaf meals. Leaf meal production technology is simple as well as profitable enterprise for the farmers. Crude protein content (% DM basis) in leaf meals of important forage crops are as follows — Leucaena leucocephala (18-21%), Sesbania sesban (18%), lucerne (20-21%), Stylosanthes sp. (12-18%), Ziziphus nummularia (13-16%). The leaf meal of leguminous forages are also known to have rich content of essential amino acids such as lysine, leucine, isoleucine, threonine, methionine, cysteine, valine, histidine, and arginine.
+
+A lot of scope exists in establishing a production, processing and marketing chain for its popularization in different parts of the country. One lucerne leaf meal production plant started in 1977 at Udmalpet near Coimbatore produces more than 15 tonnes of leaf meal per month. The set-up consists of a chaff cutter feeding sun dried lucerne to a powdering mill for grinding and collection of sieved leaf meal. Farmers around Palladam (Tamil Nadu) have organized through a co-operative to grow and supply lucerne to the leaf meal plant. The arrangement assures regular cash income for small holder farmers through a well developed production, processing and marketing chain. Furthermore, utilization of such meals has grain-saving effects.
+
+Seed technology
+
+Propagation of improved fodder production technologies specially the improved varieties has not reached to the farmers mainly because of the non-availability of good-quality seeds. The availability of good-quality seeds is estimated to be around 15-25% only for cultivated fodders. The productivity and availability of seed are vital because the fodder crops have been bred for enhanced vegetative potential and as such they are shy seeders with very low seed productivity.
+
+Presently, the seed demand of cultivated forages, range grasses and legumes are increasing tremendously. The grass seed production and distribution have remained isolated. Recent estimates put the current demand for seeds of cultivated fodders at 355,000 tonnes/annum based on the area under cultivation (8.3 million ha) and a target replacement rate of 10%. With the development of a number of improved and high- yielding varieties in forage crops, it has become important that quality seed should be readily available and supplied to the farmers at reasonable price. The present and future projected demands for fodder seeds are given in Tables 37.17, 37.18.
+
+1410
+
+Projected seed requirements of range grasses, legumes and fodder trees (‘000 tonnes) Range grasses
+
+Year Cenchrus Dichant- Laisurus Panicum Pennisetum Brachiaria Dactylus OthersTotal sp. hium sp. sindicus maximum pedicellatum sp. sp.
+
+Fodder trees/shrubs
+
+The nature of forage seed production is more complex and a number of environmental and physiological factors have a significant impact on seed production potential of a particular crop. By and large, forage crops are shy seed yielders. In majority of forage crops, seed production depends on photoperiod, thermoperiod, humidity, soil type and condition and the soil moisture. These crops can give better seed yield if grown under ideal agro-climatic situations/sites. Each forage crop is, therefore, suited to only specific area for
+
+The seed demand of Chrysopogon fulvus, Pennisetum pedicellatum, cowpea, berseem, sorghum, and oat is i ; B 2 , and oat is increasing. erseeM, cowpea, sorghum, oat and Panicum
+
+1411
+
+FORAGE CROPS AND GRASSES 1411
+
+maximum produce higher seed in central tropical areas. Concerted efforts are, therefore, required in this direction so that available technology could be passed on to the forage and seed producing agencies and also to farmers for their eventual use in augmenting forage resources.
+
+Reasons for low production of seed in forage crops
+
+The main reasons for low seed production in forage crops include: (i) low priority of crops leading to poor allocation of resources and area, (ii) non-availability of quality/ certified seeds, (iii) indeterminate growth habit coupled with non-synchronous maturity resulting in higher cost in collection of seeds, (iv) low seed productivity due to crops being basically bred for herbage and the crop being harvested at vegetative stage and not allowing to reach to seed stage, (v) low seed production due to seed dormancy, seed shattering, blank/empty seeds, (vi) low multiplication ratio in most of the fodder crops which is often not remunerative to the producing agency, (vii) lack of organized seed outlets for marketing and uncertainty of seed demand, (viii) poor extension machinery responsible for inadequate popularization of improved varieties, and (ix) lack of policy support.
+
+The need for seed production
+
+With the development of improved and high-yielding varieties in forage crops, it has been realized that truthful labelled (TFL) and certified seed should be supplied to the farmers. Shortage of improved technologies in the field of seed production of forage crops will have to be overcome by launching a participatory seed production programme. Apart from the seed production techniques, seed processing and handling techniques need to be developed for maintaining the quality of forage seeds. Sorghum, maize, cowpea, guar (clusterbean), pearl millet, berseem, oat and lucerne are the important cultivated fodder crops and Cenchrus, Panicum, Pennisetum, Brachiaria, Chrysopogon, stylo, etc. are the important rangeland species covering the large acreage under forage cultivation. The demand of quality seed of these crops is increasing day by day. This can be achieved only through identification of high seed-producing forage crop varieties and through sufficient production of quality seeds with the participatory programme of researchers, farmers, NGOs, and seed growers/ farmers.
+
+Participatory forage seed production
+
+Availability of quality seed in adequate quantities is a key link in promoting forage production and enhancing livestock productivity in the country. Large gap in requirement and availability of forage seeds is one of the major constraints in development of fodder resources in the country. The production and marketing of forage seeds is an important strategic link in production and promotion of relevant species and cultivars in larger areas. In India, there is no well established mechanism/ set-up for quality forage seed production and there is a very limited experience in this field particularly with perennial grasses and legumes. As a result, supplies of good quality seed of forages have often been insufficient to meet demand even for the better- known species and cultivars.
+
+Quality forage seed production is a specialized activity and is a relatively recent phenomenon in India. Because of limited experience and expertise, organized forage
+
+1412
+
+1412 HANDBOOK OF AGRICULTURE
+
+seed production and delivery systems are almost non-existent at the required niches. Consequently, the supply of quality forage seed has been insufficient to meet the demand of even better known species and cultivars that have originated through crop breeding efforts.
+
+Tips for successful operation of a participatory seed project
+
+Based on the experiences of participatory seed project at the Indian Grassland and Fodder Research Institute, Jhansi, the following points are suggested for successful operation of participatory seed project.
+
+The participating farmers must be selected after focused participatory rural appraisal (PRA).
+
+Memoranda of understanding should be developed and agreed upon with the participating farmers.
+
+The farmers should be selected keeping in view their progressive attitude and interest in producing seed.
+
+The required resources to produce forage seed of a new activity should be made availble.
+
+The production areas/sites should be in the proximity and easy access.
+
+Staff must give priority to their responsibilities and activities within the project.
+
+Training for the project staff in seed production, marketing and socioeconomic aspects should be conducted where necessary.
+
+Regular review and planning meetings/workshops should be held at least on an annual basis.
+
+Management of the revolving fund used to support such projects should also be critically reviewed and discussed annually.
+
+Some useful seed production technologies
+
+Cultivation techniques for enhancing seed yield
+
+Setaria sphacelata intercropped with Desmodium tortuosum (IL 1568), Panicum maximum intercropped with Stylosanthes hamata and Macroptilium atropurpureum increased seed yield and saved 20-30 kg N/ha with additional yield of leguminous fodder.
+
+Providing climbing support of Sesbania sesban increased the seed yield of Macroptilium atropurpureum, (61.1 kg/ha) as compared to that produced without any support (45 kg/ha).
+
+Seed treatment
+
+Seed treatment with 100 ppm GA,, hydration for 18 hours + dry dressing of Thiram and osmo-conditioning in PEG solution (-10 bars), increased seed germination, field emergence and seed yield in Cenchrus ciliaris, Clitoria ternatea, siratro, and stylo.
+
+Seeds of Clitoria, siratro and stylo soaked in hot water (60°C) for half an hour gave maximum germination.
+
+Soaking of Cenchrus ciliaris seeds in fresh water from 8 - 10 hours before sowing was found effective for improved germination.
+
+1413
+
+¢ Pretreatment of seeds with 0.2% potassium nitrate (KNO,) has improved seed germination in Cenchrus ciliaris, C. setigerus and Panicum maximum.
+
+* The treated seeds of lablab bean and maize with Bavistin and Malathion @ 1g/kg seed (1:1) were stored safely up to 20 months in polythene bags without any substantial loss in germination.
+
+Foliar spray
+
+* Foliar application of a-naphthalene acetic acid (NAA) along with K and diammonium phosphate (DAP) at flower initiation stage increased panicle length, seed setting, seed retention and seed yield in Panicum maximum, Dichanthium annulatum, Cenchrus ciliaris, Cenchrus setigerus and Stylosanthes hamata.
+
++ Foliar application of Tresol @ 2.5 litre/ha, significantly increased the seed yield to 5.4 q/ha in berseem.
+
++ Foliar application of KNO, @ 4 kg/ ha in Clitoria, stylo, cowpea and berseem at flowering initiation stage increased the seed yield by 20 —25% over the control.
+
+Seed storage
+
+Bavistin and Malathion, @ 1g/kg seed (1:1), treated seeds of lablab bean and maize can be stored safely up to 20 months in polythene bags without loss in germination. Among the botanicals, extract of Croton tiglium and Acorous calamas @ 1.0 ml/kg seed used as seed treatment gave 100% protection against storage bruchid and Trichoderma infestation.
+
+Transfer of technology
+
+Extension of developed technologies have an important role to play in evaluating ex ante the benefits and costs of different technologies under various conditions and on different farm types and, identifying appropriate uptake pathways for effective dissemination of technologies. At this juncture, the natural resources accounting and ecological economics will be most pertinent to identify sustainability parameters. These challenges call for setting up the agenda for commitment in the area of research, development and extension.
+
+Participatory approach towards technology development and refinement
+
+In traditional crop breeding programmes, scientists themselves visualize farmers’ problems and develop research programmes accordingly. Now the concept of crop breeding based on participatory rural appraisal approach with farmers’ involvement in identification of the problems and on-farm joint evaluation of research material is gaining importance. The farmer who is also the actual user of the output has a vital role in the selection of desired material from a spectrum of diverse lines. The crop variety or the technology thus developed is better and more acceptable as it is developed in a real farm situation than the one developed in sheltered/ protected environment at the research farms.
+
+Experience has shown that solutions imposed, implemented and policed from out side almost always fail. Without the local community’s close involvement at all stages — technology generation, planning and implementation, the adoption will be poor. This
+
+1414
+
+1414 HANDBOOK OF AGRICULTURE
+
+is particularly true in most marginal areas where adoption of improved technology is fairly slow. Evaluation of different research and development projects reveals that most projects lack client orientation because insufficient attention is paid to farmer’s needs and preferences. Participation of clients, end users and adaptive research will increase the possibilities of land use technologies to be adopted for specific regions and adopter for specific user groups.
+
+Cost : benefit ratio of forage production technologies
+
+The studies on cost : benefit ratio of forage production technologies revealed that net returns by adopting different forage sequences ranged from 1.38 to 2.41 (Table 37.20). Many studies on silvipastoral systems have shown desirable benefit : cost ratio and internal rate of return thus indicating its bankability for adoption (Table 37.21).
+
+1415
+
+Ecological economics
+
+Value of vegetation in carbon sequestration cannot be underestimated. Due to varied edaphic and vegetation conditions, the land productivity improved and the in situ grazing although complicates measurements but edaphic enrichments do add to the value of organic matter in soil are bonus and sustainability imperatives. The economicimplications can be understood in terms of sustainability of nutrient transfer and ecological economics in its temporal and spatial dimensions. Many of the fodder and grassland related technologies prove highly positive on the ecological economics test scales.
+
+Such evaluation studies indicate the economic soundness of these technologies. However, it could be improved further by inclusion of intangible benefits/costs. The inclusion of important parameters/ indicators in arriving the economic imperatives, viz. oxygen production/ carbon sequestration, edaphic enrichments conversion to animal protein, recycling of water, microclimatic modification, hydrologic cycle—base flow and water surplus irrigation adds a new dimension and the impact could be evaluated in totality.
+
+Meeting the challenge
+
+The increasing demand for livestock products requires improved livestock and their productivity. Under the present land use options driven by growing human population, additional cropland area for forage production is not likely to be available. Thus, newer avenues have to be searched for meeting this challenge of bridging the gap in demand and supply. The areas and potentials are presented in. Table 37. 22.
+
+Assuming the trend in expansion of area under JFM continues, the area could be expected to increase by at least 15 million ha in the next 25 years. With participatory management and better technical support, a dry grass production of 4 tonnes/ha can be achieved. This will add about 60 million tonnes of dry fodder each year. —Establishment of agro-ecologically suitable silvi-pastoral systems in these forest areas will be beneficial both environmentally and economically. The involvement of communities and the modes of usufruct sharing also augurs positively for social equity.
+
+Bringing larger areas under joint forest management (JFM):
+
+About 10.25 million ha of forest area is currently under JFM programmes in the country being managed by the communities, after the government Notification in 1990. This trend is likely to continue in the coming years. Enhanced fodder and fuelwood availability is reported from these communities from different parts of the country where these programmes are in operation. Currently, a dry grass production of 1-2 tonnes/ha is estimated is these areas.
+
+Appropriate technologies available if pro- moted during the efforts to regenerate these areas will enhance fodder production and also contribute to environmental regenera- tion and sustainability. Treatment of these land classes say even on about 15 million
+
+Treatment of culturable wastelands and area under problem soils :
+
+About 13.94 million ha of the area in the country is under culturable wastes and an- other 11 million ha is classified as problem soils being plagued with salinity, alkalinity and waterlogging.
+
+1416
+
+(Table 37.22 concluded)
+
+Potential increase in production
+
+Areas which could be exploited
+
+ha with improved silvi-pastoral systems will result in an annual fodder production of 90 million tonnes of dry matter/annum.
+
+Even if improved technologies are adopted only in the area currently under fodder culti- vation, the production can be at least dou- bled. An increase in green fodder production to the tune of 300-350 million tonnes/annum is possible.
+
+Promotion of intensive/improved fodder production technologies in cultivated fod- der areas:
+
+The area under fodder crops is reported to be static for the last 2-3 decades.
+
+Scientific utilization of traditional pas- tures:
+
+About 2.59 million ha is under pastures in Western India in the states of Gujarat and Rajasthan. In Himachal Pradesh, it is about 1.2 million ha, accounting for 35.5% of the total area in the state. These are especially important for the landless livestock keepers, whose livelihoods depend on the health and productivity of these pastures.
+
+Anticipated impact
+
+Establishment of fodder banks -This should be the strategy for drought-and flood-prone areas of the country and should aim at transporting economically baled dry fodder from surplus areas in view of the fact 8 major river valleys spread over 40 million ha in the country and 40 million population is affected by floods annually and 74 districts in the country in 14 states and 86 million people are affected annually by droughts.
+
+The resource poor livestock owners most often lose their livestock due to the fodder scarcity caused by these natural disasters. Establishment of fodder banks will serve the purpose of easing these scarcities. In addition, the surplus forages produced in other parts of the country, currently wasted will also be efficiently utilized and will contribute to reducing regional imbalances.
+
+This will support the initiative of setting up fodder banks and will facilitate the economical transport of fodder from surplus areas.
+
+Conversion of fodder into feed blocks
+
+This will help in alleviating the nutritional deficiencies to some extent in the absence of availability of adequate quantities of fodder to fulfill the nutritional requirements of the livestock and contribute to increased production and incomes of rural populace.
+
+Enrichment of straw/stover with urea
+
+(Contd. . .)
+
+FORAGE CROPS AND GRASSES
+
+(Table 37.23 concluded)
+
+In addition, some strategies are required to increase the efficiency of the supply of fodder in the various regions of the country. Some of them are outlined in Table 37.23. In comparison to land, livestock are controlled more by the poor. In India, marginal farmers (less than 1 ha) and small farmers (less than 2 ha) are owners of about 45% and 20% of the livestock, respectively. Animal husbandry provides job opportunities to about 20 million people (principal status 11 million and subsidiary status 9 million). Hence, ecofriendly fodder production system is of prime importance. The demand will reach to 1,170 million tonnes of green fodder, 650 million tonnes of dry forage and 152 million tonnes of concentrate feed. At the current level of growth in forage resources, there will be 65% deficit in green fodder and 25% deficit in dry fodder. Green forage supply situation has to grow at the rate of 3.2%. Diversion of crop residues for packaging and other industrial requirement as well as incorporation of crop residues into soil will worsen the demand and supply situation. There is need for policy for utilization of crop residues for industrial and agricultural sectors allowing only non- edible crop residues for packaging and other industrial use. On account of more emphasis on food production at the national level the actual potential of quality fodder production for animal feed has not yet been fully tapped in the country which needs to be accomplished.

@@ -1,0 +1,309 @@
+SOURCE_DOCUMENT: Chapter 9.pdf
+
+9. Land Utilization
+
+India covers an area of 329 million ha, extending from the snow covered Himalayan heights of the north to the tropical rain forests of the south. It is the seventh largest country in the world. It stands apart from the rest of Asia. Bound by the Great Himalayas in the north, it stretches southwards and at the Tropic of Cancer, tapers off into the Indian Ocean between the Bay of Bengal on the east and the Arabian Sea on the west. Being an agriculture dominant country, the agricultural land use assumes a great significance for optimizing land utilization for future development.
+
+Land resource constitutes the fundamental base for all human activities. It is one of the most important natural resources of the country as the agricultural sector is more predominant than the industrial sector. The way and the extent to which the land resources are utilized decide the country’s socio-economic development. Hence, the proper utilization of land according to its use potential is important not only for producing food materials (cereals, fruits and vegetables) but also for developing industrial sector, transport and communication network, and other social needs and public amenities. The improper use of land, therefore, should be avoided as it may lead to a considerable wastage and progressive deterioration of production and productivity. India’s position in World Agriculture is furnished in Table 9.1.
+
+(Table 9.1 concluded)
+
+*Figures relate to 2004;** figures relate to 2005; ***figures relate to 2003.
+
+Source: Agricultural Statistics at a Glance. 2008. Directorate of Economics and Statistics, Department of Agriculture and Cooperation, Ministry of Agriculture, Government of India, New Delhi
+
+The selected indicators of agricultural development in India, Asia-Pacific Region and World are furnished in Table 9.2.
+
+The existing land use pattern in different regions in India has developed due to the
+
+LAND UTILIZATION
+
+“Agricultural Land” as used in this publication refers to “Arable and permanent cropped land”, which excludes permanent meadows and pastures, fallow land resulting from shifting cultivation, and land under trees grown for food or timber. Double cropped area is counted once.
+
+Source: Selected Indicators of Food and Agriculture Development in Asia - Pacific Region, FAO Regional Office for Asia and the Pacific , Bangkok. Agricultural Statistics at a Glance. 2008, Directorate of Economics and Statistics, Department of Agriculture and Cooperation, Ministry of Agriculture, Government of India, New Delhi.
+
+action and interaction of various factors, such as the physical characteristics of land, the institutional framework, the availability of the infrastructure of the other resources (capital, labour, etc.) and of economic development of the region. The present land use pattern can, therefore, be considered to be in some sort of static harmony and adjustment with the other main characteristics of agro-climatic features and the economy of the region. In the dynamic context, keeping in view the natural endowments and the recent advances in technology, the overall interest of a country may dictate certain modification or change in the existing land use pattern of a region. A close study of the present land use and utilization patterns and the trends will help to suggest the scope for planning and shift in the existing land use system.
+
+Land use statistics
+
+Out of the total geographical area of 329 million ha of the country, the land use statistics are available for about 305 million ha, constituting 93% of the total area. According to the land use data of 2000-2001 the arable land (the net area sown plus the current and other fallow lands) was estimated at 166.48 million ha (54.6% of the total reporting area). The area under forests accounted for 69.53 million (22.8%). Land put to non-agricultural uses was estimated at 23.86 million ha (7.8%) and the barren and unculturable land at 17.60 million ha (5.8%). Permanent pastures and other
+
+“Cropping intensity is the percentage of gross cropped area to the net area sown Source: Agricultural Statistics at a Glance. 2008, Directorate of Economics and Statistics, Department of Agriculture and Cooperation, Ministry of Agriculture, Government of India, New Delhi
+
+grazing lands were estimated at 10.66 million ha (3.5%), land under miscellaneous tree crops and groves, not included in the net area sown, at 3.43 million ha (1.1%) and the culturable wasteland at 13.61 million ha (4.5%). By summing up these figures, the reporting area comes out 305 million ha (Table 9.3).
+
+According to the land use data of 2005-2006 (Provisional), the arable land (the net area sown plus the current and other fallow lands) was estimated at 166.06 million ha (54.4% of the total reporting area). The area under forests was accounted at 69.79 million (22.9%). Land put to non-agricultural uses was estimated at 25.03 million ha (8.2%) and the barren and unculturable land at 17.48 million ha (5.7%). Permanent pastures and other grazing lands were estimated at 10.42 million ha (3.4%), land under miscellaneous tree crops and groves, not included in the net area sown, at 3.38 million ha (1.1%) and the culturable wasteland at 13.12 million ha (4.3%). By summing up these figures, the reporting area comes to 305 million ha.
+
+The area, for which data on the land use classification is available, is known as the reporting area. In areas where the land use classification figures are based on land records, the reporting area is the area according to village papers or records maintained by the village revenue agency and the data are based on a complete enumeration of all the areas. In some cases, village papers are not maintained; but the estimates of the area under different classes of land are based on the sample surveyor and other methods to complete the coverage. The reporting area is the aggregate of the areas based on these 2 methods. The areas for which no statistics are available are called “non reporting area’. The whole of the reporting area is neither completely surveyed
+
+LAND UTILIZATION 263
+
+cadastrally nor fully covered by complete enumeration of sample survey. There are still pockets of areas in a few states for which only ad-hoc estimates are made.
+
+The non-reporting area is steadily declining from year to year owing to the special efforts made by the Government of India and the State Governments, and in 1999- 2000, it stood at about 6.9% of the geographical area. This non-reporting area is broadly of 2 types. First, there are the hill tracts of Jammu and Kashmir, Arunachal Pradesh and Himachal Pradesh where there is less cultivation and where, among other things, owing to the peculiar nature of the terrain, the collection of the annual agricultural statistics is not only very difficult due to inaccessible areas but also costly. Secondly, there are small tracts in some states where, due to the absence of the survey agency or the village revenue agency or both, no regular statistics is available. With the extension of cadastral survey to the non-reporting areas and the setting up of the reporting agency in the areas where it does not exist, the coverage of land utilization Statistics is expected to go up. During 1999-2000, out of the total non-reporting area of about 22.7 million ha, about 17.7 million ha was in Jammu and Kashmir alone, about 2.9 million ha in Arunachal Pradesh and 1.0 million ha in Himachal Pradesh. Remaining 1.1 million ha was in pockets in the states of Gujarat, West Bengal, Karnataka, Nagaland, Andhra Pradesh and Manipur, and the union territory of Andaman and Nicobar Islands. .
+
+Classification of land use
+
+Till 1949-50, the land area in India was classified into 5 categories known as the 5-fold land utilization classification. These categories were: (i) forests, (ii) area not available for cultivation, (iii) other uncultivated land, excluding the current fallows, (iv) fallow lands, and (v) net area sown. This 5-fold classification was, however, a very broad outline of land use in the country and was not adequate enough to meet the needs of agricultural planning in the country.
+
+The states were also finding it difficult to present comparable data according to this classification due to the lack of uniformity in the definitions and scope of classification covered by these 5 broad categories. To remove non-compatibility and to break-up the broad categories into smaller constituents for better comprehension, the Technical Committee on Coordination of Agricultural Statistics, set up in 1948 by the Ministry of Food and Agriculture, recommended a 9-fold land use classification replacing the old 5-fold classification, and also recommended standard concepts and definitions for all the states to follow. The statement given on the next page gives 9- fold classification and its relationship with the old 5-fold classification.
+
+Old classification
+
+The revised classification was accepted in principle by all the states and was adopted in 1950-51. The above land use classification is primarily based on whether a particular area is cultivated, grazed or forested. Its main purpose is to show the distribution in detail of the existing lands according to their actual use and not how a particular piece of land can be potentially utilized.
+
+The above 9-fold classification makes possible to broadly categorize the area as arable land or potential land available for crop husbandry. The arable land would comprise net sown area plus the current fallows and other fallow land. Similarly, the potential land available for cultivation would include, besides the arable land, the land under culturable waste, permanent pastures and grazing land, and miscellaneous tree crops and groves, not included in the net area sown.
+
+Based on the 9-fold classification, the all-India data on land utilization for 2000- 2001 are given in Table 9.3. The data on detailed land utilization pattern of states and union territories along with the explanatory notes on land use classification are given in Annexure 9.I. The state-wise distribution of agricultural land by type of use from 2002-03 to 2004-05 is given in Annexure 9.II.
+
+In many countries, there is considerable scope for bringing new areas under cultivation, but the scope for extension of cultivation to new lands is very limited in India. Already, about 51 % of the total reporting area is cultivated. Though culturable land, which is not cultivated at present (culturable wasteland, other fallow lands, permanent pastures and grazing lands, and lands under miscellaneous tree crops), is estimated at about 38.6 million ha, i.e. 12.6% of the total; most of this area is occupied by marginal and sub-marginal lands, and the extension of cultivation to this area will be costly, as it requires extensive works for soil and water conservation, irrigation and reclamation. All categories of land utilization of the country are described here.
+
+Forest area
+
+According to the land utilization statistics of the Ministry of Agriculture, the area under forests during 1999-2000 was estimated at 69 million ha, which accounted for about 21% of the total geographical area (22.6% of the reporting area). However, according to the forest statistics furnished by the State Forest Reports (2001), the area under actual forest cover of the country is estimated at 67.6 million ha and the forest area at 76.8% ha/ which account for 20.6% and 23.4%, respectively, of the total geographical area (Table 9.4). The difference in the 2 sets of figures is mainly due to the variations in the definitions of the term area under forests, in geographical coverage, methodology of the collection of data and reference period. But the difference in the data sets is so narrow which would not affect the planning process.
+
+According to the State Forest Reports (2001), the forest area comprises reserved, protected and unclassified forests. The area under forest in the states of Madhya Pradesh, Andhra Pradesh, Maharashtra, Chhattisgarh, Orissa and Arunachal Pradesh accounts for 50% of the total forest area of the country. The North-East region comprising 7 states represents 17.7% forest area of the total forest area of the country. The percentage forest area to the geographical area of the state is 81 in Sikkim, 78 in Manipur, 76 in Mizoram, 67 in Himachal Pradesh, 65 in Uttarakhand, 62 in Arunachal Pradesh and 60 in Tripura, and 87 in Andaman and Nicobar Islands (union territory). The states having forest area in the range of 20 to 60% are: Nagaland (52%), Chhattisgarh (44%),
+
+LAND UTILIZATION
+
+State/Union Geographical Actual Forest Reserved Protected Unclassi- Percentage territory area forest area area area fied area__of forest cover area to
+
+Data period : October - December, 2000
+
+Statistical Abstract, India. 2002. Central Statistical Organisation, Ministry of Statistics and Programme Implementation, Govt. of India, New Delhi
+
+Meghalaya (42%), Orissa (37%), Asom (34%), Goa (33%), Madhya Pradesh (31 %), Jharkhand (30%), Kerala (29%), Andhra Pradesh (23%), Karnataka (20.2%) and Maharashtra (20.1 %), and union territories Dadra and Nagar Haveli (41 %) and
+
+Chandigarh (28%), The states of plains, viz. Haryana, Punjab, Bihar, Uttar Pradesh, Rajasthan and Gujarat, have forest area less than 10% of their geographical area. The vigorous efforts are required to bring at least some more areas of the plains under forest or tree covers to maintain the ecological balance.
+
+According to the land utilization statistics of the Ministry of Agriculture (2008), the area under forests during 2000-2001 is estimated at 69.79 million ha, which accounts for about 21% of the total geographical area (22.9% of the reporting area). However, according to the returns of forest statistics furnished by the State Forest Reports (2003), the area under total forest cover of the country is estimated at 67.83 million ha (20.64% of the total geographical area),
+
+The area of forest in India is lesser than the area of some of the countries which often constitute about one-third or more of the land area. The data available for 2000 are given in Table 9.5. The percentage forest area to land area of the various countries is 91 in Surinam, 90 in French Guinea, 66 in Sweden, 64 in Brazil, 59 in Malaysia, 58 in Indonesia, 56 in Angola, 52 in Myanmar, 31 in Germany, 30 in Sri Lanka, 26 in Sudan, 22 in India, 20 in Australia and 18 in China. The percentage forest area to land area in world is 29.6.
+
+‘Land area: Total area, excluding area under inland water bodies Source: State of the World's Forests. 2003. FAO
+
+LAND UTILIZATION
+
+Considerable portions of Indian forests are existing only in name and are subject to various forms of maltreatment. As a result, a hectare of forest land in India yields less utilizable timber than a hectare of forest in Europe. Besides, the production of timber in quality is also low. Having regard to these considerations, especially the lower production capacity of the natural tropical forests in India, many provisions were suggested through the resolutions of the National Forest Policies to elevate the status of forests in terms of area and quality of the timber and forest products. The National Forest Policy (1952) proposed that the area under forests be raised steadily to 33% of the total area, the proportion to be aimed at being 60% in the hill regions and 20% in the plains, which subsequently was also endorsed by the National Forest Policy of 1988.
+
+Land put to non-agricultural uses
+
+These areas are buildings, roads, railways, water bodies, etc. During the period 1950-51 to 1990-91 (decadal period), there has been an increase in the area put to non-agricultural uses over reporting area, from 3.3 to 6.9% and subsequently from 1991-92 to 2000-01, there is steady but slow increase from 7.0 to 7.8% (Table 9.6). The increase of the area is owing to the increase in the development activities; more land being used for industrial sites, housing, transport systems, recreational purposes, irrigation systems, etc. States where the proportion of land under non-agricultural uses is higher than the all India average are West Bengal, Tamil Nadu, Bihar including Jharkhand, Sikkim, Asom, Tripura, Goa, Andhra Pradesh, Kerala, Uttar Pradesh including Uttarakhand, and Haryana, and union territories of Chandigarh, Delhi, Puducherry, Daman and Diu, and Dadra and Nagar Haveli. The states which jointly account for more than two-thirds of the land under non-agricultural uses are Andhra Pradesh, Uttar Pradesh including Uttarakhand, Madhya Pradesh including Chhattisgarh, Bihar including Jharkhand, Tamil Nadu, Rajasthan and West Bengal.
+
+Barren and unculturable land
+
+The areas covered under barren and unculturable lands, are generally unsuitable for agricultural use either because of the unproductive soil and undulating and steep sloping topography or because of their inaccessibility. Instances are desert areas in Rajasthan, saline lands in parts of the Rann of Kutchh in Gujarat, the weed-infested and ravine lands in Madhya Pradesh including Chhattisgarh and alkaline lands in Uttar Pradesh. The proportions of barren and unculturable lands to the reporting areas are higher in the states of Manipur (64%), Sikkim (24%), Himachal Pradesh (19%), Asom (18.6%), Gujarat (14%), Andhra Pradesh (8%), Rajasthan (7.5%), Punjab (7%) and Jammu and Kashmir (6.5%), and union territories of Daman and Diu (20%) and Delhi (7.5%). Gujarat, Rajasthan, Andhra Pradesh, Madhya Pradesh including Chhattisgarh, Maharashtra, Asom, Manipur and Bihar including Jharkhand together account for 75% of the land under this category in the country.
+
+Permanent pastures and other grazing lands
+
+The area under this class, is generally earmarked for grazing purpose and mostly belongs to the administrative control of the forest department, revenue and or panchayat. The states which have considerable proportions of permanent pastures and grazing
+
+lands are represented by Himachal Pradesh (32%), Sikkim (10%), Madhya Pradesh including Chhattisgarh (6%), Karnataka (5.1%), Rajasthan (5%), Gujarat (4.5%) and Maharashtra (4%), Madhya Pradesh including Chhattisgarh accounts for about 23% of the all India acreage under these lands.
+
+Land under miscellancous tree crops and groves
+
+More than one-third of the country’s land under miscellaneous tree crops and groves lies in Orissa and Uttar Pradesh including Uttarakhand. Bihar including Jharkhand, Karnataka, Andhra Pradesh, Tamil Nadu, Asom and Maharashtra have sizeable areas under this category.
+
+Culturable wastelands
+
+Culturable wastelands are those lands which are not taken up for cultivation or abandoned for more than 5 years for one reason or other. These lands include the area affected by waterlogging, salinity and alkalinity, soil erosion, and infestation with thick growth of bushes. Before 1946, no proper attempts were made to find out the extent of culturable wastelands available for reclamation. However, the foodgrains Policy Committee in 1947 drew the attention of the Government of India to the existence of about 3.6 million ha of weed-infested wasteland and jungle which could be made available for cultivation for growing additional foodgrains. Therefore, the Government of India through the Central Tractor Organization (CTO) started operations in 1947- 48, reclaimed about 0.68 million ha of weed-infested wasteland spread over Bihar, Uttar Pradesh, Madhya Pradesh, Asom, formerly Madras and Punjab.
+
+In June 1959, the Government of India constituted a Committee to make a survey of land classified as ‘other uncultivated land excluding fallow lands’ and ‘fallow lands other than current fallows’. By 1963, the Committee completed its survey and estimated about 0.8 million ha of wastelands in 13 states (Punjab, West Bengal, Bihar, Mysore, Uttar Pradesh, Madhya Pradesh, Kerala, formerly Madras, Andhra Pradesh, Jammu and Kashmir, Maharashtra, Orissa and Gujarat) which could be made available for cultivation in blocks of 100 ha (250 acres) or more. The total wastelands in such large blocks in the whole country were estimated at 1.2 million ha.
+
+The major wastelands include area affected by erosion, salt-affected soils, waterlogged areas, and ravinous and gullied land which need immediate ameliorative measures. The sum of the wastelands gives a very attractive picture that a large area can be reclaimed and brought under cultivation. But, in actual sense, the wastelands areas are very scattered and occurring in very small and tiny isolated pockets and even sometimes are inaccessible. So, for the implementation of the development planning, it becomes necessary to have a detailed knowledge of different kind of the wastelands with respect to extent, occurrence and degree of the problems.
+
+Since the wastelands generally occur in scattered patches in conjunction with the normal soils, the mapping of these areas is to be conducted through high intensity surveys to understand the area extent, properties and the magnitude of the problems for adopting the developmental planning. There are several kinds of the wastelands, which need altogether different reclamation measures for amelioration. Hence, a precise mapping of all kinds of the wastelands is necessary.
+
+The National Land Use Policy (1988) also emphasized for the steps to be taken for
+
+LAND UTILIZATION
+
+slow down the loss of soil through water and wind erosion and conserving the soil and water resources of the country.
+
+The states with substantial proportions of areas under culturable wastelands are Meghalaya (20%), Goa (15.2%), Rajasthan (14.6%), Gujarat (10.5%) and Delhi (7%), and union territories of Daman and Diu (20%) and Puducherry (6%). The states of Rajasthan, Gujarat, Madhya Pradesh including Chhattisgarh, Uttar Pradesh including Uttarakhand and Maharashtra together account for about three-fourths of the country’s culturable wasteland. Rajasthan alone accounts for more than one-third (36.1 %) of the country’s culturable wasteland.
+
+The demand for land by various stakeholders is rapidly increasing over the years and culturable wastelands are being diverted to other uses such as settlement, industrial growth and other uses. The trend of diversion of culturable wastelands shows continuous decline. It was 8.1 % during 1950-51 and decreased to 4.5% during 2000- 2001 (Table 9.6).
+
+Fallow lands other than current fallows
+
+Land lying fallow for more than | agricultural year but less than 5 agricultural years has decreased significantly during 1950-51 to 1970-71, but later remained almost constant up to 2000-2061 (3.3- 3.4% of the reporting area) (Table 9.6). The decrease in earlier years was probably due to the extension of cultivation to marginal lands because of the increased demand for agricultural produce, development of irrigation, etc. Still their proportions continued to remain substantial in the states of Tamil Nadu (9%), Mizoram (8%), Rajasthan (7.3%) and Meghalaya (7.1%), and union territories of Chandigarh (14%) and Puducherry (8%). The states of Rajasthan, Andhra Pradesh, Maharashtra, Tamil Nadu, Bihar including Jharkhand, Madhya Pradesh including Chhattisgarh, Uttar Pradesh including Uttarakhand, Karnataka and Orissa account for more than 90% area of this category in the country.
+
+Current fallows
+
+These are the lands lying fallow during the current year only. Of the country’s total land under current fallows, the states of Andhra Pradesh, Rajasthan, Bihar including Jharkhand, Karnataka, Maharashtra, Tamil Nadu and Uttar Pradesh including Uttarakhand account for more than 80%.
+
+Net area sown
+
+It is a major part of the arable land which constitutes about 85% area grouped under arable category. During 2000-01, it covers an area of about 141.4 million ha (46.3%). It increased during the period 1950-51 to 1970-71. However, after 1971 the area has remained almost same till 2000-01. There was a significant movement of extensive cultivation which led to increase the area under net area sown category from 119 million ha in 1950-51 to 133 million ha in 1960-61 and further to 140 million ha in 1970-71 (Table 9.6). This increase in cultivated area came from the category of barren and uncultivable land, miscellaneous tree crops and groves, permanent pastures and other grazing lands and to some extent from cultivable wasteland. In fact the country has, now, reached to a limit of net cultivated area of about 142 million ha. Instead, there will be a lot more pressure on this land due to advancing industrialization
+
+resulted by scientific and technological development accompanying with other social needs caused by increasing population. Since there may not be much scope of further extension of this limit, it is postulated that it may fall to a level of 120 million ha by the year 2020.
+
+The data of the year 1999-2000 exhibit that the states of Punjab, Haryana, West Bengal, Uttar Pradesh including Uttarakhand, Kerala, Maharashtra, Karnataka and Gujarat and the union territory of Lakshadweep have more than 50%, land under the category of net area sown. In Punjab and Haryana states, which lie in the fertile Indo-Gangetic plains of India, the net area sown is abruptly as high as 80% of the reporting area; whereas in the states of West Bengal, Uttar Pradesh including Uttarakhand, Kerala, Maharashtra, Karnataka and Gujarat, it lies between 50 and 65% of the corresponding reporting area. Madhya Pradesh including Chhattisgarh has the highest net area sown (19.9 million ha) in the country. The states of Madhya Pradesh including Chhattisgarh, Maharashtra, Uttar Pradesh including Uttarakhand, Rajasthan, Andhra Pradesh, Karnataka, Gujarat and Bihar including Jharkhand together account for more than three-fourths of the country’s net area sown.
+
+Gross cropped area includes the area of net area sown plus the area sown more than once. Such area during 2000-2001 was at 185.37 million ha. The area sown more than once was estimated at 43.97 million ha. Thus, the intensity of cropping representing the percentage of the gross cropped area to the net sown area works out at 131.1 (Table 9.6).
+
+The gross cropped area is the highest in Uttar Pradesh including Uttarakhand followed by that in Madhya Pradesh including Chhattisgarh, Maharashtra, Rajasthan, Andhra Pradesh, Karnataka, Gujarat, Bihar including Jharkhand, West Bengal, Orissa, Punjab, Tamil Nadu, Haryana, Asom, Kerala, Jammu and Kashmir, Himachal Pradesh, Tripura, Nagaland, Meghalaya, Arunachal Pradesh, Manipur, Goa and Sikkim. The percentage of the area sown more than once of the net area sown is greater than the all-India average of 34.3% in Punjab, West Bengal, Himachal Pradesh, Haryana, Arunachal Pradesh, Tripura, Asom, Uttar Pradesh including Uttarakhand, Jammu and Kashmir, Manipur and Orissa and union territories of Chandigarh, Puducherry and Delhi.
+
+Irrigated area
+
+Intensive farming and multiple cropping need irrigation. The total area irrigated under all crops represents the gross irrigated area which comprises the net irrigated area plus the area on which 2 crops are grown and irrigated during the same agricultural year. About three-fifths of the country’s cropped area depends exclusively on rainfall most of which is concentrated in a few months of the year. Even where the overall annual precipitation is high, the available moisture during winter and summer is not adequate to support multiple cropping. The rainfall in large parts of the country is so low and uncertain in its distribution, which does not permit intensive cultivation even during the main crop season. The expansion of irrigation facilities to ensure timely and adequate water supply has, ever since the inception of planning, been an extremely important means of bringing about agricultural development in the country.
+
+The net area irrigated in India during 2000-01 was 55.1 million ha which was 38.96% of the net area of 141.4 million ha sown during that year. The area irrigated
+
+LAND UTILIZATION
+
+more than once was 21.51 million ha, i.c.38.9% of the net area irrigated. The gross irrigated area worked out at 76.6 million ha. The trends in the net area sown, gross cropped area, area sown more than once, and the irrigated area during 1950-51 to 2000-2001 are given in Table 9.7.
+
+The area sown more than once was below 20% of net area sown up to 1970-71. From 1980-81, there was almost steady increase of the area sown more than once up to 1998-99 (35.4%) then and there was slight decrease during 1999-2000 (34.3%), and thereafter decrease in 2000-01 to the tune of 31.1%. The increase in the area is owing to the adoption of short-duration varieties of cereals and bringing more area under irrigation with judicious use of irrigation water.
+
+Of the gross irrigated area, which accounts for 76.3 million ha, almost 70.7% or 54.0 million ha is utilized for production of foodgrain crops, as is evident from Table 9.8.
+
+*Gross irrigated area
+
+Source: Agricultural Statistics at a Glance. 2003. Directorate of Economics and Statistics, Department of Agriculture and Cooperation, Ministry of Agriculture, Government of India, New Delhi; Fertilizer Statistics, 2002-03.
+
+Uttar Pradesh including Uttarakhand has the largest irrigated area in the country, i.e. 23.2% of the country as a whole. It is followed by 10% in Punjab, 9.3% in Madhya Pradesh including Chhattisgarh, 9% in Rajasthan, 7% in Andhra Pradesh, 6.7% in Haryana, and 6% in Bihar including Jharkhand and 5% in Gujarat. In foodgrains, Uttar Pradesh including Uttarakhand again has the highest irrigated area (25.6%) in the country, and is followed by Madhya Pradesh including Chhattisgarh (11.0%), Punjab (10.7%), Bihar including Jharkhand (8.2%), Andhra Pradesh (7.6%), Haryana (6.8%) and Rajasthan (6.5%). In non-foodgrain crops, Uttar Pradesh including Uttarakhand has the largest irrigated area in the country, i.e. 17%. It is followed by 15% in Rajasthan, 11 % in Gujarat, 8% in Maharashtra, 7.7% in Punjab, 7.4% in Andhra Pradesh and 7%
+
+LAND UTILIZATION
+
+Please refer Annexure 9.1 for explanatory notes for notations shown against “States/UTs” Source: Agricultural Statistics at a Glance. 2003. Fertiliser Statistics. 2002-03.
+
+in Haryana. The state-wise data on irrigated area under foodgrains, non-foodgrains and all crops during 1999-2000 are given in Table 9.9.
+
+The area, production and yield of foodgrains during 2005-06 and 2006-07 in respect of the major foodgrains producing states along with coverage under irrigation is furnished in Table 9.10.
+
+Land resources of India and world
+
+Taking into account the total land resources including hills, mountains, lakes, rivers
+
+© PS}
+
+vd P 4 (6) ro <x rs] w [e) 9 =) < s
+
+LAND UTILIZATION
+
+Source: FAO Production Yearbook. 2003.
+
+and lands of all descriptions, the availability of land per head in India during 2001 was only 0.32 ha as compared to the world average of 2.19. The availability of land per head in some of the countries was: 40.03 ha in Australia, 32.15 ha in Canada, 11.80 ha in Russian Federation, 4.95 ha in Brazil, 3.37 ha in the USA, 2.31 ha in Iran, 1.86 ha in Iraq, 1.46 ha in Malaysia, 1.15 ha in Turkey, 0.93 ha in France, 0.89 ha in Indonesia, 0.81 ha in Thailand, 0.74 ha in China, 0.55 ha in Pakistan, 0.44 ha in Germany, 0.41 ha in the UK, 0.34 ha in Sri Lanka, 0.30 ha in Japan and 0.10 ha in Bangladesh (Table 9.11). It is clear that the availability of land per head in India is among the lowest in the world. This is a natural corollary to the population explosion in India.
+
+The percentage of arable land to the geographical area in India works out at 49.21 as compared with 56.15 in Bangladesh, 33.45 in France, 33.09 in Germany, 30.72 in Turkey, 29.23 in Thailand, 26.99 in Pakistan, 23.27 in the UK, 18.20 in the USA, -14.96 in China, 13.66 in Sri Lanka, 13.12 in Iraq, 11.77 in Japan, 10.76 in Indonesia, 8.66 in Iran, 7.25 in Russian Federation, 6.89 in Brazil, 5.46 in Malaysia and 4.59 in Canada. The percentage of arable land to the geographical area in world is 10.44. The proportion of the area under arable land and land under permanent crops to the
+
+total geographical area in India is estimated at 51.68% as compared to 11.41 % of the world average. The area under non-arable land (permanent meadows and pastures, forests and woodland, built on areas, roads, barren land, etc.) in India is estimated at 38.76% as compared to 92.70% in Australia, 91.54% in Russian Federation, 91.16% in Brazil, 89.23% in Iran, 87.88% in Canada, 85.89% in Iraq, 83.79% in Japan, 81 % in China, 77.48% in Indonesia, 76.71 % in the USA, 76.63% in Malaysia and 75.69% in the UK. The percentage of non-arable land to the geographical area in world is 85.89.
+
+Foodgrains production and agricultural growth
+
+In India, foodgrains production occupies a predominant position in most of the states accounting for two-thirds of the gross cropped area (65.8%). The states of Bihar including Jharkhand, Himachal Pradesh, Manipur and Jammu and Kashmir, and union territories of Daman and Diu, Delhi and Dadra and Nagar Haveli have more than 80% of the gross cropped area under foodgrains. The states of Orissa, Uttar Pradesh including Uttarakhand, Punjab, Nagaland, Arunachal Pradesh, Haryana, West Bengal, Asom, Madhya Pradesh including Chhattisgarh, Mizoram, Sikkim, Karnataka, Maharashtra, Tripura, Rajasthan, Tamil Nadu, Andhra Pradesh and Meghalaya, and union territories of Puducherry and Chandigarh have 50 to 80% of the gross cropped area under foodgrains. In the states of Goa, Gujarat and Kerala, and union territory of Andaman and Nicobar Islands, less than 50% of the gross cropped area is devoted to foodgrains (Annexure 9.III).
+
+Area under foodgrains accounts for more than 70% of the gross irrigated area in all states, and union territories, except states of Gujarat, Kerala, Rajasthan, Maharasthra, Goa, Karnataka and Tamil Nadu, and union territories of Chandigarh and Dadra and Nagar Haveli. In Gujarat and Kerala, more than 50% of the total irrigated area is under non-foodgrain crops.
+
+The compound annual growth rates of area, production and yield of principal crops since 1949-50 are given in Table 9.12a. The data revealed that during 1949-50 to 1964-65 (pre-green revolution period), additional lands were brought under the plough
+
+(per cent per annum)
+
+LAND UTILIZATION
+
+and with extension of irrigation facilities, the annual compound growth in area under crops during this period was quite impressive. The growth in the area was noticed in all principal crops (1.58%), non-foodgrains (2.44%), total fibres (2.71 %), total oil seeds (2.67%), total foodgrains (1.35%), total pulses (1.72%), and total cereals (1.25%). Among the cereals, area under wheat (2.69%) recorded high annual growth rate.
+
+During 1967-68 to 2002-03 that is green revolution and post-green revolution period, the scope for extension of cultivation gradually declined. The annual compound growth rate was quite low for all principal crops (0.29%), non-foodgrains (1.29%), total fibres (0.21 %), total oilseeds (1.22%), total foodgrains (-0.05%), total pulses (-0.03%) and total cereals (-0.06%). As a result, the annual compound growth of aiva under rice was a mere 0.58%, while it was 1.34% for wheat.
+
+During 1949-50 to 1964-65, the growth rate in total cereals yield was 1.77%. Among cereals, rice recorded the growth rate of 2.25%, followed by wheat 1.27%. The total pulses yield growth was negative (-0.18%). Total oilseeds yield growth was 0.30%, whereas total fibre crops 1.88% and for all principal crops, it was 1.21 %.
+
+During the period from 1967-68 to 2002-03, the most spectacular annual compound growth rate in yield was recorded for total cereals (2.27%). Among the cereals highest growth was observed in wheat (2.85%), followed by rice (2.14%). The annual growth in yield was higher as compared to pre-green revolution period in total foodgrains (2.06%), total oilseeds (1.52%), total fibres (2.01 %), non-foodgrains (1.57%) and also in all principal crops (1.86%). This shows that with the green revolution technology and intensive methods of cultivation, there had been a steady and continuous increase in yield per hectare of all the crops.
+
+The total production of any agricultural product reflects the combined effects of area and yield per hectare. During the pre-green revolution period (1949-50 to 1964-65), foodgrains production increased at an annual compound growth rate of 2.82%. The major cereals, viz. rice and wheat, recorded high rate of growth 3.50 and 3.98% per year respectively. But pulses recorded relatively low growth rate. The production growth rates of total oilseeds (3.20%), fibre crops (4.56%), non-foodgrains (3.74%) and all principal crops (3.15%) were also impressive. This order of growth rate in agricultural production was partly due to area expansion and partly due to yield growth rate, in this period.
+
+During the green revolution and post-green revolution period (1967-68 to 2002-03), the annual growth in total foodgrains production showed an increasing trend and was at 2.42%. The rate for total cereals was 2.68%. Similarly, increase in growth rate for total pulses production was 0.71 %, total oilseeds 3.13%, total fibres 2.26%, non-food- grains 3.10% and all principal crops 2.68%.
+
+For entire period of 1949-50 to 2002-03, the highest growth rate of area was noticed for wheat (2.04%) and the lowest for fibre crops (0.29%). The growth rate of yield was the highest in wheat (3.08%) and the lowest in total pulses (0.47%). Similarly, the growth rate of production also showed the same trend, i.e. 5.19% in wheat and 0.51 % in total pulses. However, an account of compound growth rates of area, production and yield of principal crops since 1949-50 is additionally furnished which is based on advance estimates (provisional) for potato, tobacco, non-foodgrains and all principal crops (Table 9.12b).
+
+During 1967-68 to 2003-04 that is green revolution and post-green revolution period,
+
+Source: Agricultural Statistics at a Glance. 2004. *Provisional.
+
+the scope for extension of cultivation gradually declined. The annual compound growth Tate was quite low for all principal crops (0.27%), non-foodgrains (1.22%), total fibres (0.19 %), total oilseeds (1.17%), total foodgrains (-0.05%), total pulses (0.03%) and total cereals (0.06%). As a result, the annual compound growth of area under rice was a mere 0.56%, while it was 1.31% for wheat.
+
+During the last 5 decades, there have been some shifts in the areas from coarse foodgrains to fine cereals, such as wheat and rice, or from foodgrains to certain commercial crops. It was more predominant from 1950-51 to 1980-81. The process slowed down after 1981 by which the country reached to a level of adequacy in foodgrains production.
+
+The second type of shift was in favour of oilseed crops. It is again at the cost of mainly the coarse cereals. The farmers’ response was overwhelming to the policy induced improvements in the technologies and the market environment mainly for the oilseeds production. It led to the transfer of the irrigated areas mostly, to crops like groundnut, rapeseed and mustard. The un-irrigated area was mostly put to sunflower and soybean, etc. Consequently, there was unprecedented fall in the share of food- grains acreage during the 1980s, though at aggregate level, by and large, the dominance of foodgrains continued.
+
+Currently, the third shift is being experienced whereby some irrigated and assured rainfall areas are being diverted towards the cultivation of vegetables and fruit crops. Such shift in crops reflects a change from sustenance cropping to commercial cropping. These shifts in the cropping patterns are presented in Table 9.13.
+
+The area, production and yield of major crops in India is furnished in Table 9.14.
+
+Soil degradation
+
+Soil degradation is a major threat to our food and environmental security. Many thriving civilizations vanished in the past because of inadequate attention to land care. Various agencies have been constantly inventorying and characterizing soil resources
+
+LAND UTILIZATION
+
+Sources: Agricultural Statistics at a Glance. 2003. Fertilizer Statistics 2002-03.
+
+282 HANDBOOK OF AGRICULTURE
+
+(Table 9.14 concluded)
+
+worked out as simple average of estimates for 5 years, i.e. 2002-03 to 2006-07. @, Production in million bales of 170 kg each;
+
+Source : Agricultural Statistics at a Glance. 2008. Directorate of Economics and Statistics, Ministry of Agriculture, Government of India, New Delhi,
+
+(area in million ha)
+
+for drawing up land use and developmental plans at the national, regional and state levels (Table 9.15).
+
+The estimates are at great variance due to differences in approaches and criteria for assessment. The National Bureau of Soil Survey and Land Use Planning, Nagpur (NBSSLUP) of the ICAR has furnished latest data on soil degradation on | :250,000 scale for different states and country (Table 9.16). About 45% of total geographical area of the country is degraded due to different degrading agents. However, very recently the figure for soil degradation has been worked out to be 121 m ha (compiled data from various sources, viz. NBSS & LUP (ICAR), NRSA, DAE, SLUSI, Government of India, etc. )[ Anonymous (2008) Harmonization of Wastelands/Degraded Land datasets of India, National Rainfed Area Authority (NRAA), Ministry of Agriculture, Government of
+
+LAND UTILIZATION
+
+geo., Geographical Source: NBSSLUP. 2004
+
+India, North Complex, D.P. Shastri Marg, New Delhi- 110012, Sp.]. The states suffering due to severe degradation were Mizoram (89%), Himachal Pradesh (75%), Kerala (67%), Nagaland (60%), Tripura (59.9%) and Madhya Pradesh including Chhattisgarh (59%). The areas suffering due to water erosion, wind erosion, waterlogging, salinity/alkalinity, acidity and other complex problems were 93.6, 9.4, 14.3,5.9, 16.0 and 7.4 million ha
+
+respectively, Water erosion was quite widespread in the country with sizeable areas in Madhya Pradesh including Chhattisgarh, Andhra Pradesh, Uttar Pradesh including Uttarakhand, Maharashtra, Karnataka, Jammu and Kashmir, Gujarat and Orissa. The wind erosion was conspicuous in Rajasthan and Jammu and Kashmir (cold desert). The areas under waterlogging were more in Uttar Pradesh including Uttarakhand, Kerala, Bihar including Jharkhand and Andhra Pradesh. The large areas under saline/ alkaline soils were in Rajasthan, Uttar Pradesh and Maharashtra. The acid soils were more prominent in Madhya Pradesh including Chhattisgarh, Arunachal Pradesh, Mizoram, Mehgalaya and Bihar including Jharkhand.
+
+Strategy
+
+One of the principles outlined in the World Soil Charter states, ‘Recognising the paramount importance of land resources for the survival and welfare of people, economic independence of the countries and also the rapidly increasing need for more food production, it is imperative to give high priority to promoting optimum land use, to maintain and improve soil productivity and to conserving soil resource.’ It calls for special land use policies, which create the incentives for people to participate in soil conservation work taking into account both technical and socio-economic elements of effective land use.
+
+The available land in the country is already being put to agricultural use in each region and a certain pattern of land utilization has already been evolved. Keeping in view the increasing demand for various agricultural, forestry and livestock products for consumption and for exports, it is very necessary that each piece of land is put to its best use, Further, intensification of various development programmes, such as soil- water conservation, the extension of irrigation facilities and the adoption of scientific agricultural practices have resulted in an element of dynamism in the land use and cropping patterns. It would therefore, be expedient to adopt a planned approach to land utilization with four major concerns.
+
+(i) The development ofall arable land for agriculture or its restoration to agriculture wherever necessary, keeping in view the requisite balance amony farming, pastures and forestry.
+
+(ii) The achievement of an apportionment of land between different uses and a combination of land with other factors (e.g. intensity of cultivation) which would help to produce the needed quantity and quality of different agricultural or forestry products at a low economic cost.
+
+(iii) The improvement of land productivity through adopting measures like irrigation and fertility management, soil and water conservation and afforestation.
+
+(iv) To facilitate such shifts in land use which would increase the returns to the factors of production (land, employment and capital) employed in agriculture and thus lead to an improved and sustained pattern of production system without causing any serious dislocations in the economy.
+
+For addressing these concerns, proper land use planning is a pre-requisite. Before the land use planning is done, it is necessary to group country’s land resources into agro-climatic regions, sub-regions and units. Exercise to this effect has already been accomplished by dividing country into 20 agro-climatic regions and 60 sub-regions by the National Bureau of Soil Survey and Land Use Planning (ICAR).
+
+LAND UTILIZATION
+
+LAND UTILIZATION
+
+PUe} Bjgesm noun pue uejeg, peasy ay} Japun Papnjou! ¢ aueoebns jo Buimos s0y pesedaid ease sapnjoul © ‘ueyspeg pue eulyd Aq uonednaso jebayy! Japun ese jeoiydesboa6 sapnjour pue elpu| Jo Aaaing ‘uojeojqng dey ‘10}081IG JO BOJO JO eJep uo paseq + ‘eae peddoo ssoi6 Buyewnsea us peziyn ueeg aaey ejep jseoauoy (,) ‘G6-V661 0} Seyejad (A) “66-8661 OF seyejei (N) ‘86-2661 0} seqelay (3) ‘06 6861 0} Saye/9J (S) $1 6-066) SNsuad jeunyjnouBby Jad se (4) ‘uesiyeg pue eulyd jo uojjednoo0 jebay! ay} Japun ease sapnjoxg (0) ‘aya .S9A0J6 pue sdolo 901} snoaueljeosiw Jepun pueq, peay ay} Japun sapnjour (u) ‘aysem ajqeinying Japun papnjou ‘Ajoyesedas ajqeyieae jou (w) ‘sasn Jeanyno16e-uou 0} ynd easy, peay ayy Japun papnjou! (|) ‘p8-E86L Ul aes AU} JO S]S9JO4 JO 1OJeEAIaSUOD jaIuD au} Aq payodas saiejoay puesnoy 680Z JO Bale }Sa10} Sapnjou: (x) ‘ease paddoo |e}0} }daoxe sayewugse SOU-PY EL-ZL61 Jed sv (0 “88-Z86b 0} s9je|2J (1) “€6-Z66) 0} Saveies (y) ‘aayIwWWOD UMO]L pue AjediouNy ay} JepuN eae sapnyoxe (5) ‘p6E-E661 0} sajejas (8) ‘9g-Sg6L O} SABIAN (P) 'y6-€66) JO Bale UMOS JOU ayy Bure} jno payiom si Bae Gumodey (2) 'ey OOS Mojag (2) (,) UUN}oD
+
+seyem jo Ajddns ayenbepeu| Z SJOJEANIND BY JO AWSAOd | “Bulmo}|o} Ou} JO aJow 40 suo aq Aew Mo|je} Spue| yons Buidesy 10} Suoseel OU) “sueak G ueu} asow jou pue JeeA | UeUy $S9] JOU JO POlJed e JO} UANEAH|ND JO qno Ajesodwis} ae yng UOHEAIND JO} dn ueye} oJ9M YOIYM spUe| [|B SPN|ou! Pinoys siy, :smoyyes JUdLIND UY} Jayjo spuey moped (2) UUN|OD “sueak g ay} JO pua oy) Je Aiobayeo sly} ul pepnjoul eq osje pynoys uolssaoons ul suead g JO} payBayind
+
+LAND UTILIZATION
+
+fo] gz
+
+Ww & a Fa id i) w ° 5 fe) 8 < =
+
+LAND UTILIZATION
+
+wa aD N
+
+LAND UTILIZATION
+
+&
+
+w a4 ar Fa} Zz g Ww ° s 9 [a] z x
+
+LAND UTILIZATION
+
+8 N
+
+LAND UTILIZATION
+
+Annexure 9.III State-wise gross cropped, and irrigated area and area foodgrains with cropping intensity during 1999-2000

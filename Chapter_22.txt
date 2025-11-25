@@ -1,0 +1,329 @@
+SOURCE_DOCUMENT: Chapter 22.pdf
+
+22. Insect Pests and their Management
+
+Our agriculture faces two major challenges, production of sufficient food to feed the growing population and prevention of environmental degradation. Damage by crop pests, which include insects, diseases, nematodes and rodents is one of the major constraints to increase food production. The annual crop losses due to pests were valued at Rs 45,000 million lately. The reduction of losses caused by pests is the obvious strategy for increased food supply. In addition, quality aspects such as pest- free and residue-free agricultural products are becoming increasingly important in the light of the market liberalization and increasing importance of agricultural exports.
+
+Traditional pest control means use chemical pesticides. There is no doubt that chemicals have played a significant role in the past in protection of crops. However, their excessive and inappropriate use in our agro-ecosystem in the last 2 decades or so has resulted in degradation of our environment while our pest problems seem greater than ever. There are more and more reports of resistance of pests to pesticides. The number of pest outbreaks have increased and many innocuous species have attained the status of serious pests. The extent of pesticide residues in the Indian environment is also a matter of great concern. Surveys in the country have indicated that food commodities are highly contaminated with persistent pesticide residues. Therefore, there is an urgent need to evolve strategies and technologies that will not only meet increasing demands for food and fibre but also those that will enable us to usher into the “second green revolution”, without the problems encountered in the first.
+
+The integrated pest management (IPM) emphasizes the need for simpler and economically safer measures for the pest control (insects, plant diseases, nematodes and weeds) in reducing environmental pollution and other problems caused by excessive and indiscriminate use of pesticides.
+
+The problems of pest control and concern about the indiscriminate use of pesticides in our environment have been the subject of intense debate and discussion. Agenda 2] of the United Nations Conference on Environment and Development (UNCED) at Rio de Janeiro in June 1992 identified Integrated Pest Management (IPM) in Agriculture as one of the prime requirements for promoting sustainable agriculture and development.
+
+INTEGRATED PEST MANAGEMENT
+
+Strategies of IPM have been developed for the control of major pests of a number of crops. The IPM approaches have succeeded in reducing the use of a number of broad spectrum pesticides, and studies have shown IPM to be more economical than conventional methods based on chemicals.
+
+Aims
+
+(i) Keeping the pest numbers below harmful (economic threshold) levels instead of their eradication :
+
+Integrated Pest Management
+
+IPM means the careful consideration of all available pest control techniques and subsequent integration of appropriate measures that discourage the development of pest populations and keep pesticides and other interventions to levels that are economically justified and reduce or minimize risks to human health and the environment. IPM emphasizes the growth of a healthy crop with the least possible disruption to agro-ecosystems and encourages natural pest control mechanisms. Ambit of IPM has over the period of time evolved to encomass integrated crop management.
+
+An IPM is consistent with the needs of our agriculture. It can provide food security by preventing and reducing crop losses, promoting self-reliance by farmer participatory approach, contributing to poverty alleviation by focusing on small and marginal farmers and protecting environment and health by reducing chemical inputs and conserving biodiversity.
+
+(ii) Protecting and conserving environment including biodiversity
+
+(iii) In making plant protection feasible, safe and economical, even for the smaller farmer
+
+Advantages
+
+(i) More efficient and low-priced method of control
+
+(ii) Does not upset the balance in nature
+
+(iii) Delays the development of resistance
+
+(iv) Minimizes the residue hazards of pesticides
+
+As a part of the sustainable agriculture, IPM must be seen as a component of Good Agricultural Practice (GAP) or Integrated Crop Management (ICM). This essentially includes profitable management of the crop with respect to environment. It is a dynamic system that is suited to local soil, climate and economic conditions.
+
+Approaches
+
+Integrated pest management encourages most compatible and ecologically sound combination of available pest suppression techniques, to keep pest populations below
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+economically damaging levels. The IPM concept is based on the principle that it is not necessary to eliminate all pests but to suppress pest population to a level at which these pests do not cause significant losses. The first line of defense against pests is prevention through the use of good agronomic practices or cultural methods which are unfavourable for the development of pest problems. Regular monitoring of pest activity is essential for decision-making in IPM. Selected control measures to check pest are to be taken at economic threshold level (ETL; Annexure 22.1). The IPM strives to optimize rather than maximize pest control efforts.
+
+An integrated strategy for crop pest management includes use of resistant varieties, modifying agronomic practices to reduce pest incidence, biological control and other novel approaches for pest suppression, and only need-based and judicious use of chemical pesticides (Annexures 22.II, III).
+
+Habitat analysis
+
+Severe decline in the crop biodiversity in the intensive modern agroecosystem made it most fragile, unstable and non-sustainable in terms of productivity. There are several evidences of links between insect population stability and plant diversity. The development of crop habitat management strategies that may conserve and maximize abundance and effectiveness of natural enemies and other beneficial insects and organisms, is crucial in the biointensive integrated pest management of crop pests. The conservation of natural enemies by the direct enhancement of vegetative diversity has been a subject of intense study for many years. In developing strategies for crop habitat management with a view to conserve beneficial flora and fauna, it is necessary to contrast agroecosystems (human dominated) and natural ecosystem. Aggressive use of chemicals has deteriorated soil health, which has to be restored with the help of organic inputs. Natural ecosystems are self-perpetuating, whereas agroecosystems are not. Studies of agroecosystems during the last four decades have led several agricultural scientists to question commitment of modern industrial agriculture with high intensity of monocultural production. The change in food, shelter, water and intra-species competition in space and time has created numerous environmental problems including pest and their management strategies.
+
+Global trade and invasive alien species: The increased movability of people and goods bring with it an increased likelihood of movement of species around the planet, either deliberately in the form of commodities such as livestock, pets, nursery stock, and produce from agriculture and forestry, or inadvertently as species are transported as unwitting passengers in packaging, ballast, and on the commodities being traded. Not all alien species are harmful, some of them are economically beneficial for the mankind, therefore the effective risk analysis for bilateral and multilateral agreed standards is essential for agricultural development. There has been great interest in sanitary and phytosanitary measures (SPS) under the world trade agreement. The infrastructure and SPS measures for quarantine stations with the help of FAO has been further improved in India and the process is on for improvement in various ice Borlaug Global Rust Initiative for world’s vulnerability to stem rust, yellow al Al of wheat is one of the important initiatives to check spread of rust.
+
+tnt ee of pests and their natural enemies: Pest forecasting provides opportunity preparedness and for taking timely action to apply bio-agents and
+
+serve as precision farming. Pest forecasting through mathematical and computer-based models deals with perception of the future activity of the biotic agents, which adversely affect crop production. Pest forecasting models are essential tools and pre-requisite of IPM, as the insect population and disease incidence levels are deciding factors in the pest management. One of the earliest forecasting works on plant pest was the forecasting of late blight of potato (Phytophthora infestans) by Dutch rules which considered several climatic factors together such as dew during night (at least 4 hours), minimum temperature at night (less than 10°C), mean cloudiness on the following day (more than 0.8) and rainfall in the next 24 hours (minimum of 0.1 mm). In India, one of the earliest works on pest forecasting was started by Dr S Pradhan when he gave the concept of biotic theory of locust population explosion. According to him, temperature is one of the most important factors which determines duration of various stages in insect life- cycle and number of generations. The development of biograph had seen one of the important findings to show the rate of development on different temperature regimes. Later, various other models were developed such as wheat stem rust rules based on climatological parameters. The main requirements for development of pest forecasting models are data on weather parameters, pest population, natural enemies and crop phenology. Ecological considerations are foundation of pest-management programme.
+
+Crop pest surveillance and monitoring are corner-stones in pest-management programme. Monitoring of pest population through surveillance implies a complete vigilance on pest population, natural enemies, cropping system and weather factors. An ideal surveillance team should include entomologists, pathologists, nematologists, agricultural meteorologists, modelers and production scientists for collection of data on various aspects. Monitoring of pest population at regular intervals round the year’ provides quantitative and qualitative data.
+
+The interrelationship and dependence of plants, pests, natural enemies of pests and weather and their quantification need full understanding. Therefore, forecasting system for pest is mainly developed by using various mathematical models based on biotic and abiotic factors. These models may be deterministic, statistical, system simulation, expert system, schematic or geographical. It would be better, if such models have inputs of indigenous technical knowledge of farming community to provide location- specific models for the use of crop production managers. The location-specific models for polyphagus pests need to be fine-tuned based on the local factors before field application. These prediction models will make farmers prepare against pests and decide application of bio-agents, pesticides and other approaches in integrated pest management timely.
+
+Monitoring tools: Various monitoring tools, light traps, pheromone traps, manual count of eggs, larvae, visual estimation of crop damage, have been used in India and elsewhere. These also include roving and fixed plot observations in different parts of India.
+
+. The monitoring of pest has been found useful in the following ways.
+
++ Identification of geographical distribution, key mortality factors, peak activity, mode of carry over and off-season survival
+
++ Remote sensing and Geographic information system (GIS)
+
++ Hot spots and pest-free area
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+Forecasting plant diseases
+
+Two types of forecasting, short term and long term, are possible if sufficient data on weather, host and pathogen are available. Prediction of disease during the crop season is called “short term” forecasting while the prediction of disease made years in advance, is called long term forecasting. It is often difficult to detect small populations of most pathogens in the absence of highly susceptible host. Inoculum of soil-borne fungi is estimated by extraction from the soil. Airborne fungal spores are estimated by trapping in various devices. It is easier to assess amount of inoculum present by measuring the number of infections produced on a host within a certain period of time. In some diseases, there is an incubation period during which the host is infected but shows no symptoms. Several plant diseases are forecasted by using criterion of the amount of initial inoculum e.g., stewart wilt of corn caused by the bacterium Erwinia stewarti is predicted by survival percentage of corn flea beetles because bacterium survives the winter in the bodies of the insect. Corn flea beetle is killed by prolonged low temperature. Therefore, if sum of the mean temperature for three months from December to January at a given location is less than —1°C, then most of the vectors get killed. So under such a situation, there will be no bacterial wilt. Likewise other diseases (downy mildew of tobacco, root rot of pea and fire blight of apple and pear) are also predicted on the basis of the initial inoculum assessment. By detecting per cent infected or contaminated seeds in random samples and on the basis of extent of infected seeds. rough estimate of infection of a disease can be made in an area. Primary inoculum of loose smut of wheat, ergot of rye or bajra and ear cockle of wheat can be detected in seed lots by different methods and necessary warnings can be made for use of such seed. However, this type of forecast is of minor importance. Most of the diseases in which forecasting service has helped the farmers are late blight of potato (Phytophthora infestance), blast of rice (Pyricularia oryzae), stripe rust of wheat (Puccinia striiformis), leaf rust of wheat (Puccinia recondita), downy mildew of grapevines (Plasmopara viticola) and apple scab (Venturia inaequalis).
+
+Biological approach
+
+All pests have natural enemies which limit their reproduction, growth and population. Conservation of these natural enemies is the essential part of the strategy of biological control. Additionally, there are methods to augment these natural enemies in the agro-ecosystems. This is done by mass producing and releasing biotic agents to suppress pest population to desired non-damaging levels. The commonly used bioagents include parasitoids, such as Trichogramma and predators, such as Chrysoperla. The management of natural enemies to reduce pest population and its effect is one of the most important components of our pest management strategy. Bioagents commonly used or available in the country are given in Table 22.1.
+
+Conservation and augmentation of natural enemies: The conservation of natural enemies is the most important consideration in biological control because if they are conserved, the need for other contro! measures is greatly reduced. Conservation means avoidance of measures that destroy natural enemies and promote measures that are conducive for their reproduction and development. Avoiding indiscriminate use of broad spectrum pesticides over large areas, adjustment of spray schedules so as to cause minimum harm to natural enemies and encouraging natural enemy activity, and
+
+Biocontrol agents
+
+Predators
+
+Brumoides suturalis Chrysoperla carnea Chrysoperla scelestis Cryptolaemus montrouzieri
+
+Suckung pests on oilseeds, cereals, sugarcane and cotton Sucking pests on rice, pulses, vegetables, cotton Sucking pests on cotton, sugarcane Mealy bugs on grape, guava, mango, apple, jack fruit
+
+Coccinellids
+
+Coccinella septempunctata, Menochilus sexmaculatus Chilocorus nigritus Encarsia perniciosi Mallada boninensis Scymnus coccivora
+
+Biopesticides
+
+Bacteria
+
+Bacillus thuringiensis var. kurstaki (H 3a, 3b, HD7), (H 3a, 3b, 3c) B. thuringiensis var. galleriae Bacillus thuringiensis var. israelensis (H, 14) Rice stem-borer, bollworms on cotton, cabbage diamondback moth, cauliflower-borers, looper, fruit-borers on tomato, brinjal, okra (Dipel a1, Delphin we, Bactin, Bio-Tek, Bio Bit wp, Halt-Bt., BioLep wr, Bio Asp we, Spicturin)
+
+Fungal antagonists Beauveria bassiana
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+(Table 22.1 concluded)
+
+growing plants that attract natural enemies are some of the methods of conservation. One of the most successful examples of this is collection and preservation of cocoons of Epiricallia nielanoluca, which is a parasite of pyrilla, at the end of the season and augment its releases at the beginning of the next season. With this method large number of parasites are conserved, which otherwise perish due to non-availability of food during long dry hot summer. Sowing coriander or marigold in vegetable fields increases the activity of syrphid flies which predate oil aphids and other soft-bodied insects. Conservation of spiders and other natural enemies by avoiding pesticides use is the most important aspect of IPM in rice.
+
+678 HANDBOOK OF AGRICULTURE
+
+Biorationals: Natural products have enormous potential as safe and biodegradable pesticides. The term biorational covers a range of such alternatives to synthetic chemicals. Their main feature is their increased specificity to avoid non-target mortality and other associated problems. The use of biorationals is an important component of our IPM strategy. These include plant products such as neem or margosa, which have been shown to be effective against a number of pests; biopesticides such as nuclear polyhedrosis virus (NPV) for control of important pests like Helicoverpa armigera; and Bacillus thuringiensis (Bt) which has gained importance in suppressing pests in crops like cotton and vegetables. The production technology for many of the botanicals and biopesticides is available and the efficacy of these in management of various pests and diseases has been demonstrated in large-scale field trials (Table 22.1).
+
+Non-chemical methods for pest control, such as use of sex attractants or pheromones, insect growth regulators and repellents, are some of the novel approaches. Pheromones offer interesting new possibilities in pest management. Besides monitoring the changes in pest populations, they are also now being used for pest control by mating disruption and lure and kill techniques.
+
+as nematicides, feeding deterrents, growth and metamorphosis disrupts etc.), allelochemicals, phytoalexins and so on, is well established. Several living systems such as nerve axons and synapses (pyrethrum, nicotine, rotenoids etc.), hormonal balance (jurabione, farnesal, sesamin, sesamolin as JH analogues; polypodine, ptersterone, precocenes I and 11 as JH- antagonists and plumbagine as moulting hormone), reproduction (B-arrone), behaviour (engenol - attractant, bixin - repellent, aziraclitin - antifeedant) etc. are reportedly affected by them, underlying their potential highlighted in view of the alliance of various undesirable effects such as pest resistance, outbreak of secondary pests, pest resurgence, adverse effects on non-target organisms, the problems of residues, user and consumer hazard etc. Pyrethrum (Asteraceae), rotenone (Leguminosae) and nicotine (Solanaceae) obtained respectively from Chrysanthemum, Dertis and Nicotiana species have been the most extensively used botanicals in the past. All the three of these compete for space and with other cultivated groups for their production. This limits their availability and use in practical pest control. Margosa or neem (Azadirachta indica) has offered itself to be the most viable botanical alternative for pest control. The tree is the most investigated and deliberated of all the botanicals. Unlike most other plants, it flourishes in the waste and abandoned lands and is the least demanding for various growth factors. Its wide spectrum of activity against pests has been internationally demonstrated. It has all the attributes of an ideal input in the integrated pest management.
+
+The key limitation in the use of botanical pesticides are — poor raw material base, lack of agrotechnology, cost prohibitive products and technology, product standardization, lack of multi spectrum use, inadequate research and development, IU defined role in IPM, unclear policy etc.
+
+Pheromones: In order to find their mate, insects emit specific chemicals called sex pheromones, which attract the opposite sex of the same species. In many cases such chemicals have been identified, artificially synthesized and are being used to confuse wild population and disrupt mating. The pheromones are also used in traps to lure and destroy insects, Presently, pheromones are mostly used as tools for monitoring natural
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+populations but in some cases they are also effective in controlling pests. Pink bollworm of cotton is one such example, which has been effectively controlled in India using pheromone called as ‘gossyplure’ by confusing wild males. American bollworm, diamond back moth, gypsy moth and white grubs are some other insects, which can be potentially controlléd using pheromones.
+
+Transgenic crops and varieties
+
+Cultivating plant varieties which are less prone to pest attack is an important strategy in IPM. These resistant varieties reduce production cost; require less control by limiting the damage throughout the crop season. However, insect biotypes may develop capability of survival and damaging resistant varieties, which are otherwise resistant to populations of some pest species.
+
+Recent breakthroughs in biotechnology and genetic engineering have opened new vistas for developing resistant cultivars. The introduction of novel genes for pest resistance into crop plants from unrelated plants and micro-organisms is an exciting development. Protocols are now available for transformation in many crops. The best known example is the incorporation of genes which produce Bt endotoxins into crops like cotton, rice, maize, tobacco, tomato and potato.
+
+Transgenic crops. A transgenic crop plant contains a gene or genes which have been artificially inserted instead of the plant acquiring them through pollination. The inserted gene sequence (known as the transgene) may come from another unrelated plant, or from a completely different species: transgenic Bt cotton, for example, which produces its own insecticide, contains a gene from a bacterium. Plants containing transgenes are often called genetically modified or GM crops. “Transgenic technology enables plant breeders to bring together in one plant useful genes from a wide range of living sources, not just from within the crop species or from closely related plants. This technology provides the means for identifying and isolating genes controlling specific characteristics in one kind of organism, and for moving copies of those genes into another quite different organism, which will then also have those characteristics. This powerful tool enables plant breeders to generate more useful and productive crop varieties containing new combinations of genes. Transgenic plants have been developed for a variety of reasons: longer shelf life, disease resistance, herbicide resistance, pest resistance, abiotic stress tolerance, such as to drought and nutritional improvement (vitamin A enriched rice). The first transgenic crop approved for cultivation (USA, 1994) was the “FlavrSavr” tomato, which was intended to have a longer shelf life. Other important and widely-cultivated transgenic crops include (i) herbicide resistant crops to manage weeds more efficiently and conserve soil by using no-till and minimal-till farming practices, (ii) insect-protected crops plants to achieve better insect control and reduce the use of synthetic chemical insecticides, (iii) virus- resistant plants, the only reliable means for protecting the crop against destructive plant viruses, (iv) plants that allow more efficient processing of foods, drugs, and other products, and (v) crops that provide specific nutritional or health benefits, such as enhanced vitamin or lower fat content. Transgenic plants have also been developed for bioremediation of contaminated soils. Mercury, selenium and organic pollutants such as polychlorinated (PCBs) could be removed from soils by transgenic plants containing genes for bacterial enzymes.
+
+680 HANDBOOK OF AGRICULTURE
+
+Crop husbandry
+
+Cultural control is the oldest and the most effective method of pest suppression. Cultural methods such as deep ploughing and burning of crop residues; soil solarization; synchronous planting of crop fields; planting trap crops; intercropping, crop rotation, tillage; and use of pest-free seeds and planting material are effective methods to reduce pest load (Fig. 22.2). Protection of high value or small area crops by fencing or screening is a common practice. Physical methods of pest control involve manipulation of temperature, humidity, use of energy and sound.
+
+Sanitary and phytosanitary measures: Pest problems are often induced by human activity. Quarantine laws and other regulations have been promulgated in many countries including India to overcome these problems. Constant vigilance is needed to keep off pests which do not occur naturally. In this respect the recent introduction of some serious pests in India such as subabul psyllid and serpentine leaf miner and lately the coconut mite is a matter of considerable concern.
+
+Pesticides and their management
+
+Pesticides in the foreseeable future, will continue to play an important role in Indian agriculture to meet our increasing demands for food and fibre. A look at the trend in pesticide consumption would show that their consumption has risen from 43,400 million tonnes technical grade in 1954 to about 50,000 tonnes today. The average per hectare consumption of pesticides in India has gone up from 15.4 g/ha in 1960-61 to 282 g/ha in 2003, which at present is 280 g/ha. Although consumption of pesticides per hectare
+
+INSECT PESTS AND THEIR MANAGEMENT 681
+
+is less than 1.5 to 3.0 kg in the USA and Europe and 10-12 kg/ha in Japan, we have had more than our share of the pesticide-related problems.
+
+There has been considerable debate on the role and need for pesticides. In fact emotional pronouncements and demands for legislation to ban the use of pesticide have left the public confused regarding the role of pesticides in agriculture and public health and their effect on environment. The pesticide problem is the result of man having placed excessive demands on a finite environment. It is a typical example of pollution—the cause being the number of people and the standard of living they demand, and the symptom being’ damage to ecosystem from persistent synthetic chemicals. Synthetic organic chemical pesticides are biological poisons and none is absolutely specific, therefore they have harmful side-effects when released into the environment. The possible effects are direct toxicity to applicator or consumer, development of strains or pests resistant to pesticides, resurgence of pest species, outbreak of secondary pests that are no longer controlled by their natural enemies, destruction of non-target organisms such as parasites and predators, honeybees and other pollinators, fishes, birds and other wildlife; and accumulation of harmful residues on crops, humans, animals, wildlife and the environment including soil and water.
+
+The detection of high amounts of pesticide residues in our environment is alarming. Many food commodities are contaminated with persistent pesticide residues. Widespread contamination of bovine milk, butter, milk products, brands of baby milk powder, and vegetables with DDT and HCH residues above the maximum residue limits have been encountered. Studies have indicated that even mothers’ milk contain DDT and HCH residues. This is very disturbing. The main reasons are pesticide misuse and malpractice, including unwanted and unwarranted spraying; poor equipment and poor or no training in safety procedures; and finally the inability of the enforcement agencies to prevent the sale of spurious material in the market.
+
+Management of pesticide use is an integral part of IPM. Our priority is to refine the pesticide application recommendations, to reduce their use to the absolute minimum. Safe and judicious use of pesticides is the most important. Quality control of pesticides both as technical products and in the ready-to-use formulated stage is vital for the success of any plant-protection operations. Economic threshold is a dynamic process and is mainly dependent on cost, plant protection and commodity. Therefore, the suggestive threshold level mentioned in Annexure I are indicative for decision-making. Careful attention must be given to pesticide-application techniques. Most spray- application methods conventionally used though quite effective are wasteful and inefficient. Good pesticide-application techniques can reduce amounts of pesticides applied, prevent contamination and pollution of soil and water, thus minimizing the danger to environment and health. The do’s and don’ts of pesticide usage are shown in Table 22.2. The pesticides registered, restricted, banned and refused are listed in Table 23.14 of Chapter 23.
+
+IPM impact assessment
+
+The potential strength and contributions of the IPM are often not realised. Policy makers, donor representatives, researchers and the users of IPM are not always satisfied with the actual achievements in terms of demonstrable and quantifiable results. It is primarily due to the limited knowledge about the economic and environmental impacts
+
+Spray solution
+
+Read the label and directions for use before opening the bottle and follow the instructions given Use clean water for preparing solution and use strainer and funnel for pouring into the sprayer. Prepare spray solution as per requirements; use strainer and funnel for pouring into the sprayer Prepare spray solution as per requirement Protect your nose, eyes, mouth, ears and hands with cloths
+
+Do not use cooking utensils for preparing spray solution Do not mix granules with water Avoid spilling of pesticide solution while filling the sprayer tank Do not eat, drink, smoke or chew while preparing solution
+
+Equipment
+
+Keep the equipment at a safe place, out of reach of children
+
+Use right kind of equipment and nozzle Use old tooth brush tied with the sprayer and clean with water
+
+Do not use household utensils or buckets for mixing or applying pesticides Do not use leaky and defective equipment Do not blow or clean the clogged-nozzle with mouth Do not use of unwashed sprayer for weedicides and insecticides
+
+Application
+
+Calibrate the sprayer Apply only at recommended dose and dilution
+
+Do not apply on hot or sunny days and strong windy conditions. Do not apply against wind direction Do not mix 2 or more pesticides together, cocktail of pesticides is highly toxic
+
+(Contd...)
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+(Table 22.2 concluded)
+
+Do's
+
+BDO, Block Development Officer; EC, emulsion concentrate.
+
+of the IPM in the country. Since many IPM initiatives involve public funds that have opportunity costs, one needs to show that investment in IPM programmes pay off. This raises the question of what components should be in an IPM initiative, i.e. to what degree farm-level activities should be complemented by policy measures. The IPM technology would bring not only direct benefits like savings in critical inputs and gains in income but also indirect benefits like improved environment and empowerment of farmers in plant-protection measures. Hence, the question of measuring success of IPM programmes becomes crucial. It will include following.
+
+Factors responsible for adoption of IPM technology
+
+To achieve this objective, the primary data will be collected from adopted IPM villages with the help of questionnaire and RRA/PRA techniques. This would help in understanding production system and practices adopted by the farmers of that region and the problems related to plant protection to be addressed. Formal socio-economic impact analysis will include sections on socio-economic variables relevant to a proposed activity, identification of appropriate information sources, data collection and categorization, a community profile of affected populations, projection of consequences
+
+for several alternative courses of action, assessment of impacts, and evaluation of the IPM by community members. This activity will be taken up for first year of the plan which will help in ex-ante evaluation of IPM programme. ’
+
+Socio-economic impact analysis of IPM technology
+
+For this, IPM module developed for agro-ecological region will be comparatively analysed from economic side. This will give the insight into the direct benefit of savings in inputs and increase in outputs, ifany. Then impact assessment studies for calculation of indirect benefits will be done for IPM technology for socio-economic factors, changes in biodiversity and environment. The studies on biodiversity and environment will be done with the help of experts in the relevant fields. This activity will continue for three years, i.e. 24 years of the plan to study sustainability of the programme.
+
+Constraints in adoption of IPM technology and suitable policy measures
+
+adoption of IPM technology and suitable policy measures IPM technology empowers the farmers to take decisions regarding plant protection measures like identification of harmful and beneficial pests, use of chemical pesticides and bio-pesticides. Impact assessment studies will bring out factors responsible for non-adoption of IPM technology at farm, household, village, institutions level. Constraint analysis will help in suggesting policy measures for empowerment of farmers and policies for promotion of IPM at the national level. This ex-post analysis will be done in the fifth year of the current plan in collaboration with NCAP, New Delhi.
+
+Future prospects
+
+The pest scenario in the years to come is expected to undergo considerable change. The factors that are likely to govern such changes are intensification and diversification of agriculture, introduction of exotic plants and cultivars and genetic manipulations for development of new plant types across gene barriers. Economic consideration may result in crop shifts, increased seed imports and also increased use of chemicals per unit area. Liberalized seed policies may lead to introduction of low levels of resistance to biotic stresses.
+
+Though it may not be possible to foresee the exact pest scenario with respect to any specific crop, the current trend indicates that the complexity of pests will increase and pest outbreaks are likely to be more frequent in the future. The resurgence problems specially in the case of sucking pests such as aphids, whiteflies and jassids, will increase with continued use of pesticides and nitrogenous fertilizers. The problem of resistance to pesticides is likely to become even more acute. Integrated pest management will, therefore, be the key to provide sustainable and environmentally sound plant protection.
+
+The basic approaches in pest management in future are not likely to change, though the balance may shift. These are, quarantine, sound crop husbandry, genetic resistance, biological control and pesticides. Future pest-control technologies will essentially be refinements or modifications of tactics presently available to us—biological, cultural and chemical. New techniques that are emerging from research in molecular biology, including the ability to selectively move genes among organisms, provide opportunities for manipulating desirable properties in living organisms in such a way as to greatly increase their usefulness in biological based methods of pest control. Therefore,
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+biotechniques can be expected to increase the number of situations in which biologicals will be able to provide competitive, acceptable methods of managing pests.
+
+The sustainability and stability of our agro-ecosystems will continue to be threatened by pests. Increases in crop yields in the country are rapidly reaching a stage of diminishing returns. Even cultivars that possess high-yielding potential will not be able to express this trait without good pest management. There is no doubt that pest management will play a key role in harnessing new technologies for reducing losses caused by pests as we have no option but to achieve full potential yields per unit area, time and energy of all the crops we grow.
+
+Emerging issues
+
+Carbon-dioxide increase may double the growth of Cyprus weed species, consumption of Bt maize pollen do not harm adults of Chrysoperla carneae (greenlace wings) and soil application of Imidacloprid may be translocated to vector and thereby negatively affect key parasitoids of pests — are some of the issues need to be thoroughly studied.
+
+The identification and diagnostic services of pests and their hosts with the support of GIS, biotechnological tools, ELISA kits and e-pest atlas are some of the importanrt areas needs to be developed for larger application and practice.
+
+Pesticide application technology and safety measures have not been well understood in the changing climate patterns,especially in reference to persistence and dissipation of chemical pesticides,particle size,drift and impact on non-target animals.
+
+The status of pest and natural enemies in protected cultivation under greenhouse and polyhouses has not been fully studied, therefore attention of researchers and managers is required.
+
+The challenge is to identify commercially viable technologies and to make them available to end-users for adoption leading to development in a much faster way. The process of technology dissemination for wider adoption includes developing the capacity to harness potential technologies of production-protection, achieving quality improvement with setting-up of referral laboratories for pesticide residues. To make IPM relevant, issues of education and training, IPM research, IPM popularization, availability of quality inputs and appropriate policy framework are extremely important.
+
+Education and training
+
+In view of the WTO requirements concerning pesticide residues in edible commodities and in the context of changed scenario of environmental security, people need to be educated about IPM at all levels right from school stage. A multidisciplinary course on IPM at undergraduate level needs to be introduced. A Centre of Excellence in the IPM will give fillip to plant-protection programmes in the country.
+
+Research
+
+There is a need to synergize, simulate, develop and validate all research findings into adoptable modules. Weather-based forecasting should be given attention and be taken up on a priority basis. In the changing scenario, pest risk analysis (PRA) will become important as several new commodities will enter market under the new WTO regime. Sanitary and phytosanitary issues are important and need to be studied. User-
+
+friendly software on IPM, i.e. PMIS, needs to be developed for master trainers and farmers. Research efforts are to be made to:
+
+* develop appropriate cultural tools to conserve and promote natural enemies of pests;
+
+* develop a network for the study of crop ecology and habitat management, and also Entomophagy Park to conserve biodiversity;
+
+* increase growth of biopesticides from 2.5 to 5.0% in the next 5 years. The IPM may be integrated with Integrated Nutrient Management;
+
+Cartagena Protocol on Biosafety and Preparedness in India
+
+Advances in biotechnology have enabled development and production of genetically modified (GM) organisms (GMOs) with properties such as resistance to insects, tolerance to herbicides and addition of nutrition values. The global area under cultivation of GM crops has now increased significantly from 1.7 mha in 1996 to 125 mha in 2008, with 25 countries growing GM crops including 15 developing countries and 10 industrial countries. However, concerns have been raised globally as to whether these GM products are safe for human beings, animals and to environment.
+
+The term biosafety is used to describe policies and procedures to ensure environmentally safe application of biotechnology. The biosafety concerns related to transgenic crops are environmental, health-related, trade-related, social and ethical issues. Social and ethical concerns are guided partly by religious beliefs, customs and cultures. Among environmental issues, gene flow is one of the most contentious issues. Also, there is a concern that GM crops may hybridize to weedy relatives and introgress genes which would enhance fitness of weeds. There is also a concern that GM plants might turn into weeds and may invade natural habitat. Most GM products contain a gene for antibiotic resistance which is used as a marker to identify transgenics. The concern is marker gene could “jump” to other bacteria (in stomach, on consumption) which may become resistant to common antibiotics. Among the health related issues, the concern is about likely allergy to transgenic food. Biosafety assessment for food mostly comprises of establishing substantial equivalence of the transgenics with their non-transgenic counterparts. The trade and quarantine related issues are specific to a country.
+
+The Article 19, paragraph 3 of Convention on Biological Diversity (CBD) set the stage for the development of an international legally binding instrument to address the issue of biosafety. A protocol on biosafety specifically addressing transboundary movement of living modified organisms (LMOs) was negotiated and adopted under the aegis of CBD on 29" January 2000 and came into force from 11" September 2003 in the name of Cartagena Protocol on Biosafety. At present, 153 countries including India are the parties to the Protocol. The objective of the Protocol seeks to ensure adequate level of protection in the field of the safe transfer and handling of LMOs resulting from modern biotechnology that may have adverse effect on the conservation and sustainable use of biological diversity, taking into account risk to human health. It specifically focuses on transboundary movement, transit, handling and use of all LMOs.
+
+As a party to the Protocol, the Government of India is committed to fully implement obligations under the Protocol related to transboundary movement of LMOs. Keeping in view accelerated growth of biotechnology and its enormous use, Government of India has evolved a regulatory mechanism for development, evaluation and release of biotechnology products. The guidelines by Department of Biotechnology (DBT) cover the entire spectrum of activities relating to GMOs and deliberate/ accidental release into environment of organisms, plants, animals and products derived from r-DNA technology. Another important amendment in the 1998 guidelines is the requirement to generate data on comparative economic benefits of a modified plant. Thus, the 1998 guidelines demand for a demonstration that a transgenic crop Is both ‘environmentally safe and economically viable’.
+
+INSECT PESTS AND THEIR MANAGEMENT 687
+
+* develop forewarning model by taking into account biological inputs, crop phenology, natural enemies and weather, on-line pest forewarning systems and IPM news, resource manual for village institutions, diagnostic services for pest and natural enemies on farmers’ channels in television on prime time; and emphasis should be given on higher returns to farmers.
+
+Popularization
+
+Information technology (IT), as defined by the Information Technology Association of America (ITAA), is the study, design, development, implementation, support or management of computer-based information systems, particularly software applications and computer hardware. In short, IT deals with the use of electronic devices such as computers (including mobile ones and those in cell phones) and computer software to convert, store, protect, process, transmit and retrievory information, securely. Information science encompasses several areas of basic and applied research. Mathematical logic, theory of computation, quantum computing, data encryption, parallel algorithms, random algorithms etc. are some areas of theoretical nature on one hand and the computer network, digital electronics, simulation, graphics, virtual reality, artificial intelligence, biocomputing etc. are areas of applied nature on the other hand.
+
+Recently it has become popular to broaden the term IT to ICT (Information and Communication Technology) to include the field of electronic communication. Hence the ICT is, therefore, an umbrella term that includes any communication device or application, encompassing electronic communication. It includes use of radio, television, cellular phones, computer and network hardware and software, satellite systems and so on, as well as the various services and applications associated with them, such as videoconferencing and distance learning. ICTs are often spoken of in a particular context, such as ICTs in education, health care or libraries. Some of softwares such as PMIS on cotton, mustard, basmati rice, chickpea, brinjal and okra have been developed and released for use by researchers, master trainers, training organizers and extension workers as an instructional and educational. Decision making software Pesticide Advisor for judicious use of pesticides has been developed.
+
+IPM can be popularized with farmers only if critical inputs are available to them at the appropriate time. Kiosks should be opened in villages to function as the Discussion Forum for farmers. Directorate of Extension needs to be associated in the Network Project for further popularization. Video materials on IPM should be shown in villages. Farmers adopting IPM and getting higher yields need to be suitably rewarded. More coverage on IPM needs to given in print as well as electronic media. More and more Call Centres should be opened for easy access by farmers for sorting out their problems related to plant protection.
+
+Prioritization
+
+The ample knowledge support, generic IPM modules for the management of pest, and mass-multiplication technology for bioagents are available but a wide gap is visible between technology generators and users. Therefore the strategic approach with multi- institutional support is essentially to be stengthened for the development of IPM practioners in different agro-ecological regions of the country. The leveling of food
+
+and food products grown under IPM umbrella has yet to be started so that farmers can get the premium price for their produce on the lines of approach being followed for organic farmers. The stability of effectiveness of plant products as pesticides, establishment of biocontrol units, increase in shelf-life of bioagents and market network for biopesticides need to be improved considerably.
+
+So far the pest management has been mainly based on tritrophic levels (host, pest, and natural enemies) but four-tiered approach (action thresholds, monitor and identify pest, prevention and control) would be effective for increasing the profitability and cutting down the cost of pest management. The IPM net calendar and the institutions dedicated to IPM are the NCIPM (India), IPPC (USA) and British Crop Protection Centre (Europe) are some of the important knowledge support centres.
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+Annexure 22.]
+
+Economic threshold level of important crop pests
+
+(Appendix 22.1 concluded)
+
+I'ZZ-enxouuy
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+juowebeuew
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+Jo Ayjenb osye pue Aienooe seBns ‘saueo JO pjaiA ‘saAe] AjOos yOe/q e YIM SeAea] S18A09 YoIUM (“ds winipoude9) snBuny yoe/q @ Jo YMou6 sunone} pue ‘(ejoUID “A pue syjejueyio edsej) sdsem pue (wnjeydeoouejew ewoujdes pue snssesduioa snjouoduseo ‘siusooiBuoy sjdejodedd) sjue syoeuje YyoIym MaepAeuoy epnxea osje sueddoy ‘Paysaue si ymoi6 jueRld ‘31M pue Yysimo!jak ewooaq YoIUM ‘SaAea| WOY des yons sydwAu pue synpe Pasnojoo-meS No pajind Ajisea ued yolym speey-peap Buisneo “SPJEMUMOP [@UUN} PUe s}ooYs jejUad O}U! a10q sue||IdIa}eD S8UED aqe|[IW-UOU aAIB sjooyUs-apis esau} :Sdo} Ayoung BurwJoj s}jooys-apis 0} es Bulai6 ‘sapou do} syoeye sed ay} ‘uoWewJoy epou seye ‘seay-peap Buisneo ‘senea] Jo soyM MoOjaA Je4]Ua9 OJUI aJ0g pue SPJEMUMOP |@Ae4} ‘SQUPIL 48}Ua SJelIda}e9 MoyjeA-AWeESID
+
+INSECT PESTS AND THEIR MANAGEMENT
+
+Annexure 22 II]
+
+Terms used in Integrated Pest Management
+
+Economic damage. The injury done to a crop which will justify the cost of artificial control measures.
+
+Economic injury level (EIL). This is the lowest population density that will cause economic damage. It will vary between crops, seasons and areas.
+
+Economic pest. A pest causing economic damage.
+
+Economic threshold level (ETL). It is desirable that control measures be taken to prevent a pest population from actually causing economic injury. So the economic threshold level (ETL) is the population density of an increasing pest population at which control measures should be Started to prevent the population from reaching the economic injury level (EIL).
+
+Host range. The species of plant capable, under natural conditions, of sustaining a specific pest (FAO, 1990).
+
+Non-quarantine pest. A pest that is not a quarantine pest for an area (FAO, 1995) Pest. Any species, strain or biotype of plant, animal or pathogenic agent, injurious to plants or plant products.
+
+complex. The normal situation in a field or plantation crop is that it will be attacked by a number of insects, mites, birds and mammals, nematodes and pathogens which together form a complicated interacting pest complex.
+
+Pest risk analysis (PRA). The process of evaluating biological or other scientific and economic evidence to determine whether a pest should be regulated and the strength of any phytosanitary measures to be taken against it (FAO, 1997).
+
+Plant quarantine. All activities. designed to prevent the introduction and/or spread of quarantine pests or to ensure their official control.
+
+Quarantine pest. A pest of potential economic importance to the area endangered thereby and not yet present there, or present but not widely distributed and being officially controlled (FAO, 1990).

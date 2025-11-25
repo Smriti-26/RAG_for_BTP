@@ -1,0 +1,255 @@
+SOURCE_DOCUMENT: Chapter 18.pdf
+
+18. Weed Management
+
+Weeds are ubiquitous. They are the plants growing where and when they are not desired. They compete with crops for soil moisture, nutrients, solar radiation and space, and thus reduce the crop yields. Weeds also act as alternate hosts that harbour insects, pests and diseases and other micro-organisms. Some weeds release into the soil inhibitors or poisonous substances that may be harmful to the crop plants, human beings and livestocks. Weeds reduce the quality of marketable agricultural produce and render harvesting difficult, leading to increased expenditure on labour, equipment and chemicals for their removal. In aquatic environment, weeds block the flow of water in canals, water-transport system and drainage system, rendering navigation difficult. The dense growth of aquatic weeds pollutes water by deoxygenating it and killing the fishes. Weeds are also a nuisance and a fire hazard along railway lines, roads, right-of-ways, airports, forest and industrial sites.
+
+Weed management is done through the mechanical, cultural and chemical means. Use of biological control methods in field crops and in non-cropped areas is being considered, but still not much in use. Use of herbicides is an important component in the modern concept of weed-management technology. New hand-tools and implements have also been designed to assist in weed-management programme.
+
+Crop losses due to weeds
+
+Every crop is exposed to severe competition from weeds. Most of these weeds are self-sown and they provide competition by virtue of their faster growth rate in the initial stages of crop growth. In some crops, the yields are reduced by more than 50% due to weed infestation. The losses caused by weeds vary depending upon floristic composition and intensity of weeds, density and geometry of crop plants and environmental and crop management practices followed. Although the crop losses due to uncontrolled weed growth may vary from 15-80 %, it is generally agreed that a loss of 15-30% occurs in the farmer’s fields. Besides competition for resources, weeds often reduce crop growth and yield by the release of allelochemicals into the environment. The combined effect of allelochemicals (allelopathy) and competition is termed as interference.
+
+Characteristics of weeds
+
+Weeds are also like other plants but have special characteristics that tend to put them in the category of unwanted plants.
+
+* Most of the weeds especially annuals produce enormous quantity of seeds, e.g. wild oats (Avena fatua), produces 250 seeds per plant, whereas wild amaranth (Amaranthus viridis) produces nearly 11 million seeds. It has been observed that among 61] perennial weeds, the average seed-production capacity was 16,500 per plant.
+
+* Weeds have the capacity to withstand adverse conditions in the field, because
+
+WEED MANAGEMENT
+
+they can modify their seed production and growth according to the availability of moisture and temperature. They can germinate under adverse soil-moisture conditions, have short period of plant growth, generally grow at faster rate and produce seed earlier than most of the crops growing in association.
+
++ Weed seeds remain viable for longer period without losing their viability, e.g. annual meadow grass (Poa annua) and scarlet pimpernel (Anagallis arvensis) remain viable for about 8 years; creeping thistle (Cirsium arvense) for 20 years and field bind weed (Convolvulus arvensis) for about 50 years.
+
+Weed seeds have a tremendous capacity to disperse from one place to another through wind, water and animals including man. Many a times, weed seeds mimic with the crop seeds due to their size and get transported from one place to another along with them.
+
+Classification of weeds
+
+Most weeds occur in the division Anthophyta (Angiosperms), which are further divided into the classes dicotyledones (dicots) and monocotyledones (monocots).
+
+There are approximately 250,000 species of plants in the world. However, less than 250 plant species, about 0.1%, are troublesome enough to be called weeds universally throughout the world.
+
+On the basis of the habitat, weeds are divided into terrestrial and aquatic categories, and on the basis of duration of life, they are divided into annual, biennial and perennial.
+
+Annuals complete their life-cycle in a year or in a single growing season. They mostly propagate through seeds. Normally, they germinate with the crop and complete their life-cycles before or along with the crop. Based on the season they are encountered, weeds may be called as summer and winter annuals. Some examples are:
+
+Summer annuals: Echinochloa crus-galli, E. colona, Amaranthus viridis, Trianthema portulacastrum, Eclipta alba, Digitaria sanguinalis, Panicum repens.
+
+Winter annuals: Phalaris minor, Avena ludoviciana, Poa annua, Chenopodium album, Melilotus indica, Lathyrus aphaca, Anagallis arvensis.
+
+Biennials live longer than 1 year but less than 2 years. During the first growth phase, they develop vegetatively from a seedling into a rosette. After a cold period, the growth resumes into reproductive phase. Biennials are large plants when mature, and have thick fleshy roots. Relatively few weed species are biennials, e.g. Cichorium intybus, Raphanus raphanistrum.
+
+Perennials live longer than 2 years and may reproduce several times before dying. They are propagated through seeds and vegetative reproductive organs like rhizomes, suckers, stolons, bulbs and tubers, e.g. Cynodon dactylon, Saccharum spontaneum, Cyperus rotundus, Sorghum halepense, Convolvulus arvensis and Cirsium arvense.
+
+Aquatic weeds: These plants have structural modifications that enable them to live in water. They have been categorized further as floating, emerged and submerged.
+
+Floating weeds. These rest upon the water surface. Their roots hang freely into the water or sometimes attach to the bottom of shallow ponds or streams, e.g. water hyacinth, Pistia, Salvinia, etc.
+
+Emergent weeds: Typical plants of natural marshlands and are often found along the shorelines of ponds and canals. These plants stand erect and are always rooted into very moist soil, e.g. Typha, Scirpus, etc.
+
+S74
+
+Submerged weeds, Grow completely under water, although a few stems and leaves may exist on the water surface, e.g. Hydrilla, Chara, Potamogeton, etc.
+
+Paasivic weeps: These weeds parasitize on specific host plants and deprive them of water, nutrients and assimilates. They may be root parasites (Orobanche, Striga) or shoot parasites (Cuscuta, Loranthus). They are either partial parasites (Sfriga) or total parasites (Orobanche), depending on the degree of parasitism.
+
+Crop—weed competition
+
+Weeds compete with crop plants for nutrients, moisture and light. The degree of competition is dependent on weed flora, time of weed emergence, relative density of crop plants and weeds, the duration of competition, management practices, etc. Competition is set in motion when the supply or availability of resources is limited for the unrestricted growth of both crop and weeds. When the crop seeds are planted weed seeds also germinate along with them.
+
+During the initial stages, both crop plants and weeds grow without competing with each other. However, as the plants grow bigger and bigger, they vie with each other for the resources and the one which is stronger numerically, morphologically, physiologically and biochemically will benefit more at the cost of the other. The stage at which there is maximum impact of weeds on crop growth in termed as critical period of weed competition, which usually varies between 15 and 60 days after sowing depending upon the crop, crop duration, time of weed emergence, weed flora and intensity and soil and climatic conditions. There will be least or no damage done by the weeds, once the crop is established and the canopy covers the ground. Irrespective of what method of weed management is practiced, it must be ensured that the weeds are kept at low level during the critical period of weed competition. This will ensure higher efficiency of inputs used and in turn recording maximum potential crop yields.
+
+Principles of weed management
+
+In order to reduce the negative implications of weeds on crop growth and yield, weeds have to be controlled efficiently. To do the job successfully, a thorough understanding of weed biology in the crop environment becomes essential. Prevention, control and eradication are the key elements in weed management.
+
+Prevention
+
+Prevention involves procedures that inhibit or delay weed establishment in areas that are not already inhabited by them. These practices restrict the introduction, propagation and spread of weeds on a local or a regional level. Preventive measures include cultural practices such as seed cleaning, use of weed-free seed, manure and machinery, controlling weeds on field bunds, and irrigation canals, Screening irrigation water, restricting movement of farm animals, etc. Prevention is highly cost effective, as establishment of any new weed is going to create problem for many years.
+
+Eradication
+
+Eradication is the total elimination of a weed species from a field, area or region. It requires the complete removal of seed and vegetative parts of a weed species in a defined area. It is usually attempted only in small area or areas with high value crops
+
+WEED MANAGEMENT
+
+because of the difficulty and high costs associated with eradication practices. Soil sterilants or fumigants such as carbon disulphide, etc. are used particularly in nurseries for eliminating soil pathogens and pests including weeds.
+
+Control
+
+Control practices reduce or suppress weeds but do not necessarily result in the elimination of any particular weed species. Weed control, therefore is a matter of degree and depends upon the goals of the people involved, effectiveness of the weed control tactic used and the abundance and tenacity of the weed species present. There are 4 general methods of weed control: physical, cultural, biological and chemical.
+
+Physical methods: Hand-pulling or hand-weeding, hoeing, tillage, mowing, burning, flooding, smothering etc. are examples of physical methods of weed management, involving the use of physical energy through implements either manually or bullock drawn or power operated. Farmers mostly resort to hand-weeding with the help of hand chisel (khurpi), hand hoe, spades etc. It is one of the most commonly used methods but is back-breaking, time consuming and costly. With the gradual industrialization in India, coupled with rise in the standards of living and literacy, manual labour is becoming less available, specially at critical times of weed removal. Pre-planting or post-planting tillage is practical and economical . The use of soil-turning plough, disc and spring tooth harrows and the dug foot, blade and bukher-type cultivators are some of the implements used to keep weed growth under control. However, adverse soil conditions such as too dry or too wet soil limit their use.
+
+Cultural methods: Weeds are better competitors than crop plants for light, water, nutrients and space. However, cropping practices can be intelligently used to shift the balance of competition in favour of crop plants. Quality seed with good germination will give the crop a vigorous and close stand, and would enable the crop plants to score over weeds. Varieties well adapted to a season will compete better with the weeds than those poorly adapted to it. The plant breeders have to evolve quick-growing and short-duration varieties of crop plants with larger leaf area and good branching or tillering ability and the agronomists have to work out the proper seed rate, depth, time and method of sowing, and the use of the most appropriate method of irrigation and fertilization in a given cropping system.
+
+Some crops can compete better with weeds. For instance, the crops like Sudan grass, sorghum and cowpea are good competitors, whereas others such as linseed, groundnut and lentil are poor competitors. Close-row crops compete better with the weeds than wide-row crops. Similarly, the crops and varieties having early and faster growth during the cropping season compete better than those growing slowly during the early part of their growth, e.g. pigeonpea. The fodder crops in general, grow faster and the thick sowing technique results in dense growth of crops, thereby smothering the weeds effectively.
+
+Crop rotations are required to minimize the dominance of a particular weed in the cropping system. Intercropping, particularly growing of a fast-growing crop such as cowpea, soybean, etc. in wide-spaced crops like maize, pigeonpea or sugarcane would reduce weed competition. Similarly, covering inter-row spaces with mulches (plant residues, paper, plastic, etc) also contain weed growth.
+
+Chemical methods: In the last 4 or 5 decades one of the important developments in
+
+the field of agriculture has been the large-scale use of chemical fertilizers and pesticides, Selective control of weeds was first noticed in 1896 by Bordeaux, a French scientist who spread Bordeaux mixture in grapes to control fungal disease but also saw that the weed Sinapsis arvensis also got burnt. In the first 50 years of 20th century many people tried inorganic chemicals to control weeds mostly in non-cropped situations. They included carbon disulphate, chlorates etc. Later on, some scientists also tried boron compounds, dinitrophenols, ammonium sulfamate and petroleum oils. In 1942, after the World War II, Zimmermann and Hitchcock released the work of developing phenoxyaceticacid compounds, of which 2, 4-dichlorophenoxy acetic acid (2, 4-D) was most important. The 2, 4-D was highly selective and had no adverse effect on grassy plants, but had a severe inhibitory effect on broad-leaf plants or weeds which grow in association with crops. Later on 2, 4-D, MCPB and MCPA were discovered that worked as selective herbicides for the control of weeds in crops like wheat, barely, oats, maize, rice and millets. In India 2, 4-D was used to control weeds selectively in wheat in 1947-48. Since then, the use of herbicides in India has been increasing but with a very slow pace because of several factors. The control of weeds in crops with the herbicides increases their yields and ensures the efficient use of irrigation, nutrients and other plant-protection measures. Chemical weed control can be adopted quite in time and in situations where manual or mechanical methods of weeding are difficult. The use of herbicides is easier, less time consuming and in many cases less costly. The herbicides used in different crops along with their dose of application are given in Table 18.1.
+
+WEED MANAGEMENT
+
+DAS, Days after sowing; DAT, days after transplanting; PE, pre-emergence; POE, post- emergence; PPI, pre-plant incorporation.*Control isoproturon resistant Phalaris minor
+
+578 HANDBOOK OF AGRICULTURE
+
+Classification of herbicides
+
+Herbicides are classified based on their chemistry, selectivity, mode of action, time of application etc.
+
+Based on chemistry the herbicides may be classified as phenoxys, ureas, triazines, etc. as can be seen from Table 18.2.
+
+Based on selectivity, herbicides may be classified as selective and non-selective. Selective herbicides remove certain weeds from certain crops, e.g. Atrazine in maize, Isoproturon in wheat, etc. Non-selective herbicides, when applied directly kill all vegetation including crops, e.g. Paraquat, Glyphosphate, etc. Latter is used for vegetation management in non-crop areas. They may also be applied as directed spray to control weeds in some crops, such as in orchards, plantation crops, etc.
+
+Based on mode of action herbicides may be classified as contact and translocative herbicides. :
+
+Contact herbicides: Kill only the plant or the portions of the plant that actually comes in contact with the herbicide. The herbicide to be effective must cover the total foliage. Selectivity depends on the differential wetting, difference with the form of plants and also on the placement of the spray. Selective as well as non-selective herbicides comes under this category, e.g. Paraquat.
+
+Translocated herbicides: These herbicides move within the plant from the place of application to the place where they show their ultimate effect. This property makes them effective in destroying the roots and other underground storage organs of perennial weeds. The physiological difference and bio-chemical tolerance among the plant determines the selectivity, e.g. Glyphosate, 2, 4-D, etc.
+
+WEED MANAGEMENT
+
+Herbicides may be applied before planting (pre-plant), after planting but before emergence (pre-emergence) or after emergence of the both crop and weeds (post- emergence). While pre-planting and pre-emergence herbicides are generally applied on soil (soil-acting), the post-emergence ones are applied on plant foliage (foliar- acting). Examples, pre-plant—Fluchloralin; pre-emergence—Atrazine, Pendimethalin; post-emergence—2, 4-D, Glyphosate, Clodinafop, etc.
+
+Effect of herbicides on plants
+
+The applied herbicide must get into the plants to exert its activity. The herbicide is absorbed by the plants through roots or shoots depending upon whether it is applied to soil or on plant foliage and is dependent upon the physico-chemical properties of the chemical. The ability of herbicides to suppress plant function depends on many biological and environmental factors. The mode of action of an herbicide includes all of the physiological, anatomical, morphological and biochemical processes that result in phytotoxicity. These include absorption (uptake), transport, metabolism and biochemical inhibition. The mode of action also includes all the events that eventually lead to plant death following herbicide application. Thus environmental factors that influence fate, persistence and availability of herbicides for uptake are components of the mode of action. The specific biochemical process or site of inhibition in treated plants that result in growth suppression or death is termed the mechanism of action.
+
+The specific biochemical process inhibited, often depends upon the chemistry of the herbicide. Both the site and biochemical reaction inhibited are known for many herbicide groups. For others, only the effect of the herbicide, rather than the cause of the response is known. The major processes affected are given in Table 18.3.
+
+Herbicide selectivity
+
+One of the unique features of some of the herbicides is their ability to kill weeds selectively, without any significant adverse effect on crops. This is termed as selectivity. Selectivity is not absolute but relative. It varies with plant species, herbicide dose and environmental conditions. Hence unlike other pesticides (insecticides, fungicides), different chemicals are to be used in different crops, often to control the same weed. Selectivity is dose-dependent—lower dose may not give satisfactory control of weeds— while higher dose may damage the crop. Therefore an optimum herbicide dose is a requirement for satisfactory weed control, without causing crop phytotoxicity.
+
+The differential effect of herbicides on different plant species is due to one or more factors related to differences in morphological (shallow vs deep rooted, broad leaved
+
+580 HANDBOOK OF AGRICULTURE
+
+vs narrow leaved), anatomical, physiological and biochemical characteristics. These traits along with soil and climatic conditions alter the availability, uptake and metabolism of the herbicide in plants in such a way that there would be differential accumulation of herbicide active ingredient at the site of action. The plant which accumulates more active material would be more susceptible than the one which accumulates less. Of several factors, different rate of metabolism of the herbicide is largely responsible for selectivity of many herbicides as seen from the susceptibility of grassy weeds in cereals,
+
+Herbicide formulations
+
+Formulation refers to the way in which the basic weed-killing chemicals are prepared for practical use. Herbicides are formulated to be applied as solutions in water or oil emulsion, wettable powder, granules and dust.
+
+Emulsions: An emulsion is a liquid dispersed in another liquid, each maintaining its original identity. The 2 liquids for example oil and water cannot mix together because of their differential polar properties; but if surface-active agent is added, both the liquids unite to form an emulsion, e.g. ester formulation of 2, 4-D. In this formulation, herbicides are adsorbed on an inert carrier together within surface-active agent and finally bound so that it forms a suspension when agitated with water. Atrazine, Diuron are some of the wettable powders.
+
+Granular herbicides: In these formulations, the herbicide is adsorbed, mixed with or impregnated with a generally inert carrier in such a way that the final product consists of granular particles. Many carriers are used, e.g. clay, sand, vermiculite and finely ground plant parts. Granular materials can be applied by hand or with mechanical spreaders. These materials have advantages over sprays because water is not needed for their application, costly spraying equipment is avoided and the granules fall off the leaves of the valuable plants without causing injury. Another advantage is that because the active weed-killing principle in this formulation is gradually released, they are expected to suppress the growth of weeds for a relatively longer period of time.
+
+Wettable powders: The active ingredient of herbicides, formulated as wettable powders is nearly insoluble in water and may not be soluble in organic solvents. The solid active ingredient is ground to a fine powder. Wettable powders suspend readily in water because a dispersing agent is added to the formulation. Agitation is required to keep the small herbicide particle suspended in the water of a spray tank.
+
+Suspension concentrates (SC)/Flowable concentrates, Concentrated Emulsions (CE), dry flowables, water dispersible granules (WDG) are some of the examples of new generation formulations. These are less prone to drift and have better distribution and efficacy properties.
+
+Application of herbicides
+
+With herbicides, it is important to apply appropriate quantity of the chemical. While lower doses may not adequately control weeds, higher doses may damage the crop or leave residues in soil and affect the crops grown in rotation.
+
+Calculation: The quantity of the toxic ingredient to which the weed-killing property of a chemical is due varies with different formulations of the herbicide. The active
+
+WEED MANAGEMENT
+
+ingredient is that part of a chemical formulation that is directly responsible for the herbicidal effect. In some herbicides the entire molecule may be the active unit, but it is very rare. If the chemical is 99% pure, it is considered to have 99% active ingredient. The strength of the herbicide formulation is expressed in terms of active ingredient. In some herbicides activity is calculated on acid-equivalent basis. Acid-equivalent refers to that part of the formulation that can be theoretically attributed to the acid. In these cases the acid equivalent is given as active ingredient. Examples are: 2, 4-D, MCPA, MCPB, 2, 4-DB etc. The per cent active ingredient (a.i.) is given on the label of the container. If a product has 80% a.i., then to apply 2 kg of the active ingredient per ha, the quantity of formulation required is 2 x 100/80 = 2.5 kg. A list of herbicides officially registered for use in the country is given in Table 18.4.
+
+(Contd...)
+
+WEED MANAGEMENT
+
+Spray equipment: Spraying is the most commont method of applying herbicides. For manual application, a knapsack sprayer is the ideal one. A spray volume of 250-500 litres/ha is required for optimal application of the chemical. The output of the sprayer is dependent on the type of nozzle, pressure applied and the speed of application; these need to be standardized for desired output, usually termed as calibration. Flat-fan nozzle is the most preferred nozzle for application of herbicides. While even flat-fan nozzle is used with single nozzle sprayers, tapering flat-fan nozzles are used in boom sprayers with multiple nozzles.
+
+The spray equipment needs to be cleaned thoroughly before and after each use. Like in other pesticides, sufficient care and caution are to be exercised in storing, using and disposing the chemical or the container.
+
+Herbicide residues
+
+The accumulation of herbicides in harvested products is relatively less when compared to other pesticides . Insecticides and fungicides are applied directly on the crop plants , but herbicides are sprayed mainly on weeds.. Insecticide applications in particular are made many a times at different intervals in one cropping season, whereas herbicide application is generally made only once at the time of planting the crop or during very early stages of crop gowth. Hence the time lag between herbicide application and the crop harvest is large enough to render the chemical non-toxic in both soil and crop produce.
+
+The persistence in soil depends upon the nature of the herbicide, dose used, and environmental factors. Research results have shown that most of the herbicides when used at recommended rate and time of application, leave no residues in the soil to affect the following crop grown in rotation.
+
+Herbicide resistance in weeds
+
+If the same herbicide, herbicides from the same chemical family, or those with the same mechanism of action are used on the same land for several successive years, development of resistance is more likely. The weeds may develop partial resistance, cross resistance (a weed biotype resistant to two or more herbicides due to single resistance mechanisms) and multiple resistance (resistant plant possess two or more distinct resistance mechanisms) to applied herbicides. Herbicide resistance is a global problem. However, crop and herbicide rotation and herbicide mixtures are important techniques to combat this problem. Integration of many methods of weed management rather than reliance on only herbicides to solve weed problems is an important consideration in the overall management of weeds resistant to herbicides.
+
+Herbicide-resistant crops (HRCs)
+
+The development of crops with resistance to specific herbicides represents a powerful new technology for weed control. In recent years, considerable research has been directed towards the introduction of herbicide tolerance or resistance into normally susceptible crop species. The first use of herbicide-resistant crop was in 1994 with the introduction of IMI (imidazolinone resistant) corn hybrids and STS (sulfonylurea tolerant) soybean varieties. Resistance genes from several other herbicides or herbicide mode of action have been incorporated into the genetics of corn, soybean, cotton,
+
+canola and many other crops and are now commercially available. These include glyphosate-resistant corn and soybean, glufosinate (Liberty)-resistant comm and soybean and sethoxydim (Post)-resistant corn.
+
+Conservation tillage
+
+_ The concept of conservation tillage, which is a valuable principle in both irrigated and dryland agriculture, ensures that the weeds do not establish themselves in arable land. The control of weeds in this situation is possible through herbicide use. The herbicides are generally used to kill the emerged weeds and then the crop Is sown without disturbing the soil. It is seen that maximum flush of weeds emerges before planting of crop through moisture given before in the form of pre-planting irrigation. Once the weeds have emerged, any contact or translocated herbicide (Paraquat or Glyphosate) which is not going to be active in the soil is sprayed to control the unwanted vegetation and then the crop is sown without disturbing the land. In India conservation tillage, especially zero-tillage is being widely adopted in rice-wheat cropping system especially for control of grassy weed Phalaris minor in wheat sown immediately after harvesting of transplanted rice.
+
+Biological methods
+
+In this method, the natural enemy of a weed plant is used to control the weed. The requirements for the success in this method are:
+
+(i) The weed species must have been introduced and in the process of introduction must have been freed from its natural enemies (insects/pathogens)
+
+(ii) The natural enenmies introduced to feed on weeds are to be freed from parasites and predators in order to carry out their work of destruction unhampered
+
+(iii) The natural enemies must be highly host-specific, so that they do not feed on desirable or economically important plants.
+
+An outstanding example of biological control of plant is that of prickly pear (Opuntia spp.) in Australia. Another noteworthy example is of destruction of Lantana with the help of Teleonemia scruplosa. Attempts are under way for the biological control of nutgrass in Hawaii. Water hyacinth can also be controlled through the use of Neochetina bruchi and N. eichhorniae, Successful control of Parthenium hysterophorus has been reported with the help of Mexican beetle Zygogramma bicolorata.
+
+“Somewhat different, but an interesting example of biological control, is the destruction of aquatic vegetation in ditches by using herbivorous fish such as Chinese grass carp Crenopharyngdon idella. Besides controlling submerged aquatic weeds, the fishes could be a valuable source of nutritious food for human consumption. The use of geese to control weeds in cotton is popular in some areas in south-west America. The young geese selectively feed on Johnson grass (Sorghum halepense) without harming cotton.
+
+The eradication of prickly pear by using the cochineal insect (Dactylopius tomentosus) in Maharashtra and Tamil Nadu is the best example of biological control in India.
+
+Integrated weed management
+
+In nature a balance has been struck among all the components, both living (biotic)
+
+WEED MANAGEMENT
+
+and non-living (abiotic) of an environment. This ecosystem concept has much relevance in that all the components co-exist in perfect unison, each component satisfying its own niche. The introduction of a foreign element, e.g. a herbicide, may create some serious upheavals in the ecosystem. Further, the continuous use of a herbicide may eliminate all the susceptible weed species and its place may be taken over by some resistant ones, or the existing ones may develop resistance. All these eventualities have to be borne in mind when recourse is taken to chemical weed control. One of the ways to avert such a situation consists of using low doses of herbicides, in rotating herbicides just like a crop rotation and alternating intelligently chemical and non- chemical methods in weed management. An integrated weed management may be defined as the combination of two or more weed-control methods at low input levels to reduce weed competition in a given cropping system below the economical threshold level. It has proved to be a valuable concept in a few cases, though much is still to be done to extend it to the small farmers level.
+
+Integrated Weed Management (IWM) approach aims at minimizing the residue problem in plant, soil, air and water. An IWM involves the utilization of a combination of mechanical, chemical and cultural practices of weed management in a planned sequence, so designed as not to affect the ecosystem. The nature and intensity of the species to be controlled, the sequence of crops that are raised in the rotation, the standard of crop husbandry, the ready and timely availability of any method and the economics of different weed-management techniques are some of the potent considerations that determine the success for the exploitation of the IWM approach.
+
+Aquatic weeds and their management
+
+Almost all the water bodies have plants growing in them. Presence of plants in water-bodies is essential for the conversion of solar energy into chemical energy for the development of aquatic fauna like fish, prawns etc. and for the continuous addition of oxygen to water during photosynthesis. If the water plants due to overgrowth make such water-bodies unfit and take the shape of noxious aquatic vegetation, these may be referred as aquatic weeds. Aquatic weeds are the greatest problem in fishing, irrigation and efficient water supply. Since the beginning of this century, greater efforts are being made using the variety of implements, chemicals and bioagents. Of the 800,000 ha of fresh water available in India for pisciculture, about 40% rendered unsuitable for fish production because of invasion by aquatic weeds.
+
+An integrated and to the extent possible an environment-friendly approach is to be employed for management of aquatic weeds. Aquatic weed-control measures can broadly be grouped into the following categories.
+
+Preventive: The success of preventive weed-management programmes varies with the weed species, its means of dissemination and the amount of efforts applied. Preventive weed-management programmes usually requires community action through the enactment and enforcement of appropriate laws and regulations.
+
+Mechanical: This has both, advantages and limitations. Advantages include utilization of available man-power; is environment friendly, yields immediate results, is non-selective with fewer chances of permitting ecological shifts in aquatic flora; lessens mass nutrient load of eutrophic water-bodies, helping indirectly in diminishing the future weed populations; reduces dependence on import of herbicides; harvested
+
+weeds may have various utilities as feed, manure, energy source etc; and most importantly can be carried out in any localized areas of water-bodies. The limitations include limited effectiveness as in some cases the weeds re-grow from their rootstocks, thizomes etc ; labour-intensive and expensive and sometimes removal of weeds may deplete water-bodies of their nutrients limiting growth of planktons.
+
+The methods include, netting, erecting barriers, chaining, dredging, draining, use of underwater-weed cutters, submergence, shading, cleaning of irrigation waters etc.
+
+Biological: Biological methods of management require the use of organisms that have been used for biological control, are diverse and include various types of animals and plants like insects, fishes, pathogens, nematodes etc. Biological management is more complex than chemical weed control because it requires long-term planning and multiple tactics.
+
+Use of several species of herbivorous fishes which feed on submerged aquatic weeds include Tilapia sp., Ctenopharyngodon idella, and other species. The use of insects like Neochetina bruchi and N. eichhorniae for control of water-hyacinth, and Cyrtobagous salviniae for control of Salvinia molesta have been found effective in India.
+
+Chemical: Aquatic weeds can be controlled effectively by use of herbicides. The time and method of herbicide application varies with the type of weed flora and the habitat in which the weeds are to be controlled. Control of aquatic weeds by herbicides is generally easier, quicker and cost-effective . However, the use is limited and sometimes unacceptable due to the use of water for drinking, pisciculture, irrigation etc. All the herbicides cannot be used for weed control in aquatic environment. A herbicide should have certain specifications for its use in different types of aquatic environment.
+
+* It should have high degree of phytotoxicity to kill weeds fast.
+
+* The chemical should degrade or dissipate from water immediately after the action on weeds.
+
+* Technology should be available for their use in static or flow water systems.
+
+* It should be safe for humans, fish and other aquatic fauna. Some of the advantages of using herbicides are:
+
+* Herbicides are economical and fast in action thus save time.
+
+* The dead weed biomass sinks to the bottom of the water-body avoiding loss of nutrients and biomass.
+
+Herbicides kill even the roots and other deep-rooted reproductive organs, which otherwise cannot be removed by mechanical means.
+
+* One or two applications of herbicides are sufficient while mechanical methods are to be applied a number of times.
+
+Control of parasitic weeds
+
+There are around 3,000 species of parasitic angiosperm, distributed amongst 17 families. The transfer of host solutes into a parasitic plant relies on the formation of a bridge between the two organisms. This organ, the haustorium (from the Latin, haurire, to drink) is thus the defining feature of all parasitic plants. True plant parasites can be hemi-parasitic (semi-parasitic) with photosynthetic leaves (such as Striga and mistletoe), or holo-parasitic i.e., completely dependent on their host (such as dodder
+
+WEED MANAGEMENT
+
+and broomrape). Parasitic weed Cuscuta is a major problem in pulses (greengram, blackgram, lentil, chickpea). It is causing lot of damage in rice-mungbean/urdbean cropping system in coastal Andhra Pradesh, Tamil Nadu and parts of Madhya Pradesh. The parasitic weeds can be effectively managed through crop rotation by rotating host crop with trap crops, as they induce germination of parasitic weed seeds but they themselves are not parasitised. Due to lack of suitable host, Cuscuta seedlings will emerge and die. Application of Pendimethalin at 1.0 kg/ha as pre-emergence or Fluchloralin at 1.0 kg/ha as pre-plant soil incorporation can also be used to reduce Cuscuta infestation. Orobanche, a root parasite is also a problem in some pulses in some regions. Delayed sowing and soil solarization are reported to reduce the infestation of Orobanche.

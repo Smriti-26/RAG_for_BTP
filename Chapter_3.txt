@@ -1,0 +1,367 @@
+SOURCE_DOCUMENT: Chapter 3.pdf
+
+3. Agriculture and Environment
+
+Food production in India has increased from 69 million tonnes in 1965 to 227.3 million tonnes in 2007-08, and cereals productivity has increased from less than 1.0 to about 3.0 tonnes/ha. As result the average calorie consumption of Indians has improved considerably. This transformation has been especially successful where agricultural infrastructure was in place, and environment was favourable such as in north-western India. The increased foodgrains supply during the last four decades in many parts of India has ensured national food security. It has also steered the nation through the years when natural calamities were severe.
+
+There have been several other spin-offs of this huge agricultural growth, including environmental protection. It has, for example, made a marked impact on the conservation of forest resources of our country. If the yield improvement would not have taken place, we would at present have required another 70 million hectares land to produce the foodgrains to meet our requirements. Since land is finite, this additional land would have come from deforestation. Thus, the productivity improvement associated with the Green Revolution can also be described as forest or land-saving agriculture. ,
+
+Indian agriculture is, however, once again at crossroads facing tremendous new challenges due to continued population growth, stagnation in farm-level productivity in intensive farming areas and globalization. By 2050, country’s population is expected to grow about 1.6 billion and will outgrow China as the most populous country of the world. This rapid and continuing increase in population implies a greater demand for food.
+
+Even though there is pressure to increase food production, there are reports of increasing problems of environmental degradation in agricultural fields, especially in intensively cultivated regions such as the Indo-Gangetic plains (IGP). There is a great concern now about decline in soil fertility, decline in water-table and irrigation water quality, rising salinity, and resistance of pests to many pesticides. The water-table in the north-western parts of India, for example, is receding at an annual rate from 0.2 to 0.5 metre. Soil salinity and waterlogging are the other problems that have already spread to several parts of the IGP. Long-term experiments conducted in the IGP have shown a declining trend in productivity at several locations. Farmers here have to apply more fertilizers to get the yield as they were getting with lesser fertilizers 20-30 years ago. In Punjab, the mean fertilizer use in rice and wheat has become much higher than the recommended dose. Such uses can sometimes result in increased
+
+concentration of reactive N in the environment, causing pollution of water and air. The problem of agricultural environment is getting further complicated due to other developmental activities. Rapid industrialization and urbanization in the different parts of the country is leading to generation of untreated wastewaters, which are often disposed of as such in rivers, canals and lakes. Establishment of industries such as thermal plants in peri-urban areas results in emissions of large amounts of aerosols. All these are
+
+AGRICULTURE AND ENVIRONMENT
+
+increasingly causing problems of soil, air and water pollution, affecting structure and functioning of the agro-ecosystems. According to the latest Ecological Footprint Analysis (2005) by the Global Footprint Network, humanity is exceeding its ecological limits by 39%. It now takes the Earth one year and four months to regenerate the resources that are used in a year for human consumption. The Millennium Ecosystem Assessment (MEA), launched in 2001 with the support from the United Nations, highlighted the fact that ecosystem degradation is fast reaching dangerous new levels.
+
+Over the past few decades, the man-induced changes in the climate of the earth have also become the focus of the scientific and the social attention. The most imminent of the environmental changes of the earth is the increase in the atmospheric temperature due to increased levels of carbon dioxide and other greenhouse gases (GHG). The quantity of rainfall and its occurrence has also become more uncertain. In certain places, climatic extremes such as droughts, floods, rainfall distribution and snowmelt have increased. The sea level has risen by 10-20 cm depending upon the region. Similarly, snow cover is also believed to be gradually decreasing. The global mean annual temperature at the end of the 20" century was almost 0.5 to 0.7°C above that recorded at the end of the 19" century. It is projected that the average temperature of the air would rise by 1.9-4.6°C over the next 100 years. More floods, frequent droughts and forest fires, decrease in agricultural and aquacultural productivity, displacement of coastal dwellers by sea-level rise and intense tropical cyclones, and the degradation of mangroves are projected to be some of the likely consequences of such environmental changes in Asia.
+
+All these changes would have tremendous impact on agricultural production and hence food security of any region. Producing enough food for the increasing population against the background of reducing resources in adverse environmental scenarios, while minimizing further environmental degradation, is, therefore, the primary task of agriculture. The problem may get further compounded by the ongoing globalization process and economic reforms being implemented as the consequence of the World Trade Organization, which is forcing many countries, including India, to make structural adjustments in the agricultural sector.
+
+To identify the existing and emerging constraints limiting productivity and opportunities for sustainable increase in the future, it is important to understand agriculture-environment interactions in totality. This would include identification of the key environmental problems from an agricultural perspective, impact of these on agriculture, impact of agricultural activities on the environment, and restoration of environment by agriculture. The objectives of this chapter are to discuss (i) the current environmental issues and their impact on Indian agriculture, (ii) tools and indices for environmental impact assessment, (iii) approaches for environment restoration, and (iy) initiatives and legislations for combating environmental change.
+
+ENVIRONMENTAL ISSUES AND THEIR IMPACT ON AGRICULTRE
+
+The major environmental issues that Indian agriculture is currently confronting stem from global climate change because of emission of GHGs; water, soil and air pollution emanating from industry, transport, fertilizer application and persistent organic pollutants; and loss of biodiversity.
+
+Global climate change
+
+Over the past few decades, the gaseous composition of the atmosphere has undergone a significant change mainly through increased industrial emissions, fossil fuel combustion, widespread deforestation and burning of biomass, as well as changes in land use and land management practices. These anthropogenic activities have resulted in an increased emission of naturally occurring radiatively active gases, e.g. carbon dioxide (CO,), methane (CH,) and nitrous-oxide (N,O), popularly known as the ‘greenhouse gases’ (Table 3.1). These GHGs trap outgoing infrared radiations from the earth’s surface and thus raise temperature. The global mean annual temperatures at the end of the 20" century, as the result of GHGs accumulation in the atmosphere, has increased by 0.4-0.7°C above that recorded at the end of the 19" century. The last 50 years show an increasing trend of 0.13°C/decade while the trend of the last one and half decades has been much higher. The Inter-Governmental Panel on Climate Change in 2007 projected a temperature increase between 1.1 and 6.4°C by the end of the 21* Century. Global warming also leads to other regional and global changes in climate- related parameters such as rainfall, soil moisture and sea level. The mean sea level has risen by 10-20 cm in the last century. Similarly, snow cover is also believed to be gradually decreasing.
+
+Global climatic changes can affect agriculture through their direct and indirect effects on the crops, soils, livestock and pests (Table 3.2). Increase in atmospheric carbon dioxide has a fertilization effect on crops with C, photosynthetic pathway and thus promotes their growth and productivity. Increase in temperature, depending upon the current ambient temperature, can reduce crop duration, increase crop respiration rates, alter photosynthate partitioning to economic products, effect survival and distribution of pest populations, thus developing new equilibrium between crops and pests, hasten nutrient mineralization in soils, decrease fertilizer-use efficiencies, and increase evapo-transpiration. Indirectly, there may be considerable effects on land use due to snow melt, availability of irrigation, frequency and intensity of inter- and intra- seasonal droughts and floods, soil-organic matter transformations, soil erosion, changes in pest profiles, decline in arable areas due to submergence of coastal lands, and availability of energy. Equally important determinants of food supply are socio- economic environment including government policies, capital availability, prices and returns, infrastructure, land reforms, and inter- and intra-national trade that might be affected by climatic change.
+
+AGRICULTURE AND ENVIRONMENT
+
+Reduction in yields in the rainfed areas due to changes in rainfall pattern during monsoon season and increased crop-water demand.
+
+Cold waves and frost events could decrease in future due to global warming and this would lead to a decreased probability of yield loss associated with frost damage in northern India in crops such as mustard and vegetables.
+
+Quality of fruits, vegetables, tea, coffee, aromatic, and medicinal plants to be affected.
+
+Pest and diseases of crops to be altered because of more enhanced pathogen and vector development, rapid pathogen transmission and increased host susceptibility.
+
+Agricultural biodiversity is also threatened by decreased rainfall and increased temperature, sea-level rise, and increased frequency and severity of drought, cyclones and floods.
+
+Demand for irrigation to increase with increased temperature and higher amount of evapo-transpiration. This may also result in lowering of groundwater table at some places.
+
+The melting of glaciers in the Himalayas will increase water availability in the Ganges, Brahmaputra and their tributaries in the short-run but in the long-run the availability of water will decrease considerably.
+
+A significant increase in runoff is projected in the wet season that, however, may not be very beneficial unless storage infrastructure could be vastly expanded. This extra water in the wet season, on the other hand, may lead to increase in frequency and duration of floods
+
+The water balance in different parts of India will be disturbed and the quality of groundwater along the coastal track will be more affected due to intrusion of sea waters.
+
+Organic matter content, which is already quite low in Indian soil, would become still lower. Quality of soil organic matter may be affected.
+
+The residues of crops under elevated CO, concentration will have higher C:N ratio, and this may reduce their rate of decomposition and nutrient supply.
+
+Increase of soil temperature will increase N mineralization but its availability may decrease due to increased gaseous losses through processes such as volatilization and denitrification.
+
+Change in rainfall volume and frequency, and wind may alter the severity, frequency and extent of soil erosion.
+
+Rise in sea level may lead to salt-water ingression in the coastal lands turning them less suitable for conventional agriculture.
+
+Climate change will affect feed production and nutrition of livestock. Increased temperature would increase lignification of plant tissues reducing the digestibility. Increased water scarcity would also decrease food and fodder production.
+
+Major impacts on vector-borne diseases through expansion of vector populations into cooler areas. Changes in rainfall pattern may also influence expansion of vectors during wetter years, leading to large outbreaks of diseases.
+
+Global warming would increase water, shelter, and energy requirement of livestock for meeting projected milk demands.
+
+Climate change is likely to aggravate heat stress in dairy animals, adversely affecting their reproductive performance.
+
+Increasing sea and river water temperature is likely to affect fish breeding, migration, and harvests.
+
+Impacts of increased temperature and tropical cyclonic activity would affect capture, production and marketing costs of the marine fish.
+
+Coral bleaching is likely to increase due to higher sea surface temperature.
+
+Assessing the impact of global climatic changes on crop production is not an easy exercise because it is difficult and expensive to construct such futuristic climates in open fields. The effects are assessed generally by multilocation experiments varying in temperature and rainfall. Historical data analyses by various statistical tools and analogue approach have also traditionally been used to assess the impact of climatic variability. Phytotron facilities where climatic conditions are controlled are suitable for such studies. In recent years, innovative approaches for conducting long-term experiments have been developed to investigate the impact of rising atmospheric CO, on crops. Free Air Carbon dioxide Enrichment (FACE) and Free Air Temperature Enrichment (FATE) technologies have now become available that can mimic CO, and temperature increases in the fields. These are, however, expensive technologies and can be used only on limited scale. The interaction effects of CO,, rainfall and temperature can also be best studied through the use of crop growth simulation models. These dynamic models help in assessing impact of weather on crop growth and yields through their effects on different plant processes. Several crop models, viz. DSSAT series, ORYZA, and WTGROWS, have been the basis of a large number of studies. The InfoCrop is one such model developed at the Indian Agricultural Research Institute (IARI), New Delhi. It is sensitive to variety, agronomic management, soil, environment, and pests. It is hoped that besides estimating the impact of climatic variability and climate change, the InfoCrop can be used to accelerate application of available knowledge at the field, farm and regional levels for increasing efficiency and efficacy of agricultural research and development.
+
+Emission of greenhouse gases
+
+Carbon dioxide
+
+The main sources of carbon dioxide are decay of organic matter, forest fires, volcanoes, burning of fossil fuels, deforestation and land-use change and plants, oceans and atmospheric reactions are the major sinks. Agriculture is not considered to be a major source of carbon dioxide, the most important GHG. Though agricultural soil is a small contributor, factors such as soil texture, temperature, moisture, pH, available C and N, influence CO, emission from soil. The rate of CO, evolution is greater from clay-loam soil, which has a higher organic C content than sandy soil. More CO, emission occurs from a tilled than from an undisturbed soil (no till). Temperature has a marked effect on CO, evolution from soil by influencing root and soil respiration and on CH, by effecting anaerobic carbon mineralization and methanogenic activity.
+
+Methane
+
+Methane is about 25 times more effective than CO, as a heat-trapping gas. Wetlands, organic decay, termites, natural gas and oil extraction, biomass burning, rice cultivation, cattle and refuse landfills are the main sources and removal in the Stratosphere and soil are the main sinks. Primary sources of methane from agriculture include animal digestive processes, rice cultivation and manure storage and handling.
+
+In ruminant animals methane is produced as a by-product of the digestion of feed in the rumen under anaerobic conditions. Methane emission is related to the proportion
+
+AGRICULTURE AND ENVIRONMENT
+
+of the diet (grass, legume, grain and concentrates) and the characteristic of the different feeds (e.g. soluble residue, hemicellulose and cellulose contents). Mitigation of methane emitted from livestock is most effectively approached by strategies that reduce feed input per unit of product output. Nutritional, genetic and management strategies to improve feed efficiency increase rate of product (milk, meat) output per animal. Because most CH, is produced in the rumen by fermentation, practices that speed the passage of feed from the rumen can also reduce methane formation.
+
+Methane is formed in soil through metabolic activities of a small but highly specific bacterial group called methanogens. Their activity increases in submerged, anaerobic conditions developed in wetland rice fields, which limit the transport of oxygen into the soil, and the microbial activities render water-saturated soil practically devoid of oxygen. The upland, aerobic soil does not produce methane. Water management, therefore, plays a major role in methane emission. Altering water management practices, particularly mid-season aeration by short-term drainage as well as alternate wetting and drying can greatly reduce methane emission in rice cultivation. Improving organic matter management by promoting aerobic degradation through composting or incorporating into soil during off-season drain-period is another promising technique.
+
+Nitrous oxide
+
+As a GHG nitrous oxide is 298 times more effective than CO,. Forests, grasslands, oceans, soils, nitrogenous fertilizers, burning of biomass and fossil fuels are the sources of nitrous oxide while it is removed by oxidation in the Stratosphere. Soil contributes about 65% of the total nitrous-oxide emission. The major sources are soil cultivation, fertilizer and manure application, and burning organic material and fossil fuels. From an agricultural perspective, nitrous-oxide emission from soil represents a loss of soil nitrogen, reducing the nitrogen-use efficiency. Appropriate crop- management practices, which lead to increased N-use efficiency, hold the key to reduce nitrous oxide emission. Site-specific nutrient management, fertilizer placement and proper type of fertilizer supply nutrients in accordance with plant demand, reduce nitrous-oxide emission.
+
+Emission of GHG from Indian agriculture
+
+India is a Party to the United Nations Framework Convention on Climate Change (UNFCCC), which aims to stabilize GHG concentrations in the atmosphere at levels that would prevent dangerous anthropogenic interference with the climate system. As per India’s Initial National Communication (2004) to the UNFCCC, the emission from the anthropogenic activities in India amounted to 817 Tg of CO,, 18.1 Gg of CH,, and 0.18 Tg of N,O for the base year 1994. The per caput CO, emission was 0.87 t CO,, which was only 4% of the US and 23% of the global average per caput co, emissions.
+
+Agriculture sector in India contributes to 28% of the total GHG emissions (Fig. 3.1a). According to the Inter-Governmental Panel on Climate Change (IPCC), the global average emission from agriculture is only 13.5%. The emissions from agriculture are primarily due to methane emission from rice fields (23%), enteric fermentation in ruminant animals (%(%), and nitrous oxides from application of manures and fertilizers to agricultural soils (Figure 3.1b). Rice is generally grown in waterlogged conditions,
+
+Rr
+
+which create an anoxic environment and is conducive for methane production by the anaerobic methanogenic bacteria. Methane is also produced as a result of microbial activity in anaerobic conditions in the rumen of cattle, buffalo, and other livestock for the degradation of cellulosic feeds and roughages eaten up by the animals. Anaerobic decomposition of dung also contributes to methane emission. Agricultural soils, particularly those fertilized with inorganic or organic N, are major sources of nitrous oxide. Nitrification and denitrification are the processes that contribute towards nitrous oxide emission from soil.
+
+Water pollution
+
+; About 3 million ha land in the country is covered under ponds, reservoirs, brackishwater, lagoons, rivers and canals. India’s water wealth is about equal to that
+
+AGRICULTURE AND ENVIRONMENT
+
+of USA although its area is only 40%. However, water shortages are more widespread and acute due to spatial and temporal variations and competing demands among different sectors. The Central Pollution Control Board (CPCB) has classified freshwater resources into five classes based on water use and quality criteria (Table 3.3).
+
+In some parts of our country, freshwater resources are getting polluted due to discharge in them of effluents from industry and urban sewage as well as leaching and runoff of chemicals used in agriculture (Table 3.4). Such polluted water when used for irrigation can be harmful to crops. There are two main sources of water pollutants: point and nonpoint. Point sources are readily identifiable at a single location. These are specific discharges from municipalities or industrial complexes, e.g. organics or metals entering surface-water due to wastewater discharge from the manufacturing plant. In the surface water-body, nonpoint pollution can contribute significantly to the total pollutant loading, particularly with regard to nutrients and pesticides. Nonpoint Sources are also referred to as area or diffuse sources. These are substances introduced into surface water as a result of urban, industrial area or rural run-offs, e.g. sediments
+
+Water pollutants
+
+Source
+
+and pesticides or nitrates, due to surface runoff from agricultural farms. Increasing application of fertilizers and pesticides in agriculture can often result in their leaching or run-off to water-bodies. This is largely in areas where fertilizer application is high, irrigations are frequent, soil texture is sandy, and water-table is shallow.
+
+The in-plant treatment of industrial wastewater is costly. Therefore, this wastewater is often disposed-off directly into surface water, causing pollution of water-bodies. Agricultural utilization of wastewaters offers a low cost alternative (Table 3.5). In doing so, the manurial and irrigational potential of various types of wastewaters, which invariably have a considerable economic value in the context of present energy and
+
+AGRICULTURE AND ENVIRONMENT
+
+nutrient crisis and need for water conservation, required to be primarily considered. It is equally important that potential toxicants present in the wastewater are identified, as this water is rich in salts and heavy metals. Repeated application of thi ter i i r he water at agricultural SOUS may cause eavy meta toxicity and build-up of salinity. Irrigation with untreated wastewater may cause intestinal infections in crop consumers, and field : . workers particularly with hookworms. A wastewater agro-cycling package should, therefore, be designed with inherent safety mechanisms so that the food and fodder are safe for consumers and also for maintaining the sustainability of agro- ecosystems. To ensure this, it is imperative that wastewater should not be allowed to discharge on land outside the framework
+
+Source: Central Pollution Control Board, Ministry of Environment and Forests.
+
+discharge on land outside the framework of widely tested agronomic package supported by well-devised monitoring protocol. A suitable effluent irrigation system would identify the useful resources in effluents (such as water, plant nutrients and organic matter), and not make the quality of land and surface and groundwater deteriorate through soil-structure degradation, salinization, waterlogging, or chemical contamination. Monitoring the water quality standards to the limits would ensure environmental balance in that area (Table 3.6).
+
+Pre-treatment of wastewater is needed to ensure these criteria. The major considerations of treatment are to reduce odour, protect public health, and allow for proper: operation of the irrigation equipment. These can be achieved through aeration, screening or. settling of debris to prevent clogging and wear of the irrigation equipment, and disinfection. Such an environment-friendly effluent-irrigation system generates less sludge, is cost-effective, and ensures utilization of nutritive value. Allocating enough suitable land may, however, limit utilization of treated wastewater for some areas. Farmers’ cooperatives can be formed to run such programmes.
+
+Soil pollution
+
+The quality, i.e. fitness for use, resilience to change and ability to recover, of Indian soils is getting gradually eroded at farm and ecosystem levels. The major threats to soil quality, which involves physical, chemical and biological properties, emerge from loss of organic carbon, erosion, nutrient imbalance, compaction, salinization, water- logging, decline in biodiversity, urbanization, contamination with heavy metals and pesticides and adverse impacts of climate change. Deteriorated soil quality is affecting Indian agriculture adversely through yield loss, low input-use efficiency, poor crop quality, reduced farmers’ income and profitability, environmental pollution, and climate change (Fig. 3.2). In the major rice-wheat regions of north-western India, soil-organic C content has decreased from 0.5% in 1960s to 0.2% at present. Diagnostic surveys conducted by the regional universities and international agencies indicated that in recent years higher amounts of fertilizers need to be applied to get the same yield as in 1970s and early 1980s. Nearly one-third of rice-wheat farmers apply as much as 180 kg fertilizer N/ha to each rice and wheat crop against the local recommendation of 120 kg N/ha. While farmers sometimes apply excess of N, application of P, K, S and micronutrients is limited resulting in a negative nutrient balance in the soil and widespread deficiencies, particularly of micronutrients.
+
+Of particular importance to Indian agriculture is the problem of waterlogging, typically associated with canal irrigation. Waterlogging occurs when the water-table rises to crop’s root zone impeding their ability to absorb oxygen and ultimately compromising yields (except rice crop). About 3.1 Mha of India’s agricultural land is
+
+AGRICULTURE AND ENVIRONMENT
+
+waterlogged because of inadequate drainage, improper balance in the groundwater and surface water use, and seepage and percolation from unlined channels. The problem of waterlogging is most serious in Haryana, Punjab, West Bengal, Andhra Pradesh, and Maharashtra.
+
+Stresses due to salinity and alkalinity impair soil’s essential ecosystem functions, resilience and ultimately soil quality. In saline soils, plant growth is affected because of accumulation of salts in excess amount causing osmotic stress, toxic affect to some plants and nutritional imbalance to some. Salinity occurs when the water table rises to a meter or so below the soil and water flows to the surface, evaporates and leaves the salt deposits. When poor quality groundwater is pumped up, salt is left on the soil as it evaporates. About 4.1 Mha of India’s land is affected by salinity. It is a serious problem in Uttar Pradesh and Gujarat. The problem of alkali soils, on the other hand, is because of excess of exchangeable sodium percentage (ESP). Alkalinity with high PH, excess exchangeable Na and high calcium carbonate adversely affects physical properties of the soils, prevent mineralization of organic matter and causes volatilization loss of applied fertilizer N as NH,.
+
+Fertilizer pollution
+
+Fertilizer-use efficiency in Indian agriculture is quite low even with good management practices. Efficiency of N fertilizer use seldom exceeds 40%. In case of P and micronutrients, the efficiency is only 20% and 2%, respectively and for K, the efficiency is about 50%. The loss of nutrients, particularly N, from the agricultural systems into the environment has several adverse effects, including eutrophication of surface water, pollution of groundwater due to nitrate leaching, global warming due to nitrous oxide emissions, decreased plant species diversity in natural terrestrial
+
+ecosystems, and increased local air pollution by ozone, for which NOx is a precursor (Table 3.7). The processes of soil N dynamics and annual (2000-01) budget (Mt) of N in Indian and World (in parentheses) agriculture is shown in Figure 3.3.
+
+Many fertilizers, phosphatic fertilizers, in particular, contain varying amounts of trace elements such as arsenic, cadmium, chromium, mercury, nickel and lead. These potentially harmful elements may accumulate in soil and cause long-term effects on the crops’ yields and quality, and damage soil microflora. Through food and feed, they may also get into human and livestock and cause health problems, if the accumulation exceeds the threshold levels. The infamous incidences of “itai-itai” and “minamata” diseases due to cadmium and mercury toxicity, respectively, are the examples of potential threat of heavy metal pollution.
+
+Persistent organic pollutants (POPs)
+
+These are organic compounds resistant to degradation through chemical and biological processes in the environment, and are capable of long-range transport, and bioaccumulate in human and animal tissue, biomagnify in food chains, and have potential to impact human health and the environment. The United Nations Environment Programme (UNEP) in 1995 identified twelve compounds, known as the ‘dirty dozen’, which included eight organo-chlorine pesticides (aldrin, chlordane, DDT, dieldrin, endrin, heptachlor, mirex and toxaphene), two industrial chemicals [hexachlorobenzene (HCB) and the polychlorinated biphenyl! (PCB) group], and two groups of industrial by-products (dioxins and furans). The POPs, also classed as PBTs (Persistent, Bioaccumulative and Toxic) ar TOMPs (Toxic Organic Micro Pollutants), are characterized by low water solubility, high lipid solubility, semi-volatility and high molecular mass.
+
+Nearly 60,000 tonnes of pesticides are entering the Indian environment each year, of which one-third is used in pubic-health programmes and two-thirds in agriculture. The BHC, DDT and Malathion account for the bulk. Part of the applied pesticides, irrespective of crop, applicator or the formulation, ultimately finds its way into the
+
+AGRICULTURE AND ENVIRONMENT
+
+soil, water and food chain. Many of the pesticides persist in soil for a very long time (Table 3.8). Residues of some of the highly persistence pesticides (DDT, HCH, Aldrin) have been found in various food, fodder and feed items (rice, milk, egg, meat, fish, vegetables, rice soils, poultry feed, livestock feed). Long-term effects of pesticides residues in the human body include carcinogenecity, reduced life-span and fertility, increased cholesterol, high infant mortality and varied metabolic and genetic disorders.
+
+Air pollution
+
+Air pollution refers to the presence of various contaminants such as gases, dust, fumes, mist, soot, tar, vapours and suspended particulate matter in the air to the level which affects normal biological processes of humans, animals, plants and other microorganisms or interfere with comfortable enjoyment of life and property. The major air pollutants of concern in respect to agriculture are sulphur dioxide (SO,), nitrogen oxides (NOx), hydrogen fluoride (HF), peroxy acetyl nitrate (PAN), ozone (O,), hydrocarbon (HC), ethylene (C,H,), ammonia (NH,) and suspended particulate matter (SPM).
+
+Growth, productivity and quality of vegetables and other crops including fodders grown near the cities and towns are likely to be affected more by the direct effect of dust particles and gaseous pollutants. These gaseous pollutants and heavy metals enter plants mainly through stomata and roots which disrupt photosynthetic, respiratory and other biochemical and structural systems of plants and finally affect the quantity and quality of crops with or without showing physiological disorders. Compared to other cereals and foodgrain crops, vegetables are more prone to gaseous and metallic pollutions as most of the vegetables are succulents and physiologically more active. Another form of SO, injuries appear on the plants resulting from its conversion into acid rain and vegetables are more affected with it than other crop plants. Amongst the vegetables, the leafy ones such as spinach, fenugreek, mustard, cauliflower and tomato are more affected as compared to hardy vegetables, viz. brinjal and beans.
+
+Mechanical threshing of crops, especially wheat, leads to increased particulate matter in air which can cause respiratory diseases and allergy in rural areas. Burning of crop residues, such as rice-straw in north-western India, also results in widespread air pollution. Asian brown cloud or haze is a consequence of such a pollution. About 60% and 82% of rice straw produced in the north-western states of Haryana and Punjab, respectively, are burned in the fields leading to release of soot particles and smoke causing human health problems such as asthma, emission of greenhouse gases and loss of plant nutrients such as N, P, K and S. Almost entire amounts of C and N, 25% of P, 50% of S and 20% of K present in straw are lost due to burning. Therefore,
+
+burning of crop residues should be avoided and alternate measures of disposal of residues should be found out.
+
+The air pollutant induced toxicity/injury symptoms could be seen on plant foliage. But it is very difficult to distinguish them from the other causes such as nutrient deficiency, pathological diseases, or abiotic stresses, unless the apparent symptoms are studied in the well-planned experiment. However, there are some common physiological disorders, which may be caused by air pollutants (Table 3.9).
+
+Ozone pollution
+
+Ozone, produced as a result of photochemical reactions of carbon monoxide (CO), methane and other hydrocarbons in the presence of NOx in the Troposphere, is a significant air-borne pollutant. It is deposited on the plant canopies, enters the leaf through stomata and decreases net photosynthesis via oxidative damage to cell membranes, especially to chloroplasts and consequently reduces dry matter production. Noticeable effects of ozone pollution to the leaves of crops include changes in shape, discolouration and necrosis, Studies in India and elsewhere have reported significant yield losses in several crops due to ozone pollution. Reduction in nutrient content of vegetable crops (iron content in spinach and beta-carotene content in carrot) is also observed. Ozone has a significant climate change impact by adversely affecting plants’ ability to remove CO, from the atmosphere by reducing CO, uptake leading to more
+
+AGRICULTURE AND ENVIRONMENT
+
+accumulation of CO, in the atmosphere. In the Troposphere it acts as a GHG, trapping radiation within the atmosphere and leading to rising global temperatures. The different spatial distributions of NOx and volatile organic compounds often result in the larger ozone concentration downwind of urban areas rather than in urban areas.
+
+Loss of biodiversity
+
+alpine vegetation, wetlands and mangroves. However, over-exploitation, habitat destruction, pollution and species extinction are major causes of biodiversity loss in India. Continuous use of fertilizers and pesticides, mechanization, monoculture, adoption of limited number of high-yielding crop varieties and hybrids, limited crop and farm-animal diversification in the last few decades have gradually led to the genetic and species erosion in some agricultural lands. Traditional varieties of a wide range of crops with specifically adapted gene complexes to local environments such as rice, small millets and pseudo-cereals disappeared from several agro-ecosystems. Loss of breeds and genetic diversity within breeds have become a threat to livestock diversity. Increasing use of tractors in agriculture and transportation has resulted in losses of cattle diversity and population in our country. The aquatic biodiversity faces threats from wide ranging causes including over-exploitation, habitat alterations, construction and reduced flow of water in rivers. Genetic erosion in soil microbial community structure is mainly due to changes in the soil physiochemical properties, changing plant diversity and application of industrial effluents and pesticides. Agricultural biodiversity is also at risk from climate change, particularly where it is accompanied by decreased annual rainfall and increased temperature, sea-level rise, and increased frequency and severity of disturbances such as fire, drought, cyclones and floods, thus requiring mitigation of increasing carbon and further adaptation of species to climate change. Besides, some indigenous pests that were earlier not causing much damage are emerging as serious pests.
+
+In-situ conservation of agricultural biodiversity, therefore, should be made an integral part of agricultural development and be supplemented by ex-situ conservation. Gene sources from traditional varieties and breeds are to be tapped using techniques like allele mining and development of genomic resources for specific traits of interest, for high temperature, photo-insensitivity, low respiration and higher photosynthetic rate, drought, flood, salinity and pests.
+
+Environmental risk from genetically modified organisms
+
+Several genetically modified crops have been allowed for commercial cultivation in the United States and other countries. Herbicide tolerance (HT) and insect resistance (Bt) have been successfully engineered into corn, cotton, soybeans, and canola. In India, so far, only Bt cotton is approved for this purpose. There are reports that introduction of environmental impact of genetically modified organisms (GMOs) has led to the death of non-target organisms, evolution of resistant virus strains, delayed developments of beneficial predatory insects when fed on corn borers, which had eaten Bt corn, gene transfer to wild plants, and possible alterations of soil ecosystem. These potential risks of the GMOs need to be addressed for harnessing potential benefits of genetically engineered technology.
+
+The environmental risk due to releasing of GMOs could be due to: (i) risk invasiveness; (ii) direct and indirect non-target effects on beneficial and native organisms; (iii) occurrence of new viral diseases; and (iv) loss of crop diversity. The GMOs can also have several positive direct and indirect environmental impacts on agriculture. The environmental benefits associated with reduced pesticide use, soil conservation, increase in yield, and phyto-remediation are noteworthy in this regard. The herbicide-tolerant crops may lead to environmental benefits by facilitating a shift to soil conservation tillage practices because these crops may allow farmers to shift to post-emergent control of weeds instead of pre-emergent control. Biotic stresses generally cause significant loss in crop productivity. Cultivation of pest resistant GMOs can significantly reduce this loss and thus, possibly assist in conserving land, water and other precious resources. Transgenic plants can also increase removal of toxic heavy metals from polluted soil and water and sequester these into plant tissue, or can transform pollutants into less toxic forms.
+
+ENVIRONMENTAL IMPACT ASSESSMENT
+
+Environmental impact assessment (EIA) is a tool to evaluate potential impact of any given activity, agriculture for example, on the environment to plan appropriate measures to reduce adverse effects and augment positive effects. The EIA thus is a predictive exercise aimed at foreseeing the environmental and related socio-economic impacts of proposed development in advance of irrevocable decisions being taken on proposals. To make predictions on environmental issues, the contents of EIA depends on the size of the project as well as the sensitivity of the area. The main steps in carrying out EIA are: (i) Screening: taking a decision whether full EIA is required or not and the output from the screening process is documented in the form of initial environmental evaluation (IEE), (ii) Scoping: defining most critical issues to study and will involve community participation, (iii) Prediction and mitigation: formulating the Environment Impact Statement (EIS), (iv) Management and monitoring: managing and monitoring environmental impact both during and after implementation, and (v) Audit: analysing the technical, procedural and decision-making aspects of the EIA, and is carried out some time after implementation.
+
+The EIA is generally required in the projects with large potential impacts such as power generation, large scale use of groundwater, irrigation projects, large scale agriculture and forestry projects, and waste treatment plants. Limited EIA is needed in projects with moderate potential impacts such as small and medium sized agricultural projects and food industries. The projects with low or insignificant potential impacts such as modernization of machinery within the industrial sector, repairs and maintenance of buildings and industrial structures, however, do not need any EIA.
+
+To assess the environmental impact of agriculture on the scale of a farming region, six methods are used depending on the objectives: (i) environmental risk mapping, (ii) life cycle analysis, (iii) environmental impact assessment, (iv) multi-agent system, (v) linear programming and (vi) agro-environmental indicators. Each method relies on indicators which take into account of local impacts (i.e. noise), regional impacts (i.e. eutrophication), or global impacts (i.e. greenhouse effect). Indicators based on the environmental effects of farming practices should express an impact in terms of per kg of product and per unit of land area as production and the occupation in the
+
+AGRICULTURE AND ENVIRONMENT
+
+rural area are the essential functions of agriculture. An analysis of uncertainty shall also be carried out with the results. Along with these tools the environmental legislation and appropriate economic instruments must be known to ensure sustainable development and protection of natural resources.
+
+Indices for environmental monitoring
+
+* Air quality index (AQI): A number, ranging from 0 to 500, used to characterize the quality of the air at a given location. It is proportional to pollutant concentration and as the AQI increases, an increasingly large percentage of the population is likely to experience increasingly severe adverse health effects.
+
+Biocide residue index (BRI): This is calculated based on consumption of biocide, its toxicity index and half-life in soil to assess the potential environmental impact of biocide use in agriculture. In terms of environmental safety BRI <100 is desirable, <200 is permissible and >200 is unsafe.
+
+BRI = (Chemical use in g/ha x Toxicity index x Persistence index)/100
+
+Ecological footprint: A measure of humanity’s demand on nature, i.e. how much of the Earth’s resources (land and water) a human population requires to produce the resource it consumes and to absorb its wastes, using prevailing technology. This is used to assess our pressure on the planet, which helps us manage our ecological assets more wisely.
+
+Environmental sustainability index (ESI): A composite index tracking different elements of environmental sustainability covering natural resource endowments, past and present pollution levels, environmental management efforts, contributions to protection of the global commons, and a society’s capacity to improve its environmental performance over time.
+
+Environmental performance index (EPI): A method of quantifying and numerically benchmarking the environmental performance of a country’s policies. This index was developed from the Pilot Environmental Performance Index, first published in 2002, and designed to supplement the environmental targets set forth in the U.N. Millennium Development Goals.
+
+© Environmental vulnerability index (EVI): A measure to characterize the relative severity of various types of environmental problems suffered by individual nations. The results of the EVI are used to focus on planned solutions to negative pressures on the environment, whilst promoting sustainability.
+
+© Global warming potential (GWP): An index defined as the cumulative radiative forcing between the present and some chosen later time ‘horizon’ caused by a unit mass of gas emitted now. The GWP of different GHGs is measured relative to CO,; it is 25 for CH, and 298 for N,O based on a 100-year time horizon.
+
+* P index: An environmental risk assessment tool for assessing the potential of phosphorus movement from agricultural lands. It is usually based on an estimation of potential of soil erosion, the phosphorus soil test level, and phosphorus management practices such as rate, source and method of application.
+
+T value (Soil loss tolerance): The maximum average annual soil loss that will allow continuous cropping and maintain soil productivity without requiring additional management inputs.
+
+Soil quality indicator (SQI): A combination of biological, chemical and physical
+
+properties of soil that denote its quality, i.e. fitness to sustain productivity and its resilience to recover.
+
+* Soil sustainability index (SSI): An indicator of soil functional ability and degradation-related hazards with a time perspective.
+
+* Soil threat index (STI): Acomposite indicator of degradation-related soil response properties and external factors (climate, land use) expressing the level of risk on which the soil is exposed to the main degradation threats.
+
+Sustainable yield index (SYI): SY = (Y,- 6)/Y,,, where Y, is mean yield, o is the standard deviation and Y, is maximum yield obtained under a set of management practices. Higher SYI indicates a more sustainable system.
+
+Water quality index (WOQI): Aunit-less number derived by combining nine water quality parameters (pH, BOD, dissolved oxygen, fecal coliform, nitrate, posphate, total dissolved solid, temperature change and turbidity) and results aggregated over time to produce a single score ranging from | to 100. A higher WQI is indicative of better water quality.
+
+ENVIRONMENTAL RESTORATION
+
+Carbon sequestration
+
+Organic carbon content of the soil is the single most important parameter affecting soil quality. Therefore, carbon sequestration has high potential in improving soil quality. Besides, it reduces greenhouse gas emission, environmental pollution, and enhancing biodiversity resulting in increased productivity. Carbon can be sequestered in soils by increasing C inputs and/or decreasing their decomposition. Soil management strategies for carbon sequestration include three approaches. Firstly, management of soils to maintain existing levels of soil organic matter such as reduced tillage and no tillage practices. Second approach is to manage carbon-degraded soils to restore depleted soil organic matter levels. Wastelands in India are over 100 m ha of which 70% are carbon-degraded. These carbon-depleted soils have relatively high potential for accumulating organic carbon in vegetation and soil if suitable trees are grown along with the proper soil conservation rheasures. Since wastelands like salt-affected soils represent a great potential for sequestering carbon, it is desirable to promote agro- forestry in these soils. The third approach is to manage soils to enlarge soil organic matter pools by improving soil fertility. Soil processes could be managed so that litter production exceeds decomposition. Another approach could be to increase passive or inert fraction of soil organic pool. This implies taking soil organic carbon out of humification-mineralization cycle. This can be achieved through increase of sub-soil organic carbon and micro-aggregation. Subsoil organic carbon can be increased by growing deep-rooted plants, deep ploughing while micro-aggregation can be increased by using soil conditioners, long-chain polymers and earthworms.
+
+Improved management techniques have shown that scientific agriculture can be a solution to these environmental issues in general and specifically to mitigating the greenhouse effect by increasing soil carbon storage and effectively removing CO, from the atmosphere. Many long-term experiments have demonstrated that judicious applications of fertilizer with appropriate crop rotation and conservation tillage produce optimum biomass yield and lead to C sequestration in agricultural soils. Increase in
+
+AGRICULTURE AND ENVIRONMENT
+
+SOC by | Mg/ha can result in increase in grain yield by 30-50 kg/ha of rice, wheat, millets and beans and 100-140 kg/ha of maize and sorghum with adoption of appropriate soil and crop management practices. In India, restoration of degraded soils and adoption of soil and crop management practices have good potential for soil carbon sequestration. Total potential of SOC sequestration in India is 92.2+20.2 Tg/yr of which 13% is through restoration of degraded soil, 45% through erosion prevention and management, 16% through agricultural intensification and 26% through secondary carbonates. Potential of carbon sequestration in degraded soils of India, if restoration is undertaken is 9.8-13.9 Tg/yr (Table 3.10).
+
+Source: Lal, R (2004). Science 304: 1623-27.
+
+Recently there is also business opportunity to a growing global market in which industrial polluters in developed countries that cross administered emission limits of GHGs fund clean technology projects in developing countries. In this emerging ‘carbon market’ or ‘carbon trading system’ the emission reduction in the form of carbon sequestration will translate into currency called ‘carbon credit’. The Kyoto Agreement advocates the setting up of a trading system in carbon emission in which every unit of carbon sequestered could be sold as carbon credit under clean development mechanism (CDM) which industrial producers should pay for and farmers should receive a carbon credit from the trading system.
+
+Conservation agriculture
+
+Conservation agriculture that features little or no soil disturbance, no burning of crop residues, direct seeding into previously untilled soil, crop rotations, and permanent soil cover particularly through the retention of crop residues, has made considerable progress in the USA, Latin America, Australia, China, and South and Central Asia. In India, resource conserving technologies (RCTs) involving zero- or minimum tillage with direct seeding, and bed planting with residue mulch are being advocated as the alternatives to the conventional rice-wheat systems and for improving sustainability. The RCTs are more resource efficient: reduced nutrient loss, increased soil organic C content, used less inputs, improved production and income, and reduced GHG emission compared to the conventional practices (Table 3.11).
+
+Crop diversification
+
+Diversification, i.e. growing a range of crops suited to different sowing and
+
+harvesting times, assists in achieving sustainable productivity by allowing farmers to employ biological cycles to minimize inputs, maximize yields, conserve resource base, and reduce risk from both environmental and economic factors. To reverse or arrest the downward trend of sustainable productivity, a substantial change in the current cropping system is required, including reducing tillage and improving organic matter status. Fortunately, the farmers of the rice-wheat belt have taken the initiative to diversify their farming systems by including short-duration crops, for example, potato, soybean, mungbean, cowpea, pea, mustard, and maize in different combinations.
+
+Amelioration of polluted environment
+
+Environment (soil and water) polluted by substances hazardous to plant growth and human health can be rectified by bioremediation, i.e. using biological agents to reclaim soil and water. Microbes are generally useful for assisting in reclamation of sites with heavy metal problems. Unlike organic contaminants, which can be degraded to harmless chemicals, heavy metals cannot be destroyed. Their remediation can be envisioned as their immobilization in a non-bioavailable form or their re-speciation into less toxic forms. Several fungi are also good in the accumulation of heavy metals, cadmium, copper, mercury, lead, zinc and others. Rhizopus arrhizus is, for example, useful in treating uranium and thorium.
+
+Higher terrestrial plants can also be used for environmental restoration, the process called phyto-remediation. This generic process includes phyto-stabilization (use of plants to stabilize soil matrix and immobilize contaminant from future migration) and phyto-decontamination (the contaminants can be degraded or removed from the soil matrix through the process of rhizosphere degradation and phyto-accumulation/phyto- extraction respectively). Interest in phyto-remediation has grown significantly following the identification of metal hyper-accumulator (accumulation of the chemical in the living organisms beyond its normal level) plants, which generally use the extraction, stabilization, immobilization, volatilization or degradation as the mode
+
+AGRICULTURE AND ENVIRONMENT
+
+for remediation of contaminated sites. Most of these plants primarily belong to Brassicaceae, Asteraceae, Cunouniaceae, Cyperaceae, Caryphyllaceae and Fabaceae family. Phyto-remediation is, however, not popular because of slow growth of the plants, and also low bioavailability of metals. Plants remove or degrade only small amounts of contaminants in each growing season, so it can take several decades to adequately clean up a site. Additionally, there are limits to plant growth through temperature, soil type and water availability that may make a site unsuitable for phyto- remediation. Moreover, only lightly contaminated soils can be phyto-remediated because most plants will not grow on heavily contaminated sites.
+
+Certain biotechnological approaches such as ecological improvement of rhizosphere by rhizosphere technology and use of genetic engineering tools for improvement of plants for bioremediation are also useful for environmental restoration. The tools of genetic engineering are being employed for metal sequestering, transporting and modifying biomolecules for metal-sequestering proteins and peptides and for enzymes to enhance phyto-volatilization.
+
+The ability of fungi to transform a wide variety of hazardous chemicals has aroused interest in using them in bioremediation. The fungi are unique among microorganisms because they secrete a variety of extra-cellular enzymes that facilitate decomposition of some pollutants. Phanerochaete chrysosporium, P. sordida and Trametes hirsuta have been shown to degrade PCP (Pentachlorophenyl) and creosote in soil. Besides Phanerochaete chrysosporium has also been shown to degrade a number of toxic xenobiotics. Several fungal enzymes such as laccases, polyphenol oxidases and lignin peroxidases play an important role in the degradative process. The basidiomycetous fungus Pleurotus ostreatus is known to produce fungal laccase, which helps in the degradation of recalcitrant compounds such as atrazine and organophosphorus insecticides.
+
+Bacteria are also good degraders of toxic pesticides such as halocarbons. Polychlorinated biphenyls, tricholroethyelene, and some other aromatic hydrocarbons are degraded by the Pseudomonas putida. Methanogenic bacterial consortium degrades perchloroethane. Mono and dichlorobenzenes can be degraded aerobically by various Pseudomonas and Alcaligenes strains.
+
+Renewable sources of energy
+
+Renewable energy resources are the important means of supplementing conventional fossil fuels, which are invariably accompanied with environmental problems of local and global dimensions. Biofuel, including wood fuel, charcoal, biogas, ethanol, agricultural wastes, crop residues and energy crops have been considered as the sources, which could be used as the substitute to the conventional fuels.
+
+The liquid biofuel, usually in the form of alcohol, can be produced from the plant carbohydrates after enzymatic hydrolysis and fermentation. Unlike fossil fuels, ethanol is a renewable energy source produced through fermentation of sugar. As a fuel, it provides a number of environmental benefits due to clean burning and reduced gaseous emission into the atmosphere. The agricultural residues constitute a vast resource of biomass consisting of sugar, starch, cellulose, hemicellulose and lignin. The carbohydrates (polymer of glucose) on hydrolysis and saccharification would yield glucose (monomer) which on fermentation give ethanol as per the following reaction.
+
+(enzymes)
+
+Although fungi, bacteria and yeast can be used for fermentation, a specific yeast (Saccharomyces cerevisiae), also known as Bakers’ yeast, is commonly used to ferment glucose to ethanol. Theoretically, 100 g of glucose will produce 51.4 g of ethanol and 48.8 g of carbon dioxide. However, in practice, the microorganisms use some of the glucose for growth and the actual yield is less than 48 g ethanol per 100 g. Agricultural biomass has a considerable potential for ethanol production (Table 3.12).
+
+tEthanol potential = dry weight * carbohydrate fraction * conversion of polymers to monomers (1.1) * conversion factor for ethanol (92/180) / density of ethanol (0.785) / ethanol production efficiency (0.95 for all crops, except 0.85 for sugarcane, 0.80 for starchy cereals, and 0.70 for residues).
+
+Government of India has made 10% ethanol blending in petrol mandatory in the country and that would require 1000 M litres ethanol per annum. The biomass required for meeting such projected ethanol requirement of the country can be calculated using the ethanol potential per tonne of different sources of biomass.
+
+Biodiesel crops
+
+Biodiesel, a non-petroleum-based diesel fuel consisting of mono-alkyl esters of long-chain fatty acids derived from lipid sources such as vegetable oil or animal fat, is a clean and renewable fuel having a good promise as an alternative energy resource. It can be used alone or blended with conventional petro-diesel. Petroleum diesel is made up of hundreds of hydrocarbon chains (14-18 carbons in length) containing aromatic hydrocarbon (benzene, toluene, xylenes), sulphur and crude oil residue contaminants. Biodiesel hydrocarbon chains, however, are generally 16-20 carbons in length containing oxygen (about 10% oxygen by weight) at one end. It does not contain any sulphur, aromatic hydrocarbon, metal or crude, oil residue. These properties improve combustion efficiency and emission profile of biodiesel.and reduce emission of particulate material, hydrocarbon, carbon monoxide and sulphur oxide.
+
+The most common process for making biodiesel is trans-esterification, a process of
+
+AGRICULTURE AND ENVIRONMENT
+
+transforming one type of ester into another. This involves combining natural oil (vegetable or animal) with alcohol (ethanol or methanol) in presence of a catalyst (sodium methylate or sodium hydroxide) as shown below.
+
+Oil from crops such as rapeseed or mustard, sunflower, olive, soybean, canola, cotton seed, palm, coconut, peanut, and jojoba can be used for biodiesel production. Currently, soybean is the primary feedstock in the US for biodiesel production. Another feedstock for biodiesel is aquatic unicellular green algae with high growth rate and high oil content (over 50%). Under good conditions, these algae can double their biomass in less than 24 hours.
+
+Non-edible oil from Jatropha curcas (Ratanjyot) and Pongamia pinnata (Karanja) can also be used for biodiesel production. Jatropha, a plant of Latin American origin and now widespread throughout arid and semiarid tropical regions is a member of the Euphorbiaceae family. It is a drought-resistant, perennial shrub, can live up to 75 years. A close relative to castor plant, Jatropha is easy to establish, grows relatively quickly and is hardy. Being drought tolerant, it can be used to reclaim eroded lands, grown as a boundary fence or live hedge in the arid/semi-arid areas. The seeds contain about 30-35% of non-edible oil. However, commercial viability of Jatropha cultivation is yet to be established.
+
+Agricultural waste management
+
+Agriculture residues are generally considered as wastes. Some of these residues though are used for cattle feed, livestock bedding, thatching-material for houses, and as a source of domestic energy. The remaining residues are generally left unattended as such to decompose or sometimes even burnt. Such practices not only result in waste of the nutrients in the residues but also contribute to air pollution and global warming. This has become common with the availability of cheap, subsidized inorganic fertilisers and machinery that have facilitated intensive cropping, as well as availability of alternate sources of energy for domestic use. There are also considerable wastes produced during processing of agricultural produce for markets and for value-addition. Fruits, vegetables, sugar, paper and pulp industries leave lot of crop residues, which need to be disposed of. Since demand for processed food is increasing, in future more such wastes will be generated.
+
+Besides incorporation/retention on to soil or conversion into farmyard manure, these residues and wastes can be used for generating biogas. The latter is a clean, non- polluting, smoke and soot-free fuel, and the digested slurry obtained from the biogas plant, after drying is used as organic compost on to the agricultural land. Typically biogas evolved from cattle dung-based plant is composed of (by volume) 50-60% methane, 30-40% carbon dioxide, 5-01% hydrogen and 4-6% nitrogen. The
+
+anaerobically digested slurry produced from biogas plant contains 1.4—-1.8% N, 0.4-0.8% P, 0.7-1.0% K, 20-25% organic C, 1-3% Ca, 1-2% Mg and about 1% § with a C:N of 15-20. A 100 ft? (2.85 m’) of biogas (cowdung) plant has heat equivalent of 1.7 litre of diesel oil for running of bio-fuel based engines, or 1.06 kg of liquid petroleum gas (LPG) or 1.5 litres of kerosene oil. The production of biogas is sensitive to temperature, pH, dilution, reaction period, and nature of substrate. The optimum temperature for the methane-producing microorganisms is 30°-35°C. These microorganisms thrive best in neutral to slightly alkaline media and became inactive below pH 6.0. Gas production is high from materials rich in cellulose or hemi-cellulose, viz. sunhemp, dhaincha, groundnut shells and sugarcane bagasses.
+
+INITIATIVES FOR COMBATING GLOBAL ENVIRONMENTAL CHANGE
+
+Global environmental change has been perceived as a serious threat to the existence of mankind by the International communities. Several steps have been taken world over to limit the threat of a rapid change in global atmosphere and its associated consequences. In 1972, the United Nations Conference on the Human Environment (UNCHE) was held in Stockholm, Sweden. This was the first global conference to focus on negative human impacts on the environment, which led to the formation of United Nations Environment Programe (UNEP). Since then, a number of meetings have been held and these negotiations led to the formation of a number of international organizations and programmes, which have emerged as fora for consideration of environmental problems. A brief description of some of the important organizations is given below:
+
+* United Nations Environment Programme (UNEP), established in 1972 with a mission ‘to provide leadership and encourage partnership in caring for the environment by inspiring, informing and enabling nations and peoples to improve their quality of life without compromising that of the future generations’. Its activities cover a wide range of issues, from atmosphere and terrestrial ecosystems, the promotion of environmental science and information, to an early warning and emergency response capacity to deal with environmental disasters and emergencies. The UNEP is headquartered in Nairobi, Kenya, and has regional and outposted offices in Paris, Geneva, Osaka, The Hague, Washington, New York, Bangkok, Mexico City, Manama, Montreal and Bonn.
+
++ Inter-Governmental Panel on Climate Change (IPCC), headquartered in Washington, D.C., was established by the UNEP and WMO in November 1988 to assess scientific, technical and socio-economic, information relevant to the understanding of the risk of human induced climate change. The IPCC bases its assessment mainly on peer-reviewed and published scientific/technical literature. So far IPCC has published four assessment reports; the latest one was in 2007.
+
+World Meteorological Organization (WMO) is involved in activities from weather prediction to air pollution research, climate change related activities, ozone layer depletion studies and tropical storm forecasting. It coordinates global scientific activity to allow increasingly prompt and accurate weather information services for public, private and commercial use. The WMO’s activities contribute to the safety of life and property, the socio-economic development of nations and the protection of the environment. Within the United Nations, the Geneva-
+
+AGRICULTURE AND ENVIRONMENT
+
+based 185-Member Organization provides the authoritative scientific voice on the state and behaviour of the Earth’s atmosphere and climate.
+
+* United Nation Framework Convention on Climate Change (UNFCCC): The UNFCCC, formed by UNEP and WMO in 1990 is the first binding international legal instrument that deals directly with climate change.
+
+* The United Nations Conference on Environment and Development (UNCED): This Earth Summit, held in Rio de Janeiro on 3-14 June 1992, first laid the foundation of contemporary environmental policy. As a high-level forum with universal participation, the UNCED’s main aim was to show the way to a new global strategy for reconciling development needs with environmental protection. The key results of UNCED were the Rio Declaration, Agenda 21, Forest Principles, and two international conventions concerning climate change and biodiversity.
+
+* Global Environment Facility (GEF) was established to forge international co- operation and finance actions to address the critical threats to the global environment and to promote environmentally sound and sustainable economic development. It was created in agreement between the World Bank, UNEP and UNDP comprising 166 member Governments, leading developing institutions, scientific communities and non-Governmental organizations.
+
+Environmental legislation
+
+Legislation is needed to ensure environmental compliance. As per the Constitution of India it is the duty of the state ‘to protect and improve the environment and to safeguard the forests and wildlife of the country’. It imposes a duty on every citizen ‘to protect and improve the natural environment including forests, lakes, rivers, and wildlife’. Reference to the environment has also been made in the Directive Principles of State Policy as well as the Fundamental Rights. The Department of Environment was established in India in 1980 to ensure a healthy environment for the country. This became the Ministry of Environment and Forests in 1985. The constitutional provisions are backed by a number of Laws—Acts, Rules, and Notifications. The EPA (Environment Protection Act), 1986 came into force soon after the Bhopal Gas Tragedy, and is considered ‘umbrella legislation’ as it filled many gaps in the existing laws. Thereafter a large number of laws came into existence as the problems started arising. Following is a list of the important environmental legislations specific to agriculture.
+
++ The Water (Prevention and Control of Pollution) Act (1974) establishes an institutional structure for preventing and abating water pollution. It establishes standards for water quality and effluent. As per the Act, the polluting industries must seek permission to discharge waste into effluent bodies. The CPCB (Central Pollution Control Board) and the State Pollution Control Boards were constituted for implementing this act.
+
+* The Air (Prevention and Control of Pollution) Act (1981) provides guidelines for the control and abatement of air pollution. It entrusts the power of enforcing this act to the CPCB.
+
+* The Environment (Protection) Act (1986) authorizes the central government to protect and improve environmental quality, control and reduce pollution from
+
+all sources, and prohibit or restrict the setting and/or operation of any industrial facility on environmental grounds.
+
+The Air (Prevention and Control of Pollution) Amendment Act (1987) empowers the central and state pollution control boards to meet with grave emergencies of air pollution.
+
+Hazardous Waste (Management and Handling) Rules (1989) provide guidelines to control the generation, collection, treatment, import, storage, and handling of hazardous waste.
+
+The Municipal Solid Wastes (Management and Handling) Rules (2000) apply to every municipal authority responsible for the collection, segregation, storage, transportation, processing, and disposal of municipal solid wastes.
+
+The Ozone Depleting Substances (Regulation and Control) Rules (2000) have been laid down for the regulation of production and consumption of ozone depleting substances.
+
+The Biological Diversity Act (2002) is an act to provide for the conservation of biological diversity, sustainable use of its components, and fair and equitable sharing of the benefits arising out of the use of biological resources and knowledge associated with it.

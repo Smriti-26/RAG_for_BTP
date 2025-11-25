@@ -1,0 +1,871 @@
+SOURCE_DOCUMENT: Chapter 11.pdf
+
+11. Conservation Technologies for Sustaining Natural Resources
+
+India is blessed with vast natural resources of land, water, vegetation, human and livestock but their unplanned and unscientific exploitation has led to serious environmental and land degradation problems. India occupies 2.4% of land-mass and supports 16.7% of the world’s population (2001 Census).
+
+NATURAL RESOURCES
+
+India (Table 11.1), 141.89 million (M) ha is the net sown area which is almost static since 1970-71. However, the cropping intensity has steadily increased from 118.2% in 1970-71 to 136% in 2005-06. A total of 42.51 M ha is not available for cultivation, and 13 Mha constitutes cultivable wastelands. The country has wide range of soils, each type being particular to a specific locality; including alluvial soils (78 M ha), black soils (51.8 M ha), red soils (51 M ha), lateritic soils (12.6 M ha) and desert soils (37 M ha). Based upon the spatial variability of rainfall, the country has been divided into 35 meteorological sub- divisions. Of the 4,000 billion cubic metres (BCM) average annual precipitation in India, the utilizable surface and groundwater resources have been estimated at 690 BCM and 432 BCM, respectively, due to topographical, geologic, hydrologic and economic constraints. India has been divided into 20 river-basins comprising 12 major ones each having a catchment area exceeding 20,000 km? and eight composite river basins. About one-third of country’s
+
+(in million ha)
+
+(b) Barren and 17.48(5.7) uncultivable land
+
+Note: Provisional; “cropping intensity is percentage of the grossed cropped area to the net sown; figures in parentheses indicate percentage to reported area.
+
+Source: Agricultural Statistics at a Glance, 2008, Directorate of Economics and Statistics, Ministry of Agriculture, Government of India.
+
+M ha has been estimated as susceptible to flooding; of which 9 M ha gets affected every year.
+
+Owing to over-extraction of groundwater and its limited recharge, the groundwater table is declining at a faster rate. The depletion is particularly marked in most of the dryland regions, covering Andhra Pradesh, Karnataka, Rajasthan, Madhya Pradesh and Maharashtra. India’s irrigation potential has steadily increased from 22.6 M ha in 1951 to 91.8 M ha in 2001; out of revised ultimate potential of 140 M ha. However, most of the irrigation projects are operating at a very low irrigation efficiency of about 30-40%, thereby losing 60-70% irrigation potential during conveyance. It is estimated that even after achieving full irrigation potential, nearly 40% of the cultivated area will remain rainfed. Of the net canal irrigated area of 17 M ha, 3.4 M ha is estimated to be under varying degrees of watelogging and soil salinity.
+
+As per State of Forest Report 2005 (Forest Survey of India), total forest cover has been estimated at 67.71 M ha, which is 20.60% of the total geographical area. Per capita availabiliy of forest land in India is one of the lowest in the world (0.08 ha), against 0.5 ha for the developing countries and 0.64 ha for the world. Of the 16 forest types in the country, the tropical deciduous forms the major forest type with 38.2% of the total forest area. In India, forests meet nearly 40% of the energy needs of the country, of which more than 80% goes for energy needs of rural areas and about 30% of fodder needs of the cattle population. India is rich in biodiversity because of diverse physiographic and climatic conditions, and it is one of the 12 mega biodiversity centres of the world.
+
+The livestock population in India is one of the highest in the world, and has increased from 445 M in 1961 to about 500 M in 2000 ap. It is largely responsible for continuous degradation of forests, grasslands, village common lands and alpine pastures. The average grazing intensity is about 42 animals per ha of land against the threshold level of 5 animals/ha.
+
+LAND DEGRADATION
+
+Land degradation may be defined as the reduction or loss in arid, semi-arid and dry sub-humid areas of biological or economic productivity and complexity of rainfed croplands, irrigated croplands, range, forest, pasture and woodlands, resulting from land-uses or from a process or combination of processes including climatic variations and human activities and habitation patterns. The processes contributing to land degradation include soil erosion caused by wind and/or water; deterioration of physical, chemical and biological or economic properties of soil and long-term loss of natural vegetation.
+
+The extent of land degradation as estimated by various agencies has been found to vary from 53 M ha to 187.8 M ha. The variation in estimates is ascribed to different approaches in defining degraded lands, criteria for their delineation and scale of mapping. As per the latest assessment made by the National Bureau of Soil Survey and Land Use Planning (NBSS&LUP), Nagpur, after harmonizing the land degradation data generated by various organizations and adopting spatial data integration in GIS environment, about !20.72 M ha is estimated as affected by various land degradation problems (Table 11.2), Out of 305.9 M ha of reported area of the country, erosion by water is the chief contributor (27%), followed by chemical deterioration (8%). As per
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 325
+
+Note:
+
+# For acid soils, areas under paddy growing and plantation crops were also included in total acids soils.
+
+$ Sub-surface waterlogging was not considered.
+
+estimates of the National Remote Sensing Agency (NRSA), 80 M ha, out of 142 M ha under cultivation and 11 M ha of pasture lands are substantially degraded while 40 M ha out of 75 M ha of forest land has a canopy cover of less than 40%. Thus a total of 131 M ha (40% of country’s total landmass) has productivity well below its actual potential. According to Wastelands Atlas of India (2005), the total area under wastelands has been estimated as 55.26 M ha covering 597 districts, which is 17.45% of the total geographical area of the country.
+
+Forest Survey of India map (1999) was used to exclude degraded land under dense forest.
+
+Unculturable Wastelands
+
++ Barren rocky/stony waste: 6.46 M ha. This is the source for runoff water and building material.
+
+* Snow covered/Ice caps: 5.58 M ha. They are the best sources of water and cannot be treated as wastelands.
+
+Factors affecting land degradation
+
+Sustainability of natural resources is under serious threat due to indiscriminate cutting of trees, conversion of forest land into agriculture, shifting cultivation, exploitation of fragile and marginal lands, faulty management practices, reduction in
+
+frequency of fallowing and excessive use of chemicals. The problem is further compounded with over-exploitation of sweet groundwater aquifers, ingress of sea water in the coastal ecosystem, floods and droughts in different parts of the country (Table 11.3).
+
+Soil erosion
+
+Soil erosion by water and wind together accounts for 79% of the total area affected by various forms of land degradation. It was estimated that between 1977 and 1997, the area critically affected by erosion almost doubled. Wind erosion is prevalent in arid and semi-arid regions of the country. It covers 28,600 km? in Rajasthan, Haryana, Gujarat and Punjab, out of which 68% is covered by sand-dunes and sandy plains. Erosion by water is the most serious process of land degradation and desertification in the country. On an average, 5,334 M tonnes of soil is lost annually (16.4 tonnes/ha/ year) through water erosion of which 29% is lost permanently into the sea, 10% gets deposited in reservoirs reducing their capacity by 1-2% every year, and the remaining 61% is displaced from one place to another.
+
+The annual soil loss due to water erosion varies from less than 5.0 tonnes/ha/year for dense forests to more than 80 tonnes/ha/year in the Shiwalik hills. On an average, about 28.2 tonnes/ha/year soils are eroded from the Indian Himalayas. Foothills of outer Himalayas and Doon Valley experience soil erosion losses of more than 20 tonnes/ha/year. In contrast, the gullied areas along either sides of the bank of Yamuna, Chambal, Mahi, Tapi and Krishna rivers along with regions of shifting cultivation region in North-eastern states suffers from soil loss higher than 40 tonnes/ha/year.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 327
+
+The average soil loss rate in black soil region of the country is 20 tonnes/ha/year, while in red soils of Chhotanagpur plateau it is 15 tonnes/ha/year. Considering the severity and extent of erosion, India is divided into different zones. However, knowledge of soil loss tolerance limits (T-value) along with prevailing erosion rates is essential to prioritize areas for treatment and adopting appropriate conservation measures to bring the soil loss within permissible limits and prevent loss of productivity in a given region.
+
+Soil loss tolerance limit
+
+Soil erosion obviously cannot be checked completely but it has to be restricted within tolerable limit, i.e. keeping a balance between soil forming and soil erosion processes. Soil tolerance limit values for different agro-ecological regions have been worked out, and soil loss tolerance or T value maps for different states as well as the country as a whole have been prepared in the GIS environment by the CSWCRTI, Dehra Dun. Soil functions such as soil’s ability to accommodate water entry (infiltration rate), facilitate water transport and retention (bulk density), resist physical degradation (erodbility factor, K), resist biological degradation (organic matter) and sustain plant’ growth (soil pH) have been taken into account for this purpose. The T-values for different states vary between 2.5 and 12.5 tonnes/ha/year. This would be helpful in planning conservation measures to limit soil erosion to a rate of ‘T’ or less to prevent further degradation.
+
+Forms of soil erosion by water
+
+Soil erosion is wearing away of land surface by action of natural agencies such as water and wind; the former being the major contributor. Though, geologic erosion is a normal feature of any landscape, accelerated soil erosion taking place at a much faster rate than that at which it is built up by the soil-forming processes, as a result of haman and animal interferences warrants attention. Soil erosion caused by water can be distinguished mainly of three forms—sheet erosion, rill erosion and gully erosion. Other forms may be landslide or stream bank erosion.
+
+Sheet erosion: Sheet erosion removes a thin cover of soil from large areas, often from the entire field, more or less uniformly during every rain, which produces run- off. It is generally neglected, although soil deteriorates slowly and irreversibly.
+
+Rill erosion: When sheet erosion is allowed to continue unchecked, it results in formation of finger-like channels over the land surface, which are generally 15-30 cm deep, and can be smoothened by normal cultivation.
+
+Gully erosion: When rill erosion is neglected, tiny channels formed over the surface of the land become deep- and-wide due to concentration of run-off, and this advanced form of rill erosion is known as gully erosion. Depth of channel keeps on increasing and when these channels become more than 30 cm deep, they cannot be obliterated by normal tillage practices.
+
+Landslide or slip erosion: A landslide is defined as an outward and downward movement of the slope forming material, composed of natural rocks, soil, artificial fills etc. The causes of landslide can be categorized as natural and/or manmade. The natural causes can be: (i) Geological, due to weak geological formations, (ii) hydrological, i.e. sub-surface or seepage flow, and (iii) seismic, i.e. due to
+
+328 HANDBOOK OF AGRICULTURE
+
+earthquakes. The manmade or anthropogenic factors may be due to unscientific cultivation on steep slopes, deforestation, road construction, mining activity, over- grazing, forest-fires etc.
+
+Stream bank erosion: Torrents are defined as hill streams characterized by wide- spreading beds on emergence from hills with ill-defined banks, flashy flows and swift currents. Usually they are dry water courses, however, during rainy season, they are swollen with high sediment-laden discharge. They are meandering in nature and cause considerable damage to adjoining land and property.
+
+Factors affecting soil erosion by water
+
+Soil erosion by water is influenced greatly by precipitation (its intensity and amount), slope of land (degree and length), type of soil, and nature of groundcover and land- use.
+
+Precipitation: Precipitation is the most important factor influencing soil erosion. The intensity of rainfall, its duration and frequency influences rate and volume of run- off. A light rain which can be easily absorbed in soil causes no run-off and soil loss. As the intensity of rain increases and more rain falls that can enter the soil (infiltration), there is more run-off and soil loss. Rainfall of long duration and greater frequency increases both run-off and soil loss. Apart from intensity and duration of rainfall, the soil moisture is also important in determining run-off and soil loss. If soil is already saturated with water, the same amount and intensity of rainfall will cause more run- off and soil loss from it than from a dry soil.
+
+power increases 4-times, because the latter varies as the square of the velocity. Similarly, the quantity of the material of a given size that can be carried increases about 32-times (Table 11.4).
+
+Type of soil: The type of soil, i.e. its structure, texture, organic matter content, infiltration capacity and permeability, greatly affects soil-loss and run-off. Fine soils are more susceptible to erosion than coarse soils, since rain-water enters in and passes through a dense clay much more slowly than through a porous sand. Lateritic soils at Udhagamandalam (Tamil Nadu) and red soils at Deochanda, DVC, Hazaribagh (Bihar) have the lowest rate of run-off; the alluvial soils at Vasad (Gujarat) and Dehra Dun (Uttarakhand) have a very high rate of run-off; and black soils have an intermediate rate of run-off. Lateritic clays are less erodible than black soils, which are moderately to highly erodible. The soil left in loose and pulverized condition is particularly liable to erosion through sheet wash and gullying.
+
+Nature of groundwater and land use: When rain falls on a surface covered by
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 329
+
+thick mantle of plants, its velocity and erosive power is reduced and most of the water either quickly percolates through the soil or moves over surface with non-erosive velocity. Areas not protected with thick cover of plants are unable to absorb water effectively, because dashing rains shatter soil surface. The fine soil particles go into suspension and thick mixture of water and soil quickly fills tiny interstices in soil, reducing infiltration and consequently increasing run-off and soil loss (Table 11.5).
+
+Along with the loss of runoff water and soil, considerable amount of nutrients are also lost. The loss of plant nutrients in alluvial soil at Kanpur (Uttar Pradesh) increased with increase in degree of slope (Table 11.6).
+
+Impact of land degradation
+
+Large-scale degradation of natural resources has serious environmental and socio- economic implications. The environmental impacts include loss of biodiversity and ecological stability, reduction in carbon sink capability, which affects climate, frequent occurrence of floods and droughts, serious erosion. problems, silting up of reservoirs and changes in hydrologic regimes. Land degradation also affects socio-economic conditions of the community due to losses in employment opportunities and livelihood security.
+
+Depletion of vegetative cover due to land degradation brings about gradual changes in natural vegetation and plant density. On an average, the area with good grass species in less than 300 mm annual rainfall zones has declined by about 7% while above this limit, the decline is far greater (8-12%). This has a significant effect on the potential fodder production from these areas. Due to inefficient water management and waterlogging, India loses 1.2-6.0 M tonnes of foodgrains production every year as per the World Bank study. Similarly, due to over-extraction of groundwater, watertable has dropped at a rate of 0.5—-0.8 m/year in Haryana and 0.2—1.0 m/year in Punjab
+
+during the last decade. The declining quality of life in rural areas due to land degradation problems is forcing out migration to urban areas. As a result, the urban population is expected to rise from 300 M in 2001 to 590 M by 2025.
+
+On-site and off-site effects of erosion
+
+About 5.37-8.4 M tonnes of plant nutrients are lost every year due to soil erosion resulting in loss of crop productivity varying from 5 to 50%. The annual loses in production of major crops due to soil erosion have been estimated to vary from 7.2 M tonnes to 13.5 M tonnes. The deposition of eroded sediments into reservoirs results in reduction of their storage capacity. The data on 17 medium and small reservoirs under the river valley projects in India have shown that the rate of inflow of sediments is about 3 times (9.17 ha-m/100 km?/year) as compared to the designed rate of 2.93 ha- m/100 km’/year, thus reducing life expectancy and hydro-electric power generation to one-third of the planned capacity. Sediments deposited into the water-bodies pose a serious hazard to aquatic submerged vegetation. High turbidity reduces photosynthesis resulting in degraded fish habitat, which upsets aquatic foodchain.
+
+BENCH-MARK SURVEYS FOR RESOURCE APPRAISAL AND PLANNING
+
+Bench-mark survey for collection of baseline data on various bio-physical and socio- economic aspects is a pre-requisite for analyzing initial condition or status of the area being planned. Broadly, four kinds of bench-mark surveys are required for assessing resource status and integrated land-use planning: (i) Engineering-cum-topographical survey; (ii) soil-cum-land capability survey; (ii?) vegetation-cum-present landuse survey; and (iv) socio-economic survey.
+
+Engineering survey
+
+* Contour map of the area is prepared by enlarging toposheet (available from Survey of India) from scale of 1 : 50,000 to 1 : 5000 or so.
+
+* From the contour map, slope map and drainage maps are prepared. Data related to rainfall, temperature, number and discharge of different water resources is collected.
+
+* Need of farmers, extent of degradation of land and water resources, run-off and erosion pattern are required to be collected through field visits.
+
+Watershed characteristics on the following aspects are found from the contour map: catchment area; watershed shape factor; relief factor; drainage pattern.
+
+* Topographical and hydrological surveys should be conducted for design of the proposed mechanical measures and water-harvesting structures in the watershed.
+
+Land capability survey
+
+Motto of soil conservation programmes is “to use the land according to its capability and treat the land according to its need”. The land capability classification refers to a systematic arrangement of different kinds of lands according to those properties (inherent soil properties and external land features) that determine ability of the land to produce common agricultural crops and pastures virtually on the permanent basis. The whole ecosystem of land is to be taken into consideration while determining
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 334
+
+capability of the land. The factors, which limit land-use, can be grouped as: (a) Inherent soil characteristics, namely (i) texture of top soil (Table 11.7), (ii) effective soil depth, and (iii) others, such as parent material, soil reaction, permeability, chemical soil fertility etc, (Fig.11.1); (b) External land features such as: (i) slope of the land, (ii) extent of erosion, (iii) waterlogging (Fig. 11.1), and (c) Environmental factors, ¢.g. climate, rainfall, temperature etc.
+
+Classification
+
+The lands under different capabilities can be classified into groups, classes, sub- classes and units from higher level to lower level of generalization (Fig. 11.2).
+
+Land capability groups: There are two broad groups: (a) Land suitable for cultivation, which includes class I to class IV lands; (5) land not suitable for cultivation but very well suited to forestry, grassland and wild life. This includes class V to class VII lands.
+
+Land capability classes: Land capability classes are groups of capability sub-classes or capability units that have same relative degree of hazard or limitation. The risks of soil damage or limitation in use become progressively greater from class I to class VIII.
+
+Land capability sub-classes: Sub-classes are groups of capability units which have the major conservation problems, such as e-Erosion and run-off, w-Excess water, s- Root-zone limitations, c-Climatic limitations. Land capability sub-class provides information about the kind of conservation problems or limitations are involved. The class and sub-class together provide the map user information about both the type of limitation and kind of problem involved for broad programme planning, conservation- need studies and similar purposes.
+
+Ayiqedeo pue7 gL} aIgeL
+
+Land capability units: A capability unit is grouping of one or more individual soil mapping units having similar potentials and continuing limitations or hazards. The soils in capability unit are sufficiently uniform to: (a) produce similar kind of cultivated crops and pasture plants with similar management practices, (b) require similar conservation treatment and management under the same kind and conditions of vegetative cover, and (c) have.comparable potential productivity.
+
+Mapping units: The land capability classes are mapped as Roman number, e.g. I, II, III etc. suffixed by letters of sub-class/limitation, e.g. s (soils), e (erosion) etc. Land capability units are designated by ordinary numerals placed as subscript to the subclass letters in the capability rotation. For example, Class IIIs would show land with severe soil limitations. Soil limitations arise because of: (i) limitations of effective soil depth, (ii) very heavy or light texture of soil, (iii) nature of material restricting root zone, and (iv) salinity or alkalinity of soil.
+
+The above four soil limitations will need different management practices. These capability units will be indicated as IIIs1, IIIs2, IIIs3, IIIs4 respectively.
+
+The mapping units are recorded on the survey map using symbols for land capability classification. Rating of different observations in the mapping unit is made with the help of the rating table for classification of land capability classes (Table 11.8).
+
+Present land use—vegetation surveys
+
+Vegetation is an important determining factor for properties of overland and sub- surface flow within the watershed area. The vegetation intercepts rainfall and run-off and induces it to infiltrate into soil profile. The vegetation survey for the present land use requires information recorded on the following aspects.
+
+Forestry
+
+° Forest type—pure or mixed
+
+* Legal status
+
+¢ Management level, rights and privilleges
+
+* Canopy density: top, middle canopy or under growth, ground cover, leaf litter, humus depth
+
+Canopy
+
+* More than 0.7 (good)
+
+* 0.50-0.70 (medium)
+
+* 0.25-0.50 (poor)
+
+Less than 0.25 (very poor)
+
+* Scrub potential
+
+* Scrub non-potential
+
+* Canopy with reference to economically important species
+
+* Biotic pressure
+
+Felling cycle/rotation/management practices such as tending cultural practices, thinning, silvi-cultural systems etc.
+
+Agroforestry
+
+Information on present land use should be collected regarding:
+
+* Species
+
+* Number of trees/area
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 335
+
+¢ Height, diameter, crown spread — Management practices (rotation, lopping, intensity and periodicity)
+
+- Area under grass planting
+
+* Yield, income
+
+Horticulture
+
+* Species
+
+* Area
+
+* Condition, age, bearing
+
++ Management practices
+
+* Intercrops—types
+
+* Yield, income
+
+Grasslands
+
+* Dominant grasses
+
+* Botanical composition — trees, shrubs, bushes, herbs, legumes, grasses
+
+* Condition
+
+* Carrying capacity (livestock)
+
+* Level of management (range improvement measures)
+
+* Yield, income
+
+Agriculture
+
+* Main cropping rotations
+
+* Varieties
+
+¢ Fertilizers
+
+* Plant-protection measures
+
+* Yields
+
+Socio-economic surveys
+
+Bench-mark surveys are required at the project preparation or appraisal stage to provide data for project formulation, identification of target groups and other essential data for comparing impact evaluation of the project later on.
+
+TECHNOLOGIES FOR CONSERVATION OF NATURAL RESOURCES
+
+Excessive biotic and abiotic interferences have caused considerable degradation of our natural resources. Realising gravity of the problem, the Government of India established a chain of research centres in the country during First-Five-Year Plan, which were reorganized and brought under the Central Soil and Water Conservation Research and Training Institute, Dehra Dun, on | April 1974. Its primary objective was to develop technologies for reclamation of degraded lands under all production systems of the country and ensure their productive utilization. Over a span of 50 years, the Institute and other organizations have developed a number of strategies and resource conservation techniques which can check land degradation, preserve soil’s production potential, sustain productivity, conserve in-situ rainwater, minimize soil erosion, mitigate droughts, moderate floods downstream, harvest and recycle inevitable run-off and ensure environmental security. They include conservation technologies
+
+on arable and non-arable lands, techniques for mass erosion control, vegetative barriers, alternate land-use systems, water harvesting and integrated watershed management. They are briefly presented in the following sections.
+
+Conservation Technologies for Arable Lands
+
+Technologies for conservation of natural resources of land and water and enhanced crop and bio-mass productivity on agricultural lands are broadly classified as agronomic and mechanical measures.
+
+Agronomic measures
+
+Agronomic measures on cultivated lands are generally recommended on mildly sloping areas (1-6%) with the objective of maximizing conservation of in-situ rainfall for sustained and higher production. They help in dissipating energy of falling raindrops, thereby reducing splash erosion, retard velocity of overland flow and enhance opportunity time to induce better intake of water by soil profile, which, in turn, benefits the crop. These measures include contour farming, intercropping, strip cropping, mixed cropping, tillage practices, mulching, cover management and manipulation of crop canopy, etc.
+
+Contour farming
+
+Up and down cultivation is generally practised by farmers for the sake of convenience, which facilitates run-off water to attain higher velocity resulting in more of run-off and soil erosion. Carrying out farm operations such as ploughing, seeding, planting and interculturing along the contour lines or across the slope helps in formation of natural ridges and furrows which act as series of mini barriers and reservoirs to intercept rainwater and reduce run off, soil and nutrient losses. This is a non-monetary and simple practice which not only helps in conserving rainwater and reduce erosion but also enhances crop yields. Contour cultivation of maize on 8% slope in the high rainfall situation of Dehra Dun reduced run-off from 43 to 37% and soil loss from 22 to 18 tonnes/ha/year as compared to up and down cultivation. In alluvial soils of Kanpur at 2.2% slope, run-off reduced by 61% and soil loss by 28% by adoption of contour farming. This practice conserved 11.3 kg of N, 11.7 kg of P,O,, 44.4 kg of K,0, 398.1 kg of CaO and 118.1 kg of MgO in one season alone. Similarly, contour cultivation of castor and castor + greengram (1: 2) intercrops reduced run-off by 9.2— 14.2% and soil loss by 17.6-25% and increased yield by 15.4~-26.6% over up and down cultivation in south-eastern Rajasthan. In Shiwalik foothills, contour cultivation reduced run-off by 20.6%, soil loss by 43.5% and increased maize yield by 23%. When practice of contour cultivation was adopted in a catchment of outer Himalayan region, the seasonal run-off reduced from 54 to < 40% and soil loss from 30 to < 20 tonnes/ha in the treated catchment.
+
+Intercropping
+
+The practice of line sowing of mixed crops is called intercropping. Intercropping of low canopy legumes such as groundnut, greengram, blackgram, soybean and cowpea in wider inter-row spaces of crops like maize, sorghum and castor provides sufficient cover on the ground and thereby reduces erosion hazards apart from biological insurance
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 337
+
+to increase productivity of rainfed arable lands. At Dehra Dun, maize + cowpea and maize + blackgram intercropping systems reduced run-off by 14.9 and 15.8% and soil loss by 29.7 and 30.9%, respectively, over sole maize. The maize equivalent yields were higher by 30.3 and 29.8% and net income by 42.5 and 41.2%, respectively, over sole maize. Intercropping of castor + greengram (1 : 2) in south-eastern Rajasthan reduced run-off by 22% and soil loss by 30% as compared to sole castor, apart from improving soil fertility status and improving crop yield. The system has been found ideal under aberrant weather conditions such as late onset of monsoon where it recorded only 15% reduction in productivity against 48-58% reduction in other systems. The yield in sorghum + pigeonpea intercropping with contour furrow system improved by about 30% in the region due to better drainage and in-situ moisture conservation provided by the contour furrows. The sorghum + pigeonpea intercropping system gives 32% (11.3 q/ha) and 83% (21 q/ha) higher sorghum grain equivalent yield than sole sorghum or pigeonpea respectively. In black soil region (Karnataka), intercropping of dolichos (a legume crop) with sorghum reduced run-off from 132 mm to 118 mm and soil loss from 5 tonnes/ha to 3.8 tonnes/ha with 80% higher sorghum-grain equivalent yield over control. The 6:2 row proportions of ragi + pigeonpea intercropping system is recommended as the best intercropping system for the tribal areas of Orissa and Eastern Ghat region from resource conservation and farmers’ preference point of view. In north-eastern hill region, mixed cropping of maize + rice reduced run-off by 28.8% and soil loss by 33.4%.
+
+Strip cropping
+
+Strip cropping is a well-accepted conservation measure all-over the world in controlling run-off and soil erosion and thereby maintaining fertility of soil. It helps in shortening length of slope, reducing velocity of run-off, arresting soil by providing a biological filter/barrier and increasing absorption of rainwater into the soil-profile. It may be in the form of contour strip cropping, field strip cropping, wind strip cropping or permanent strip cropping. Contour strip cropping is a simple practice of growing erosion-permitting crops in strips of suitable width across the slopes on contours with alternate strips of erosion resistant crops (Table 11.9).
+
+In Doon valley, strip cropping of maize and cowpea in 2: | ratio has been reported to reduce run-off from 43 to 37% and soil loss from 21 to 11 tonnes/ha, and was as effective as graded contour bunding. At 4% slope, strip cropping in the ratio of two rows of maize and eight rows of soybean reduced run-off by 42% and soil loss by 54% as compared to sole crop of maize. Growing maize and clusterbean in alternate strips each 9-m long was effective in reducing run-off and soil loss and increasing income by 15% over sole maize in Shiwalik foothills of Punjab.
+
+Field strip cropping consists of planting of farm crops in more or less parallel strips across fairly uniform slopes but not exactly on contours. In case of wind strip cropping, tall growing crops such as jowar: bajra or maize and low-growing crops such as legumes are planted in alternately arranged straight and long but relatively narrow, parallel strips laid-out right across the direction of the prevailing wind irrespective of contour lines.
+
+In permanent or temporary buffer strip cropping, the strips are established to take care of critical or steeply sloping fields under contour strip cropping. They are generally planted with perennial legumes, grasses or shrubs on a permanent or temporary basis.
+
+Mixed cropping
+
+In India, small size of land holdings mainly restricts farmers from adopting strip cropping. In such a situation, mixed cropping systems of low-canopy legumes with widely-spaced crops are most suitable option which provide a better and continuous cover to ground, protection against beating action of rain drops, almost a complete protection against soil erosion and ensures at least one crop under adverse climatic conditions, particularly in semi-arid and hilly regions against complete failure of crops. The cover crops such as greengram, blackgram, groundnut, soybean, sunnhemp and dhaincha restore soil fertility, control weeds, conserve rainwater, reduce energy and costs besides reducing soil erosion and improving morphological characters. The roots of various crops in mixed cropping utilize moisture and nutrients from different depths of feeding zone in the soil. In the black soils of Kota, the wheat + chickpea mixture gave a consistently higher yield than the pure crops individually. The net profit as a result of mixed cropping increased by 89% and 183% over the pure crops of wheat and chickpea. respectively. In the north-eastern hills region, mixed cropping of maize + rice reduced run-off by 29.8% and soil loss by 33.4% over pure-crop of maize.
+
+Tillage practices
+
+Tillage is a well known soil-and-water conservation practice which makes soil surface more permeable to increase infiltration of rainwater into the soil which, in turn, reduces run-off, soil and nutrient losses and enhances crop yields. Conservation tillage with maintenance of crop residues cover on 30% of the soil surface is soundly based within the framework of conservation of natural resources and sustained production. In Doon valley, deep tillage in maize along with surface mulching from September to November, covering sowing period of wheat, recorded 11% increase in total yield over shallow tillage. Zero tillage with plot weeded in 30-cm strips along the maize rows leaving 60 cm unweeded and 5 tonnes/ha dry weeds cut and spread over inter-row spaces as live mulch prior to seeding reduced run-off from 48 to 22% and soil Joss from 12 to 3 tonnes/ha/year and increased the yield of succeeding wheat
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 339
+
+crop from 7 to 12 tonnes/ha. In the popular maize-/oria cropping system of the hill and mountain agro-ecosystem, minimum tillage + crop residue incorporation is effective in reducing runoff by 12% and soil loss by 24% as compared to the conventional tillage besides minimizing nutrient losses. In the Indo-Gangetic plains of Yamuna river, where rain water cannot enter into deeper layers due to presence of impervious soil layer (kankar) and is lost as runoff, deep tillage by disc plough once in three years up to 20 cm depth and one pass of cultivator every year helped in reducing runoff considerably and enhancing grain yield of pearl millet by more than 50%. Tillage operations have long-term effect on soil productivity and environmental quality. Low intensity tillage favours consolidation of soil and imparts resistance to soil erosion through better structure, infiltration and poor distribution. Conservation tillage involving reduced tillage with mulching/residue management practices aims at preventing soil erosion, providing favourable soil and micro-climatic environment, reducing risks of pollution and minimizing environmental hazards.
+
+Mulching
+
+Mulching is an important agronomic practice that not only prevents soil erosion by dissipating kinetic energy of rain drops but also facilitates infiltration, reduces evoporation and improves soil structure which eventually enhances crop yield. In low rainfall areas, mulching helps in conserving moisture in the soil profile while in high rainfall areas, it reduces run-off and soil losses which, in turn, are reflected in higher crop yields. At Dehra Dun, application of organic mulches at 4 tonnes/ha effectively reduced run-off from 37 to 15% and soil loss from 18 to 5.4 tonnes/ha in maize crop on 8% slope and increased yield of subsequent crop from 1.9 to 2.4 tonnes/ha. Even application of mulch material at 2 tonnes/ha reduced erosion losses by 50%.
+
+In hilly areas, farmers resort to mulching for moisture conservation in summer for cultivation of ginger, colocasia and turmeric. In western Himalayas, widely growing obnoxious weeds such as wild sage (Lantana camara) and eupatorium (Eupatorium adenophorum) when used as a mulch material resulted in higher soil moisture content in the seed zone and gave yield of maize at a par with pre-sowing irrigation (Table 11.9). A study at Chandigarh in Shiwalik region indicated possibility of increasing wheat yield by 58% by providing grass mulch during rabi (Table 11.10).
+
+The concept of live mulching is based on the principle of mixed cropping, whereby a fast growing legume is established before or simultaneously along with a widely spaced seasonal grain crop such as maize and returned into soil at an appropriate stage
+
+to act as a mulch. This system works well if live mulch is non-competitive for light, moisture and nutrients. Sowing of sunnhemp and maize simultaneously under varying slopes of Doon valley conditions and weeding 15-cm strip along maize rows with herbicide and recycling of sunnhemp in-situ as a surface mulch one month after sowing reduced run-off and soil loss and increased yield of following wheat crop due to moisture conservation and nutritional effects.
+
+In another study at Dehra Dun, recycling of sunnhemp in-situ as a surface mulch one month after sowing reduced run-off and soil loss and significantly increased yield of succeeding wheat crop (Table 11.11).
+
+M, Maize; W, wheat; R, rice; T, toria; F, fallow; GM, green manuring.
+
+Although mulching is the most effective soil-and-water conservation measure in agricultural lands, non-availability of vegetative material poses serious limitations in its wider adoption. Alternative sources include weeds, prunings from agroforestry, in- situ grown annual legumes and thinned material from higher plant population in the early stages. Study under semi-arid conditions of Yamuna ravines has shown that wheat yield increased from 19 to 27% when leucaena leaves were incorporated at 5 tonnes/ha before sowing of wheat in bajra—wheat rotation. Similarly, in Shiwalik region, supply of 20 kg nitrogen through leucaena leaves and 60 kg through chemical fertilizers increased wheat yield from 1,838 to 2,016 kg/ha as compared to supply of whole quantity of nitrogen through chemical fertilizers. At Dehra Dun, soil surface covered with leucaena leaves at 2 tonnes/ha immediately after maize harvest and its incorporation after about 30 days resulted in maximum water-use efficiency and grain yield of wheat. In black soils of southern India having low permeability, vertical mulches put across slope helped in interception of run-off and better moisture availability for crops.
+
+Timely sowing and crop canopy manipulation
+
+A large fraction of erosion occurs during few initial storms after the onset of monsoon when land surface is bare without any crop cover. Hence, sowing of crops as early as possible with the onset of monsoon helps in early establishment of crop; better root and shoot growth and development of canopy cover which minimizes soil erosion.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 341
+
+Studies at Dehra Dun revealed that maize sown on 25 June gave higher canopy at peak rainy season and thereby less splash (0.25 g) as compared to crop sown on 1 July (28.3 g) and 7 July (29.3 g).
+
+Similarly, the canopy coverage and crop yields were higher under early sowing in maize + cowpea intercropping system.
+
+Manipulation of crop geometry to achieve closer spacing within the rows across the slope provides greater resistance to overland flow to reduce erosion losses. Although dense populations are better from soil-and-water conservation point of view, the excessive population may lead to severe moisture, nutrient and light competition resulting in reduced crop yields. On 4% slope at Dehra Dun, a plant population of 55,000/ha with 90 cm x 20 cm spacing in maize-crop reduced run-off by 33% and soil loss by 38.5% as compared to 48% and 22.6 tonnes/ha, respectively with conventional spacing of 45 cm x 40 cm without any adverse effect on the crop yields (Table 11.12).
+
+Mechanical measures
+
+Mechanical measures or engineering measures are often needed on agricultural lands to supplement agronomic measures when slope becomes steeper or velocity of run-off and discharge becomes high. These measures help in dissipating energy of flowing water by reducing its velocity within permissible limits, increasing time of concentration to conserve more run-off water into the soil and minimizing soil erosion by reducing length and/or degree of slope and increasing productivity on farmers’ fields. These measures act as a foundation to stabilize slopes and create conditions congenial for plant growth by arresting fine soil and conserving in-situ moisture. On agricultural lands, land configuration measures include contour bunding, graded bunding, bench terracing, conservation bench terracing, conservation ditching, grassed waterway and graded trenching.
+
+Contour bunding
+
+Contour bunding is one of the most widely used mechanical measures. It consists of constructing narrow trapezoidal or parabolic-shaped bunds on gentle slope (0.5— 6.0%) and is generally recommended for low rainfall areas (< 800 mm) and relatively permeable soils. The bunds may be open ended to drain off excess water slowly after providing an opportunity to infiltrate into soil or hooked up at the ends to absorb entire impounded water into soil. The former is recommended in high rainfall areas while the latter is more suitable in the low rainfall regions for intercepting rainwater.
+
+The design of a contour bund involves spacing of bunds, its cross-section and surplusing arrangement. On the basis of the experience of contour bunding in
+
+Maharashtra, the spacings based on land slope are recommended (Table 11.13). Studies have shown that contour bunds constructed in shallow, medium and medium deep soils have performed well while in shallow soils (< 7.5 cm), the bunds were not successful (Table 11.14).
+
+The cross-section of bunds for different soil depths are given in Table 11.14 based upon the experience in erstwhile Bombay state.
+
+Surplusing arrangement for contour bunds is necessary in high rainfall areas to drain off excess run-off water safely out of land without causing erosion. It may also be required in low rainfall areas (< 600 mm) where occurrence of high-intensity rains is a common feature. It may be in the form of a clear overfall stone weir, a channel weir, a cut outlet, a ramp-cum-waste weir or grass outlet or a pipe outlet.
+
+In deep black soils, contour bunding has been a failure due to cracking of bunds resulting from shrinkage and swelling characteristics of clay mineral (e.g. Montmorillonite), and hence not recommended in such soils. In the north-eastern hills region, the parabolic channels are constructed on steep slopes up to 33% and dug-out soil is kept in the form of bund at the lower edge of the channel. In due course, the
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 343
+
+inter-bunded area gets leveled up due to silt deposition and takes shape of a terrace in 4-8 years. The technique has been found economical and efficient in controlling 50- 60% run-off and soil loss. In Doon valley conditions, contour bunding with a surplusing arrangement at 2~8% slope significantly reduced run-off and soil loss as compared to maize on contours and also sustained maize and wheat yields (Table 11.15). Bunding of a 55 ha agricultural watershed reduced run-off volume and peak rate by 62 and 40% respectively.
+
+Graded bunding or channel terraces
+
+Graded bunds are recommended on mildly sloping lands (< 8%) and high rainfall areas (> 800 mm) where soils are relatively impermeable and are of clayey nature to dispose off excess run-off water safely at non-erosive velocity into the grassed waterways.
+
+The design of graded bund involves determination of spacing between bunds, cross section and grade of channel. The spacing defined in terms of horizontal or vertical interval depends upon type of soil, climate, slope of the land and land use and is determined similar to contour bunding. The channel grades normally vary from 0.1 to 0.6% and may be uniform or variable depending upon the length of the bund which generally does not exceed 400 m. The cross section of the channel depends upon the peak rate of run-off to be conveyed by the channel. The side slopes are kept not steeper than 5: 1 to permit easy cultivation and cross section is generally kept constant throughout the length and only grade is varied. The velocity in the channel should not exceed permissible velocity which varies from 0.5 m/sec for sandy soils to 0.75 m/sec for clayey soils.
+
+In alluvial soils of Doon valley, 1-1.5 m vertical interval and 0.4-0.6% channel grades were found promising in graded bunds. There was reduction in run-off by 56, 53 and 52% and soil loss by 74, 72 and 65% over maize on contours at 2, 4 and 8% slopes (Table 11.15). In Shiwalik foothills, graded bunding reduced soil loss from 3.1 tonnes/ha to 0.7 tonne/ha in maize and increased yield by 9%. In Vertisols, graded bunding with 0.75 m vertical interval and 0.6 m’ cross-sectional area produced maximum sorghum yield of 912.7 kg/ha. A comparative study on contour bunds and graded bunds (0.1%, 0.2% and 0.3% grade) in deep black soils of Bellary (Karnataka) region indicated superiority of graded bunds (Table 11.16). Even on 0.3% grade, no adverse effect on crop yields was noticed.
+
+In black soils, 0.2% uniform grade for shorter bunds and variable grades of 0% in Ist 100 m, 0.1% in 2nd 100 m, 0.2% in 3rd 100 m and 0.3% in 4th 100 m with channel slope of 10: 1 are recommended. In clay loam to clayey soils of south- eastern Rajasthan, graded bunds of 1.0 m? cross-section with 0.5—1.0 m vertical interval are recommended.
+
+Bench terracing
+
+Bench terracing is the most commonly used conservation measure in hill and mountainous areas for reduction of degree and length of slope, to reduce intensity of scouring action of run-off flowing down hill slopes. This practice consists of construction of step-like fields or benches along contours by cut-and-fill method to reduce length as well as degree of slope for either impounding rainwater for cultivation or channelizing it for safe disposal. In addition, it helps in promoting uniform distribution of soil moisture, irrigation water and controlling soil erosion and thereby increasing productivity of land. Bench terracing is normally recommended on less than 33% slope so that at least 2/3rd area is available for cultivation after loss of area in riser construction, which is 1/3rd even on with riser batter of 1 : 1. However, for crops like paddy, bench terracing is practised even on very gentle slopes (up to even 1%) to ensure uniform application of irrigation water.
+
+Depending upon soil, climate, topography and crop requirements, bench terraces may be of table top or level type, outwardly sloping or inward sloping with mild longitudinal grades for run-off disposal. Table top terraces are practised in good rainfall areas for paddy cultivation when soils are deep. For relatively low rainfall areas with shallower soil depth, outwardly sloping terraces are recommended. This practice may also be followed as an intermediate step for construction of either inward sloping or table top terraces. The inward sloping terraces are suitable for high rainfall areas having deep permeable soils for safe disposal of excess run-off water.
+
+The design procedure for bench terracing involves specifications for vertical interval, width and length of terrace, riser batter, inward gradient and longitudinal gradient depending upon soil depth, slope, rainfall and land-use conditions. Based upon land slope and width which is recommended as minimum of 4.5 m for slopes varying from 15 to 25% and 3 m for slopes between 25 and 33%, Udhagamandalam Centre of CSWCRTI, evolved formulae for vertical interval with riser batter of 4%: 1 and 1: 1. Width of terrace is further restricted with the depth of cut depending upon soil depth. Based upon the studies, maximum longitudinal gradient of < 1.0% and inward gradient of 2% were recommended for Nilgiris to achieve higher crop yields. For better moisture distribution, the length of terrace may be restricted to 100 m. The riser batter depends upon the construction material and the type of soil. In case of stone risers, the batter may be near vertical or 2: | and for clayey and sandy loam soils, riser batter of 1 : 1 and 1%: 1, respectively, is generally recommended. In the Nilgiris (Tamil Nadu), tea can be grown on terrace risers for their economic utilization and stabilization.
+
+In north-eastern hills region, agri-horti system on bench terraces (1/3 area) and half moon terraces (2/3 area) reduced run-off and soil loss by 85.3 and 93.6%, respectively, compared to shifting cultivation. In Doon valley conditions, bench terracing at 2-8% slope was found most effective mechanical measure to reduce run- off by 85-92% and soil loss by 90-92% as compared with maize on contours (Table 11.17). The loss in maize yield due to water stagnation is well compensated with increase in wheat yield due to better moisture retention and its availability. In the middle Himalayan region, bench terraces are constructed on very steep slope beyond the recommended limit of 33% to meet foodgrains requirements of growing population.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 345
+
+A survey has revealed that 70% of the bench terraces were constructed between land slope of 50 and 70% with average outward and longitudinal slope of 10% and 8%, respectively. This resulted in high soil and nutrient losses which need to be minimized by providing suitable earthen or stone-cum-earthen shoulder bunds.
+
+Puertorican type bench terracing
+
+Puertorican or natural type bench terrace comprises laying an earthen bund (30 to 45 cm height) or a vegetative barrier of 1.0 m width along the contour at 1.0 m vertical interval. The space between barriers is cultivated which results in the formation of terraces through induced deposition of soil along the barriers in about 4—5 years. This is a fairly less costly practice than bench terracing on slopes up to 7-12% and costs 64 to 76% of the conventional cost of bench terracing. The vegetative barriers should be established by staggered planting of 2 to 3 lines of grasses across the slope at appropriate vertical intervals. The grass species should be selected as per the agro-climatic conditions of the area, their adaptability and preferences of the farmers. The recommended grass barriers are guinea grass, napier, bhabar, vetiver, munj and guatemala. In hilly regions of Tamil Nadu on 20% slope, the yield of potato as high as 9.4-15.4 tonnes/ha could be taken on Puertorican terraces due to run-off conservation and reduction in soil loss. Though higher potato yield (10.4 tonnes/ha) was recorded with vegetative barrier of Guatemala grass as compared to Napier grass (9.4 tonnes/ ha), the latter recorded higher green biomass production (24 tonnes/ha) as compared to Guatemala grass (18 tonnes/ha). The Napier grass, which is a preferred fodder species in the region, also registered minimum run-off and soil loss.
+
+The evaluation of 3 different grass species for construction of Puertorican type of terraces in Shiwalik region indicated that performance of bhabar grass (Eulaliopsis binata) was the best in terms of gradual bund formation and crop yield (Table 11.18). Though the yield of bhabar grass was less, it resulted in higher income due to better price.
+
+Conservation bench terracing
+
+The conservation bench terrace (CBT) system is a mechanical measure which has been applied successfully to mildly sloping lands in arid, semi-arid and sub-humid regions for erosion control, water conservation and improvement of crop productivity. The CBT system consists of a terrace ridge to impound run-off on a level bench (recipient area) and a donor watershed, which is left in its natural slope and produces run-off that spreads on the level bench. Crops such as maize, sorghum or bajra which require drainage are cultivated on sloping area while water intensive crop like paddy is taken on the level bench. When the sloping area is kept under grass, horticulture or
+
+bushy plantation, this practice is known as Zingg terracing. The CBT system harvests run-off from upper area for the benefit of crops grown in the lower levelled portion of the field. Thus even in low rainfall conditions, assured crops can be taken on conserved moisture. The ratio of donor to recipient area may vary from |: I to 3: 1. At the end of receiving area, a shoulder bund is provided to impound run-off up to 20 cm depth.
+
+In India, the CBT system has been successfully demonstrated in the semi-arid region at Bellary (Karnataka) and Kota (Rajasthan), and sub-humid region at Dehra Dun (Uttarakhand). At Dehra Dun, the CBT system constructed at 2% slope and 3 : | ratio of donor to recipient area with 20 cm depth of impoundment significantly reduced run-off and soil loss by over 80% and 90%, respectively, as compared to conventional system of maize-wheat rotation.
+
+The CBT system registered 7.4% of rainfall as run-off and 1.19 tonnes/ha of soil loss as compared to 36.3% and 10.1 tonnes/ha in the conventional system of sloping borders. The analysis of yield data of maize, rice and wheat crops revealed that the CBT system was about 19.5% more productive in terms of maize-equivalent yields over the conventional system, primarily due to better in-situ rainwater conservation.
+
+The economic analysis of three systems, viz. maize-wheat (rainfed), conventional system of maize-wheat (irrigated) and CBT system, considering 25-year project life and 10% discount rate and accounting for nutrient losses revealed that the CBT system was 71.7% and 58.5% more remunerative as compared to conventional and rainfed maize-wheat systems (Table 11.18). The high value of BCR, and lower value of PBP in rainfed maize-wheat system are attributed to the fact that the farmers are interested in realizing immediate returns rather than long-term benefits from a practice involving higher initial investment.
+
+NPV, Net present value; BCR, benefit:cost ratio; PBP, pay back paid; IRR, internal rate of returns.
+
+In the north-eastern hills region, the CBT system on 55% slope with %4 upper area under maize and % lower area under rice on bench terraces resulted in highest reduction of run-off and produced optimum yields of both the crops.
+
+When the objective is water harvesting and recycling, the pure CBT system was found inadequate to generate sufficient runoff to provide even one pre-sowing irrigation of 5 cm depth to winter wheat crop. Hence, CBT and conventional systems need to be adopted in combination with each other in such cases. Conventional and CBT systems in the ratios of 50:50 or 25:75 were found to be the best choices to maximize economic returns, ensure food security, minimize soil and nutrient losses, and produce sufficient runoff for harvesting and recycling under rainfed cropping systems in sub-humid climates.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 347
+
+Conservation ditching
+
+The mechanical measure of conservation ditching which is also known as inverted contour bunding has been evolved by Bellary Centre of the CSWCRTI for black soils in which contour bunds generally fail due to cracking. It consists of trapezoidal ditches laid out on contours at the same interval as contour or graded bunds to serve as a terrace as well as a storage structure in the low rainfall deep black soils. The stored run-off water in the ditches (200-300 m?/ ha of inter terrace land) can be utilized for crop production during dry periods. An agave filter can be established on the upstream side of ditch to trap fine silt and prevent rilling. Conservation ditches were found effective in reducing run-off on an average by 70-90% and soil loss from 7.3 tonnes/ ha to 2.6 tonnes/ha in vertisols. The stored water when used for irrigation of rabi jowar increased yield by 36%. Dichanthium annulatum grass planted on the upstream (5: 1) and downstream (1.5: 1) side slopes yielded on an average 3.4 tonnes/ha in low rainfall years and as high as 15.5 tonnes/ha in good rainfall years when ditches were full of water.
+
+Graded trenches
+
+This practice is generally recommended on agricultural lands having slope between 10 and 16% for diverting excess run-off safely into grassed waterways. The studies at Udhagamandalam Centre revealed that graded trenches at 2.46 m vertical interval on 14% land slope produced minimum soil loss (9.7 tonnes/ha). Comparison of bench terraces and graded trenches on 25% slope at 1.5 m vertical interval and 0.5% longitudinal grade showed that though the differences in run-off and soil loss were insignificant, the bench terracing gave consistently higher potato yields (5.47 tonnes/ha), thereby indicating superiority of bench terracing over graded trenching.
+
+Grassed waterways
+
+Grassed waterways are essentially required on agricultural lands where a suitable natural drainage way is not available to drain off excess run-off safely. A waterway is a natural or artificially constructed channel discharging concentrated run-off from a slope, a terrace system or any other land surface safely at non-erosive velocity. It is constructed and designed to carry a maximum run-off from a storm of 10 years recurrence interval which may be estimated by rational method. The cross-section of a grassed waterway may be trapezoidal, triangular or parabolic. Depending upon type, condition and density of vegetation, a low velocity of 1-1.5 m/sec under sparse grass cover and medium velocity of 1.5 to 1.8 m/sec under established sod of excellent quality is recommended. Channel grade is generally governed by the land slope but should not generally exceed 10% and may preferably be within 5%. The channel side slope should be 4 : 1 or flatter to facilitate crossing of farm equipment.
+
+No systematic effort has been made to evolve design specifications of grassed waterways in India. However, evaluation of grass species for waterways in alluvial soils of Doon valley is indicated that Panicum repens was the best suited grass for waterways, followed by Brachiaria mutica, Cynodon plectostachyus, Cynodon dactylon and Paspalum notatum. The suitability of the grass was based on the density of the cover it has, ease of establishment and forage yield obtained from it.
+
+Vegetative barriers
+
+Although bunding is an effective soil-and-water conservation measure, it is cost- intensive and requires high level of technical skill and frequent maintenance. As an alternative to bunding, biological control of erosion by means of vegetative barriers is advocated not only to reduce soil and water loss but also to provide some fodder during off-season. A vegetative barrier comprises a permanent strip of closely spaced grass grown on contours across the slope. Usually, the grass strip is 1.0 m wide with 2-3 lines of grass clumps so as to provide a dense and sturdy barrier against run-off. The importance of vegetative barriers in soil conservation is attributed to their rapid growth, ease of establishment, high capacity of survival under hostile weather, extensive root network and soil binding capacity, improved water infiltration and soil aggregate stability. The barriers are relatively cheaper and farmer friendly to provide direct benefits like fodder and thatching material.
+
+The suitability of different vegetative barriers has been found to be location-specific in various agro-ecological regions (Table 11.19). For the barriers, economically important grasses which give dense and perennial cover should be selected. Locally suitable grasses such as khus (Vetiveria zizanioides) and munj (Saccharum spontaneum) in semi-arid region of Central India; guinea (Panicum maximum), napiet and sambuta in sub-humid lower Himalayas; khus, bhabar (Eulaliopsis binata) and munj in Shiwaliks; khus, guinea and maroel in black soil region; dhaman, anjan and sewan in arid regions; and napier and guatemala in southern hill regions have been found promising. Vetiver, which was promoted by World Bank, was inferior to local grasses and hedge row species in the low rainfall regions while its performance was at a par with local grass species in high rainfall regions.
+
+*Barriers with small bund of cross-section — 0.1 sq. m.
+
+In the Western Ghats region, covering Kerala, Tamil Nadu, Karnataka, Maharashtra and Goa, mixed vegetative barrier consisting of two rows of pineapple and one row of guatemala (TJripsacum laxum) or hybrid napier grass has been found suitable. In vertisols of semi-arid region, Agave sislana and Euphorbia tirucalli performed well.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 349
+
+In the NEH region, the grasses such as Cynodon dactylon, Cenchrus ciliaris, Panicum antidotale and Pennisetum polystachyon have been found effective in reducing soil loss to < 0.5 tonne/ha from 40.9 tonnes/ha under traditional shifting cultivation. In sub-humid conditions of Doon valley, guinea grass was the most effective in reducing run-off to 32.5% and soil loss to 6.2 tonnes/ha, followed by vetiver (33.9% and 6.6 tonnes/ha) and bhabar (37.1% and 8.2 tonnes/ha) grasses, respectively, compared to 52% and 45 tonnes/ha under cultivated fallow and 48% and 18 tonnes/ha under contour cultivation of corn. The dry matter production was also maximum under guinea grass (1.54 tonnes/ha), followed by vetiver (1.09 tonnes/ha) and bhabar (0.54 tonnes/ha).
+
+Evaluation of bio-engineering measures, viz. bench terrace (BT), graded bunds (GB) + vegetative barrier (VB) of guinea, graded bund (GB) and vegetative barrier (VB) vis-a-vis cultivated fallow (CF) plot on 8% slope has indicated that BT was most effective in conserving run-off and soil loss though VB also successfully brought soil loss within permissible limits (Table 11.20).
+
+Agroforestry systems
+
+Agroforestry technique of raising food crop annuals in association with woody perennials as vegetative barriers is also widely recommended for optimizing use of natural resources, minimizing needs for inputs derived from non-renewable resources and reducing risk of environmental degradation. However, barriers of woody perennials need to be pruned regularly to minimize shading effect and procure nitrogen-rich mulch for annual crops. In north-western Himalayas, contour paired rows of Leucaena hedge, eucalyptus trees and grass barriers at 1.0 m vertical interval in maize crop reduced run-off from 40 to 30% and soil loss from 21 to 8 tonnes/ha. Reduction in crop yield was minimized by shifting management of trees to contour hedge rows. Further, yield reduction was compensated by tree biomass.
+
+Some suitable silvi-pastoral systems for utilization of wastelands in the lower Western Himalayan foot hills were identified as Eucalyptus hybrid with Chrysopogon fulvus (Gorda), Dalbergia sissoo with Chyrsopogon fulvus, Grewis optiva with Chrysopogon fulvus, Bauhinia purpurea with Chrysopogon fulvus and G.optiva with Hybrid Napier. The silvipastoral systems have been found economical and over a period of 18 years, the B:C ratio calculated at 12% discount rate was 1.6 with an IRR of 25%. Grasses have to be replanted by 10" year since their yields decline after 9" year.
+
+Peach based agri-horticultural system raised on marginal lands in the lower Western Himalayas (up to elevation of 1,200 m) with cultivation of crops (blackgram- toria)
+
+for the first 6 years has been found useful for economic utilization of these lands. Evaluation of a peach based agri-horticulture system was found economically viable with a B:C ratio of 3.50, calculated for a life span of 20 years for peach trees.
+
+Deep ravines of Mahi river (Gujarat) were reclaimed by planting bamboo (Dendrocalamus strictus) on the gully beds and anjan grass (Cenchrus ciliaris) on side slopes. The grass yield from inter spaces of bamboo planted on bed portion was about 10 tonnes/ha/year during initial 5 years, which declined after bamboo plants grew but more than compensated by the harvest of bamboo from the seventh year. This silvipastoral system absorbs more than 80% of rainfall that is either utilized for plant growth or percolated as ground water recharge. The soil loss reduced to less than 1 tonnes/ha/yr from about 20 tonnes/ha/yr under degraded ravines prior to this system.
+
+As an alternative to traditional tobacco cultivation in Central Gujarat region, a diversified and drumstick based agri-horticulture (drumstick + greengram — fennel) cropping system has been devised which is not only more profitable but is also resource conserving by way of saving scarce irrigation water, checking soil erosion and improving soil fertility. Pure drumstick and drumstick + greengram — fennel has been found 4 and 2.2 times more remunerative, respectively, than the traditional cultivation of tobacoo.
+
+Ber (Ziziphus mauritiana) based agri-horticultural system has been found suitable for marginal lands in Shiwaliks comprising Punjab, Haryana, lower hilly belt of Himachal Pradesh and Jammu and Kashmir. Blackgram intercropping with ber reduced tunoff and soil loss and also gave higher net returns as compared to other cropping systems. Similarly, some aonla based land-use systems suitable to the marginal lands of Shiwaliks are: aonla + Chrysopogon fulvus, aonla + Napier and aonla + arhar. These systems have been found not only economical but resource conserving as well. If proper marketing facilities are available, Aloe vera cultivation in interspaces can be profitably undertaken for supplementing productivity of ber orchards in reclaimed Yamuna ravines.
+
+CONSERVATION TECHNOLOGIES FOR NON-ARABLE LANDS
+
+Non-arable lands are generally degraded lands which may be constrained by lack of fine soil, moisture, steep and bare slopes, high run-off and sediment flow. Engineering or mechanical measures are often needed before revegetation programme is undertaken to stabilize slopes, control run-off water and create conditions conducive for plant growth by arresting fine-soil particles and improving moisture status. The engineering measures must be supported with vegetative measures so that both may act in unison as bioengineering measures, supporting to supplement each other and to economize on cost. Appropriate moisture conservation and plantation techniques are needed to rehabilitate degraded lands.
+
+Engineering (also called mechanical or structural) measures are used for: (i) providing mechanical stability to eroded/erodible slopes, (ii) retaining debris/soil, (iii) establishing the vegetation/seeds planted in place, and (iv) conserving fine soil and moisture for plant growth. They are, therefore, also called as ‘first-line of defence’. According to their functions, measures may be mainly grouped as slope stabilization measures and channel stabilization measures.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 351
+
+Slope stabilization measures
+
+Slope stabilization measures are intended to give mechanical stability to eroded slopes and conserve soil and moisture for establishment of permanent vegetative cover, Some of the prominent slope stabilization measures are discussed here.
+
+Diversion drains
+
+Diversion drains are made across the slope to divert run-off water away from unstable area and discharge it safely into a natural waterway or vegetated watercourse. The gradient of diversion drain should be such that it is non-erosive as well as non- silting, and is preferably kept within 0.5%.
+
+Contour trenching
+
+Contour trenching is a practice of excavating trenches along a uniform level across the slope of the land. Bunds are formed along the trenches on the downstream side with material taken out of them. Contour trenches break velocity of run-off and store whole or part of run-off. The intercepted run-off percolates through soil slowly and is made available to plants. Contour trenches may be: (a) continuous or (b) staggered type. Contour trenches are normally constructed in upper portion of the watershed for forestry/horticultural plantations. In staggered trenching, trenches will be located directly below one another in alternate rows. In hilly and high rainfall areas generally staggered trenching is adopted as there is potential danger of overflow and breach in continuous trenching. Trenches may be dug with a cross-section of 0.3 m x 0.3 m. Staggered trenches may be made with a length of 2-3 m, and spacing between the rows may be kept from 3 to 5 m, depending on the land slope and species to be planted. Fodder grasses should be planted on the bund and horticultural/fuel/fodder trees may be planted just on the downstream side of the trench. Contour trenches are generally designed to collect run-off expected from storms of 5—10 years recurrence interval.
+
+Crib structures
+
+Structures made with heavy materials (stone, boulders etc.) on steep slopes often fail due to self-weight. Steep slopes (more than 40%) can be stabilized by constructing log-wood crib structures. Crib structures are constructed with wooden poles inserted deep in the ground and filled with stone/brush wood whichever is available near the site. The inter-space is vegetated with suitable quick-growing protective plant species.
+
+Crib structure is constructed with eucalyptus poles of 2-3 m length and 8-12 cm diameter which are joined together with 20-25 cm long nails. Poles are driven underground to a depth of 50-75 cm and are erected in two lines, 1 m apart line-to- line and pole-to-pole. The height of the structure is kept 1.5 m to 2.0 m above the ground depending upon the land slope. Horizontal braces of eucalyptus poles are fitted at a distance of 45 cm centre-to-centre. The lower portion of the wooden poles is treated with creosote oil to prevent termite damage.
+
+Retaining walls
+
+The retaining toe walls are constructed for stabilizing precipitous hill slopes/nala banks. Two types of forces act on retaining wall: (i) the gravity force due to self weight of the wall, which acts downwards, and (i/) horizontal force due to pressure of
+
+the surcharge which tries to push wall away. The resultant force should be restricted to middle one-third of the bottom for stability of the wall. A general thumb rule for calculating the bottom width of gabion walls is to take two-thirds of the height. For example, if a wall of 3-m height is required, a bottom width of 2 m is provided. The width is reduced in steps to 1 m at the top. .
+
+Kutta-crate structures
+
+For stabilization of slide-prone slopes in a minespoil area, cross-barriers formed by filling minespoil material in disposed (used) synthetic cement bags (Kutta-crate structures) can be effectively used to retain debris and plantation works. Cement and debris mixed in the ratio of 1 : 18 is filled in disposed bag and the bag is tied up. In due course, the material gets solidified. The filled bags are laid in three rows one over the other to a height of about 0.6 m across the slope to serve as a barrier. Such barriers may be constructed in series at a horizontal interval of 3-5 m and interspace planted with suitable soil-conservation species.
+
+Bench terracing
+
+Mild slopes (less than 10%) can be eased out by constructing bench terraces at a horizontal interval of 10-20 m as per the site conditions. Continuous trenches are dug on the downstream side and planted with vegetation like Vitex negundo (sambhalu), hybrid napier (hathi ghas), Saccharum spontaneum (kans), Acacia catechu (khair), etc.
+
+Geotextiles
+
+Types of geotextiles can be characterized by their composition (natural or synthetic), depending on whether geotextiles are biodegradable or permanent. Geojute and coir nets are commonly used biodegradable geotextiles, and geotextiles made from synthetic polymer materials are of permanent type and are non-biodegradable.
+
+Natural geotextile (also called Bhoovastra) is a woven net of jute or coir fibres used in soil conservation and slope stabilization works. Geotextile is biodegradable and is primarily used for initial establishment and growth of vegetation on highly degraded slopes. The netting structure of the geotextile acts as miniature check-dams and serves functions of: (i) protection of land surface from splash erosion and surface run-off, (ii) holding seed/vegetation in place from washing away by run-off, (iii) conserving fine soil and moisture for plant germination and establishment, and (iv) providing mechanical strength to land surface. Coir geotextile (specification H2M6) or geojute (soil saver) may be used for slope stabilization and erosion-control purposes.
+
+V-ditch/ridge-ditch or contour furrows
+
+Soil is excavated along contours so as to form V-ditch/ridge-ditch or furrows and excavated soil is put on the downstream side to form bunds. The V-ditch/ridge-ditch or furrows serve to conserve moisture for establishment of plants. Grass planting may be done inside ditch/furrows or on bunds. In due course of time, the furrows/ditch gets filled up with fine soil.
+
+Live check-dams
+
+Rills/small gullies may be stabilized by planting live check barriers/dams. Large woody cuttings (8-10 cm diameter) are planted across gully on contours. The cuttings
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 353
+
+may be 1.0 m long, 0.5 m of which may be underground and 0.5 m aboveground. The horizontal spacing between the two rows of the check-dams may. be 3-5 m. The vegetation when grows up will form a barrier and trap soil/debris moving down the slope. In due course, the cuttings shall develop as trees and provide protective cover to denuded area.
+
+These are low-cost structures to reduce erosion in smaller gullies and can be used in between masonary check-dams. They are made of a variety of woody cuttings with plants which sprout quickly. Spacing of the plants depends on gully conditions but normally it should be 30-50 cm. The commonly used species are Erythrina suberosa (mandar), Lannea grandis, Morus alba, Bombax ceiba, Salix tetrasperma (jalmala or willow), Vitex negundo (sambhalu), Ficus infectoria etc.
+
+Wattling
+
+Wattling is a method of breaking length of slope into shorter sections by providing contour wattles at 3-5 m interval up to 33% slope. Trenches (0.3 m wide and 1 m deep) are dug-up on contour and filled with brushwood bundles (5-6 cm diameter) lying horizontally. On the downhill side of the trenches, posts of species, which sprout on planting, are placed at 100-125 cm spacing. Examples of such self-sprouting species are Ficus infectoria, Lannea coromandelica, Erythrina suberosa (mandar), Vitex negundo (sambhalu), Salix tetrasperma (jalmala or willow), Hamiltonia suaveolens (padora), etc. If posts of these species are not readily available, posts of any other hard wood species can be used. In landslide control project at Nalotanala near Dehra Dun, posts of Cassia fistula (amaltas), Mallotus philippinensis (rohini) and Cocculus laurifolius were also used. The trench is then filled back with dug-up earth up to about 10 cm from the ground level. The posts are woven around with locally available shrubs up to about 20 cm above the ground level.
+
+The permeable barrier reduces length of the slope and does not allow run-off to attain erosive velocity, and allows it to pass safely and induce debris deposition. In due course, the posts sprout and offer stability. The inter-space between two barriers can be protected by mulching. In mulching, a protective cover of locally available grasses is provided to safeguard bare soil from impact ofrain drops. A thick layer (5— 7 cm) of locally available grasses like Chrysopogon fulvus (gorda) is spread over the area. The grass is then tied with a binding wire of 20 gauge to prevent wind or run-off water from displacing mulch out of position. About 13,500 kg of air-dry grass will be required to mulch 1 ha of slide face.
+
+Channel stabilization measures
+
+Drainage channels/gullies are carriers of run-off and sediment in a watershed. In the upper reaches of the watershed, the small gullies need to be plugged to help in revegetation work. In middle reaches, the steep bed gradient (slope) of the drainage channel causes high run-off velocities with associated heavy sediment flow. Hence, channel gradients need to be reduced to bring run-off velocities within permissible limits. In lower reaches of channel, the flow often needs to be guided to prevent overflooding and bank erosion. According to channel conditions, the following structures may be used.
+
+Temporary check-dams
+
+First order gullies/channels in the upper reaches of the watershed receiving small quantities of run-off may be stabilized by temporary check-dams,which are constructed of loose stone masonry, brush wood, log wood etc. Their design life is usually 3-5 years, during which period vegetation is expected to establish and later provide protection to surface.
+
+Gabion check-dams
+
+The gabion check-dams are constructed in the main drainage channel, usually in the middle and lower reaches for grade stabilization of channel bed and for retention of soil/ debris. The run-off velocity and con sequently debris carrying capacity of flow within the inter-structure reach reduces due to reduction in channel gradient. The check-dams encourage good plant cover not only along the bank but also in the bed of the stream due to increased moisture regime. Gabion structures are made with stones/boulders hand-packed closely in wire-mesh cages made with zinc-coated galvanized iron (GI.) wire of 10 gauge (3.15 mm) thickness. The wire should conform to proper specifications (IS: 280: 1978). The boxes may be fabricated with a dimension of 3 m x 1 mx | morother required dimensions with a mesh opening size of 10-20 cm depending on the stone size. Gabion structures are preferred in soil conservation works as they are: (a) Flexible (bend without breaking), (b) porous (water can seep through them), (¢) stable, and (d) economical, as compared to cement structures. As a general rule, the check-dams should be so located that the compensation gradient, i.e.the slope between the bottom of one structure to the top of immediate structure down below, is within the permissible slope limit, which is usually up to 3-5%.
+
+Spurs
+
+The uncontrolled run-off in the lower reaches of the main drainage channel often causes bank erosion and tends to overflow banks. Spurs are generally used in lower reaches of the channel to guide stream flow along a desired alignment and to prevent bank erosion by aiding sedimentation along it. Spurs are structures constructed at an angle to the stream flow, extending from the bank into the stream. The projected length of spurs should be less than one-third of the stream width and the spurs may be spaced 3-4 times the length to give a continuous protection along the stream. Downstream pointing spurs at an angle of 30— 45° from the bank can be used for flow guidance. Short length and closely spaced 90° spurs may be used for quick sedimentation and bank reclamation.
+
+Permanent gully-control structures
+
+Permanent gully-control structures are used where run-off from catchment is too large to be handled with vegetative or simple practices or where high degree of safety against loss of life and property is warranted.
+
+Three basic types of permanent structures are employed in gully stabilization, (i) drop spillways, (ii) chute spillways, and (iii) drop inlet spillways (Fig. 11.3). Chute spillways are used at the gully head to convey water safely to gully bed. The drop spillways are used along the gully bed as grade-stabilization structures for preventing gully bed and side erosion. The drop inlet structures are used at appropriate
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 355
+
+locations in the gully for storage of water in addition to gully stabilization.
+
+These structures consist of three major components—the inlet, the conduit and the outlet. Water enters through inlet, conveyed through conduit and then it leaves structure through outlet. The outlet is mainly responsible for dissipating energy of water so that it does not cause downstream erosion.
+
+Drop spillway
+
+Drop spillway is a weir structure. Flow passes through weir opening, drops to an approximately level apron and stilling basin and then passes into the downstream channel. The principal components of the drop spillway are: (i) head wall and head wall extension, (ii) side walls, (ii?) wing walls, (iv) apron, and (v) longitudinal spills (Fig. 11.4).
+
+The drop spillway is an efficient structure for controlling low heads, normally up to 3 metres.
+
+Chute spillway
+
+Chutes or chute spillways carry flow down steep slopes through a concrete or
+
+masonry channel. Chutes are used at gully heads to safely convey water from land surface to gully bed (Fig. 11.5).
+
+Chute structures are particularly adopted for gully head control, and they could be used for drops up to 5-6 m.
+
+Drop inlet spillway: Drop inlet spillway is used in a gully towards downstream part to create storage of water. This structure not only helps in protecting gully but also creates water storage. The stored water could be useful for irrigation or other farm uses. A series of drop inlet spillways can be used for preventing downstream
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 357
+
+flood and sediment load. The drop inlet spillway consists of inlet, conduit and outlet. An earthen embankment helps in storing water, and emergency spillway essentially lets out excess water safely. The riser of a drop inlet spillway may be of cement concrete, masonry or pipe. For conduit, RCC pipes are generally used (Fig. 11.6).
+
+REHABILITATION OF MASS EROSION PROBLEM AREAS
+
+Landslides and minespoils are major mass erosion problems on hill slopes causing heavy soil erosion and land degradation. The soil erosion may be as high as 550—4,000 tonnes/ha/annum. Torrents, the seasonal monsoon rivers on foothills, cause severe bank erosion and land degradation. These problems cause considerable damage to ecosystem and pose a constant threat to life and property of inhabitants.
+
+Landslides
+
+Landslides are of common occurrence in hilly areas in general and Himalayas in particular. Natural factors like steep slopes, fragile geology, high seismic activity and good rainfall make such regions highly susceptible to landslides. The problem gets aggravated by extensive deforestation, unscientific cultivation on steep slopes and rapid increase in developmental activities like road construction, mining and rampant building constructions on hill slopes. Landslide is a downward movement of a mass of rock or soil as a result of slope failure. The main reason for landslide occurrence is gravity force involving failure of earth materials under shear stress, i.e. when the shear stress exceeds shear resistance of soil mass. The landslides cause considerable damage to natural resources of land, water, vegetation and other infrastructure facilities like roads, habitation, communication lines etc. every year during rainy season. Many a times in the past, massive landslides chocked natural river systems and turned catastrophic when artificial lakes so created burst opend and caused massive floods. Many of the landslides occur due to mismanagement of land and water resources and can be rehabilitated by appropriate bio-engineering technologies.
+
+Extent of the problem
+
+In view of the geological and seismic disturbances, landslides must have been occurring in the Himalayas since time immemorial. Nearly 44,000 km of hill roads have been constructed in Himalayan region, where landslides are a chronic problem during monsoons. On an average, there are about 10 medium size landslides in each kilometre, each of which deposits about 500 cubic metres of debris on the road. Major landslides in the Himalayas are estimated to cause an annual loss of more than 50,000 man-hours and 5,000 vehicle-hours per km on hill roads due to disruption of communication alone. The country suffers a loss of Rs 150 crore annually towards the cost of removal of debris from the roads and loss of vehicle hours. National Highway No.31A (Ranipur—-Rangpur) in Sikkim is a veritable live museum of landslides. Any activation of landslides like Nashri, Khuni Nala on National Highway No. | cuts-off Kashmir valley from rest of the country affecting trade, tourism and defence activities.
+
+Causative factors
+
+Factors causing landslides may be broadly classified into two major categories: (i) those due to natural processes or non-preventable, viz. geological, hydrological and seismic, and (ii) those due to human activities (anthropogenic), which are preventable.
+
+Natural factors
+
+Geological: Landslides are dependent on the nature of earth materials involved and their structures. Thin beds of clayey limestones, shales, highly jointed sedimentary beds, ash beds and schist varieties are all indicators of weak zones. If along with these, structural deformities like steep dips, folds and faults accompany, the likely danger increases further. Landslide hazard is indicated if a stronger formation overlies a weaker one.
+
+Hydrological: Water seeping through disturbed slopes, toe-cutting by rivers and torrents and pore water pressure in the soil zone are responsible for landslides. The landslides mostly take place after heavy rainfall. Rainwater has mainly three effects: (i) it increases effective weight of material due to saturation, (ii) lubricates any sliding plane specially of shales, and (iii) causes weakening of strata.
+
+Seismic: The intensity and frequency with which earthquakes are felt in a particular region will also influence occurrence of landslides. Cracks developed in the underground rock layers, following an earthquake, may result in landslides during monsoon due to reduced shear strength of the underground strata.
+
+Anthropogenic factors
+
+Landslides may be caused or aggravated by a single or a combination of man-made activities such as deforestation and overgrazing; unscientific land use and agriculture on steep slopes; unscientific mining and road construction; forest fires; and unplanned construction activities.
+
+Landslide mapping
+
+Landslide hazard zonation (LHZ) involves evaluation of hazard or risk caused due to slope failure processes. Hazard zonation mapping may be defined as a technique to evaluate stability of a slope, and categorizes slopes into various zones according to probability of their failure. The landslide hazard and risk mapping are useful tools for planning development schemes and in avoiding damages to life and property. The LHZ and landslide risk assessment (LRA) mapping can be done at the regional level on J : 25,000 to 50,000 scale. The LHZ mapping takes into account positive factors such as lithology, structure, slope morphology, relative relief, landuse and hydro- geological conditions, The final LHZ map categorizes area into very high hazard (VHH), high hazard (HH), moderate hazard (MH), low hazard (LH) and very low hazard (VLH) to indicate very high to very low probability of occurrence of landslide. The landslide risk assessment (LRA) mapping on regional scale can be done by methodology following an estimation of the extent of the damage to life and property, which are likely to result if landslide occurs.
+
+Landslide control measures
+
+Although one has no control over natural causes of landslides such as geological
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 359
+
+and seismic, with proper management of run-off water and revegetating degraded slopes with the help of soil-and-moisture conservation measures, highly degraded lands can be rehabilitated and put to economical use. In such lands, establishment of vegetation is difficult due to high run-off/debris movement, lack of moisture and absence of fertile soil. Engineering or mechanical measures are, therefore, needed before revegetation programme is undertaken to stabilize slopes and control run-off water.
+
+Engineering measures
+
+The engineering measures may be mainly grouped as: slope-stabilization measures and channel-stabilization measures.
+
+Diversion drains help in diverting excess run-off water from entering into a slide area. Contour trenches have been found useful for conservation of moisture and establishment of vegetation on the degraded slopes. For providing mechanical stability to steep slopes, log wood crib structures and retaining walls can be constructed. Geotextiles-nettings made from jute or coir fibre have been found useful for revegetating highly degraded slopes. In the upper reaches of the watershed, the small gullies need to be stabilized through construction of brush-wood/loose-stone check- dams. In the middle reaches, the steep-bed gradient of a channel causes high run-off velocities associated with heavy sediment flow. Hence, channel gradient needs to be reduced by constructing a series of wire-crated gabion check-dams to bring run-off velocities within permissible limits. In lower reaches of the channel, the flow may need to be guided through spurs to prevent bank erosion.
+
+Vegetative measures
+
+Mechanical measures must be reinforced with suitable vegetative measures to ensure protection of landslide-affected area. The reclamation approach should be of ecological succession through natural evolution of the site, supported by artificial means. Therefore, species which are found locally and those which are capable of colonizing degraded areas should be preferred. The species having following characteristics should be selected: (i) adaptability to climate and soil conditions of the area; (ii) provide quick green cover and have good soil binding capacity; (iii) are fast growing and of primary colonizing nature; (iv) have good erosion control characteristics; (v) can fix atmospheric nitrogen and ameliorate soil by addition of organic matter through plant litter; (vi) can attract birds, butterflies and other forms of wildlife and also encourage soil fauna; and (vii) are of social and economic value to local population and serve their requirements in terms of fuel, fodder, fibre and minor forest produce.
+
+Grasses have been found to be the best proposition for quick establishment of the initial vegetative cover. Leguminous species like Leucaena leucocephala (subabul), which is also a multipurpose tree (MPT), and Pueraria lobata (kudzu), are good soil , conservation species, which enrich soil by fixing atmospheric nitrogen.
+
+Landslide control project, Nalota Nala—a case study
+
+To evolve integrated bio-engineering technology for landslide control on watershed basis, a 58 hectares Nalota Nala watershed having active landslide (4 ha area) was taken up for treatment by the Central Soil and Water Conservation Research and Training Institute, Dehra Dun, in 1964-65.
+
+This Nalota Nala watershed located at about 18 km from Dehra Dun on the Mussorie- Dehra Dun road is typical of the outer Himalayan slopes of the region. The elevation of the watershed ranges from 1,075 m to 1,225 m above mean sea level. The vegetation on the landslide area then consisted of small degraded patches of Wendlandia exserta, Woodfordia fruticosa, Indigofera pulchella and Boehmeria rugulosa along with tufts of Erianthus filifolius and Eriophorum cosmosum. The rock formations of the watershed are mainly black and grey sheared slates belonging to Chandpur formation. The area is just north of the Main Boundary Fault (MBF), causing geological instability in the region. Soils on the landslide area were very coarse with low organic matter content. Hill slopes are steep to very steep, ranging from 30 to 60°. Annual monsoon rainfall (June—Sep) varies from 2,026 to 3,811 mm as recorded at the site (1968-1976).
+
+Integrated measures for restoration of ecosystem in the watershed initiated in 1964 comprised (i) protective, (ii) engineering, and (iii) vegetative measures.
+
+Protective measures: Protective measures were intended to prevent all forms of biotic interference and to protect the area from further degradation as well as to allow rehabilitation works to progress unhindered. These measures taken with people’s co- operation consisted of: (a) closure of area, (b) stopping of grazing by cattle, and (c) prevention of fuel-wood cutting/gathering. The measures assisted in natural regeneration of vegetation in the area.
+
+Engineering measures: The landslide watershed was divided into 3 reaches, viz. upper, middle and lower reaches, based on the degree of slope requiring specific treatment. In the upper reach, construction of a series of stone checks and crib/log wood structures in the small drainage channels was undertaken wherever needed.
+
+Construction of a series of gabion-drop structures to stabilize bed slope and reduce velocity of run-off water within non-erosive limits was adopted in the middle reach while in the lower reach toe/retaining walls for checking under-cutting of slope face supplemented by gabion spurs to centralize the flow were constructed.
+
+The engineering structures helped in stabilizing loose debris and assisted in establishing vegetation by conserving soil/moisture.
+
+Vegetative measures: Vegetative measures help in interception of rain, retard flow velocity and hold soil mass through anchoring by root system.
+
+Plantation. Plantation of fast growing, drought-resistant, hardy-plant species suitable to the region, such as Vitex negundo, Arundo donax, Morus alba, Acacia catechu, Agave americana, Erythrina suberosa, Salix tetrasperma, and Grewia optiva was undertaken.
+
+Landslide face stabilization. To stabilize highly eroded landslides face, the following techniques were adopted.
+
+Contour wATTILING— Contour wattling was used to revegetate eroded slopes up to 33% slope. Trenches (0.3 m wide and | m deep) were dug on approximate contours across the slope at 5—7 m intervals. Posts of self-sprouting species like Salix tetrasperma and Vitex negundo were planted at about 1 m spacing. The brushwood meshes were woven around posts 20 cm above the ground.
+
+Mutcuinc~ A thick layer of locally available grass (Chrysopogon fulvus) was spread between wattled area to retard flow velocity and arrest silt. The grass was tied across with 20 gauge GI wire to check movement of mulch with water.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 361
+
+Benefits
+
++ Reduction in monsoon run-off from 54 to 32% and attenuation of flood peaks (1964-94).
+
+* Reduction in debris load from 320 tonnes/ha/year to 5.5 tonnes/ha/year.
+
+* The stream which used to dry within two months after monsoon season became perennial and met irrigation and drinking water requirements of the local people.
+
+¢ The area has now a good stand of useful vegetation comprising different trees, grasses and shrubs. Grasses like napier and Chrysopogon fulvus yield 15-20 tonnes/ha and 2 tonnes/ha respectively. These grasses as well as leaves from fodder trees can be utilized in a controlled manner by local people without any adverse effect on the geo-environment.
+
+Reclamation of minespoil areas
+
+The contribution of mining industry is next only to agriculture in the world economy. With rapid industrialization, large quantities of ores are being extracted. Consequently, mining and its allied activities have ravaged and wasted large tracts of land surface and land forms. In India, mining is spread over 943,380 ha covering about 3,100 working mines comprising 566 coal, 561 metallic and 1,973 non-metallic minerals.
+
+Mining invariably entails removal of all plant cover on the land surface and productive top soil, and destroying habitat for flora and fauna. Moreover, most of the mining sites are located in reserve forests and ecologically fragile zones. The unscientific mining has resulted in immense damage to fragile ecosystem in the form of heavy soil erosion, depletion and pollution of water resources, land degradation, disruption of communication systems and floods.
+
+Mineral policy and rules
+
+The Mineral Conservation and Development Rules (MCDR), 1988, provide for preparation of Environment Management Plan (EMP) before the beginning of the exploration work. Eco-friendly mining, therefore, calls for environmental considerations at pre-mining, during mining and post-mining stages. Ecologically fragile zones and forest areas should be avoided for mineral exploration. Environmental impact assessment (EIA) of the proposed mine site should be carried out and accordingly an EMP be made and implemented. If the mining activity is carried out in a dense forest area, provision for meeting food needs of wild life and maintaining their corridors should be kept in mind. Scientific mining methods and machines should be employed during mining to restrict environmental damages to minimum. Preventive measures should be taken to avoid contamination of water-bodies by toxic mine-wastes. Proper selection of area for waste dumping should be done, avoiding forest patches, proximity to water sources and steep slopes and gullies. After mining is over, ecological restoration of area should aim at maintaining self-sustaining biodiversity for flora and fauna.
+
+Bio-engineering technology for minespoil reclamation
+
+Bio-reclamation of degraded lands due to mining is called for to transform them into self-sustaining ecologically bio-diverse stable land form. The rehabilitation strategy should aim at: (i) stabilizing mine-spoils against soil erosion, (ii) improving
+
+bio-physico-chemical properties of soil, (iii) controlling water and air pollution, (iv) providing forage and browse for cattle/wild life, (v) preserving biodiversity and habitat, (vi) maintaining and enhancing aesthetics of mining area, and (vii) promoting a beneficial post-mining land use. However, a number of factors such as poor physical conditions, poor nutritional status, elemental toxicity, unfavourable pH and moisture regime, coarse texture or compacted structure limit revegetation of such sites.
+
+Mechanical measures are often needed on such degraded lands to provide slope stability and to conserve moisture and fine soil for establishment of vegetation. Hence, an integrated bio-engineering technology is essential to provide a protective vegetative cover on mine-spoils. Choice and selection of species should be guided by the following factors: (7) local and native to climate and soil, (i) provide quick cover and having good soil binding characteristics, (iii) primary colonizing nature, (iv) suit spoil reaction, e.g. lime loving for limestone mines, (v) nitrogen fixing from atmosphere, and (vi) social and economic value to local population. Undergrowth of shrubs, herbs and grasses should be encouraged for nutrient retention and recycling. The bio-reclamation action plan may involve: (i) protection of area from biotic interference, (ii) imple- mentation of soil-and-moisture conservation and drainage line treatment measures, (iii) soil amendment and fertility management, and (iv) plantation work and repair and maintenance of bio-engineering works.
+
+Case studies
+
+Bio-reclamation technology has been evolved successfully for some mine geo- environments of the country by different research and development organizations. The Central Soil and Water Conservation Research and Training Institute (CSWCRTD, Dehra Dun and Indian Council of Forestry Research and Education (ICFRE), through their research projects located at Sahastradhara and Maldeota near Dehra Dun, have recommended a package of bio-engineering practices for rehabilitation of abandoned and highly degraded limestone mined lands in the Himalayan terrain. The bio- engineering measures include a network of flexible wire-crated gabion check-dams for drainage line treatment, log wood crib structures, retaining walls and geotextile for slope stabilization, contour trenches, bench terracing and pits for moisture conservation.
+
+Impact of rehabilitation measures
+
+Owing to rehabilitation measures, the mined watershed at Sahastradhara was well vegetated and stabilized within 6 years. The debris/soil loss from watershed was brought down from 550 to 6 tonnes ha/year which saved an annual recurring expenditure of about 1.5 lakh on the clearance of debris deposited on road. The conservation measures reduced surface run-off and flood peaks and increased dry weather flow. The water quality improved due to reduction in calcium content and suspended sediment. The soil properties also improved due to incorporation of biomass. In addition, valuable resource of fodder trees/grasses for use by local population was generated in watershed. In Maldeota mine, the fodder and fuel wood production increased substantially after reclamation. Significant increase in soil nitrogen level was observed and nutrient return (NPK) was 24 tonnes/ha. In a nutshell, a stable and diverse self-sustaining ecosystem
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 363
+
+was established. Intensive ecological study on revegetation of mine-spoils by BHU, Varanasi, at Northen Coalfields Limited, Singrauli (Uttar Pradesh) indicated that native legumes are more efficient than exotic ones in improving soil properties during a short time. The efforts made by the National Mineral Development Corporation (NMDC) Ltd, included bench terracing of over burden material to ease out slope and providing proper drainage for rainwater through garland and storm water drains. Hydromulching was resorted to for revegetating inaccessible areas. The cost of mine spoil rehabilitation by bio-reclamation technology has been estimated as about Rs 50,000/ha on an average.
+
+Eco-restoration of different types of mine-wastes has been carried out in India at a number of locations. The general recommendations are: (i) as far as possible, top soil should be scrapped at the beginning of mining operation, stored and again spread back before rehabilitation process, (i/) regrading of dump to stable slope, (iii) soil ameliorants such as farmyard manure (FYM), organic manure, green manure, fly ash, leaf litter, saw dust, press mud etc. have been found useful for debris fertility management, (iv) for acidic waste management in pyrite mine, proper water drainage is essential, (v) biofertilizers have been used successfully for quick growth of vegetation in minespoil, (vi) native vegetation species and shrubs are preferred, and (viii) lakes and ponds may be established at abandoned mine sites for fish production, aquatic life and to serve as sanctuaries for birds.
+
+Torrent and stream bank erosion control measures
+
+Torrents, the ephemeral rivers, known by different names such as choes, raos, khuds etc. are characterized by flash flows accompanied with high debris load during monsoon. They cause extensive flood damage to adjoining lands, life and property as aresult of frequent changes in their course and associated flash floods. About 2.7 M ha is affected by torrents in the country. In the Shiwalik region, around 1,517 km? area comes directly under the course of torrents affecting about 7,500 km? of adjoining area in the states of Uttarakhand, Uttar Pradesh, Himachal Pradesh, Haryana, Punjab, Jammu and Kashmir and union territory of Chandigarh. The torrent training measures include spurs, protection walls, embankments and bio-fences etc. Spurs are used for flow guidance, protection walls and embankments for prevention of overtopping of banks by flood water and biofences for bank protection either alone or in combination with engineering measures.
+
+Spurs
+
+Spurs are commonly used structures for torrent and stream training. These structures are constructed transverse to river flow extending from one of the banks at an angle to the flow. According to the function served, spurs may be of three types: (i) attracting type (pointing downstream at an angle of 30-45°), (ii) deflecting type (at 90°), and (iii) repelling type (pointing upstream, 5—10° normal to flow).
+
+Suitability
+
+The functions of a spur system may be one or a combination of: (/) protection of river banks (including land, habitation and other infrastructure); (ii) reclamation of
+
+land along torrent banks, in excess of that required for flow discharge; and (iii) diversion of flow in a desired direction.
+
+Design criteria of spurs
+
+As spurs are quite expensive, they should be judiciously planned and executed optimally at the most crucial reaches along the river course. Some of the important factors that determine design parameters of spurs are as follows.
+
+Nature and extent of the problem: In the river reach where damage is severe and it poses a threat to the adjoining life and property, use of spurs and other engineering structures is justifiable.
+
+River characteristics: Factors like river geometry (width, flow depth, bank heights), flow velocity, flow pattern, bed slope, sediment-debris-boulder movement, river meandering and curvature are important parameters that may determine design specifications of the structures.
+
+Spur geometry: The length of spur, its alignment to flow, shape and permeability are important design considerations.
+
+Spur length. Construction of a spur causes constriction of river flow which should be limited, so as not to affect river regime adversely.
+
+Alignment of spur. As the angle of the inclination of the spur along the flow direction increases, its sedimentation capacity increases but stability decreases due to greater scour.
+
+Shape of spur. In oblique faced spurs, such as with trapezoidal cross section, the scour depth is lesser because of energy dissipation of incoming flow on the sloping wall. Simple rounding of corners and edges of spurs reduce scour considerably.
+
+Permeability of spur. Permeable spurs such as gabion and vegetative spurs are more efficient, less expensive and can be made by locally available material.
+
+Spacing of spur. The recommended optimum spacing of spurs is 3-4 times the projected spur length.
+
+Vegetative measures
+
+Arundo donax (narkul or nada), Vitex negundo, Ipomoea carnea (besharam), bamboo etc. have been found useful as biofences and for vegetative reinforcement of structures. Grasses like munj, kans (Saccharum spontaneum) and doob (Cynadon dactylon) are excellent for stabilization of earthen embankments.
+
+Scour protection
+
+Suitable protection device in the form of an apron (below ground) level is essential to prevent spur failure by scour.
+
+Recommended practices
+
+The general guidelines and practices for use of torrent/river training structures are as follows.
+
+¢ Where torrent width is sufficient, attracting spurs with an angle of 15—45° (from downstream) may be used for flow diversion purpose.
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES . 365
+
+If spur length is long, its angle should be kept low and vice-versa. Normally, spur length may be kept 10-15 m for greater stability.
+
+If objective is to protect important installations/land along torrent bank, a gabion protection wall along with short 90° spurs (3-5 m length) may be used for quick sedimentation.
+
++ For continuous protection, a series of spurs along the river may be used.
+
++ The construction of spurs should not constrict torrent width excessively (in no case more than one-third of the torrent width).
+
+Vegetative retards
+
+The vegetative retards are constructed along the stream and serve the purpose of dampening stream velocity sufficiently near the bank to prevent erosion of banks or scouring of its toe by inducing deposition. There are 2 types of retards.
+
+Live hedges: Shoots of Ipomoea carnea, Arundo donax, hybrid napier and Jatropha carcas may be planted in trenches (60-cm wide) to serve as live-hedges.
+
+Arundo donax (narkul) has very strong root and shoot system to resist flood flows, and is ideally suited for bank protection.
+
+Jacks and jetted posts: Jacks are wooden posts of 8-cm diameter and 2-3 m in length, which are placed in series along the eroding bank and are tied together. Jetted posts are green posts of 2-2.5 m in length and 6-12 cm diameter which are erected along the actively eroding banks in two rows, | m apart.
+
+Protection/toe walls
+
+Gabion protection/toe walls are constructed along the vulnerable torrent banks to prevent bank cutting and erosion. They may be used singly or in combination with spurs. Generally, height of wall is restricted to 3 m. The top width is kept 1 m and base width can be taken 2/3rd of the height of the wall.
+
+Revetments
+
+Revetments are used where protection by plantation is not possible and valuable properties extend right up to the edge of the stream bank. Both vegetative (brush mat revetment) and/or mechanical measures (rock riprap) are used in this method to cover stream banks depending on the site conditions.
+
+Rehabilitation of reclaimed land along torrent banks
+
+Through torrent control measures, the flow can be restricted to a defined course and the adjoining lands can be reclaimed and economically used by planting suitable vegetation. Fuel, fodder, fibre and even horticultural plantations can be raised in reclaimed lands along the banks of the torrents. Tree species like khair (Acacia catechu), shisham (Dalbergia sissoo) and bamboo have been found promising. For Shiwalik region of Punjab and Haryana, vilayati babool (Prosopis juliflora), kikar (Acacia nilotica), jungle jalebi (Pithocellobium dulus) and Eucalyptus are suitable and for Uttarakhand Shiwaliks, shahtoot (mulberry) and bamboo are promising. The benefit: cost ratio of torrent treatment varies from 2 to 2.65:1, which proves that it is highly cost-effective.
+
+WATER HARVESTING AND RECYCLING
+
+The rainfall distribution in the country is highly variable, the extremes varying from less than 100 mm rain annually received in the western-most part of the country and around 12,000 mm in the eastern-most part. About 30% of the country receives less than 750 mm rainfall, 42% of the area picks up between 750 and 1,250 mm and 20% receives rainfall between 1,250 and 2,000 mm annually. In terms of temporal distribution, the total rainfall occurs in less than 150 hr and half of it descends in not more than 20-30 hr of heavy spells. Hence, run-off is a prominent feature of the hydrologic cycle. The monsoonal run-off if flows uncontrolled causes soil erosion but if used judiciously can be a boon for improving crop production in rainfed areas. It is noteworthy that rainfed areas which constitute about 63% (89 million ha) of cultivated land in India account for only 45% of the total food production. Since irrigation consumes over 80% of the available water, and conventional irrigation of all the rainfed lands is not feasible, there is a tremendous scope for improving their productivity through rain-water harvesting.
+
+Rain-water harvesting
+
+Rain-water harvesting is the collection, storage and recycling of rainwater for irrigation and other uses. India is characterized with wide variations in physiographic, climatic, soil, environmental and socio-economic conditions. Therefore, rainwater harvesting technology is highly location-specific. The various rainwater harvesting practices in vogue may be broadly grouped as: (i) in-situ retention of rainfall on the land itself by agronomic/mechanical measure, (ii) harvesting surface run-off from land surface and its storage for later use, (iii) diversion of perennial surface/sub-surface water source (springs and streams) in storage structures, and (iv) roof-top water harvesting.
+
+The in-situ water-harvesting practices include bunding and terracing, ‘vegetative barriers, contour bunding, contour ditching, levelling, contour farming, cover crop and mulching, conservation tillage and deep ploughing.
+
+The surface run-off water harvesting can be achieved through dugout ponds, tankas, khadins, ahars/havelis, diversion bunds and roof-top rainwater cisterns.
+
+Stream flow run-off harvesting is practised through nala-bunding, check-dams, stop dams, bandharas (weirs), percolation tanks/ponds and nadi. Subsurface dams/ barriers, diaphragm dams, bandharas are used for sub-surface flow harvesting.
+
+Indigenous practices
+
+People through ages across the various agro-ecological regions have come up with indigenous and unique water-harvesting structures and systems displaying their innovative technical skills which are as follows.
+
+North-West Himalayas: Water is diverted from a source to agricultural fields through small channels known as kuhils or guhls. Khaals and chaals were traditionally made at hill-top saddles for harvesting rainwater from adjoining slopes for drinking needs of livestock and water recharge. Aesthetically constructed naulas, which harvest natural subsurface flow are common in hilly areas for drinking-water purposes.
+
+North-East Himalayas: Bamboo pipeline is commonly used for water conveyance. In Meghalaya, a beautiful bamboo drip irrigation system is in vogue for ages. Zabo
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 367
+
+system of farming through rainwater-harvesting is practised in Nagaland. Roof-top water harvesting for drinking water needs is quite common in Mizoram.
+
+Arid and semi-arid areas: In Rajasthan, people have used scarce and little rainfall through rainwater-harvesting structures such as tankas (dugout and lined circular holes, 3-4 m diameter), nadi (small excavated or embanked village ponds), khadins (crops grown on harvested water by constructing earthen bunds) etc.
+
+Western and Central India: In Bihar and Uttar Pradesh, khadins are widely practised, where run-off water is collected behind an earthen bund usually 3 m in height. Haveli system of cultivation is a traditional water-harvesting practice in black soils of Bundelkhand region where rainwater is impounded in bunded fields during monsoon and rabi crop is taken on residual soil moisture.
+
+Eastern Ghat Region of Orissa: Jhola kundi is a low-cost water harvesting device in Jhola lands (low lands — widened and terraced gully beds) in Eastern Ghat High Land Region of Orissa. It is dug manually with depth varying from 2 m to 4 m and diameter of 3 m approximately for easy lifting of water through traditional water lifting devices. The harvested water can be judiciously utilized for growing post- monsoon and summer vegetables for augmenting productivity of Jhola lands.
+
+Tamil Nadu: In Tamil Nadu, a big stream is often diverted to feed a chain of 25-30 tanks in a sequence for irrigation of crops.
+
+Arid Kutch: In Kutch, the Maldhari nomads collect sweet water for drinking from well in tanks called virda.
+
+Water-harvesting potential
+
+The estimated potential volume of rainwater storage through small-scale water- harvesting structures in different rainfall zones of India is given in Table 11.21. A total storage of about 24 M ha-m can be created through such structures.
+
+Types of rainwater-harvesting structures
+
+Water-harvesting structures of various types, known by different names such as farm-ponds, small earthen dams, irrigation tanks, bundhis, percolation tanks and stop dams are used in the country. The most common water-harvesting structures are of two types: (a) embankment ponds for hilly and rugged terrains, and (b) excavated farm-ponds for flat topography.
+
+The dam should be located where maximum storage volume is obtained from minimum volume of earth fill, i.e. where the stream/river valley is narrow, with steep side slopes, stable earth formation, consolidated stream bed and nearly impervious
+
+368 HANDBOOK OF AGRICULTURE
+
+material. Also the irrigated command area should be close to dam/pond site. The design of an earth-fill dam includes: (a) foundation including key trench or cut off, (5) height of dam, (c) side slopes, (d) top width, (e) free board, (f) toe drains or filter, and (g) core wall.
+
+The storage capacity may be roughly calculated as:
+
+Storage capacity (ha-m) = 0.4 DA
+
+where D is the maximum depth of water (m), and A is the area of water spread at waste weir (ha).
+
+Water conveyance network
+
+Design of irrigation water channel at the farm level requires consideration of: (i) cross-section, (ii) alignment, and (ii) longitudinal section. Standard procedures are available for determining cross-section of earthen water courses using Manning’s or Chezy’s formula. A plan of layout of water courses in an outlet command area may be called optimum where it connects outlet with fields in its command with shortest possible length. The bed gradient of the channel should not be steeper than | in 200 in soft strata and | in 100 in hard strata.
+
+Participatory water management
+
+Any water management scheme is most efficiently run and maintained, if an active participation of all stakeholders is ensured during its planning, implementation and maintenance. Rational water-distribution system commonly known as warabandi aims at distributing available water equitably to all beneficiaries, whether they belong to upstream or are tail-enders.
+
+Recycling of harvested water
+
+The harvested rain water is a scarce resource and, therefore, should be utilized most judiciously. The supplemental life-saving irrigation given to crops at critical stage(s) can boost their production tremendously (Table 11.22).
+
+CONSERVATION TECHNOLOGIES FOR SUSTAINING NATURAL RESOURCES 369
+
+Studies conducted at the CSWCRTI, Research Centre, Chandigarh in Shiwalik foothills have shown that irrigation at pre-sowing stage alone increased wheat yield by 223%, two irrigations one each at pre-sowing and crown root initiation stage of wheat, increased wheat yield by 307% and three irrigations — one each at pre-sowing, crown root initiation and tillering stages increased wheat yield by 342% as compared to control.
+
+Efficient water utilization
+
+For efficient utilization of stored water like liquid gold, it is necessary to consider: (i) conveyance of water from pond to field, (ii) time of irrigation, (iii) method of irrigation, (iv) quantity of irrigation water to be applied, and (v) selection of crops and cropping systems that respond most to limited water supply. Application of 5-7 cm water at a critical stage of crop growth by most efficient method can increase yield of dryland crops considerably.
+
+The traditional methods of irrigation such as flooding, check basin and border irrigation result in poor conveyance and application efficiencies, particularly in porous soils. Hence, efficient water application methods such as furrow, sprinkler and drip irrigations need to be recommended to minimize wastage of stored water and to bring more area under command.
+
+Drip irrigation
+
+The drip irrigation can be defined as slow application of water near or into the plant root zone at a rate equivalent to consumptive use by surface or sub-surface emitters. Drip irrigation basically consists of mainline, submain, laterals, valves, drippers or emitters, riser valves and filters. Low density polyethylene pipes are laid along the plant or tree rows with outlets or drippers inserted at appropriate intervals. These are designed to supply water at the desired rate (1—10 litres/hr) directly to the soil. Low pressures ranging from 0.35 to 2 kg/cm” are sufficient. The performance of drip irrigation on horticultural and other high value row crops has been very encouraging.
+
+Sprinkler irrigation
+
+Sprinkler is an irrigation system that sprinkles water in a manner similar to rainfall. It is suitable in undulated topography, but its investment and operating costs are higher. Water is conveyed through a network of pipes, called mains and laterals under high pressure and is forced through nozzles of small diameter. Water is applied once in 2— 4:days period.
+
+Poly-lined tanks
+
+In hilly areas, use of low density polyethylene (LDPE) films (1,000 gauge or 250 micron) has been found suitable as a low-cost measure for lining of small tanks to check seepage losses. The LDPE film has been covered by stone-layer locally available. The cost/m? of water storage varied from Rs 50 to 120 (1985 price level). The LDPE tanks are particularly suitable for irrigation of horticultural crops.
+
+Multiple use of water
+
+. The harvested water can be judiciously used for multiple uses such as drinking,
+
+irrigation, livestock and fisheries to optimize water productivity. Farmers should be encouraged to form water users society for efficient water resource development, utilization and maintenance.
+
+An integrated farming system (IFS) based on multiple use of water, comprising water- mill, fisheries, poultry, piggery and agriculture developed for small and marginal farmers of North-Western Himalayas was found resource conserving and profitable with overall B:C ratio of 1.9:1 where the initial cost of IFS could be recovered within years.
+
+Groundwater recharge
+
+Increased use of groundwater and limited natural recharge have lowered water table to such an extent that many dug and tube wells have become dysfunctional in some states. Artifical recharge of groundwater has, therefore, emerged as one of the important interventions in watershed development programmes undertaken in the affected areas. Cost effective recharge filters have been developed by the CSWCRTI, Research Centre, Vasad (Gujarat), to divert runoff from arable and non-arable land for groundwater augmentation. The three tier porous filter supported with field bunds and check dams is designed to deliver a substantial quantum of sediment free water to open or tube wells through a buried pipeline.
+
+Economics of water harvesting
+
+The cost of generating micro-irrigation through small water-harvesting structures varies from Rs 9,000 to 20,000/ha; while cost of minor irrigation is estimated to be around Rs 45,000/ha (1995 price level). The benefit: cost ratio of various water- harvesting structures (Table 11.23) in different regions varied from 1.48 to 3.89.

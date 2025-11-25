@@ -1,0 +1,1283 @@
+SOURCE_DOCUMENT: Chapter 34.pdf
+
+34.0 Commercial Crops 34.1 Sugarcane and Sugarbeet
+
+SUGARCANE
+
+Sugarcane, Saccharum spp., complex is the main sugar-producing crop that contributes nearly 78.2% to the total sugar pool at the global level. It is the prime source of sugar in India; also holding the prominent position as the commercial cash crop. It occupies 3.5% (5.04 million hectares) of the total cropped area in the country. Sugarcane production in India has increased from 241.05 million tonnes in 1990-91 to 340.56 million tonnes in 2007-08. This has registered an average annual increase of 3.36 million tonnes with an addition of only about 0.081 million hectares per annum over the past one-and-a-half decades. A record sugar production of 28.37 million tonnes was achieved in 2006-07. Uttar Pradesh has the largest area (2.179 million hectares) under sugarcane, which is 43.2% of the total area in the country. But the production per hectare is the highest in Tamil Nadu, followed by Kerala, Karnataka, Andhra Pradesh, Maharashtra and Gujarat.
+
+Soil
+
+Heavy soils with good drainage are preferred for sugarcane cultivation, though it grows well on medium- and light-textured soils also with assured irrigation. Soils with 0.5 — 0.6% carbon content and pH 6.5 to 7.5 are most suitable for sugarcane growth. In northern India, it is cultivated largely on the loams and clay loams of Gangetic and other alluviums, and in peninsular India, it is grown on brown or reddish loams, laterites and black cotton soils. In many places, dark rich clay loams, 120 to 150 cm deep with an underlying impervious substratum of murrum (disintegrated trap-rock) are used for cultivating this crop. The provision of proper drainage enables resumption of cane cultivation on many heavy soils that may have become unfit for sugarcane due to waterlogging or alkalinity. In some areas in peninsular India, where the soils are heavy, 7-10 tonnes/ha of sand or red earth are added to soil to improve its internal drainage. Similarly, in sandy soils, tank-silt is added to improve their water- holding capacity.
+
+Climate
+
+Sugarcane can be grown in a wide range of climates from warm tropical south to foothills of Himalayas. Under warm humid conditions, it can continue its growth, unless terminated by flowering. However, its height is strongly influenced by the age of the crop and the season. For good bud-sprouting, moist soil and temperature range of 21-25°C are necessary, whereas emergence and tillering occur best at 30-35°C with relative humidity of about 50% and bright sunshine. Temperature above 50°C arrests its growth, and that below 20°C slows it markedly, and less than 10°C with severe frost proves fatal during its germination and establishment. The crop does its best in tropical region, receiving a rainfall of 750 to 1,200 mm. It can also be grown in subtropical areas; but where the climate is subject to extremes, with long dry season
+
+1196
+
+and distinct winter season, the growth period of the crop is restricted to barely 4 months and consequently yields tend to be distinctly lower than that in the tropics. In tracts receiving a relatively high rainfall (1,200 to 1,500 mm), e.g. in parts of Uttar Pradesh, Bihar, Orissa, West Bengal and Asom, the crop is grown without irrigation; thrives on the moisture conserved in the soil. For ripening, it needs a cool, dry season, where rainfall is too heavy and prolonged, the quality of the juice tends to be low; and where the weather remains comparatively warm and moist throughout the year, it does not ripen well. A range of 10-15°C between maximum and minimum temperatures, i.e. bright sunny days and cool nights with a mean temperature of around 15-18°C, lower relative humidity of 50-60% and frost-free days are essential for sugar accumulation and cane-ripening. In years of drought, the crop becomes a little fibrous and in dry areas generally only the hardy and more fibrous varieties can be grown. The climates of Maharashtra and parts of Karnataka, as also the Telengana area of Andhra Pradesh are ideal for sugarcane, and these areas attain very high sugar quality measured in terms of recovery percentage. In some of these areas, yield per hectare has shown a steady increase owing to improved cultivation.
+
+Crop rotation and intercropping
+
+Crop rotation and intercropping makes sugarcane cultivation more remunerative especially for small and marginal growers. Moreover, it reduces the adverse effects of monoculture or continuous cropping of sugarcane on soil and sustains its productivity.
+
+In the north-western parts of the country, the important sugarcane-based cropping systems are: rice-wheat-sugarcane-ratoon—wheat-greengram/blackgram, and rice- autumn cane + wheat-ratoon-greengram/blackgram/cowpea. Except when ratooned, the crop is not grown on the same land more than once in 3 or 4 years. In southern India, it is usually rotated with rice, and in Maharashtra the common rotation is sugarcane—ratoon—wheat or sugarcane—cotton-gram. In many localities, where crop is grown under irrigation from wells, it is rotated with garden-crops such as potato, chillies, sweet-potato, ginger, onion, turmeric, elephant foot-yam, or even bananas. In some localities, particularly near large towns, onion, radish, coriander, green cucumber and other quick-growing vegetables are grown as companion catch-crops on the ridges or in the interspaces when cane crop is young. The practice of taking potato, dwarf wheat, linseed, lentil, pea, rajmash, toria, coriander, berseem and turnip as intercrops in the inter-row spaces of the autumn-planted cane is gaining popularity in the northern region of the country. Besides, cowpea (green pods) and greengram are suitable inter- crops in spring-planted sugarcane, whereas berseem, shaftal and lucerne in winter initiated ratoon crop. Crop geometry needs to be changed to accommodate intercrops. Under spring planting, paired-row (120-30-120 cm) is suitable for intercropping. In canal-irrigated tracts of Karnataka and Maharashtra, a block system of irrigation is practised; under which a 3-year rotation is compulsory, the sequence of crops being rice-groundnut, sorghum (jowar)-finger millet (ragi)-sunnhemp and sugarcane, as in Karnataka; or sugarcane-fodder jowar-groundnut-tobacco—cotton and green manure, as in Maharashtra. In Telengana, the rotation involving sequence of sugarcane—ratoon— monsoon rice-winter rice, and sunnhemp-green manure has been found to be the best. Cabbage, onion, soybean and groundnut are suitable companion crops in tropical
+
+1197
+
+SUGARCANE AND SUGARBEET
+
+Preparatory tillage
+
+Sugarcane requires a very thorough and clean preparation of land. In peninsular India, where sugarcane soils are mostly clays and clay loams, | or 2 deep ploughings and 1 cross-ploughing with a mouldboard plough are necessary. These operations should be followed by clod breaking with a disc-harrow, a junior cultivator, a rotovator, a beam clod-crusher or even with wooden mallets and stout sticks. In alluvial loams of northern India, cultivators usually prepare fields after winter rains, or give pre- planting irrigation. At optimum soil moisture, the field is cultivated quickly and thoroughly with a desi-plough or tractor-drawn cultivator, till it is reduced to a fine tilth. In Bihar, the fields meant for cane are left fallow during preceding monsoon and are cultivated at the certain intervals to control weeds and conserve soil moisture till cane planting.
+
+Cattle manure, compost, pressmud and other slow-acting bulky organic manures are usually applied to soil and incorporated well in advance of planting. This practice helps to decompose manures and makes nutrients available. Where cane is green- manured, the leguminous crop needs to be ploughed in about a month before planting cane. In northern India, however, where a cold season intervenes, green-manure crop is ploughed in during September, and cane is planted several months later.
+
+Sugarcane is planted either in furrows or trenches. Depending on the method of planting and fertility of the soil, furrows or trenches are made 0.5—1.5 m apart. Comparatively narrow spacings are adopted in northern India, where planting is usually delayed, and wider spacings are common in peninsular India with long-duration cane. Furrows are made with a padded desi plough in northern India and with a heavy double mouldboard ridger in the peninsular India. Furrows made with the desi plough are quite shallow, being about 10 cm deep, and those made with a ridger are about 20 cm deep. Now tractor-drawn furrow opener is also used for making furrows. Where trench planting is adopted, trenches are dug by manual labour using pickaxes and spades, and they may be up to 25 cm deep. The trenches are also made by tractor-drawn trench maker. On large farms, all preparatory cultivations including ploughing, clod crushing, harrowing and ridge-making are at present mechanized.
+
+The adequacy of moisture is very much necessary for sprouting of sett-buds. In peninsular India arrangement for irrigation is made well before planting. In northern India and in Bihar, care is taken to conserve as much moisture in the soil as possible, so that planted cane is able to germinate satisfactorily. As the planting is necessarily done during the comparatively dry season, considerable loss of moisture from the soil and setts takes place, and usually only 30 to 40% of the buds germinate.
+
+Planting season
+
+In northern India planting is usually done with the onset of warm weather and is completed well before the onset of summer. On this basis the more eastern is the tract, the earlier is the time suitable for planting. Thus broadly first fortnight of March is the best time for planting sugarcane in Punjab and Haryana, February in Uttar Pradesh and January—February in Bibar. In actual practice, however, most of the planting tends to be late, rather than early. On large farms in northern India, where planting work is likely to be prolonged, a part of the planting is also undertaken in October-November (autumn planting). In Punjab, Haryana and western Uttar Pradesh, late planting of sugarcane is
+
+1198 HANDBOOK OF AGRICULTURE
+
+1198
+
+practised usually after harvesting of wheat in April or first week of May. High temperature in April-May leads to poor germination which is compensated by higher seed rate with narrow row-to-row spacing of 60 cm. In Tamil Nadu and Andhra Pradesh, cane is planted between December and February. In Maharashtra and parts of Karnataka, it is done in December-February for the 12 months crop, which is called eksali or suru, in October- November for the 15 and 16 months crop, which is called 'pre-seasonal', and in July- August for the 18 months crop, which is called adsali. Thus in these areas for crushing season lasting from December to April, cane is planted almost throughout the period of 8 months from July to February. This is possible because of the moderate climate, low rainfall, high elevation and consequent absence of water stagnation, and easy availability of adequate irrigation. Under such conditions, cane grows well and accumulates sugar, more or less continuously, and hence earlier plantings give higher yields and better-quality cane. The late-planted crops, apart from giving lower yields, are usually badly attacked by shoot-borers, which cause gaps in the stand of cane, and setback to its growth. Since crops planted in different months ripen in succession, by a suitable adjustment of planting, varietal planning and a planned supply of cane to factory, an acceptable level of sugar recovery can be ensured over a reasonably long crushing season.
+
+Seed cane
+
+Healthy seed material, free from insect-pests and diseases and having high viability, is essential for establishing crop in the first instance. The top one-third to half portion of the cane, being comparatively immature, has buds of good viability, and is the best portion for use as seed. The bottom portion is usually richer in sugar than the top portion, and it is best utilized for sugar or jaggery (gur)- making. In tropical India, the setts for planting are taken from well-manured, erect and healthy canes. In some parts of Maharashtra, Andhra Pradesh, Karnataka and Tamil Nadu, the crop nurseries are raised specially for producing seed-canes. These nurseries are adequately fertilized, and well protected against insect-pests and diseases.
+
+Seed cane production standards have been notified by the Government of India in 2001. For seed cane production, the IISR, Lucknow, has developed Three-tier Seed Programme which consists of production of Breeder seed, Foundation seed and Certified seed. The Breeder seed is produced from nucleus seed which is subjected to heat treatment for eliminating pathogens of seed-transmitted diseases. For heat treatment, an equipment called moist hot air treatment Unit has been designed and developed at the IISR, Lucknow. Full length seed cane are loaded on racks in the treatment chamber. About 5-6 quintals of seed canes can be treated at one time. The temperature inside the chamber is brought to 54° C through heating coils with relative humidity of 99%. Introduction of steam into the chamber creates humid condition. The seed canes are treated at 54°C for 2.5 hours and thereafter treated canes are cut into 3-bud setts and planted in microplots for raising Breeder seed. Another heat treatment method known as aerated steam therapy, developed at the Sugarcane Breeding Institute, Coimbatore, is also being practised. The seed canes are treated at 50°C for 1-3 hours. The temperature is raised through injection of steam in the treatment chamber.
+
+Micropropagation is useful for fast multiplication of seed material. Tissue culture plantlets are developed from apical meristem derived from plants raised after heat
+
+1199
+
+treatment. The plantlets after hardening process that takes place under controlled conditions, are transplanted in field for raising Breeder seed. It is planted by conventional method for production of Foundation seed which is further planted for Certified seed production. Minimum seed certification standards are observed during production of Foundation Seed as well as Certified seed. In commercial cultivation of sugarcane, the seed needs to be replaced with Certified seed at least after 5-year crop cycle as it reduces the risk of diseases and insect-pests that are transmitted through seed cane.
+
+Before planting seed for commercial production, the leaves of the cane-stalks are stripped off by hand to avoid damage to buds. These stalks are then cut into 3-bud setts each, usually 30-40 cm long. If seed-cane is required at a distant place, whole canes should be transported without stripping off leaves or cutting them into setts. If planting is to be delayed for any reason but seed-canes have been harvested, they should be heaped in shade under a thick cover of straw or cane trash, and should be periodically sprinkled with water. Under dry conditions of northern India, the soaking of setts in water for 4~6 hours before planting improves and hastens germination. In irrigated areas in peninsular India, the planted setts are liable to rot, and in some areas they are attacked by pineapple disease. To prevent rotting and infection with disease, the setts should be dipped in a suitable fungicide such as 0.2% Carbendazim for half an hour. Carbendazim along with Chlorpyriphos is also recommended in northern India: the former improves germination and keeps off fungal attack and the latter keeps off termites and checks shoot-borer. Where damage due to termites is serious, Chlorpyriphos at 1 kg a.i./ha in emulsion form and diluted 300 times is sprinkled with a watering-can on the setts placed in furrows.
+
+Depending on the distance between the rows and the vigour and soundness of the buds, 35,000—40,000 setts (3-bud)/ha are usually enough for planting. Accordingly depending on the thickness or thinness of the cane, 1.5 to 3.0 tonnes of cane by weight is needed to provide 10,000 such 3-bud setts. In Punjab, Haryana and western Uttar Pradesh for sugarcane planting after wheat harvest, 2-bud setts planted in rows 60 cm apart have been found to give the best results. For late planting seed rate is often increased slightly, and setts are planted a little closer in the row to guard against low germination and consequent low population.
+
+Methods of planting
+
+Planting methods are selected depending on the soil type, moisture level at the time of planting and season of planting. The following are the important planting methods:
+
+Flat planting: In this method, shallow furrows are opened with a desi plough or tractor-drawn ridger, 60-90 cm apart. In northern India as the planting is delayed, spacing between rows is narrowed down. Sugarcane is planted at a distance of 90 cm in autumn, 75 cm in spring and 60 cm in summer. The setts are placed in furrows end- to-end and covered with 5-7 cm soil, and the field is levelled with a heavy plank (sohaga).
+
+Furrow-planting: Furrows are made with a ridger, 10 to 15 cm deep in northern India and 20 cm deep in peninsular India. Setts are laid end-to-end in the furrows and covered with 5 to 7 cm soil, leaving upper portion of the furrows unfilled. Immediately
+
+1200
+
+after planting and covering setts, water is let into the furrows. In some parts of Tamil Nadu, particularly in heavy clay soils, water is first let into the furrows to soak the soil thoroughly and cane setts are then dropped into the furrows and pressed into the mud by foot. For monsoon planting, as a precaution against stagnant water in.the furrows damaging the buds, the setts are placed inclined on the side of the furrows, instead of flat at the bottom.
+
+Trench planting: Trenches 20 to 25 cm deep and rectangular or trapezoidal in section are made either by manual labour or with a tractor-drawn ridger, and the bottom of the furrows is loosened by digging. Shallow furrows are made in bed of the trench and the setts are placed end-to-end in the furrows and covered as for flat planting. Water is then let into trenches.
+
+The tractor-drawn sugarcane cutter-planter designed and fabricated at the Indian Institute of Sugarcane Research (IISR), Lucknow, is a very suitable device for planting cane. This is of 2 designs, viz. of ridger and disc types. The use of the IISR cutter- planter is becoming popular in sugar-factory areas and on large farms, as it combines all planting operations together like furrow-opening, fertilizer-application, sett-cutting, sett-treatment and placement and covering with soil including planking. Direct planting could be done with disc-type cutter-planter without tillage, thus saving a lot of energy. The cutter-planter is especially useful for late-planting conditions after wheat harvesting; not only to save time and labour but also to achieve high germination, which otherwise is not possible due to desiccation and fast drying up of the soil and setts. In wheat-sugarcane system, raised-bed seeder-cum-sugarcane planter, designed and developed at the IISR, Lucknow, is suitable for simultaneous planting of sugarcane in furrows and wheat in 3 rows on raised bed. Since weeds accumulate more in furrows due to high soil moisture, wheat crop on raised bed is saved from adverse effects of weeds.
+
+In most parts of northern India and Bihar, and in the Malnad tract of Karnataka, cane is planted on the flat land. Furrow-planting is practised in parts of eastern Uttar Pradesh and in peninsular India, and trench planting in some coastal areas where crop grows very tall, and strong winds are liable to throw it down and damage badly. To ensure proper germination and establishment of the crop, 2 separate sets of practices are followed, i.e. dry planting involving pre-sowing irrigation before land preparation, and wet planting comprising irrigation along with planting operation. Mostly planted field gets additional irrigation to provide congenial soil-water environment throughout the germination period.
+
+Under special situations, ring-pit method and transplanting of sugarcane by spaced transplanting (STP) or polybag-raised settlings are the alternative methods of planting.
+
+Ring-pit method: This method is suitable for slopy land, for preventing lodging of canes in sandy soils and for taking 3-4 ratoons. It gives higher cane yield than the conventional method of planting. Pits each of 75 cm diameter and 45 cm depth are dug maintaining distance of 120 cm from the centres of any two pits. Since pit digging is cumbersome, a pit digger machine may be used for the purpose. The soil thus removed is heaped around the pit. In each pit, 3 kg farmyard manure (FYM) or press mud, 20 g DAP, 8 g urea and 15 g muriate of potash are applied and thoroughly mixed with soil. The dose of phosphatic and potassic fertilizers may be decided based on soil testing. Subsequently, 20-22 two-bud setts dipped in Carbendazim (0.2%) solution for 30 min,
+
+1201
+
+SUGARCANE AND SUGARBEET 1201
+
+are horizontally placed in the pit in radial fashion. Insecticide like Chlorpyriphos 20 ec may be applied at 5 litres/ha for protection of setts from termites.
+
+Each pit is now filled with 2.5 cm thick layer of soil which is brought down from the heap of soil formed during digging process. The soil around the pit is so removed that a channel is formed between the two pits, which facilitates flow of irrigation water. The soil should be moist for good germination. If required, light irrigation may be given. After emergence of shoots with 4 leaves, 16 g urea is applied in the pit followed by replenishing pit with half of the remaining soil lying around the pit. In the 3% week of June, 16 g urea and carbofuran 3G at 1.0 kg a.i./ha are applied in the pit which is finally filled with remaining soil. After about a month, earthing-up is done around grown up shoots. For irrigation, drip system is convenient. Soon after harvesting the crop, application of 45 g DAP and 45 g urea per pit followed by irrigation improves the ratoon crop.
+
+Spaced transplanting (STP) method: This method economizes the seed, ensures higher stalk population and uniform crop stand. It is good for fast multiplication of seed material as the multiplication ratio is 1:30 which is much higher than 1:8 achieved by conventional planting method. In northern India, STP is suitable for planting sugarcane in summers after wheat. Since wheat harvesting is completed by the end of April or early part of May, high temperature does not allow good germination of buds by conventional method. Therefore, settlings are raised before hand and transplanted in field when it is ready after harvesting of wheat.
+
+For raising settlings, a nursery-bed of 5 m x 10 m dimension is prepared at least a month before transplanting. In a well tilled soil, Chlorpyriphos 20 ec at 1.0 kg a.i-/ha is applied for protection against termites. Single-bud setts are drawn from the upper half of the cane. Setts are cut just near the growth ring leaving internode portion at the other end. These are dipped in Carbendazim (0.2%) solution for 30 min. In one square meter space, 600-800 setts are dibbled vertically into the soil keeping the bud and root band just above the soil surface. Trash or paddy straw is spread over the setts to conserve soil moisture and mulched with dry pulverized soil. After emergence of shoots with 3- 4 green leaves, settlings become ready for transplanting.
+
+Settlings are carefully uprooted and leaves are clipped with a knife or scissors. Settlings are dipped in Carbendazim (0.2%) solution and transplanted in furrows or flat bed at 90 cm x 60 cm or 75 cm x 45 cm spacing. About 2,000 — 2,500 settlings are retained in nursery bed for filling the gaps that arise on account of mortality of transplanted settlings at a later stage. Settlings are pressed into the soil and covered with soil leaving about 5 cm portion of the shoot exposed. Two to three irrigations are given for establishment of settlings in field. Fertilizer application and intercultural operations are carried out as per conventional method.
+
+Transplanting polybag-raised settlings: This method resembles spaced transplanting (STP) method except for settling is raised in a polybag. The method has certain advantages, for example, the polybags containing settlings can be shifted to another place, post-transplanting mortality of settlings in field is very low as the root system remains intact during transplanting and one irrigation is sufficient for establishment of settlings in field. This method is suitable for planting sugarcane after harvesting of wheat in summers.
+
+Polybags of 10 cm x 15 cm size are filled with mixture of soil, FYM and pressmud
+
+1202
+
+1202 HANDBOOK OF AGRICULTURE
+
+in equal proportion. A few perforations are made in polybag for allowing aeration and drainage of excess water. Single-bud setts are dipped in Carbendazim (0.2%) for 30 min. Each sett is pressed vertically in soil mixture keeping bud and root band just above the soil surface. Polybags are placed side-by-side on a leveled ground and covered with dried leaves or paddy straw to conserve soil moisture. The soil is kept moist by watering with rose-can as per need. On emergence of shoots with 3-4 green leaves, settlings become ready for transplanting. At the time of transplanting, the leaves of settlings are clipped and polybag is removed without disturbing soil mass around the Toot system. Settlings along with the soil mixture are transplanted in furrows with the help of a hoe at a distance of 60 cm, but for shy tillering varieties, the distance may be reduced to 45 cm. Immediately after transplanting, light irrigation is given. Subsequent agronomic practices are followed as per conventional method.
+
+Irrigation
+
+In sugarcane, maintenance of optimum soil moisture during all stages of crop growth is one of the essential requisites for obtaining high yield. The crop should, therefore, be grown in areas of well-distributed rainfall or under assured and adequate irrigation. In tropical India, depending on the type of the soil, seasonal conditions, variety grown, method of planting and rate of manuring, total water requirement of the crop for optimum growth varies from 2,000 to 3,000 mm, inclusive of rainfall. The requirement of an adsali crop is proportionately higher (3,200 to 3,500 mm). In sub-tropical India, due to extremes of temperature in summer and winters sugarcane growth is restricted. However, it profusely grow during rainy season. Therefore, the water requirement is 1,400-1,800 mm which is much lower than required under tropical conditions. Where the soil is not retentive of moisture and where there is no reserve of subsoil moisture, cane requires to be irrigated more frequently.
+
+In tropical India usually | or 2 irrigations are given at an interval of 3 or 4 days after planting to help setts germinate and to enable seedlings to establish well. Thereafter in the absence of rains, the cane is irrigated every 10 to 12 days during its growing period. In dry areas and in sandy-loam soils, irrigation may be needed at an interval as short as 8 days. In deep-clay loams irrigation can be withheld for longer periods, up to 2 or 3 weeks. Frequent light irrigations, each of 40 to 50 mm, adjusted to suit growing period of the crop and to the prevalent weather conditions are very useful. Water requirement is least at ripening stage when accumulation of sucrose starts. Towards the time of harvesting, the irrigation frequency is reduced and just before harvest, irrigation is withheld for about a month.
+
+In northern India as the summer is drier and hotter than in southern India, the crop needs water more frequently. In canal-irrigated areas frequency of irrigation depends entirely on the running of the canals. The severity of these conditions is slightly mitigated by high water-holding capacity of the alluvial loam soil. In Punjab, owing to lesser rainfall, drier climate and slightly coarser soils, crop is given 8 to 10 irrigations during summer. In central and western Uttar Pradesh 4 to 6 irrigations are usually given, which help crop to tide over summer. In eastern Gangetic plains cane subsists almost entirely on subsoil moisture and rainfall and receives 2-4 irrigations at the most. In post-monsoon season, the crop receives only | or 2 irrigations or none at all; however, these post-monsoon irrigations only help keep crop in a good condition; for
+
+SUGARCANE AND SUGARBEET 1203
+
+1203
+
+cane does not make growth in winter. In areas where frosts occur, irrigations are applied to save crop from them. Sugarcane responds to irrigation in northern India as it does in the south, and it is profitable to apply frequent light irrigations to crop during hot weather. There are 3 methods of irrigations in sugarcane culture, i.e. flood, furrow and skip-furrow methods. Skip-furrow irrigation saves water up to 36.5% and increases water-use efficiency (WUE) by 64%. Where irrigation facilities are scarce in summer, trash-mulching in inter-row spaces is done for conserving soil moisture.
+
+Micro-irrigation devices such as drip and sprinkler system are also used to economize water with saving to the extent of 40-60% and increase water-use efficiency. Fertigation through this device economizes fertilizer as leaching losses are minimum. Besides, it allows lesser weed population, saves fuel or electricity for irrigation and is most suitable for irrigating crop grown under undulated topography. Micro-irrigation is becoming popular in tropical states like Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu and Gujarat where inadequate availability of irrigation water is becoming a major bottleneck in sugarcane cultivation.
+
+Interculture and weed management
+
+Weeds, if not checked, remove about 160 kg nitrogen, 24 kg phosphorus and 203 kg potassium from a hectare of land. Crop rotation with paddy and wheat keeps down population of nut-grass, doob grass, etc. Competitive crops like cowpea, berseem, dhaincha, sannhemp, etc., when grown before sugarcane or taken as companion crop not only check weeds, but also provide nutrients when tured into the soil.
+
+The first hoeing and weeding should be given to crop 3-4 weeks after planting. But in northern India, the shoots usually take a long time to emerge, and meanwhile weeds particularly nut-grass comes up rapidly in the planted field. This rapid infestation of the planted field calls for at least 1 blind hoeing, which may have to be given within first 1 or 2 weeks. After germination, depending on the field conditions and the frequency of irrigations, 2 or 3 more hoeings and weedings both in inter-row and intra-row spaces may be required during first 3 months after planting. Trash mulching @ 10 tonnes/ha in inter-row spaces, not only checks weed flora, but also conserves soil moisture. It also supplements nutrients to soil upon decomposition during rainy days. Tedious, cumbersome and time-consuming nature of manual weed-control methods and scarcity of human labour have rendered this practice less effective and impractical. Alternatively, weed control through pre-emergence application of Metribuzin @ 1.0 kg a.i./ ha or Ametryn @ 2.0 kg a.i./ha or Atrazine @ 2.0 kg a.i./ha followed by 2,4-D spray @ 1.0 kg a.i./fha (post-emergence at 60 days after planting) and one hoeing at 90 days after planting has been found to provide good weed control. In ratoon crop, pre-emergence application of Metribuzin @ 1.0 kg a.i./ha followed by spray of 2,4-D @ 1.0 kg a.i/ha or one hoeing at 45 days after ratoon initiation has shown effective control of weeds. Where cane is planted in furrows or trenches, these are gradually filled up in the course of interculture. The use of bullock-drawn implements such as blade-harrows for mulching, rotavators/3 line cultivators for interculture and weedings, and ridgers for earthing-up and covering fertilizer, reduce cost of these operations. Multipurpose machine, developed by the IISR, Lucknow, combines all intercultural operations in one pass. The final earthing-up should be completed before monsoon rains, and should generally synchronize with application
+
+1204 HANDBOOK OF AGRICULTURE
+
+1204
+
+of the final dose of nitrogen. Good care in weeding and interculture helps clumps tiller early and form millable canes. The crop should be so managed that it grows rapidly to form a canopy over inter-spaces. This helps keep down weeds, and thus costs of weeding and interculture and also moisture loss from the soil surface. ,
+
+Tying or propping
+
+Where the aim is to get a crop of 75 tonnes and over per hectare, it is usual to earth- up standing crop in the rows. But whether the crop is earthed-up or not, it is highly desirable to tie up or prop canes so that they may not sway during winds and lodge. The best way to tie is to bring together stalks from adjacent rows and tie them together with their own trash and old leaves. In many places in southern India, the cane is tied at 2 or 3 levels with twists of cane trash, the twist-line going from one end of the row to the other; sometimes the stalks are further propped up with bamboos.
+
+Fertilizer schedule
+
+Sugarcane is a heavy feeder of plant nutrients. A crop of sugarcane producing 100 tonnes/ha removes approximately 205 kg N, 55 kg P, 275 kg K, 30 kg S and 55 kg Ca, besides 3.5 kg Fe, 1.2 kg Mn, 0.6 kg Zn and 0.2 Cu from the soil. Adequate manuring, therefore, is essential for sustaining high yields. At present, in most areas sugarcane- crop is inadequately fertilized.
+
+The nitrogen requirement of sugarcane depends upon the soil and climate. It ranges from 150 kg/ha in Uttar Pradesh to 270 kg/ha in Tamil Nadu and 300 to 500 kg/ha in Maharashtra and Karnataka. Generally for most places it is appropriate to apply bulky organics like farmyard manure or compost (10 tonnes/ha) sufficiently in advance of planting. In vicinity of sugar mills, sulphitation press-mud is also used as a manure. Nitrogen is given in the form of urea applied one-third at planting and the remaining two-thirds in 2 equal splits at tillering and at the commencement of grand growth stage. The fertilizers may also be applied as basal dose through diammonium phosphate to supply full P and part of N.
+
+The response of sugarcane to phosphorus has not been very marked in most areas; however, general indication is that at high levels of nitrogen application, phosphorus is required at 40 to 60 kg of P,O,/ha. The states where phosphorus has given perceptible responses are Bihar, parts of Uttar Pradesh, West Bengal and Maharashtra. In some states P is applied to the preceding summer green-manure crop. This practice improves the benefit from green-manuring.
+
+The response of sugarcane to potassium has been obtained only in localized pockets of light soils. Nowadays deficiency of sulphur is constantly increasing in Indian soils and it has become a limiting factor in sugarcane culture. In marginally deficient soil, the application of 40-60 kg S/ha has been found to be useful. The most effective and economical source of sulphur is gypsum. In soils with deficiency of zinc, 20-30 kg ZnSO,/ha may be applied. Foliar application of micro-nutrients has been found effective in increasing cane yield in Uttar Pradesh, Punjab and Bihar.
+
+To maintain soil fertility and to improve crop productivity, integrated use of various sources of nutrients in sugarcane culture becomes imperative. Different components of integrated nutrient management include use of legumes in sequential or intercropping systems, organic manures, crop residues, factory by-products or effluents and bio-
+
+1205
+
+SUGARCANE AND SUGARBEET
+
+fertilizers in combination with inorganic fertilizers. Highest yield of plant as well as of ratoons is obtained with their combined application of organic and inorganic manures. At many locations in the country, application of 100% recommended doses of NPK fertilizers along with FYM (10 tonnes/ha), biofertilizers (Azotobacter chroococcum) + phosphorus-solubilising bacteria like Bacillus spp., or Pseudomonas spp., in plant crop has given good response to plant growth. In ratoon crop, application of recommended doses of NPK along with trash incorporation with cellulolytic fungus, e.g. Trichoderma harzianum, and biofertilizers does well in sustaining soil health and improving crop productivity. Use of biofertilizers is beneficial as they promote availability of nutrients, especially nitrogen and phosphorus to plants in soil. When applied along with organic manures, biofertilizers supplement nutrients equivalent to 25% of recommended doses of inorganic NPK and therefore help reduce the cost on inorganic fertilizers.
+
+Plant protection
+
+Sugarcane is vulnerable to several insect-pests and diseases at all the stages of crop growth both in tropical and subtropical regions of the country, and this problem is more serious in subtropical region than in tropical regions of the country.
+
+Insect-pests: The major sugarcane insect-pests are borers, termites, scales, pyrilla, white fly, white grub, black bugs, etc. In tropical region, early shoot borer, internode borer, white fly, white grub, scale insect, termites and pyrilla, whereas in sub-tropical region, top borer, stalk borer, pyrilla, root borer, white fly and termites are the serious pests. In Bihar and West Bengal, besides other pests, plassey borer is a serious problem. Recently white woolly aphid has become a major problem in Maharashtra, Karnataka and parts of Andhra Pradesh and Tamil Nadu. They damage crop at different stages of its growth. The mechanical (removal of egg masses or adults, and their destruction and rogueing of infested plants), cultural (light earthing-up, avoiding late planting, detrashing of cane stalks) and biological methods, as well as the use of resistant varieties are some of the means of controlling pests. Integrated pest management approach holds promise in containing the pests below economic threshold level. To minimize use of chemicals because of their high cost and environmental hazards, biocontrol of some pests is necessary. The egg parasitoid, Trichogramma chilonis provides good control of root borer, stalk borer and internode borer, whereas larval parasitoid, Cotesia flavipes has been found effective against stalk borer. Redistribution of egg masses and cocoons of Epiricania melanoleuca (nymphal and adult parasite) in sugarcane field where it is absent works well in controlling pyrilla. Biocontrol of white woolly aphid has been achieved with success through the predators, Dipha aphidivora and Micromus igorotus. Entomopathogenic fungi, Metarrhizium anisopliae, Beaveria bassianaand Aschersonia sp., hold promise against pyrilla, black bug and white fly respectively.
+
+Pesticide formulations of chlorinated hydrocarbons, organo-phosphates and carbamates have effectively been used in reducing damage to crop caused by a variety of insect-pests. Scale insect can best be controlled by dipping setts in Malathion (0.1%) for 15 min before planting. Application of Chlorpyriphos 20 Ec (1.0 kg a.i./ha) by sprinkling over setts during planting gives good protection against termites. For control of root borer, soi] may be drenched with Imidacloprid at 0.1 kg a.i./ha, 120 days after planting. Spray of Acephate (0.1%) or Confidor (0.05%) works well against white fly.
+
+1206
+
+Some recent formulations of systemic pesticides are, however, showing promise in this direction.
+
+rot, smut, (fungi), grassy-shoot disease (phytoplasma), ratoon- stunting disease and leaf scald (bacteria) are the important diseases of sugarcane, transmitted through seed-cuttings (seed). Of these, red rot is most dreaded disease and the affected crop may completely dry up. It is present in all the sugarcane-growing States except Maharashtra and Karnataka. Smut becomes serious in ratoon crop. Since it is a systemic disease, a stool that develops from smut-infected bud carries infection in all the buds and therefore, canes from such stool become unfit for seed. Wilt is another serious disease that causes yellowing of leaves and canes become hollow and dry up. In grassy shoot-affected stool, lanky tillers are formed that do not mature as millable canes and therefore cane yield is badly affected. Since grassy shoot disease is transmitted by a leaf hopper, the secondary spread takes place at a greater pace. Leaf scald not only causes drying of leaves, but also promotes sprouting of all nodal buds in a cane and renders it unsuitable for seed. Recently, sugarcane yellow leaf disease of viral and/or phytoplasmal origin has been noticed in several parts of the country. The leaves display drying from tip and margin with prominent yellow midrib and cane yield as well as quality is adversely affected. Besides, a few diseases like rust and eye spot are becoming important in Maharashtra and Karnataka. These are not transmitted through seed-cane. The spores of the fungal pathogen spread through air and infect leaves. Production of numerous lesions damages the foliage and ultimately affects the cane yield and quality. Diseases, therefore, not only lowers cane yield and sucrose content, but also deteriorates quality of seed material.
+
+For management of diseases, fungicides alone are ineffective against seed- transmitted diseases as most of the pathogens are deep seated in internodal tissues of cane where chemicals fail to reach. Integrated disease management may be employed for containing diseases as follows:
+
+Seed should essentially be selected from disease-free crop of a red rot-resistant variety recommended for the location. Preferably, certified or labelled seed may be used for commercial planting at least after 5 years of crop-cycle. At the time of field preparation, field sanitation should be given due attention. Crop debris, cane pieces and stubbles should be removed from the field. Before planting, three-bud setts may be dipped in Carbendazim (0.2%) solution for protecting setts from soil-borne pathogens as well as smut disease. Trichoderma culture may be applied in furrows at 20.0 kg/ha as it promotes plant growth. At post-emergence stage, diseased plants should be rogued out. During rainy season, stagnation of water in fields should be avoided. Red rot usually appears after onset of monsoon. The affected plants display drying of spindle leaves and discolouration of rind near soil level. Whole affected clump should be uprooted and burnt or buried in pits. Rust disease also appears under humid conditions, particularly in Karnataka, Maharashtra and Andhra Pradesh. Propineb (0.25%) or Mancozeb (0.2%) works well against rust disease when sprayed soon after appearance of rust pustules on leaves. A second spray may be given after 15 days. Eye spot and other leaf spot diseases can be contained by spraying Copper oxychloride (0.25%) 3 to 4 times at fortnightly intervals. After harvesting, the stubbles should be cut flush with the ground so that buds at soil level, that harbour pathogens, are climinated.
+
+1207
+
+SUGARCANE AND SUGARBEET
+
+Ripening
+
+The maturity of sugarcane is generally recognized by the gradual withering of lower leaves and presence of fewer green leaves at the top. A ripe cane, cut across with a sharp knife, shows against sunlight a slight sparkling in its flesh in contrast to more watery cut surface of an unripe cane. A trial boiling of the juice and a satisfactory setting of gur would confirm proper stage of the maturity of the crop. If the grower can keep and use a hand refractometer which indicates the total soluble sugars in juice, the testing of maturity would be easier. If samples of juice taken from the middle portions of the stalks show the hand-refractometer reading from 19 to 22, the cane crop may be considered to have reached stage of maturity. The Fehling’s test for glucose provides a better technological assessment of quality of the canes, the glucose content usually reaching values of less than 0.5% in juice at peak maturity. In another method if the ratio of sucrose in one-third of upper cane and one-third of lower cane portion is 1.0 or marginally less, the cane is ripe. The cane productivity of ripened canes is 10- 20% more than unripened canes.
+
+In northern India, in a normal season, sugarcane ripens by early December, but the sugar content of juice continues to rise till end of March. After that the temperature rises very high and the canes standing in the field gradually dry up. In the south the crop continues to grow under favourable climatic conditions and it remains fresh for a longer period. Ripening of canes may be induced by spraying ripeners on the crop though application on full grown crop is cumbersome. Early varieties everywhere ripen 2 to 3 weeks earlier, and the adsali and the autumn-planted crop and ratoons also are ready for crushing well before the eksali plant cane; but in the latter part of the crushing season the differences in juice quality narrow down. Sugarcane reaches its peak maturity during the months of December to March. Sugarcane requires bright clear sunny days and cool nights for attaining high levels of recovery. The areas in southern Maharashtra and adjoining areas of northern Karnataka and western Andhra Pradesh provide ideal climatic conditions for the realization of very high sugar recovery. Maturity is delayed by late rains, warm weather (high minimum temperature) in the late season and high amount of fertilizer-nitrogen. Where winters are severe, the quality of the juice gets depressed. Frost may damage crop seriously, leading to rotting of buds and drying of leaves, rendering cane unfit for gur or sugar-making. Flowering in sugarcane brings down sucrose content and therefore should be checked by spraying ethrel (500-750 ppm) on the crop. Harvesting of ripened canes should be done as early as possible as delay may cause staling of canes and reduce cane production as well
+
+Harvesting
+
+To ensure maximum yield of sugarcane and ultimately sugar from the crop, it would be necessary to have selective harvesting to achieve higher sugar recovery, which naturally increases sugar production per unit area (Table 34.1.1). Stalks are cut at the ground level, preferably at least 3 to 5 cm below the ground level. The dried leaves are stripped off up to the top-most mature internode, where stalks usually break easily. The harvested canes should always be crushed quickly. In northern India during the cold season the harvested canes kept in shade may maintain quality of juice in a good condition for a day or two, but canes lose weight unless kept moist. In the late season
+
+1208
+
+and in tropical areas quick processing of the harvested cane is essential to avoid deterioration of the quality due to activity of Leuconostoc bacteria.
+
+Crushing and gur-making
+
+Out of the total amount (tonnage) of sugarcane produced, 15-20% is used for manufacturing gur and khandsari, which provides employment to over 25 lakh people in the country. Three roller iron-crushers operated with bullocks, oil engines or electric motors extract 60 to 70% of the juice from the canes. Crushing should be done in the cool hours and extracted juice should be boiled without delay. Metal vessels are preferred as containers for juice. Bagasse and trash are universally used fuel. But these are often supplemented with stalks of cotton, pigeonpea (tur) or castor. For economy in fuel and efficiency in boiling, improved furnaces or be/s such as Lucknow furnace and improved Meerut and Bilari models are recommended in northern India. The Poona be/ and Godavari, Sindewahi and Pugalur furnaces are popular in various parts of the peninsular India. The principal features of the improved furnaces are heat conservation and fuel economy, a quicker boiling rate, greater facility for working and better control on the striking point.
+
+Much attention is now given to clarification of gur and its good texture. In northern India, where juice is usually purer and nearly neutral in pH, the elimination of acidity with lime (calcium oxide) is not essential. In southern India, however, the addition of a thin suspension of lime is usually necessary for neutralizing juice; this operation helps final product to set satisfactorily. In the north, the juice in the course of heating is clarified with mucilage of bhindi (Abelmoschus esculentus) or with deola (Abelmoschus ficulneus) extracted in water. In Punjab, bark of suklai (Kydia calycina) and in eastern areas that of semul (Bombax ceiba) is used for clarification. An emulsion made by crushing castor or groundnut seeds in water is also recommended. The striking point for solid jaggery (gur) and liquid jaggery is 116-118°C and 105-107°C respectively. For solid jaggery-making at the striking point, concentrated juice is poured into cooling pan, where it is stirred for uniform cooling. Once concentrated juice reaches semi-plastic stage, it is transferred to moulding pans of various sizes and shapes.
+
+1209
+
+SUGARCANE AND SUGARBEET
+
+Yield
+
+The average cane yield of 11 to 12 months old plant crop under commercial cultivation is 37.3-46.0 tonnes/ha in Asom, Bihar and Madhya Pradesh; 54.7-70.0 tonnes/ha in Uttar Pradesh, Uttarakhand, Haryana, Punjab, Rajasthan and Orissa; 65.0- 83.0 tonnes/ha in Gujarat and West Bengal; 72.1-90.1 tonnes/ha in Maharashtra and Andhra Pradesh; and 81.1-109.0 tonnes/ha in Karnataka, Tamil Nadu and Kerala. The average cane yield in tropical and sub-tropical states is 78.56 and 56.56 tonnes/ha respectively. With improved management there is good scope for substantially increasing averge cane yields in all areas in the country. The 18-months (adsali) crop in southern India usually gives a yield of 120 to 140 tonnes cane/ha and in the heavily manured, canal-irrigated tracts of Bombay—Deccan, yields up to 160 tonnes/ha or more are realised. >
+
+Ratooning
+
+Ratooning is the method of allowing stubbles of the harvested crop to sprout and form the basis for the next crop. In India, ratoon occupies 50-55% total cane area but contributes to only 30-35% of the total cane production, due to low average productivity. The varieties possessing high regeneration capacity are required for ratooning. The optimum temperature for quick sprouting of stubble is around 27°C, hence plant-crop should be harvested from mid-February to mid-March to obtain profuse ratoon initiation. Pre-harvest spraying of growth-regulators, i.e. ethrel (500 ppm) or gibberellic acid (100 ppm), is required to increase sprouting, plant population and yield of ratoon-crop initiated in December—January. In northern India, winter- initiated ratoon show poor sprouting due to extremely low temperature in December and January. Companion cropping of berseem, shaftal and lucerne in ratoon crop helps teduce the adverse effects of low temperature and improve stubble sprouting.
+
+Trench or spaced transplanting methods, off-barring, gap-filling, trash mulching, integrated nutrient management and proper irrigation schedules are proven agro- techniques to improve yield of ratoon-crop. The highest cane yield is obtained in February-March initiated ratoon. Due to mortality of stool in plant crop, gaps are formed in ratoon crop. These gaps can be filled by transplanting settlings raised in polybags or nursery bed or by increasing seed rate by 20% in plant crop. Only first ratoon is generally recommended in most of the states. The second and subsequent ratoons are not advised owing to risk of carry-over of the insect-pests and diseases and their perpetuation as well as establishment of pernicious weeds in the field. The crop to be ratooned is cut flush with the ground or 3-5 cm below ground level and, the above-ground stubble is also shaved at that level and the trash is burnt or mulched or removed after harvesting the crop. It is preferable not to burn the trash in the field to be ratooned to preserve soil microbes, and other flora and fauna, to conserve the organic matter in the soil and to avoid scorching of the sprouting stubbles of harvested cane. The field is irrigated as soon as possible. At the proper stage the inter-spaces are ploughed and the sides of the ridges are broken to encourage fresh roots. Thereafter the crop is treated in the same manner as the plant-cane. All intercultural operations can be combined together and mechanized by the equipment, Ratoon Management Device designed and developed by IISR, Lucknow. Ratoon requires 25% more nitrogen over its counterpart plant-crop. Ratoons mature earlier than plant-crop, and ordinarily
+
+1210
+
+1210 HANDBOOK OF AGRICULTURE
+
+give a somewhat lower yield than the latter, but owing to lower cost of cultivation due to practically no expenditure on the preparatory cultivation, seed and planting, they are more remunerative than plant-cane. The crop suffering from diseases or sheltering excessive populations of hibernating borers should not be ratooned; such crops should be harvested and disposed off early and the stubble dug up and used as fuel immediately after harvesting the crop. Similarly where the plant crop had very low population due to drought or other causes ratooning may be avoided.
+
+Varieties
+
+Sugarcane varieties of early and mid-late maturity are developed primarily for increasing cane yield and sucrose content as well as resistance to red rot disease. Besides, such varieties may also have tolerance to abiotic stresses like drought, waterlogging, salinity and cold and biotic stresses like diseases and insect-pests of local significance. For commercial cultivation, varieties are released at state and central government level. For sustaining varieties in field and increasing cane and sugar productivity, it is desirable to replace old varieties with new approved varieties at frequent intervals (Table 34.1.2).
+
+1211
+
+SUGARCANE AND SUGARBEET
+
+West Bengal Co 0232, CoLk 94184 and CoSe 96234 Co 0233 and CoSe 96436
+
+SUGARBEET
+
+Sugarbeet (Beta vulgaris) is another important sugar-producing crop that stores sugar in its roots. It accounts for nearly 21.8% of the world’s total sugar production. It is also a potential source of ethanol which is now blended in automobile fuel. Unlike sugarcane, which is a crop of the tropics, sugarbeet is essentially a crop of the temperate regions. It is grown for commercial sugar production mainly in European countries; USA and Canada in North America; Chile in South America; Egypt and Morocco in Africa; and China, Iran, Japan, Syria and Pakistan in Asia. In India, genetic and agro- technological improvements have now extended its frontiers to higher latitudes of subtropics and also to tropics in Maharashtra as an irrigated winter-crop. The northern and the north-western regions of subtropical India comprising Punjab, Haryana, Rajasthan and western Uttar Pradesh and in tropical India comprising Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu and Gujarat are potential areas for winter sugarbeet in the country. Sugarbeet may be cultivated as a catch crop under the situation when sugarcane crop fails due to drought or red rot. The Kashmir valley has a good
+
+1212 HANDBOOK OF AGRICULTURE
+
+1212
+
+scope for the generation of a beet-based sugar industry. However, in 1970’s commercial cultivation of sugarbeet was limited to Sriganganagar area of Rajasthan, where it was being grown in about 1,000 hectares for sugar production up to mid-nineties. In Sriganganagar, sugarbeet was used for production of sugar in a cane-cum-beet dual- purpose sugar mill. In addition to sugar, the by-products from sugarbeet, viz. beet pulp and molasses, are highly valued as cattle-feed and for special fermentation and for the production of pharmaceuticals respectively. In the coastal-saline tract of Sunderbans in West Bengal, where no crop could be grown, sugarbeet was cultivated for its tops as fodder for cattle, and roots for production of alcohol.
+
+Crop production
+
+Agroclimatic requirement
+
+Sugarbeet requires cool climate, good rainfall or irrigation, and bright sunshine during its growth period. The optimum temperature for seed germination is 15°C and for growth and for sugar accumulation, it is 21°C. Higher temperatures (<30°C) retard accumulation of sugar but favour rapid growth. It is important to mention here that sugarbeet is a useful crop and in India, commercial cultivation for beet-roots and sugarbeet seed are spatially separated. Sugarbeet is a day-neutral plant for root development, but long days are favourable for seed production. Winter sugarbeet is a 6-7-month crop, sown in October and harvested in April-May. In sub-tropics, it is capable of yielding 60-85 tonnes roots/ha with a root-sugar content of 15-18%. In tropics, average root yield is more than sub-tropics, ranging from 80 to 98 tonnes/ha, but root-sugar content is lower ranging from 13 to 14%. Sugarbeet thus has opened up avenues for extending duration of working season of the sugar mills till the end of May by 35-45 days and for generating beet-based sugar-processing capacities at high altitudes in the country. Sugarbeet can be diverted to ethanol production at a time when sugarcane production is sufficient and sugarbeet is not required to supplement sugar extraction.
+
+Soil
+
+Sugarbeet grows best in loams and clayey loams with a near-neutral pH reaction. It has high tolerance to soil salinity and alkalinity but does poorly in acid soils. Poorly drained or waterlogged soils are unsuitable for sugarbeet cultivation.
+
+Crop rotation and intercropping
+
+Sugarbeet is susceptible to a number of soil-borne diseases. Their control through chemicals is difficult and costly, and, therefore, a long-rotation period to prevent build- up of diseases is of considerable importance as a prophylactic measure. A rotation of 3-5 years would be the minimum need for this crop, when it assumes a commercial dimension in the country. Some of the possible rotations are cowpea (fodder)- sugarbeet—cotton-sugarcane (plant)-sugarcane (ratoon), early maize or rice—sugarbeet- senai or dhaincha (green-manure)-potato—sugarcane (plant)—sugarcane (ratoon), guar- companion cropping of sugarbeet and sugarcane—jowar (fodder)—wheat—maize- sugarbeet. Intercropping of sugarbeet in autumn-planted sugarcane is remunerative though cane yield declines by about 11.0%.
+
+SUGARCANE AND SUGARBEET 1213
+
+1213
+
+Seed-bed preparation
+
+Sugarbeet is sown in lines, 50 cm apart, on flat beds or on ridges which are kept 10-12 cm high and 20 cm wide. The seed-bed is prepared in the same manner as for rabi sowing. Sowing can also be done by furrow-irrigated raised bed method to save irrigation water by 25-30%. Raised bed are made by opening 20 cm deep furrows at a distance of 100 cm. The land is prepared to a good tilth by repeated ploughing and planking. The crop is sown during the first fortnight of October. It does not tolerate delay in sowing as the crop sown beyond October gives lower root yield and sugar content.
+
+Varieties
+
+In subtropics, diploid multigerm variety Ramonskaya 06 has performed well for root yield and sucrose content and it was fairly resistant to more important diseases. Two other Danish anisoploid multigerm varieties, Maribo Magnapoly and Tribel as well as IISR Comp | have also given good field performance. Recently, in a three- year ICAR-sponsored project which concluded in 2008, monogerm diploid hybrids Shubhra (HI 0064), Cauvery (Dorotea) and Indus (Posada) as well as old varieties IISR Comp 1 and LS 6 have shown good performance in both subtropical as well as tropical region (Table 34.1.3). Monogerm varieties are preferred as only one seedling comes out from the glomerule and therefore, singling and thinning operation, as is practised with multigerm varieties, is not required and therefore saves labour and time. Sugarbeet breeding and seed production are performed on hills. The IISR, Lucknow is doing such work at Mukteswar located in Kumaon hills (Uttarakhand).
+
+Seed rate and seed treatment
+
+Multigerm varieties that give 3-4 seedlings from a single seed, are sown at 10 kg seed/ha. Monogerm varieties are best for sowing as only one seedling emerges from a single seed and therefore do not require singling and thinning operation at a later stage. For a hectare, 3-4 kg seeds of monogerm variety are sufficient for sowing. For protection of seeds from seed- as well as soil-borne fungal pathogens, unprocessed seeds may be soaked in 0.25% solution of Thiram or 0.1% solution of Carbendazim overnight. This is done by tying required quantity of seeds in a cloth-bag and dipping it into the solution until seeds soak up chemical and then hanging the bag in the open. The seeds can be sown when they are dry.
+
+1214
+
+1214 HANDBOOK OF AGRICULTURE
+
+Sowing
+
+Sowing is done by dibbling manually or by drilling. The seeds are placed rather shallow, about 3 cm deep. The IISR, Lucknow has designed and fabricated hand- operated rotary dibbler and planter for making the two operations simultaneous and comfortable. For sowing on ridges, tractor-operated sugarbeet ridge planter has been designed and developed. It makes 4 ridges and plant seeds 2-3 cm deep on the ridges. Another machine, raised-bed sugarbeet planter facilitates sowing of seeds by furrow- irrigated raised bed (FIRB) method. Seeds are sown on raised bed in two rows maintaining seed to seed distance 20 cm and row-to-row distance 40 cm. After sowing, light irrigation is given.
+
+Singling and thinning
+
+The multigerm seeds of sugarbeet give rise to a cluster of seedlings, and hence it is necessary to remove all but one single robust seedling per seed-pocket. An intra-row spacing of 20 cm between seedlings should be maintained by thinning. Gap-filling by transplanting is not recommended for this crop, since the transplanted seedlings give malformed or ‘fangy’ roots with poor weight. The fresh seed may be dibbled to fill gaps as soon as these are visible. Singling and thinning operation is not needed if monogerm variety is sown.
+
+Interculture
+
+Sugarbeet has poor tolerance to weed competition and hence crop should be kept weed-free at least for the first 2 months of its growth. Use of recommended herbicide like Pretilachlor at 1.0 kg a.i/ha gives good control of weeds in sugarbeet. The earthing- up of the crop should be completed by December after the last top-dressing of the fertilizer-nitrogen.
+
+Nutrient management
+
+Sugarbeet requires 120 kg N+ 60 kg P,O, + 60 kg K,O/ha. Phosphorus and potassium are applied on the basis of the soil-test values. The various sources of nitrogen (urea, ammonium sulphate, calcium ammonium nitrate etc.) are equally effective. The nitrogenous fertilizer is given in 3 splits at sowing, thinning and earthing-up in December. The late application of nitrogen beyond December tends to lower quality of roots. Top-dressing should invariably be followed by irrigation. In boron-deficient soils, borax may be applied at 20 kg/ha, whereas in zinc-deficient soils, zinc sulphate at 30-40 kg/ha.
+
+Irrigation requirement
+
+The crop requires 8-10 irrigations in subtropics and 10-12 irrigations in tropics depending upon the weather. Sugarbeet is sensitive to inadequacy of water and therefore timely irrigation is very essential to ensure a good yield of the roots. A 2-2-4 irrigation schedule in the formative, leaf growth and root-development phases, respectively, is the minimum need of this crop. For easier scheduling of irrigation, open-pan evaporation method is also used. Irrigation scheduled at 60-75 mm evaporation gives highest yield of sugarbeet. Excessive irrigation during later phase is highly detrimental to root quality.
+
+1215
+
+SUGARCANE AND SUGARBEET
+
+Plant protection
+
+Insect-pests: Sugarbeet crop is damaged by insect-pests like cutworm, army-worm, Bihar hairy caterpiller, semilooper, flea beetle and grass hopper. In early stage of crop growth, cutworm may infest the crop. It is therefore necessary to apply Chlorpyriphos at 1.0 kg a.i/ha in soil at the time of sowing. Armyworm seriously damages the crop in tropical region. It appears about 100 days after sowing. Although natural enemies of this pest are present in nature, it should be controlled by single spray of Quinalphos (0.05%). Alternatively, population of armyworm can be contained by placing 5 pheromone traps in a hectare for attracting male adults, releasing Trichogramma chilonis at 50,000 parasitized eggs/ha through trichocards, making grass heaps near sugarbeet field for inviting larvae of the pest and placing bird perches for birds to feed on the larvae. In sub-tropics, Bihar hairy caterpillar, flea beetle and armyworm occasionally infest the crop.
+
+Diseases: Although fungi, bacteria and nematodes affect the crop, fungal diseases are of greater economic significance. Powdery mildew, leaf spots and root rot damage the adult plant. A number of fungi cause seed rot and seedling mortality also. In tropical region, powdery mildew and sclerotium root rot are serious diseases. For control of diseases, fungicides are applied to seed, plant and soil. Seed treatment with Thiram (0.25%) or Carbendazim (0.1%) gives good protection against seed-borne fungi. Application of Trichoderma multiplied culture (TMC) in soil at 20 kg/ha before sowing effectively controls seedling mortality. Powdery mildew is effectively controlled by application of wettable sulphur at 2 kg/ha. Cersospora leaf spot can best be controlled by fortnightly spray of Carbendazim (0.1%). For control of sclerotial root rot which usually appears in the first week of March, TMC is applied at 20 kg/ha around the root zone in the second week of February followed by drenching with the fungicide, Carbendazim (0.5%) or Thiram (1.0%) solution around root zone a week after TMC application.
+
+Harvesting
+
+The October-sown crop of sugarbeet starts showing signs of maturity by mid-April. Two conspicuous changes occur in the crop: (i) drying of lower leaves, and (ii) sugar accumulation (15-16%) in roots, which continues till end of May. At the time of harvesting, a country plough is run along sugarbeet rows on both sides. This operation facilitates lifting of the roots with a slight pull of the kudali. The plants after uprooting should be freed from the adhering soil, but the roots should not be washed in water for cleaning, as this practice induces rapid deterioration. Green tops are cut-off at the crown region. Leaves or leaf-bases allowed to remain on the roots seriously affect sugar recovery. For harvesting operation, manually operated sugarbeet digger and de- topper as well as tractor-drawn digger-cum-windrower have been designed and developed by the IISR, Lucknow. After harvest, unwashed roots should be transported immediately to factory for processing. Delay at the harvest site coupled with high summer temperatures favours microbial decomposition of roots.
+
+Processing of sugarbeet for sugar manufacture
+
+Sugarbeet, unlike sugarcane, cannot be processed for gur or khandsari, and can only be used for vacuum-pan sugar production. Hence its commercial cultivation is
+
+1216
+
+1216 HANDBOOK OF AGRICULTURE
+
+possible only around the processing units. Sugarbeet roots deteriorate fast after harvesting and have to be supplied to sugar-mill within 48 hr of harvesting. Stock- piling is not possible even for a few hours and hence a well co-ordinated plan of harvesting and supplying of roots is of utmost importance.
+
+Sugar from sugarbeet roots is extracted by adopting diffusion process in special diffusers based on the counter-current washing technique. It is not possible to extract juice from sugarbeet roots with roller mills. The juice characteristics of sugarbeet also necessitate adoption of carbonation process only for clarification, and hence carbonation with diffusers and related accessories is essential to process sugarbeet in traditional sugarcane-based sugar-mills in the country. Unlike sugarcane, extraneous fuel is also required for processing of sugarbeet, as it does not provide bagasse for use as fuel. However, the beet-pulp and molasses produced as by-products from manufacturing of beet-sugar have a good market and should be expected to more than offset extra cost on fuel in beet-processing. The establishment of a profitable outlet for the by-products is, therefore, an economic necessity with this crop.
+
+By-products of sugarbeet and their utilization
+
+Beet-pulp, a residue obtained after extraction of sugar, is a highly valuable cattle- feed that can largely replace barley-grains in feed concentrates. Beet-pulp can be fed to cattle as fresh or in dried form. The mixing of molasses with pulp improves its palatability.
+
+The beet molasses are used as raw material for several special fermentations and also form a rich source of lactic acid, vitamin B and other pharmaceutical preparations.
+
+Beet-tops are a highly nutritious cattle-feed and are known to improve milk yield of cows. They, however, contain oxalic acid, and hence fresh-tops must not be fed to cattle. Sun-dried tops 100 kg + 60 g finely ground lime is a good cattle-feed.
+
+34.2 Cotton
+
+Cotton (Gossypium spp.) king of fibres, usually referred as white gold and one of the important commercial crops, plays a pivotal role in economic, political and social affairs of the world. It is cultivated in about 60 countries and 10 countires, viz. China, India, USA, former USSR, Brazil, Pakistan, Turkey, Mexico, Egypt and Sudan, account for nearly 85% of the total production. Its natural fibres are the most important raw materials for ‘comfort clothing’ production.
+
+Cotton is the major cash crop of India and accounts for 65% of the fibre used in the textile industry. The organized sector of the Indian Textile industry constitutes the largest single industrial segment in the country in terms of annual value of output and labour employed, both direct and indirect. There are 1,564 non-SSI spinning mills, 223 composite mills in India having an installed capacity of 34.22 million spindles and 105,067 handlooms. The industry provides direct and indirect employment to millions. The decentralized sector comprising power looms and handlooms, provide employment to over 2.5 million people. Cotton impacts the lives of an estimated 60 million people in India. By way of exports, foreign exchange earnings of cotton amounts to about Rs 760 billion or US $ 19 billion which is one-third of the total foreign exchange earnings of our country. The fabric quality of handlooms has been widely acclaimed for fineness and comfort.
+
+Asian countries, China (30%), India (19%) and Pakistan (8%) account for 57% of the world cotton production. India ranks first in the world in area with 9.56 million ha under cotton crop and second in total production after China which reached the level of 315 lakh bales after China during 2007-08 of which approximately 65% of it is produced on dryland and 35% on irrigated lands. It contributes to 19% of the global cotton produce. Over the last 3 years, cotton yield in India increased nearly by 50 %.
+
+In the United States, 99% cotton area is under G. hirsutum and the rest under G. barbadense. In the former USSR, G. hirsutum is grown over 92% of area and G. barbadense in the rest.
+
+India is the only country in the world where all the 4 cultivated species of cotton, viz. G. hirsutum (American upland cotton),G.arboreum, G.herbaceum (Asian cotton), and G. barbadense (Egyptian cotton), are cultivated on commercial scale, besides hybrids. Species composition of cultivated cotton in India has changed over the years
+
+1218
+
+(Table 34.2.1). In 1947, 97% area was under G arboreum and G herbaceum; G. hirsutum contributed only 3 %. Now, 19% of area is occupied by G hirsutum, 66% area is occupied by the intra-hirsutum and hirsutum-barbadense hybrids, 10% area under G. arboreum and 5% is occupied by the G. herbaceum. The 0.10% area occupied by G barbadense is still continued,
+
+The per-se contribution of G barbadense is negligible but as male parent of inter - specific hybrids, it is the chief source of extra long staple cotton in India.
+
+In India, cotton is cultivated in three distinct agro-ecological regions (north, central and south) of the country. It is cultivated largely under rainfed or dryland conditions. The northern zone is almost totally irrigated, while the percentage of irrigated area is much lower in the central (23) and southern zones (40). The lowest being in the central zone, which has nearly 66.66% of
+
+much lower in the central (23) and central zone, which has nearly 66.66% of cotton area of our country. It is mainly raised during tropical monsoon season, although in southern India, it is cultivated : : i during late-monsoon season in winter, Punjab, Haryana and Rajasthan in North Zone; Maharashtra, Gujarat and Madhya : Pradesh in Central Zone and Andhra Pradesh, Karnataka and Tamil Nadu in South Zone are the major cotton-growing : . states. Cotton is also grown in parts of Orissa, western Uttar Pradesh and Aligarh, Halwar, Agra, Mathura, Ghaziabad and Saharanpur, as well as Asom, Meghalaya, _ Sundarbans of West Bengal. In nearly 65% of the area, cotton-crop is entirely dependent on rainfall and supplementary
+
+irrigation facilities exist in 35% of the area. There has been a progressive increase in the area under irrigated cotton in India during the seventies and eighties (Table 34.2.2).
+
+Climate and soils
+
+Cotton, a semi-xerophyte, is grown in tropical and subtropical conditions. A minimum temperature of 15°C is required for better germination at field conditions. The optimum temperature for vegetative growth is 21-27°C and it can tolerate temperature to the extent of 43°C, but temperature below 21°C is deterimental to the crop. Warm days and cool nights with large diurnal variations during the period of fruiting are conducive to good boll and fibre development.
+
+Rainfed cotton, which occupies 65 % of the total cotton area requires a minimum rainfall of 500 mm, with favourable distribution for good yields of cotton.
+
+Soil requirement
+
+Cotton is grown on a variety of soils, ranging from well-drained deep alluvial soils in the north to black clayey soils of varying depth in Central Zone and in the black and mixed black and red soils in South Zone. Cotton is moderately tolerant to salinity and is sensitive to waterlogging hence, prefers well-drained soils.
+
+1219
+
+Crop season
+
+Cotton sowing season varies considerably from zone to zone and is generally early (April-May) in northern zone, and is monsoon-based in southern zone.
+
+The irrigated crop is sown in March—May and rainfed crop in June-July with commencement of monsoon. The pre-monsoon dry sowings, practiced in parts of Maharashtra, Gujarat, Madhya Pradesh during last week of May or in early June, have been found to give higher kapas yield. In Tamil Nadu, the major portion of the irrigated and rainfed crop is sown during August-October. In southern districts under rainfed conditions, the sowing is extended up to November. In parts of Karnataka and Andhra Pradesh, G herbaceum is usually sown in August-September, while in areas of Dharwad and Gadag districts of Karnataka, early sowing during first week of July has been found to give better yields. In addition, summer sowing in Tamil Nadu and some parts of Karnataka is undertaken during February—March. The sowing of cotton in the rice fallows of Andhra Pradesh and Tamil Nadu extends from the second half of December to middle of January.
+
+Cotton-based cropping systems
+
+The type of cropping system adopted, i.e. mono-cropping, mixed cropping, relay cropping, intercropping and rotation or sequence cropping, depends upon the amount and distribution of rainfall, length of growing season and type of soil (Table 34.2.3).
+
+The common traditional practice of cotton cultivation in many parts of central and south India is strip cropping of 1 or 2 rows of pigeonpea after every 8-10 rows of cotton and 3-5 rows of finger millet (ragi).
+
+Land preparation
+
+In north zone the time available for land preparation following harvest of wheat is limited.Pre-sowing irrigation is undertaken after the harvest of wheat. The land is worked upon with tractor-drawn implements, then levelled and planked before preparing ridges upon which sowing is done.
+
+In Central and South Zones, where cotton is a rainfed crop, deep ploughing once in 3-4 years is recommended to destroy perennial weeds, followed by repeated harrowing
+
+1220
+
+with the onset of pre-monsoon rains. Sowing is undertaken on ridges and furrows in drylands for moisture conservation and weed management.
+
+In the red soils of South Zone, having poor moisture retention, shallow ploughing followed by 2-3 harrowing and sowing on ridges is recommended.
+
+The availability of herbicides for weed management has opened up options for reduced tillage and residue management, which are more energy efficient and have an ameliorative effect on soil quality.
+
+Method and sowing time
+
+Cotton is sown using tractor or bullock-drawn seed drill or by dibbling. Hand- dibbling of seeds at recommended spacing is commonly practised in rainfed areas, particularly for hybrids. This system ensures proper plant stand and uniform geometry and also saves seeds. The crop is thinned to retain recommended population.
+
+The sowing time for cotton varies considerably in different cotton-growing zones (Table 34.2.4). The seed rate, spacing and plant population for different varieties varies in different regions (Table 34.2.5).
+
+The plant population and geometry vary with plant architecture, soil-fertility status, soil moisture-holding capacity and species of hybrid cotton. Closer spacing is recommended for dwarf, compact, and short-duration varieties. Improving leaf-area index (LAI) with closer spacing has been found to be advantageous for higher seed- cotton yield. Higher seed rate is used in North Zone to counter seedling mortality in May because of higher temperature. Spot application of compost or FYM @ S tonnes/ ha reduces heat-related seedling mortality. In other zones, thinning is effected to retain a single planvhill.
+
+Nutrient management
+
+Climatic factors — rainfall and temperature; soil factors — soil type, depth, pH, EC,
+
+1221
+
+34.2.5 Recommended seed rate, spacing and population for different cotton in three zones
+
+CaCO, content and organic matter; and crop factors, viz. genotype and duration, determine nutrient requirement of cotton. Organic manure is added once in 2-3 years in Central and Southern zones, but this is seldom practiced in Northern zone. Integrated nutrient management including chemical fertilizers supplemented by farm wastes (with Farm Yard Manure), crop residues and biofertilizers as well as green-manure is recommended in all the three zones (Table 34.2.6).
+
+1222
+
+(Table 34.2.6 concluded)
+
+Post-cultivation practices and weed control
+
+The thinning of cotton crop is a special feature of irrigated crop sown on ridges in peninsular India and in parts of southern Gujarat. Thinning is desirable for maintaining optimum population of plants to obtain high yield. During this operation, vigorous seedlings are retained and weak and off-types are removed.
+
+In irrigated and row-sown cotton crop and under weed control, intercultivation is done regularly with either a blade harrow, a 3-tined hoe or a desi plough. In the broadcast sown-crop, | or 2 hand-hoeings are given to remove weeds. Intercultivation not only checks growth of weeds, but also leads to better soil aeration and soil-moisture conservation.
+
+Weeds compete with cotton crop for nutrients, light and moisture. Cotton is susceptible to weed competition from sowing to 70 days, when canopy covers interspaces. Cotton yields are reduced by 50-85% with unchecked weed growth or their ineffective control. Pre-plant incorporation of Fluchloralin (45 Ec) @ | kga.isha or pre-emergent application of Diuron (80% wre) @ | kg a.i./ha or Pendimethalin (30 Ec) @ | kg a.i./ha within 24 hours of sowing with 1 hand-weeding and cross-wise hoeing is useful for satisfactory weed control up to 45 days. Deep-rooted perennial weeds are removed by summer ploughing.
+
+Water management
+
+Depending upon the climate and crop-growing period, cotton needs 700-1,200 mm water to meet its maximum water requirement. The water requirement is low during first 60-70 days after sowing and highest during flowering and boll development.
+
+Irrigation schedule
+
+Cotton is commonly flood irrigated, although irrigation by furrow or alternate furrow
+
+1223
+
+method is more effective in water saving. Drip irrigation is becoming popular, particularly for hybrids in Central and South zones. Paired row planting and drip irrigation to hybrid cotton at 50% pan evaporation (PE ) throughout the crop growth period saves 50% irrigation water, cost on laterals and enhances water-use efficiency (WUE) and cotton productivity.
+
+Cotton needs to be irrigated at 50-70% depletion of available soil moisture. Based on the climatological criterion of scheduling, irrigation at 0.6 IW : CPE with 6 cm depth is common in black soils. Alternatively alternate furrow irrigation (AAFI) in heavy soils (Vertisols), saves time, labour, irrigation water (to the extent of 30%) and minimizes the long-term ill-effects of irrigation on soil properties.
+
+On sandy-loam soils of North Zone, 3-5 irrigations are commonly given. On the red sandy-loam soils of Tamil Nadu with low water-retention capacity, 4-13 irrigations may be necessary. Improving soil organic matter shall improve water-use efficiency in this region.
+
+Rain-water management
+
+Yields from rainfed cotton are low due to erratic and uneven distribution of rainfall. Rainfed cotton suffers from moisture stress during post-monsoon season, which coincides with critical periods of flowering and boll development. The rainfed crop depends on residual soil moisture, and several measures have been recommended to conserve rain-water in situ or harvest excess run-off and recycle it at critical phases. Cotton cultivation on ridges across the slopes conserves more water, reduces soil erosion and improves yield.
+
+Ridge sowing on 0.4% slope and tying ridges at 6.0 m interval just before normal withdrawal date of monsoon conserves water.
+
+Collection of excess water into farm- ponds and recycling it to provide one life- saving irrigation at the critical early boll development phase improves rainfed cotton yield. Under limited availability of protective irrigation, the critical demands are during peak boll development, flowering and squaring stages in the order.
+
+Harvesting and yield
+
+In the USA and former USSR, cotton is picked with suitable machines, since holdings are very large and labour is scarce. In India, cotton is hand-picked. The crop cannot be harvested at one stretch and the picking of the opened bolls is carried out at suitable intervals covering picking season of several weeks.Well-opened and dried bolls alone are to be picked, otherwise quality of the fibre will not be good. It is
+
+1224 HANDBOOK OF AGRICULTURE
+
+better to remove the dry stalks along with fruiting bodies as soon as the picking is completed, because they usually harbour insect-pests, if Jeft in the field.
+
+Among the five major cotton-growing countries, China (1,265 kg/ha) holds highest productivity level followed by USA (985 kg/ha), Uzbekistan (831 kg/ha), Pakistan (599 kg/ha) and India (560 kg/ha). The yields vary widely from tract to tract and from season to season, depending upon the agro-climatic conditions. The yield per unit area of cotton in India increased from 90 kg lint/ha during 1947-48 to 560 kg lint/ha during 2007-08 (Table 34.2.7).
+
+Varietal improvement
+
+The cotton varietal improvement work in India started as early as in 1904, when agricultural department was established in different states. It was further strengthened in 1923 when the Indian Central Cotton Committee was constituted. The varietal improvement work got momentum with the inception of All-India Co-ordinated Cotton Improvement Project (AICCIP) in April 1967. Since then, several varieties and hybrids have been released in different parts of the country, replacing earlier low-yielding varieties.In India, there are nine major cotton-growing states, which are divided into three zones. These zones differ from each other in soil type and topography, irrigation facilities, species cultivated and productivity level.
+
+Remarkable achievements have been made in varietal improvement after Independence, and now India has become not only self-sufficient in cotton production, but is also in the position to export several lakh bales of quality cotton per annum. The major achievements of cotton breeding include: improvement in yield, fibre quality and spinning, and development of varieties and hybrids resistant to jassids, whitefly and verticillium wilt. The present average yield of lint is 560 kg/ha, which was only 90 kg/ha during 1947-48. Similarly, production of lint has increased from 23 lakh bales (1947-48) to over 315 lakh bales (2007-08). This progress in yield and production has been achieved mainly through development of high-yielding varieties, hybrids and improved management practices.
+
+After the inception of All-India Co-ordinated Cotton Improvement Project, several high-yielding varieties of cotton have been released for different states (Table 34.2.8). The MCU 5 of upland cotton is the first extra long-staple variety. It was released for Tamil Nadu, but owing to its wide adaptability, it has spread over vast areas in Andhra Pradesh and Maharashtra. The LRA 5166, which was released for Tamil Nadu also spread to Maharashtra and other parts owing to its wide adaptability. In North Zone, Bikaneri Nerma and H 777 (a selection from Bikaneri Nerma) have wide adaptability. Now these varieties have been replaced by new high-yielding varieties, viz. F 846 and F 1378 in Punjab; H 117 in Haryana; and RST 9, RS 875 in Rajasthan, occupying more than 60% cotton in these states. The LRA 5166 occupies 20% of the total cotton area in the country.
+
+India is the pioneer country for the commercial cultivation of cotton hybrid. The first cotton hybrid H 4 or Sankar 4 was released in 1970 from Main Cotton Research Station, Surat, which now comes under the Navasari Agricultural University. This hybrid besides Gujarat has spread in vast areas in Karnataka, Maharashtra, Andhra Pradesh and Madhya Pradesh. In 1972, the world’s first interspecific hybrid between G. hirsutum and G. barbadense was released from the University of Agricultural
+
+1225
+
+COTTON
+
+Sciences, Dharwad. This hybrid was released for irrigated areas of Karnataka and has spread to Andhra Pradesh, Tamil Nadu and Maharashtra. Later on several hybrids were developed like intra-hirsutum and inter-species in tetraploids and a few intra- specific diploid hybrids. The currently cultivated important intra-hirsutum hybrids are: H 8, H 10, PKV Hy 2, JK Hy 1, JK Hy 2, Savita, DHH 11, RAHH 95 Surya, CICR -HH 1, NHH 44, Fateh, Dhanalakshmi, Maruvikas, Om Shankar, Ajit (LH H 144) etc. And interspecific G. hirsutum x G. barbadense hybrids include: DCH 32, DHB 105, RAHB 87, Sruthi, TCHB 213, HB 224, NHB 12 etc. Two intra- hirsutum hybrids, viz. PKV Hy 3 and PKV Hy 4, have been released through the use of cytoplasmic genic male-sterility.
+
+The world’s first diploid hybrid DH 7, was released for commercial cultivation in 1985 from Main Cotton Research Station, Surat (Gujarat), followed by the release of DH 9 in 1988. Hybrids, viz. DDH 2 released from the University of Agricultural Sciences, Dharwad, and PHA 46 from the Cotton Research Station, Marathwada Agricultural University, Nanded, have been developed between diploid species, i.e. G. herbaceum and G. arboreum.
+
+Two species, G. hirsutum and G. arboreum, are cultivated in all the 9 cotton-growing states. The G. herbaceum is cultivated in Gujarat and Karnataka, and G. barbadense in a few pockets of Tamil Nadu, Karnataka and Andhra Pradesh. Initially, hybrids were released for Central and South Zones. Now hybrids have also been released for North Zone. However, their cultivation is not spreading due to high cost of seed and late- maturity duration.
+
+In G. barbadense, there is only 1 variety (Suvin) under cultivation, which has a spinning capacity of 120 counts, and is comparable to Egyptian varieties. In G. herbaceum, there are 4 cultivated varieties, viz. G COT 11, G COT 13, Raichur 51 and DB 3-12. The G COT 11 and G COT 13 are cultivated in Gujarat, while Raichur 51 and DB 3-12 are popular in Karnataka.
+
+Most of the varieties of G. arboreum belong to short- and medium-staple groups. Now long-staple varieties of this species are available (K 9, K 10, PKV 8401). Varieties K 9 and K 10 have been developed from the Tamil Nadu Agricultural University, Coimbatore, and PK V 8401 from the Dr Panjabrao Krishi Vidyapeeth, Akola. Now efforts are being made to develop varieties and hybrids suitable for mechanical harvesting, resistant to insects, diseases and root-rot. The resistance to bollworms has been achieved through development of transgenic cottons. Varieties and hybrids with naturally coloured lint and suitable for organic cultivation are also being evolved, which will be released for commercial cultivation in the near future.
+
+Many wild species possess genes for superior fibre characteristics, fibre yield, high ginning outtum, resistance to insect pests (particularly cotton bollworms), diseases (bacterial blight, grey mildew) and drought etc. (Table 34.2.9). Some characteristics were successfully introgressed in cultivated species and a number of varieties and hybrids were released (Table 34.2.10). Development of long-linted arboreum varieties possessing 25—29 mm staple length, 22 g/tex of strength and 4.2-4.6 micronaire which are comparable to G hirsutum, could be possible through introgressive hybridization.
+
+Specific schemes for multiplication and distribution of the pure seeds of improved strains had been financed by the former Indian Central Cotton Committee in collaboration with the State Governments since 1929. From 1950 onwards, the
+
+1226
+
+Government of India has sponsored cotton-extension schemes in different states for distribution of good seed. The work hitherto carried out under these schemes was later integrated under the comprehensive cotton-development scheme. Directorate of Cotton Development was founded in Mumbai under Department of Agriculture and Cooperation under Ministry of Agriculture. This ageney co-ordinated the funding for development of cotton cultivation in the three zones.
+
+Seed multiplication
+
+The Department of Agriculture and Cooperation, Government of India, has further
+
+1227
+
+COTTON
+
+Characters of breeding value found in different species of Gossypium
+
+G. darwinii, G. tomentosum, G. stocksii,
+
+G. areysianum, G. anomalum, G. australe,
+
+G . harknessii, G. aridum, G. raimondii
+
+G . thurberi
+
+Delayed morphogenesis of gossypol gland G. australe, G. bickii
+
+1228
+
+1228 HANDBOOK OF AGRICULTURE
+
+sponsored schemes for production of nucleus and foundation seeds of all improved varieties of cotton released under the AICCIP and State. The subsequent stages of the multiplication of improved seeds are handled by the Departments of Agriculture through co-operative societies and National Seeds Corporation, with the assistance of seed- growers. The Central State Farms and the State Seed Farms are also involved in production of pure seed of cotton varieties. The respective breeders of SAUs and CICR, Nagpur, are also provided funds for maintenance of genetic purity as well as for production of breeders’ seed production through Project Co-ordinator (Cotton).
+
+Insect-pests, diseases and disorders
+
+Insect-pests
+
+Cotton production in India has been constrained due to many insect-pests, affecting right from germination till harvesting. Sucking pests, viz. jassids (Amrasca biguttula biguttula), aphids (Aphis gossypii), thrips (Thrips tabaci) and whiteflies (Bemisia tabaci); bollworms, viz. potted bollworm (Earias vittella), American bollworm (Helicoverpa armigera), pink bollworm (Pectinophora gossypiella) and dusky cotton bug (Dysdercus singulatus) and red cotton bug (Oxycarenus hyalipennis) are important pests that cause economic losses in cotton crop. Although sucking pests are important,
+
+1229
+
+major yield losses up to 60% are due to bollworm complex. Other occasional pests include stem weevil [Pempheres (Pempherulus) affinis], semilooper (Anomis flava), leaf-roller (Sylepta derogata) and grey weevil (Myllocerus sp.).
+
+Commercial cotton production invariably relies on the use of systemic insecticides for control of sucking pests, whereas bollworm control has been attempted with all groups of insecticides. Although use of synthetic insecticides resulted in high returns to farmers, their indiscriminate use had led to resurgence of B. tabaci and H. armigera. Post-resurgence and secondary pest outbreaks (whitefly and aphids), resistance development (H. armigera) and environmental and health hazards in conjunction with the insecticide use in cotton led to newer concepts and a consensus that other methods of control such as biological, cultural, behavioural etc. should be increasingly used in an integrated manner.
+
+Integrated pest management (IPM)
+
+The IPM encourages use of most compatible and ecologically sound combination of available pest-suppression techniques. These management techniques include cultural control such as manipulation of planting dates and stalk destruction; crop- management practices such as varietal selecti mn, fertilizer application and timings of irrigation; biological control involving conservation of existing natural enemies, host- plant resistance and region-wise use of selective insecticides to keep pest populations below economically damaging levels. The work conducted at the CICR, Nagpur, and elsewhere showed wide variability in species as well as varieties for insect-pests tolerance. The germplasm lines having tolerance to jassids are JBWR 34, JK 258, JK 259, JK 260, JK 285, JK 344, JK 345, M 1,M 7, M 15, M 18, M 26, AV 3649 and AV 3670; and the lines possessing tolerance to bollworm (Helicoverpa armigera) are Khandayya 19, La Super Okra, Ambasador, Pee Dee 0695, MDH 128, MDH 118, MHR 12, MHR 16, MHR 18, Pee Dee 0781, ND 63, MDH 133, Nimkar 1, MW 11, Cirpan 2362, MOHC-DW 1281 and MOHC-DW 1321.
+
+The potentially injurious population of plant damage level should be determined through monitoring onset of pest occurrence, followed by regular field-scouting activities. Management decisions should be based on the economic threshold or action level.
+
+In bio-intensive IPM, biocontrol agents are seen as essential and of first priority in building pest-control systems. Among rich complex of natural enemies of cotton ecosystem, coccinellids and chrysopids act as predators of jassids, aphids and Helicoverpa eggs. Parasitoids of bollworms are important in terms of species diversity as well as abundance. Among them, hymenopterous Rogas aligarhensis on E. vittella, Campoletis chloridae on H. armigera, Apanteles angaleti and Bracon greeni on P. gossypiella are very significant with field parasitization ranging between 20 and 38% depending upon weather.
+
+Mass-production protocols are available for predators Chrysopa spp. and egg parasitoid Trichogramma spp. for facilitating inoculative and inundative releases in cotton fields. Many private entrepreneurs are operating in different parts of the country, supplying good-quality biocontrol agents to farmers.
+
+Microbial control agents, viz. entomopathogenic bacteria (Bacillus thuringiensis), virus (Helicoverpa nuclear polyhedrosis virus) and nematode (Steinernema and
+
+1230 HANDBOOK OF AGRICULTURE
+
+Heterorhabditis spp.) are promising in bollworm management. The use of resistant cultivars and botanical insecticides like neem-based formulations add new dimension to bio-intensive pest management in cotton.
+
+For insect control, as the insecticides cannot be dispensed with cotton production, the concept of safe insecticides supplementary to other control methods should be utilized when necessary. Insecticidal application should be based when pest population or damage level is at the economic threshold level, adopting correct chemical and dose with proper method and timing. Tank mixing of two or more insecticides should be avoided.
+
+For management of insecticide resistance, experience has showed that reliance on a single group of insecticides that has similar mode of action cause pests to develop resistance to entire group of insecticides. A good strategy to help avoid pest resistance is to rotate use of insecticide groups, taking advantage of modes of action such that insect management delays development of any resistance and also provides better overall insect control.
+
+Thus IPM in cotton strives to effectively suppress noxious pests, while minimizing the risk and cost.
+
+Diseases
+
+Cotton suffers from a number of diseases caused by bacterial, fungal and viral pathogens. Bacterial blight caused by Xanthomonas axonopodis pv. malvacearum is a major disease, which could cause crop losses up to 27% depending upon variety, stage of crop when infected and prevailing weather. Leaf spots caused by A/ternaria and Myrothecium are also becoming prominent in the southern and northern cotton-growing areas. Greymildew caused by Ramularia areola results in heavy defoliation, and so heavy economic losses also. Boll rot caused by a variety of micro-organisms reduces yield from 10 to 30%. Wilts caused by Fusarium oxysporum sp. vasinfectum and Verticillium dahliae are sporadic in nature but cause heavy losses in pockets. Root rot caused by Rhizoctonia solani and R. bataticola is prominent in northern cotton-growing states and causes total loss in patches. The rust occur in some pockets of southern States.
+
+Leaf curl disease caused by Gemini virus and transmitted by whilefly (Bemisia tabaci) has been reported from northern cotton-growing states of Rajasthan, Haryana and Punjab, causing losses in yield. Seventeen races of Xanthomonas pv. malvacearum are present in India. Five pathotypes in Myrothecium roridum have been identified. Race 4 of Fusarium oxysporum sp. vasinfectum is also present in India, which attacks desi cotton. Sources of resistance have been identified for various diseases.
+
+Thirteen lines belonging to Gossypium hirsutum are reported immune to bacterial blight. Twelve lines have shown resistance to Myrothecium leaf-spot, whereas 2 lines are resistant to Alternaria leaf spot. A dozen varieties belonging to desi cotton possessing resistance to Fusarium wilt are recommended for cultivation in wilt-prone areas. MCU 5 VT and Surabhi resistant varieties for Verticillium wilt, are recommended for cultivation in wilt-affected areas.
+
+Bacterial blight and fungal leaf-spots can also be managed by spraying crop with Streptocycline and Copper oxychloride. Grey mildew can be managed by spraying fungicides based on wettable sulphur or Carbendazim depending on the variety. For
+
+1231
+
+boll rot a combined spray of insecticide and fungicide based on Copper oxychloride or Carbendazim should be given. In root-rot-affected areas, intercropping with moth beans is effective in reducing root-rot incidence and increasing cotton-seed yield.
+
+Two fungal antagonists, Trichoderma and Gliocladium have showed promise against root-rot pathogen. Soil application of zinc sulphate at 24 kg/ha is also effective in management of root-rot. For leaf-curl management cultivation of resistant varieties is the best solution. White flies should be controlled with insecticides.
+
+Nematodes
+
+Nematodes belonging to genera Pratylenchus, Meloidogyne, Rotylenchulus, Bylenchorhynchus, Hoplolaimus, Xiphinema and Aphlenchoides are associated with cotton. Two nematodes, viz. Rotylenchulus reniformis and Meloidogyne incognita, are gaining importance as pests in recent years in some cotton-growing tracts. The R. reniformis is widespread in Central, Southern and some parts of North zones, and M. incognita is much widespread in North zone.
+
+Physiological disorders and their management
+
+Physiological shedding of fruiting parts limits productivity in cotton. Abiotic factors such as cloudy weather, moisture, heat stress and waterlogging provide avenue for shedding of fruiting parts. These stress factors become more critical during reproductive phase, thus affecting yield realization. Under rainfed situations studies indicated that squares produced during September mostly contribute for boll retention at harvest. Therefore, efforts should be made to protect developing squares during this period to obtain higher yield. Application of Planofix (Naphthalene Acetic Acid -NAA) at 20 ppm (0.2 ml/litre water) and diammonium phosphate (DAP) at 1 or 2% as foliar spray during during pre-flowering (55-60 DAS) and peak flowering stage ( 80-90 DAS) of the crop improves reproductive capacity and reduces impact of physiological shedding of fruiting parts. Drying of bud and bolls during flowering and boll-formation period are mostly associated with short-branch varieties. Bad boll opening can be substantially reduced by perfecting sowing dates and manuring with nitrogen. Red leaf disease (leaf reddening) occurs due to prevalence of low leaf nitrogen during boll development and drop in minimum temperature below 21° C associated with high wind velocity. Corrective measures include foliar application of nitrogen with 1% MgSO, and maintaining optimum nutrient status during boll development.
+
+Continuous waterlogging promotes hypertrophied lenticel formation at the zone of submergence and facilitates the transfer of oxygen from shoot to root and thus the root activity is maintained. This helps the plant to acclimatize under waterlogged condition. Diploids are more tolerant to drought than tetraploids. Tolerant genotypes are found to have deep root-system and show better regulation of stomata under adverse conditions. Some of the tolerant genotypes are LRA 5166, CNH 301, CNH 28], CNH 291, CNH 380, CNH 32 and all the desi varieties.
+
+Br COTTON IN INDIA
+
+In India, after extensive testing of Bt cotton hybrids (with Cry Ac gene) in All-India Co-ordinated Cotton Improvement Project (AICCIP) and farmers’ fields, Government of India has approved commercial cultivation of Bt cotton hybrid with effect from
+
+1232
+
+2002 crop season.
+
+Five events have been approved by the GEAC for commercial release in India. These are Cry | Ac (Mon 531) developed and sourced from private sector, Cry 1 Ac and Cry 2Ab (Mon 15985), stacked gene event developed and sourced from private sector Cry | Ac (Event 1) developed by private sector and sourced from IIT, Kharagpur and Cry 1Ab and Cry | Ac (GFM event) developed by private sector and sourced from China featuring fused genes, Cry | Ac (Dharwad event) (ICAR New Delhi) (Table 34.2.11 and Table 34.2.12).
+
+The transgenic hybrids released in the country can be categorized in different ways on the basis of transgene involved. These can be categorized in two groups, viz. (i) single gene and (ii) double gene, and based on species involved they can again be classified into two distinct types (i) intra-hirsutum and (ii) inter-specific hybrids (hirsutum x barbadense).
+
+Development of Bt cotton varieties
+
+Indian Council of Agricultural Research and Department of Biotechnology have entrusted the responsibility of developing transgenic cotton varieties to CICR, Nagpur, NRCPB, New Delhi, NBRI, Lucknow, ICGEB, New Delhi and UAS, Dharwad. The available genes crylAc, crylAa3 and cry IF were used through Agrobacterium - mediated transfer and Cry I Ac gene was transferred as per the protocol standardized by UAS, Dharwad, NRCPB New Delhi and CICR, Nagpur in G. hirsutum and G arboreum cultivars respectively.
+
+In 2008 Bikaneri Nerma conferring cryl Ac developed by UAS, Dharwad, CICR, Nagpur and NRCPB, New Delhi has been approved for commercial cultivation after
+
+1233
+
+bio-safety tests.
+
+The area under transgenic cotton hybrids (Bt cotton) during 2002-03, the first year of Bt introduction in India, was only to the extent of 38,038 ha and increased every year and reached 7.6 m ha during 2008. The increase in the area of Bt cotton was 150 times in a span of seven years covering 82% of the total cotton area during 2008. The number of Bt cotton growers also consistently increased from few thousands to 5.0 million during 2008, representing two-thirds of total cotton growers of the country.
+
+Maharashtra has the highest acreage under Bt cotton (3.13 m ha), representing 42% of Bt cotton area of the country followed by Gujarat (1.36 m ha and 18%), Andhra Pradesh (1.32 m ha and 18%), Madhya Pradesh (0.62 m ha and 8%), and rest of the area in Karnataka, Tamil Nadu and other states (Table 34.2.13).
+
+*Punjab, Haryana, Rajasthan
+
+During 2002, only three Bt cotton hybrids (MECH 12, MECH 162 and MECH 184) developed by private sector were released for commercial cultivation in central and south zones. In 2004, RCH 2, while in 2005, 16 hybrids, in 2006, 42 hybrids, in 2007, and by the end of 2008 about 280 hybrids have been recommended for commercial cultivation. Out of this, 260 hybrids belong to intra- hirsutum category and the rest to the inter-specific (G hirsutum x G. barbadense) category. All these hybrids were developed by 38 private seed companies utilizing different genes.
+
+However, large scale and continued use of Bt cotton genotypes may bring into focus the problem of insect resistance. Hence adequate precautions are necessary to delay the development of resistance to Bt toxins. The suggested measures are: strict adherence to the planting of Refugia, encouraging the cultivation of other alternate host crops, gene stacking, use of alternate genes that do not share common resistance mechanism as that of Cry I Ac and reduce the Bt cotton surviving population of H. armigera by conventional methods of insect control.
+
+Emerging pests on Bt cotton
+
+Due to large-scale cultivation of Bt cottons and less usage of pesticides since 2002 in India changes in insect-pest complex are evident. Mealy bugs and mirid bugs are emerging as potential threat. First report of mealy bugs was in 1997 on desi and hybrid varieties of cotton in Wagad area of Kutch district. During 2007-08, the pest caused serious damage in Punjab with an approximate yield loss up to 0.2 m bales worth
+
+1234
+
+1234 HANDBOOK OF AGRICULTURE
+
+Rs 1.59 billion. Similar situation was noticed in Haryana also. Other affected states with this pest are Rajasthan, Sourashtra (Gujarat), Maharashtra, Andhra Pradesh etc. Unfortunately farmers are forced to rely on heavy use of insecticides once again in cotton to control mealy bugs. Phenacoccus solenopsis (Pseudococcidae : Homoptera) is largely appearing mealy bug species throughout India which has been confirmed both by conventional taxonomy and molecular analyses. Phenacoccus solani and Maconellicoccus hirsutus (Pseudococcidae: Homoptera) are also found to appear in isolated patches.
+
+Management of mealy bugs
+
+Several prophylactic and curative measures such as control of host weeds and alternate host crops, growing pigeonpea, maize, cowpea around Bt cotton fields, conservation and deployment of natural enemies particularly Anagyrus kamali, Cryptolaemus montrizouri are essential for effective management of mealy bugs. Spray Chlorpyriphos 20 ec @ 2.0 ml/litre or Profenophos 50 Ec @ 2.5 mil/litre or Acephate 75 sp @ 2.00 g/litre for Neem, karanja ox fish oil rasin soaps are also effective.
+
+The mirid bugs
+
+Green mirid (Creontiades dilutus) has always been considered a significant pest of Australian cotton. A green mirid, Creontiades biseratense (Distant) is appearing since 2005 in Karnataka and causing considerable damage and it is the only reported species of mirid from Karnataka so far. There is increased incidence and diverse species complex in these pests presently.This is also seen in Tamil Nadu, Andhra Pradesh and Maharashtra. The mirid pests cause heavy shedding of squares and small sized bolls. Larger squares suffer damage that may cause development of deformed bolls which is often referred to as “parrot beaking”. If the infestation is severe, significant reduction in yield is noticed.
+
+Application of monocrotophos is suggested as a short term emergency measure. But the early mirid management intervention may disrupt the natural enemy and result in outbreak of whiteflies, aphids or mites later in the season .Thus there is a need for predator complex, good insects such as damsel bugs, big eyed bugs, assassin bugs, predatory shield bugs, spiders and ants. Acephate 70 sp @ 1.0 g/litre or Imidacloprid 200 st @ 0.21 m/litre or NSKE 5 % are best options for management.
+
+COTTON MARKETING IN INDIA
+
+The cotton marketing season commences in October and extends up to February in North Zone and up to April-May in Central Zone and parts of South Zone. Period during January—May constitutes main marketing season in South Zone. The summer cotton is usually marketed during September—October. The marketing of cotton commences from close of harvesting of raw cotton (kapas) and ends after lint is produced by mills. Between these stages, cotton passes through several stages, viz. sale as kapas in the primary and secondary markets, ginning and processing, storage, transport to terminal markets and the sale of lint to consuming mills.
+
+Cotton is marketed in the form of seed-cotton (kapas) in India, unlike in leading cotton-growing countries where it is processed and then marketed as pressed bales. Three marketing agencies currently in the field are: (i) private sector, consisting
+
+1235
+
+of traders, owners of ginneries operating as individual business proprietors, partnership firms and private limited companies, (ii) public sector agency, viz. Cotton Corporation of India, and (iii) co-operative sector including the Monopoly scheme of Maharashtra.
+
+State Co-operative Cotton Marketing Federation
+
+Major marketing systems now in operation are:
+
+* Monopoly procurement from growers by apex federations (which act as an agent of the government) through a network of affiliated co-operatives.
+
+* Pooling system by purchase of member’s produce and its collective marketing for maximizing returns to growers.
+
+¢ Operations on a commercial basis and at times for providing market support to farmers. :
+
+Another major dimension added by the co-operatives was linkage with the supply of timely and adequate crop-production credit, which is given partly in kind and partly in cash. The credit advance is recovered from the sale proceeds after marketing cotton. This arrangement has greatly helped in spread of improved production practices.
+
+Regulated market
+
+The first regulated market was organized as early as in 1886 at Karanja in Akola district of Maharashtra. Subsequently, in the then existing Berar, Cotton and Grain Marketing Act was passed in 1887. A few decades later, similar Acts were passed by the then existing states of Bombay in 1927, in Hyderabad in 1930, in Central Province in 1932, in Mysore in 1943, in Punjab in 1941 and in Pepsu in 1948. After Independence in 1947, all the states have enacted laws regulating agricultural produce marketing and they cover cotton trade in all the states growing cotton on a commercial scale. Currently there are about 560 regulated markets dealing with cotton in the country.
+
+Minimum support price
+
+The minimum support prices are now being fixed by the government initially for the basic varieties, viz. F 414, H 777 (medium staple) and H 4 (long staple). Subsequently the corresponding prices for all other major varieties are fixed by the Textile Commissioner on the basis of the market differential, fibre-quality parameters and ginning outturn. Until 1971—72, support prices were fixed for lint but from 1972— 73 onwards they are fixed per quintal of kapas, since most of the cotton in India is marketed in the form of kapas and not as lint.
+
+International trade
+
+After partition, Indian Union was left with only 60% of the crop but it had over 95% of the cotton-based industry. This has led to a serious situation related to raw material availability (that undivided India enjoyed). However, India continued to export some quantity of coarse, short-staple Bengal desi cotton. The country made remarkable advances in cotton production, especially after the advent of hybrid cottons from mid- seventies. Consequently, India could not only meet the domestic demand in full from its own production but could also generate surplus for export in years of bumper crops.
+
+Export
+
+Export of cotton continues to be under the government regulations. The decision
+
+1236
+
+for export is taken by the government after assessing overall situation and legitimate interests of the growers and the consumers. India is gradually emerging as a major player in the World Cotton Trade.
+
+Indian export of cotton comprises 2 distinct groups— one is Bengal desi and the other is staple cotton. Bengal desi is a coarse, short-staple desi cotton, traditionally being exported from the country. It is mostly non-spinnable and is in demand for such extra factory uses such as fillers for mattresses, upholstery etc. and for manufacturing of surgical cotton. This type of coarse cotton is grown only in India and Pakistan. In India, it is grown in north-western states of Punjab, Haryana and Rajasthan. Its name is derived from the fact that it is shipped mostly to Japan, which has been the main consumer, from ports of Bengal. The annual production of Bengal desi is around 6-7 lakh bales, of which 4-5 lakh bales may be needed to meet domestic demand, leaving a minimum surplus of 2 lakh bales for export. In the past, about 3 lakh bales were exported per annum, but with the growth in the use of synthetics in mattresses and upholsteries, the demand for cotton has declined. Recently, demand has, however, picked up as undesirable aspects of synthetics like bad odour and skin allergies are coming to notice on a wider scale.
+
+The second category of export is the staple cotton. This category includes mostly long-staple cotton exceeding 25.4 mm, but occasionally superior medium- staple cotton is also released for export. The Indian cotton varieties mostly in demand from abroad are Sankar 4 (Hybrid), Sankar 6 (Hybrid), MECH 1, JKHy 1, F 414 and DCH 32.
+
+Export quotas are released by the government to specific agencies. Though most of the quotas of Bengal desi are open to all, i.e. private trade as well as to state and co- operative agencies, staple cotton is released mostly to institutions like CCI and Co- operative Marketing Federations in different states, and some quantity to private trade.Exports from the country boomed to a new record of 85 lakh bales during 2007- 08 from 47 lakh bales during 2005-06. The textile sector has witnessed a quantum jump in investment during the last five years, which rose to Rs 1,08,531 crore between 2004 and 2008.
+
+Cottonseed oil
+
+Cottonseed was the second most commonly produced oil seed in the world averaging one-fourth/fifth that of soybeans. World cottonseed production has averaged about 43-45 million metric tonnes annual during the last five years. Cottonseed oil is extracted from cottonseed, which carries around 16-18% oil content. Global trade in cotton oil is estimated around one million tonnes. The production of cottonseed oil during 2006- 07 was 9.89 lakh tonnes as against 8.14 during 2005-06. In India, nearly 80% of the cotton seed is crushed for oil while the rest goes for feed. Cottonseed oil is an excellent source of essential fatty acids comparable to corn, sesame , safflower and superior to groundnut, rapeseed, olive and almond. Cottonseed oil also contains Vitamin E to a high degree and effective pro-vitamin A in the form of carotene and some Vitamin B complex. Cottonseed oil has the added advantage of greater stability owing to the anti-oxidant activity of the tocopherols. Thus cottonseed oil stands among one of the best vegetable oils in its nutritive value.
+
+1237
+
+Cotton by-product
+
+Lint is the main component of cotton crop. Cottonseed is next in importance owing to its oil and protein content. Plant biomass, linter, willow dust, cottonseed hull, ginning wastes are other important by-products from which value-added products can be obtained. Another major by-product is cotton stalks which can effectively utilized for the production of particle boards, corrugated boxes, paper and other products for which the technology is already available with the CIRCOT, Mumbai.
+
+Ginning
+
+Ginning is the first of the mechanical processing treatments that kapas (seed-cotton) undergoes in its passage from field to industry and its ultimate conversion to yarn or fabric. The process of separating fibre from seedcotton is known as ‘ginning’. In commercial practice, 2 types of ginning machines are available—roller gins and saw gins.
+
+After ginning, the lint is first spun into yarn before being used ultimately to manufacture fabrics. Hence the price paid for a sample of cotton is related to the yarn quality that can be spun from it. In India, this spinning performance is usually expressed as the ‘Highest Standard Count’ (HSC) to which a cotton can be spun. The fineness of yarn is usually expressed in terms of counts. A count is the number of hanks of 840 yards (761 m) each which weigh 1 pound (0.453 kg). For instance 20 counts of yarn would indicate that 1 pound of a particular yarn would contain 20 hanks of 840 yards each. The highest standard count for cotton is that finest count of yarn that can be spun to satisfy yarn strength standards.
+
+Impact on cotton production
+
+Consequent on the release and spread of the new high-yielding varieties, hybrids and transgenics of cotton in the various quality groups and the adoption of improved agronomic practices and crop-protection schedules, there have been a progressive improvement in cotton production in the country both quantitatively and qualitatively
+
+1238
+
+during past two decades. Staple-wise production of cotton in India has also witnessed a significant change. During 1960-61 all the cotton produced in India had fibre length below 24 mm. At present approximately 48% of cotton produced in India fall under the medium to superior medium category up to 24 mm length and 40% under long staple with more than 24.5 mm staple length. The reason for increase in diversity of staple classes and net staple length of Indian cotton is attributed to the introduction of tetraploids from new world. The variability in spinning potential in India has also increased and ranges between 6s and 120s, which is largely due to hybrid cotton (Table 34.2.12). Although the area under cotton declined after 1982-83, the production and productivity (lint yield) have increased remarkably bringing into focus the role of improved varieties and production technology (Table 34.2.14).
+
+34.3 Jute and Allied Fibres
+
+JUTE
+
+Jute (Corchorus capsularis and C.olitorius; n=7) is one of the important cash crops of India. The crop belongs to the family Malvaceae. It is grown in eastern and north- eastern states, viz. West Bengal, Asom, northern Bihar, south-east Orissa, Tripura, Meghalaya and eastern Uttar Pradesh on 0.80 million ha annually with an average production of dry fibres of 10.0 million bales and the national average productivity of 23.8 q ha’. Jute is an industrially oriented crop, 95% of its fibres being utilized in industry and the remaining 5% are retained by farmers for domestic use. About 72% of the jute goods are consumed domestically and the remaining 18% are exported to countries like United Kingdom, Japan, Middle East, Far East, Europe, Africa, USA, Canada, Argentina, CIS countries, Romania, Australia and New Zealand.
+
+Jute fibre is a bast (stem) fibre, composed of sclerenchyma cells combining together forming long bundles, and is arranged in layers inside the stem. The fibre is lingo- cellulosic in nature and the major chemical constituents are o-cellulose (60-61%), hemicellulose (15.5-16%) and lignin (12.5-13.5%).
+
+Origin and distribution
+
+Commercial jute cultivation is mainly restricted between 80°18’E - 92°E and 21°24’N — 26°30’N in the Indo-Bangladesh sub-continent. The other major jute- growing areas are China, Thailand, Myanmar, Indonesia, Brazil and Nepal. Africa and Indo-Myanmar region has been identified as the primary and secondary centres of origin for C. olitorius, respectively. Indo-Myanmar region including South China is considered as the centre of origin for C. capsularis. Apart from the two cultivated species C. capsularis and C. olitorius, eight wild species of jute (C. aestuans, C. depressus, C. fasicularis, C. psuedo-olitorius, C. tridens, C. trilocularis, C. urticifolius and C. velutinus) have been identified in India.
+
+Climate
+
+Jute requires a warm and humid climate, with temperature fluctuating between 24°C and 37°C, the optimum being around 34°C .The permissible diurnal variation in relative humidity favourable to growth is 57 and 97%. Incessant rains or waterlogged conditions are definitely harmful. Though the white jute (C. capsularis) varieties can stand waterlogging to some extent during the later stage of growth, fossa jute (C. olitorius) varieties cannot. In the seedling stage waterlogging is not tolerated by both the species. Areas receiving early showers in late February or early March, followed by a relatively short dry spell are suitable for sowing of white jute varieties. The fossa jute varieties with the introduction of premature flowering resistant varieties JRO 524, JRO 878 and JRO 7835, were sown with the first showers in March to April. The monsoon sustains the subsequent growth. Rain below 1,000 mm is not helpful. Alternative sunshine and rainy days are most conducive to growth. The dry spell
+
+1240 HANDBOOK OF AGRICULTURE
+
+preceding the onset of the monsoon enables the essential weeding and thinning operations to be carried out.
+
+Soil
+
+The newer grey alluvial soil of good depth, receiving silt from the annual floor, is nature’s best gift, but jute is widely grown in sandy loam and loam soils and heavy clays are unsuitable. Soils with a low pH give a poor crop, the optimum pH being around 6.4.
+
+Production technology
+
+Varieties
+
+White jute varieties, at present cover only 10 — 15 % of the jute area, whereas 85 - 90% of jute area is covered by fossa jute varieties. The important varieties of jute released so far are given in Table 34.3.1.
+
+1241
+
+JUTE AND ALLIED FIBRES
+
+(Table 34.3.1 continued)
+
+1242
+
+(Table 34.3.1 concluded)
+
+Cultivation
+
+Jute requires a clean clod free field with find tilth. The land is therefore ploughed, cross ploughed and planked several times. All weeds are to be thoroughly removed.
+
+The sowing of white and fossa jute varieties starts in late February in low-lying areas that retain moisture of the previous flood or monsoon. Sowing in mid-lands and
+
+1243
+
+JUTE AND ALLIED FIBRES
+
+highlands starts with showers in March or April and continues till early June in the western part of the jute belt. Farmers usually broadcast the seed immediately after the pre-monsoon shower to utilize the soil moisture and the seed rate in broadcast jute is 5-6 kg/ha for fossa jute and 6-7 kg/ha for white jute. The germinability of seed is more than 80% in both white and fossa jute. The higher seed rate in jute ensures the seedling emergence as the top soil is cracked by the pressure exerted by the emerging seedlings. The extra seedlings need to be thinned out to maintain a spacing of 10-15 cm and the operation is done when the plants are 10-12 cm tall. Weeding is also done along with the thinning operation.
+
+Row cropping is advantageous as it facilitates the intercultural operations. The four-row seed drill developed at CRIJAF can sow white and fossa jute varieties at a spacing of 30 and 25 cm, respectively, and the seed requirement is 2.5 kg/ha only. The plant to plant space is to be manually adjusted between 5 and 7 cm. Sowing is always done shallow, i.e. not exceeding 3 to 4 cm.
+
+Nutrient management
+
+A jute crop producing green biomass of 40-50 tonnes and yielding 20-25 q/ha of dry fibre was found to remove N, P, K, Ca and Mg to the tune of 84, 16, 147, 84 and 29 kg, respectively in white jute (variety JRC 212) while in tossa jute (variety JRO 632) the corresponding figures were 111, 28, 164, 124 and 25 kg/ha, respectively. In northern Bengal and Asom, jute crops often suffer from soil acidity. The acid soil can be amended by application of lime, which should be applied as per the lime requirement (LR) of the soil. Dolomite was also found to be effective in this regard. At Sorbhog, Asom, application of lime at 50% and 100% LR was found to produce significantly higher jute fibre yield compared to the untreated acid soil. Application of organic matter as farmyard manure, composts, etc. @ 5-7 tonnes/ha is generally recommended as it promotes crop growth and saves the chemical fertilizer. Substitution of recommended chemical fertilizer dose through farmyard manure or water hyacinth compost to the tune of 25% was found to produce comparable fibre yield in jute and improved the net return. Phosphorus and potassium should be applied at the time of sowing while nitrogen should be applied in 2 split doses — 50% at 3 weeks after sowing (WAS) and the rest at 5 WAS respectively. Since the relative growth rate of jute at the early growth stage is comparatively lower than the prevailing weeds, basal application of nitrogen will result into increased crop-weed competition which will finally reduce the fibre yield of the crop. The general fertilizer dose of jute, depending upon the fertility status of the soil has been developed by CRIJAF is given in Table 34.3.2.
+
+Jute crop, if grown after potato, does not require any fertilizer. The ash of water hyacinth is a rich source of potassium. The application of magnesium (MgSO,°’7 H,0) @ 10 kghha increased fibre yield of jute in the north bank of Bramhaputra and in southern Bengal also.
+
+Weed management
+
+Jute crop suffers from heavy weed infestation during the early stage of its growth, which significantly reduces the fibre yield. The magnitude of yield loss ranged between 52 and 55% in C. capsularis and 59 to 75% in C. olitorius. Weeding alone incurred about 35% of total cost of cultivation in jute and the manual energy requirement for weeding in jute was 4.5 times more than that for land preparation. The dominant weeds in jute growing regions were mostly annual grasses and also sedges like Cyperus sp. The critical period of crop — weed competition in jute was found to be between 15 and 60 days after sowing. Maximum control of weeds was achieved with two manual weeding at third and fifth week after sowing. Mixed cropping of red amaranth (seeding @ 10-30 kg/ha) with jute resulted in significant suppression of weed biomass coupled with an additional return of Rs 3,500-4,000/ha. Soil solarisation with black polythene can reduce the weed emergence by about 60% over unweeded check, but is not remunerative due to higher cost of polythene. The experimental results of All India Network Project on Jute and Allied Fibres (AINPJAF) revealed that better weed control in jute can be achieved with pre-plant soil incorporation of Fluchloralin @ 1.0 kg a.i/ ha or Trifluralin @ 0.75 kg a.i./ha one day before sowing gave 90% control of grassy weeds and some broad leaf weeds up to 35-42 DAS without any residual toxicity in soil at Barrackpore, West Bengal. Pre-emergence application of S-Metolachlor @ 0.5 kg a.i/ha resulted in better control of sedges. Post emergence spray of Quizalofop ethyl 5% Ec (40-50 g a.i/ha) + adjuvant @ Iml/litre of water at 15-21 days after emergence (DAE) controlled the grassy weeds very effectively. The B:C ratio of weed control in CRIJAF experiments ranged from 2.19 to 2.47 in chemical weed control, from 2.19 to 2.32 in mulching, and from 0.79 to 1.5 in manual weeding. In jute seed crop, application of herbicides stood as second best treatment after hand weeding.
+
+Disease management
+
+Stem rot caused by Macrophomina phaseolina is an economically important disease of jute. Anthracnose is of regular in occurrence especially in capsularis belt. Black band, soft rot and Hooghly wilt are the diseases of minor importance.
+
+Macrophomina phaseolina is the causal organism of stem rot in jute, the sclerotial stage of which is Rhizoctonia bataticola and the perfect stage is Orbilia obscura. The pycnidial and sclerotial stages are primarily responsible for the disease and the perfect stage is of less importace. Both C. olitorius and C. capsularis are equally susceptible to this disease. Humid weather favours faster development of the disease. Closer spacing is conducive for the spread of the disease, and application of N beyond 80 kg/ ha promotes the incidence of stem rot, root rot and collar rot. Potato or other solanaceous vegetables should not be included in the cropping sequences for more than three consecutive years. Jute-paddy rotation in rainfed and jute-paddy-wheat/mustard sequence under irrigated condition is recommended to contain the spread of the disease. Seed treatment with Carbendazim @ 2.0 g/kg or Mancozeb @ 5.0 g/kg or Trichoderma
+
+1245
+
+viride @ 10.0 g/kg of seed may be recommended. Foliar spraying (2-3 times) of Carbendazim (0.2%) or Copper oxychloride (0.75%) may be suggested depending upon the disease severity. In case of sever incidence, alternate spraying of Carbendazim and Copper oxychloride at 10 days interval is recommended.
+
+Anthracnose is of regular occurrence in the capsularis belt of India, viz. Asom, North Bengal, Bihar and Uttar Pradesh. The causal agents are Colletotrichum corchori ‘for C. capsularis and Colletotrichum gloeosporioides for C. olitorius. Continuous rain, high relative humidity and temperature of around 35°C are congenial for the faster development of this disease. C. capsularis is more susceptible and C. olitorius is rarely affected. Seed treatment with Bavistin @ 2 g/kg of seed or Captan @5 g/kg of seed may be recommended to avoid the primary source of infection. It is also suggested that seeds with 15% or more infection should be avoided even after treatment. Foliar spraying of Bavistin @ 2 g/litre or Captan @ 5 g/litre or Dithane M 45 @ 5 g/ litre has been recommended. Black band is caused by Botryodiplodia theobromae. The pathogen is seed borne as well as air borne and has a very wide host range. It was a minor disease in the past, but the incidence is gradually increasing now-a-days. Good agronomic practices coupled with seed treatment (Carbendazim @ 2.0 g/kg or Mancozeb @ 5.0 g/kg) reduce the incidence. Spraying of Copper oxychloride @ 5.0— 7.0 g/litre or Carbendazim @ 2.0 g/litre of water showed effective control of the disease. Soft rot is a disease of minor importance caused by Sclerotium rolfsii. This is primarily a soil-borne fungus. It grows in the litter of fallen jute leaves. When the weather is hot and the soil is wet, it grows and initiates infection in the collar region. Both capsularis and olitorius jute are equally susceptible. Deep ploughing during summer and clean cultivation by removing the left over of all the previous crops are essential to prevent primary source of infection. Spraying Copper oxychloride @ 5-7 g/litre of water directed towards the basal region may contain the spread of the disease to a greater extent. Hooghly wilt is caused by Ralstonia solanacearum (Pseudomonas solanacearum), while Rhizoctonia bataticola and Meloidogyne incognita facilitate the entry of the primary pathogen. This disease is most prevalent in the areas where jute is followed by potato or other solanaceaous crops. While olitorius jute suffers from Hoogly wilt, there is no report of capsularis jute being attacked by it so far. Potato or other solanaceaous crops in the rotation are to be avoided as far as practicable. The most effective crop rotations against this disease are jute-paddy-paddy or jute- paddy-wheat. In case where solanaceaous crop is the main crop of the area in the rabi, it should be replaced by paddy or wheat at least after two years. By adopting cultural practices particularly appropriate crop rotation in Hooghly district, the disease has come down to 1-2% as against above 40% in the late eighties. Seed treatment with Carbendazim @ 2 g/kg and spraying the same fungicide @ 2 g/litre of water helps to
+
+Pest management
+
+The intensive cultivation of high-yielding, fertilizer responsive cultivars of jute brought forth the problem of insect-pests and mites. Semi-looper (Anomis sabulifera), stem-weevil (Apion corchori) and yellow mite (Polyphagotarsonemus latus) are the major pests of jute. The jute girdler (Nupserha bicolor postbrunnea), indigo caterpillar (Spodoptera exigua), grey weevil (Myllocerus discolor), scale insect (Pinnaspis sp.),
+
+1246 HANDBOOK OF AGRICULTURE
+
+1246
+
+thrips (Ayyardia chaetophora), mealy bugs (Ferrisia virgata) are the minor pests of jute.
+
+Crop loss due to jute semilooper, had been estimated at up to 50%. It also causes damages the pods of the seed crop The white jute cultivars NDC 8812 and NDC 9801 were reported to be moderately resistant to semilooper. Sisiropa formosa, Trichologa sorbilans, Litomastix sp., Mesochorus sp. were recorded as parasitoids on semilooper and biological control programmes for semilooper is under development. Sisalana oil and herniarin are promising botanicals which exhibited heavy knockdown effect coupled with high insecticidal activity against the larvae of semilooper. Development of insecticidal formulations from these is in progress at the CRIJAF. Insecticidal control measures need to be initiated as soon as the infestation reaches beyond 15%. Endosulfan (0.07%), Carbaryl (0.1%), Cypermethrin (0.03%) were reported to be effective in managing the semilooper. Though the stem weevil Apion corchori is a pest on both the species of Corchorus, C. capsularis suffers more than C. olitorius. The insect exists throughout the cropping season and it damages the early sown crop sometimes to such an extent that hardly any fibre can be obtained. The fossa jute variety JRO 878 was reported to be less susceptible. Cypermethrin (0.03%) were reported to be effective in managing the stem weevil. Yellow mite (Polyphagotarsonemus latus) is one of the most destructive pests of jute and the sossa jute suffers more due to yellow mite infestation as compared to white jute. The quality of the fibre was also found to be deteriorated due to the attack of yellow mite. Cloudy weather with high humidity and high morning temperature were found congenial for multiplication. Insecticidal interference is required as soon as the population crosses the ETL of 110 mites per leaf (preferably in the second unfolded leaf). Hairy caterpillar (Spilosoma obliqua) is polyphagous pest attacking several crops but jute was reported to be the preferred host than mesta. In the early stage, when the caterpillars remain gregarious on leaf, it is easy to destroy them after plucking such infested leaves and then dipping them in insecticidal solution. When caterpillars are dispersed, their control is achieved by insecticidal spraying. Myllocerus discolor causes considerable damage to fossa jute by defoliating the crop. Unopened tender apical leaves are the first choice of attack by M. discolor. One or two pre-monsoon showers, temperature range of 35°-39°C and relative humidity of 85-94% were observed to be conducive for the maximum incidence of the grey weevil on jute. Among the insecticides tested, two rounds of Cypermethrin at 15 days interval was found most effective followed by Oxydemeton methyl (0.05%),
+
+Nematode management
+
+Root-knot nematode (Meloidogyne igconita and M. javanica) is one of the economically important pests of jute and mesta. The average extent of damage has been estimated at about 15-20%. Both olitorius and capsularis are susceptible to it. Root-knot nematode facilitates entry of other bacterial pathogen R. solanacearum and fungal pathogen M. phaseolina by creating injury on plant roots and cause heavy damage. Cultural practices like, removal of stubbles, weeding, thinning, crop rotation with paddy and wheat for two years could reduce root-knot nematode population in jute field.
+
+Harvesting
+
+Jute should be harvested at 120-day-crop age. Early harvesting gives finer fibres of
+
+1247
+
+JUTE AND ALLIED FIBRES 1247
+
+good quality, whereas late harvesting given higher yields but coarser fibres. The compromise between quality and quantity is found in harvesting at the early pod stage (50% flowering) or around 110 days of cropping. The other consideration for early harvesting is to accommodate rice transplanting in accordance with the cropping pattern chosen. Harvesting is done by cutting plants at or close to ground level. In folded land, plants are uprooted. The harvested plants are left in field for 2-3 days for the leaves to shed. Next the plants are tied into bundles, 20-25 cm in diameter and the branching tops are looped off to rot in the fields.
+
+Retting
+
+Retting is the process of separation and extraction of fibre from the woody part of the stem through decomposition of the cementing materials. The bundles are kept standing in water, 30 cm deep, and later placed side by side in the retting water, usually in 2 to 3 layers and are tied together. They are covered with water-hyacinth or any weed that does not release tannins and iron. The float is then weighed down with seasoned logs or with concrete blocks or kept submerged (at least 10 cm below the surface of the water) with bamboo-crating, Clods of earth containing iron when used as a covering material or as weighting agent produce ferrous tannate which ultimately produce dark (shyamala) fibres of low value. Gently flowing fairly deep, clear and soft water is ideal for retting but ditches, tanks and pools are also used. Normally the fibres are ready for extraction between 12" and 16 day when the temperature of the retting water is around 34°C. The reeds, in general, are ready for extraction when the fibre becomes loose and can easily be peeled out. The fibre should be thoroughly washed in water and sun dried for 2-3 days. Incomplete submergence produces croppy fibres of extremely low value. Most of the defects in fibres are due to faulty retting. Over retting results in dazed weak fibres. Retting is a microbial process and some of the efficient retting microbes identified are Aspergillus niger, Macrophomina phaseolina, Trichoderma sp., Bacillus subtilis, B. polymixa, etc. Chemical retting of jute / mesta plants can also be done by boiling the plants with 0.5% H,SO, or 1% NaOH under normal or high temperature but it is costly.
+
+Fibre extraction
+
+The fibre, when extracted separately from each reed (stem) with fingers, is sleek, clean and free from entanglement. By the beat-break-jerk method, 10 or 12 reeds are taken at a time; and their stiffer root-ends are beaten with a mallet to loosed fibres. The bundles is then broken in the middle and the fibre is loosened. By gripping this loosened fibre in the middle, the broken bundle is jerked in water so that the sticks slip off. The fibre is then washed in clean water, wrung and eventually spread to dry, preferably in shade or mild sun. This second method often leaves broken sticks and makes fibres somewhat entangled resulting in sticky fibres.
+
+The extraction of fibres from the green stem with decorticator, followed by a short period of retting has proved successful. Recently a bast fibre extractor has been developed at CRIJAF, Barrackpore, for removing bast from the stick, which is cheaper and efficient.
+
+Fibre yield
+
+The national average of jute is 23 q/ha. In general, fossa jute variety gives better
+
+1248
+
+yield than white jute variety, and the former is more efficient user of nitrogen. A strong positive correlation exists between plant height and the yield and also between the base diameter of the stem and the yield. Hence taller and stouter plants give higher yield.
+
+Crop
+
+* Fibre extracted by ‘Raspador’ decorticator.
+
+Fibre quality
+
+The quality of the jute fibre among the varieties differs on the basis of the anatomical features of the fibre cells and their orientation, and is genetically controlled. However, fibre quality is influenced by soil and climatic conditions as well as nutrition provided to the crop. Coarser and light body fibre is obtained from sandy soils, whereas fibre of superior quality are obtained from clay-loam soils with silt. But the most important single factor is retting which, if faulty, mars positive contributions of the variety, soil, climate etc. Under retting produces coarse fibres while over-retting give dazed and weak fibres.
+
+The quality of jute fibre is usually judged by its suitability for production of various types of yarns and its behaviour in the manufacturing process of end products. For assessing the fibre quality of jute six physical parameters, namely fineness, strength, root content, colour, defects and bulk density are taken into account.
+
+Fibre fineness is one of the most important components of fibre quality, which influences the yarn properties. Finer fibre improves the yarn properties and enhances the spinability. Fibre fineness is expressed in tex, which is the mass of a single filament of length one-kilometer expressed in gram. In industry it is expressed in denier, which is exactly nine times the value in tex. As fibre fineness is nothing but the linear density of the fibre, so it can be directly measured by gravimetric method. But the method is very time consuming and tedious. Hence air-flow method is utilized to determine fibre fineness in jute and mesta. The working principle of the instrument is based on the measurement of rate of flow of air through a fibre plug of specified mass and volume placed in a cylindrical cell and subjected to a air current at a known pressure. As the fibre fineness is proportional to the rate of flow of air, the flow meter is calibrated in terms of fineness (in tex). Thus by measuring the rate of flow of air through the fibre plug we can determine the fibre fineness. Fibre strength can be measured with the help of Fibre Bundle Strength Tester. Root content is an important parameter affecting the fibre quality. It is the hard barky region at the lower end of the reed, which requires more softening for use.
+
+Colour indicates the degree of whiteness or brightness of the fibre. It depends mostly
+
+1249
+
+JUTE AND ALLIED FIBRES
+
+on retting situation and method of retting adopted and also on the variety of jute. In the laboratory it is measured by Luster meter.
+
+Factors, which cause serious or partial damage to the quality of fibre, are commonly known as defects. In all 12 defects have been detected in the body of fibre, which are classified into 2 groups, viz.
+
+Major defects: Over-retted fibre, Dazed fibre, Centre root, Runner, Knots, Entangled sticks and Mossy fibre.
+
+Minor defects: Loose leaf, Loose sticks, Specks, Gummy fibre and Croppy fibre and week croppy end.
+
+Bulk density is the measure of weight per unit volume of the fibre. Only there are 2 classes in this category, i.e. (a) heavy bodied and (b) medium-bodied fibre. Fibre with density 0.45 g/cm? or more is considered as heavy bodied and fibre having density 0.44 g/cm or less is called medium bodied fibre.
+
+Grading
+
+Grading system for jute has 8 classes for both white (W, to W,) and fossa jute (TD, to TD,). It is done on the basis of length, strength, fineness, luster, and freedom from entanglement and roots ( rejectable basal portion). Grading of fibre is done on the basis of specific weightage allotted to these six parameters as recommended by ISI. The existing grading system has been revised into six groups for both the species and sent to ISI for approval.
+
+Marketing
+
+Jute Corporation of India, Kolkata, has the objective of stabilizing the price line, both in the interest of the farmers and the consuming mills. MSP ( Minimum support price) for TD, is at Rs 2,500/quintal (2008-09).
+
+Seed production
+
+Since jute is harvested much before the seed formation, special arrangements have to be made to raise the seed crop. The cultivators often leave about 4% of the fibre crop for seed production. Jute for seed , in general is grown in Guntur, Krishna, Valsam and Elluru district of Andhra Pradesh and Amarabati, Akola, Buldana, Yetmal, Jalna and Jalgaon districts of Maharastra and Vadodhara district of Gujrat, respectively. The drier tracts of West Bengal including Purulia, Bankura, Biurbhum and West Midnapore has the potential for seed production, if proper nutrition and sustainable irrigation is provided. Seed crop is sown during mid-May to mid-June. The spacing for tossa and white jute are 30 cm x 10 cm and 40 cm x 10 cm respectively. Seed crop
+
+1250
+
+of jute requires a fertilizer dose of 40:20:20 (N:P₂O, : K₂O; kg/ha) along with farmyard manure @ 5 tonnes/ha. Liming of the soil is to be done as per the lime requirement if the pH is 5.5 or below. The wider spacing promotes branching and also increases the number of pods per plant. Pre-plant soil incorporation of Fluchloralin @ 1.0 kg a.i./ha or Trifluralin @ 0.75 kg a.i./ha one day before sowing was found to give 90% control of grassy weeds. Post-emergence spray of Quizalofop ethyl 5% EC (40-50 g a.i./ha) + adjuvant @ 1ml/litre of water at 15-21 days after emergence (DAE) controlled the grassy weeds very effectively. The induction of branching by clipping the tips at 45 DAS with assured nutrition for the development of branches, has been proved successful. This practice, however, should not be resorted to in areas with low rainfall and where land is not very fertile. A pre-sowing irrigation followed by 2 irrigations during flowering to pod filling stage may be given depending upon the rainfall as well as available water resources. Natural cross-pollination being low, genetic mixture is avoided by alternating white and tossa jute seed plots. The off types are to removed from the field to maintain the purity of seed. This should be done thrice- at vegetative growth period, pre-flowering stage and at fruit maturity stage. The average yield of seed is 0.8-1.0 tonne/ha in white jute varieties and 0.5-0.8 tonne/ha in tossa jute. After harvesting the crop, the seed is dried in the sun for about 4 days and stored in gunny bags lines with plastic cloth and kept in dry godowns, avoiding contact with the floor.
+
+Diversified uses
+
+The export of jute goods fetches significant amount of foreign exchange and an export earning had reached Rs 20,000 million during 2006-07. The fibres are used mainly for manufacturing hessian, sacking and carpet backing. They are used for storing and transporting grains, pulses, spices, sugar, fertilizer etc. all over the world. Jute is also used for manufacturing various diversified or non-traditional products like find and blended yearns, geo-textiles, decorative fibres, home textile made ups, gifts articles, soft luggage and carry-bags, durries and rugs, composites, paper, apparels and fashions wears, blankets, shawls etc. The jute sticks are used largely as fuel and also for making gunner powder charcoal. Recently the paper industry has been using it as a raw material for coarser paper. Resin-bonded pressed jute sticks make durable hardboard. The market share of value added jute diversified products (JDP) has increased from 2% in mid eighties to 18% in 2005-06. The present international market potential for jute geo-textiles (JGT) alone is 95 billions US $. Alike mesta, the whole jute plant can be used for producing paper as jute has almost similar strength of hard wood. This will bring more profitability to jute cultivation and will also help in protecting the environment.
+
+MESTA
+
+The fibre of mesta is obtained from stems of kenaf (H. cannabinus, n=18) and roselle (Hibiscus sabdariffa var. altissima, n=36) belonging to the family Malvacae. There are about 400 species under the genus Hibiscus distributed in the tropical and sub- tropical regions of the world, of which 36 species had been observed in India, Pakistan, Bangladesh and Myanmar. Tropical Africa appears to be a major centre of diversity for mesta crop. The major mesta-growing countries are India, China, Thailand, Egypt,
+
+1251
+
+JUTE AND ALLIED FIBRES
+
+Sudan, Brazil and Australia. In India, the area under mesta at present, is around 0.15 million ha, of which more than 90-95% is under roselle. The annual average production is around 0.84 million bales (1 bale = 180 kg). Andhra Pradesh covers maximum mesta area (around 36%) of the country followed by Maharashtra, Orissa, Bihar and West Bengal. Among the two species, roselle covers the maximum acreage in the country. Maximum productivity of mesta is observed in West Bengal (17.12 q/ha) followed by Andhra Pradesh (14.17 q/ha), Tripura (13.95 q/ha) and Bihar (12.6 q/ha). Kenaf, in general, fibre compared to roselle. In kenaf,
+
+Kenaf, in general, produces superior quality fibre as compared to roselle. In kenaf, the average fibre fineness and strength values range between 3.5 and 5.5 tex and 30 and 45 g/tex, respectively, while the corresponding values in roselle are 2.8-5.5 tex and 25-40 g/tex, respectively. The c-cellulose, hemicellulose and lignin content of mesta fibre ranges from 59 to 60, 14.5 to 15 and 9.9 to 10.1% (wt. basis) respectively.
+
+Climate
+
+Both roselle and kenaf prefer warm and humid climate and their rainfall requirement vary between 500 and 700 mm. The rainfall received in the mesta growing areas during the grand growth period of the crop, in normal rainfall years, can sustain the growth of the crop. Kenaf, under rainfed condition is usually sown during mid-May to mid-June depending upon rainfall. Roselle on the other hand, can be sown both as a rainfed crop during mid-May to mid-June as well as a rabi crop during February — March in places receiving the retreating monsoon or under irrigated system. Early sowing increases the fibre yield of the crop and also reduces the infestation of pest and disease. The mesta crop sown during May flower by the middle or end of September with the advent of short days. Between the two species, kenaf exhibits higher growth rate as compared to roselle. It can also tolerate waterlogging to certain extent while roselle is relatively more drought tolerant between the two. Since neither of them can withstand prolonged water stagnation, heavy continuous rains are harmful for the crop particularly in areas where drainage is a problem. Crop growth is also affected by low temperature.
+
+Soil
+
+Both the species can grow on a variety of soils including new and old alluvium. Light textured, well drained soil having adequate organic matter produces higher fibre yield in both the species. Acid soils need to be amended for better growth of the plants. Salinity, in general, affects growth of mesta, particularly in roselle and chlorosis was found to appear in roselle when grown in soils with high pH (above 7.0). Both the species are unfit for growing in low-lying areas exposed to inundation.
+
+Production technology
+
+Cultivation
+
+Mesta when broadcast, requires 10-12 kg of seeds/ha. The seedlings are to be manually thinned twice to a spacing of 15-18 cm between plants when the plants are 10-12 cm tall. Though the farmers practice broadcasting for maximum utilization of soil moisture, it is not advocated as the intercultural operations become difficult, time consuming, labour intensive and costly. In row sowing, a seed rate of 12 kg/ha for
+
+1252
+
+roselle and 15 kg/ha for kenaf is optimum for getting a desired plant population of 0.4- 0.5 million/ha. The seed is drilled 30 cm apart in rows. However, a minor adjustment in spacing may be done on the basis of the fertility of the soil, rainfall and the nature of the soil. In drier tracts of Andhra Pradesh, roselle can be sown in closer spacing (22.5 cm x 10 cm) till June to conserve soil moisture. Dry sowing is possible in
+
+1253
+
+anticipation of rainfall, especially where drizzles do not precede the actual monsoon rains.
+
+Weed management
+
+The experimental results of All India Network Project on Jute and Allied Fibres (AINPJAF) revealed that application of Fluchloralin @ 1.0 kg a.i./ha from | to 3 days before sowing (DBS) or Pendimethalin @ 0.75 kg a.i/ha at 1 DBS followed by one hand weeding at 5 weeks after sowing (WAS) recorded better weed management in both kenaf and roselle in the mesta-growing areas of the country. Three hand-weedings at 3, 5 and 7 WAS or 2 to 4 wheel hoeing (at 2, 3, 4 and 5 WAS) has shown better weed control in mesta.
+
+Nutrient management
+
+Roselle variety HS 4288, yielding 2.1 tonnes/ha of fibres requires 106, 31,148, 153 and 34 kg/haN, P, K, Ca and Mg respectively. The corresponding amount for kenaf was 94, 26, 120,137 and 29 kg/ha. Roselle responds well to the application of nitrogen and rainfall. The recommended fertilizer dose for mesta is 40:20:20 (N: P,O,: K,O— 80:40:40, kg/ha).In areas having a better rainfall pattern the application of nitrogen may be one- thirds of the dose as basal and the remaining two-thirds may be top-dressed in one or two installments between 45 and 70 days of sowing. Although the application to soil ensures best results, nitrogen can be applied as foliar spray (up to 5% concentration) using low volume power sprayer particularly in areas where soil moisture is a limiting factor. A single spray is effective between 30 and 75 days from the time of germination. The AINPJAF trial results revealed that the new roselle varieties responded upto a fertilizer dose of 80:40:40 (N: P,O,: K,O — 80:40:40, kg/ha) under irrigated condition. The experimental data of AINPJAF revealed that substitution of recommended nitrogen dose (N: P,O,: K,O — 40:20:20, kg/ha) by 25-50% through organics improved the fibre yield of roselle significantly at Kendrapara, Orissa and Amadalavalasa, Andhra Pradesh and is recommended for those areas. It also improved the physico-chemical properties of the soil and also improved the net return.
+
+Diseases management
+
+In mesta, foot and stem rot caused by Phytophthora parasitica vat. sabdariffae, soft rot/collar rot caused by Sclerotium rolfsii and yellow vein mosaic caused by geminivirus are the important diseases. Foot and stem rot are more serious in roselle than kenaf. In severe cases, more than 40% crop loss in roselle may be observed. Phytophthora parasitica var. sabdariffae is the causal organism which is prevalent in all the mesta growing areas of India. The fungus causes seedling damping-off, seedling blight, foot rot and stem rot. The infected plant struggles for survival by producing secondary roots above the rotten portion of the stem. None of the cultivated varieties are resistant to the disease, but AMV 1, Roselle Type 1 and AP 481 were observed to be moderately resistant. Red bristled H. sabdariffa lines are more resistant than others. Seed treatment with Copper oxychloride (5 g/kg seed) or Mancozeb (3 g/kg seed) or Trichoderma viride (10 g/kg seed) more effectively in reduced the disease incidence. Cultivation of tolerant varieties like AMV 3 (roselle) or AMC 108 (kenaf) can be recommended.
+
+Collar rot is caused by Sclerotium rolfsii. It is more prevalent in kenaf varieties
+
+1254
+
+than roselle. The interesting fact is that the incidence is not yet alarming. Spraying Copper oxychloride @ 5-7 g/litre of water, directed towards base of the plants helps in managing the disease. Phoma leaf spot caused by Phoma sabdariffae, eye rot caused by Myrothecium roridium and root rot caused by Macrophomina phaseolina alone or in combination with Fusarium oxysporum are the minor diseases of mesta.
+
+Yellow vein mosaic of mesta was first observed in Andhra Pradesh and the yield loss due to this disease has been estimated to be 12.78-17.45% with respect to fibre yield and 18.91-23.83% with respect to seed yield. The disease is usually transmitted by viruliferous whitefly. Three whiteflies per plant were sufficient to transmit the disease. B. tabaci also acts as vector for spreading a leaf curl disease on kenaf. B. tabaci can be effectively managed by spraying Acetamiprid or Imidacloprid @ 0.2 g/litre and Thiamethoxam @ 0.1 g/litre.
+
+Pest management
+
+Mesta suffers from damages caused by a number of insect pests. Spiral borer (Agrilus acutus), mealy bug (Maconellicoccus hirsutus), hairy caterpillar (Spilosoma obliqua), and flea beetle (Nisotra orbiculata) are the major pests of both kenaf (Hibiscus cannabinus) and roselle (Hibiscus sabdariffa). The major pests however, have limited geographical distribution and do not occur in all the mesta growing states of India. West Bengal is the only state, where all the major pests cause economic damage to mesta crop.
+
+Spiral borer (Agrilus acutus) (Buprestidae: Coleoptera) is a pest on both kenaf and roselle. Crop sown during mid-April to mid-May suffer more than what is sown on later dates. Swabbing the stem with methyl demeton (2.5% @ 20 ml/plant) at a height of 45 cm above the soil surface takes care of this pest. The kenaf variety MT 150 was least susceptible to A. acutus.
+
+Mealy bug (Maconellicoccus hirsutus Green) (Pseudococcidae: Hemiptera) is a major pest on both the species of Hibiscus. Mealy bug can be effectively managed by Dimethoate and Methyl demeton. The introduction of C. montrouzieri from India resulted in very good control of hibiscus mealy bug in Caribbean sub-region. Unfortunately, the potential of indigenous C. montrouzieri has remained under-utilized against the mesta mealy bug in India and we need to make it successful in roselle also.
+
+Flea beetle (Nisotra orbiculata) [= Podagrica orbiculata); Podagrica bowringi] (Curculianidae: Coleoptera) attack starts with seedling stage and ceases just before harvest. Week-old seedlings are highly susceptible to this pest and hence resowing is needed frequently. Intermittent showers followed by dry spell with high humidity observed to be conducive for its multiplication. Neem oil @ 5 ml/litre and carbaryl were reported to be effective. Since the flea beetle thrives well on the alternate hosts like Sida sp. and Hibiscus vitifolius in the absence of mesta crop, the field should be maintained weed free.
+
+Semilooper (Cosmophila erosa), large black weevil (Desmidophorus hebes), grey weevil (M. discolor), spittle bug (Piylus nebulosa), defoliator (Trabala visnou), thrips (Haplothrips ganglbaueri), hairy caterpillar (Porthesia scintillans), pod sucking bug (Oxycaraenus hyalinipennis), termite (Microtermes obesi) and the wasp (Psen orientalis) had also been reported as pests on mesta but their occurrence is highly erratic and often less important.
+
+1255
+
+Nematode management
+
+Roselle is resistant to nematode attack, but kenaf was found to be susceptible. Root knot nematode facilitates entry of other bacterial and fungal pathogen by creating injury on plant roots and cause considerable damage to plants. Cultural practices like removal of stubbles, weeding, thinning, crop rotation, etc. can reduce root knot nematode population in the field.
+
+Harvesting and retting
+
+Mesta plants are to be harvested between 140 and 145 days age. The harvesting and retting of mesta is almost similar to that of jute.
+
+Quality and grading
+
+The quality of the mesta fibre is judged on the basis of almost the same criteria as of jute, and the grading is done on the same line
+
+Diversified uses
+
+About 35% of raw materials of the paper pulp industry comes from hardwood/ bamboo, 30% from agro-residues like straw and bagasse, and rest 35% from waste paper. The demand of newsprint on 2010 is estimated to be around 8.53 millions MT and it cannot be met from forest resources alone due to its severe negative impact on environment. The whole jute/kenaf plants having similar strength of hard wood has tremendous potential as raw material for pulp and paper. Jute and allied fibres are rich sources of cellulose and can produce quality paper. Kenaf variety, MT 150 has been identified as the best paper pulp variety and the newsprint produced from MT 150 was excellent. About 8 tonnes of paper pulp can be produced from 1 ha of mesta cultivation, which can earn an extra revenue of Rs 40,000 to the farmers as compared to the conventional cultivation for fibre. For this, development of photo-insensitive varieties needs to be developed to ensure the year round supply of the raw material to the mills. Besides, technology has also to be developed to preserve the reeds of jute and mesta for a considerable period of time free from pest and disease incidence.
+
+SUNNHEMP
+
+Sunnhemp (Crotalaria juncea) belongs to family Fabaceae. It is a crop grown for production of bast fibres. It is also a green-manuring crop and a minor fodder crop of lesser importance. The fibre is dull yellow, somewhat coarse, strong and durable. Owing to the fibre having high cellulose content, low lignin and negligible ash, the paper industry has identified it as the most suitable indigenous raw material for manufacturing tissue paper and paper for currency. In rural areas it is used for making ropes, twines, nets, hand-made paper and tat patties. It is also used for making canvas and screens. Sunnhemp fibre is not used for textile purposes, unlike jute and mesta.
+
+The area under this fibre crop is around 0.045 million ha and the annual production of fibres is 0.019 million bales with an average annual productivity of 409 kg/ha. The maximum area under sunnhemp is in Maharashtra (11,900 ha), followed by Orissa (9,800 ha), Uttar Pradesh (6,600 ha) and Bihar (3,300 ha).
+
+Climate
+
+Sunnhemp is a short day crop but vegetative growth is favoured under long day
+
+1256 HANDBOOK OF AGRICULTURE
+
+1256
+
+condition. The crop grows best in tropical and subtropical climates. The crop thrives well within a temperature range of 23° to 30°C and rainfall variation of 40-50 cm. The crop is grown in almost all parts of India. It is grown in rainy season (kharif) in the northem states. In the southern regions, where the climate is more or less equable and the winter is not pronounced, it can be grown in winter (rabi) also.
+
+Soil
+
+Well-drained alluvial soils, having sandy loam or loamy texture are suitable for sunnhemp cultivation. Being a leguminous crop, the nodule formation is influenced significantly by the calcium and phosphate status of soil. The crop can tolerate a pH range of 5.0-8.4 but the near neutral pH (6-7) results into better growth and yield. In old alluvial soils having low pH, liming (depending upon lime requirement of the soil) increased fibre yield of sunnhemp due to improved nodulation. For uncultivated fallows or freshly reclaimed soils, it is an ideal first crop. Sunnhemp cannot withstand waterlogging
+
+Production technology
+
+Variety
+
+The released varieties of sunnhemp are given in Table 34.3.6.
+
+Cultivation
+
+The land is to be ploughed properly to make a good tilth. The moisture content of soil should not go below 30% because sunnhemp seeds, owing to their bigger size, require high moisture for germination. The date of sowing significantly influences the vegetative growth as well as fibre development in sunnhemp. It is cultivated mostly as kharif crop (monsoon) under rainfed condition and is sown during May-June with the help of south-west monsoon showers. Sunnhemp can be sown in April-May with the help of irrigation. However, in certain areas of Maharashtra and Bihar, it is also grown as rabi crop and sown in October-November and harvested in February-March.
+
+It is usually broadcast by the farmers, but should better be sown in rows. In broadcast sowing, the seed rate is about 35 kg/ha, while in line-sowing the seed requirement is around 25 kg/ha. The crop should be sown keeping a spacing of 30 cm between the rows. The final spacing between plants within a row should be maintained at 5 to 7 cm, preferably through thinning. The seeds are to be sown at 2-3 cm depth. The seeds are to be treated with Carbendazim @ 2 g/kg seed or with Mancozeb @ 3 g/kg seed to protect the crop from seed borne diseases.
+
+Cropping sequences
+
+The promising cropping patterns for sunnhemp are summarized in Table 34.3.7.
+
+1257
+
+JUTE AND ALLIED FIBRES
+
+Weed management
+
+Normally weeding is not done in sunnhemp as the higher seed rate followed in sunnhemp helps in smothering the weeds. Yet a common weed associated with sunnhemp is Jpomoea sp. whose seeds are disseminated along with sunnhemp seeds. The Ipomoea plants are twiners and grow along with the crop neck-to-neck, form flower and fruit at the same time as sunnhemp. The crop can not control nut-sedge. One hand weeding may be provided at 20-30 DAS depending upon the weed growth.
+
+Nutrient management
+
+Since sunnhemp can fix atmospheric nitrogen through its nodules, generally it does not require nitrogen at the later stage of growth. A starter dose (20 kg/ha) is required to cater to the nitrogen need of the plant at the early stage of growth. Application of P and K @ 40 kg/ha is recommended as this promotes the root growth as well as nodulation. Calcium and magnesium stimulate nodulation in sunnhemp. Similarly, micronutrients like iron, manganese, zinc and molybdenum showed a stimulatory effect on growth as well as nodulation in sunnhemp. Foliar spray of molybdenum (50 g/ha) improve d the nitrogen-fixation in sunnhemp. Boron is also essential for nodulation. Iron increases the nitogenase activity and the production of leghaemoglobin. All these micronutrients are req| uired in very small amount and should be applied only when deficient in soil. Application of organic matter @ 5 tonnes/ha is essential as it improves the physico-chemical properties of the soil, ensures the supply of nutrients particularly the micro- nutrients to plants and also improves the activities of Rhizobium in nodules.
+
+Disease management
+
+The major disease in sunnhemp is wilt caused by Fusarium udum f. sp. crotalariae. It attacks the young plants and causes wilt and necrosis. In older plants, the leaves first show yellowing which ultimately lead to necrotic plants. Adequate drainage,
+
+1258
+
+1258 HANDBOOK OF AGRICULTURE
+
+crop rotation, clean cultivation and seed treatment with Carbendazim 2 g/kg seed or spraying of Carbendazim 2 g/litre water are the effective control measures. The variety K12 Yellow shows some extent of tolerance to wilt, The next important disease is anthracnose (Colletotrichum curvatum). The disease can be controlled through early planting, seed treatment with carbendazim and spraying of carbendazim according to the disease severity. Rust (Uromyces decoratus) occur sporadically and is easy to control. White fly (B. tabaci ) transmits virus causing leaf mosaic, crinkling of leaves and weak stems in sunnhemp. B. tabaci can be effectively managed by spraying Acetamiprid or Imidacloprid @ 0.2 g/litre and Thiamethoxam @ 0.1 g/litre. Powdery mildew (Oiduim sp.) attacks only older crops and the affected plants should be uprooted and burnt.
+
+Pest management
+
+In India, there are two major insect pests of sunnhemp: top shoot borer (Laspeyresia pseudonectis) and sunnhemp moth (Utethesia pulchella), which cause severe damage to the crop every year. The sunnhemp moth is injurious only in the larval stage as it feeds the leaves and pods. The larvae of top shoot borer bore into the apical tips of the plants and cause branching and cessation of growth. Under irrigated condition, the crop escapes the insect attack but in rainfed sowing, attack of insects is observed. Spraying of any systemic insecticide like Metasystox or Cypermethrin @ 1 mil/litre water at 15 days interval after onset of rainfall is effective in controlling the pest.
+
+Harvesting
+
+The fibre crop gets ready for harvest in 90 days after sowing (pod-formation stage). However, in certain parts of southern India, the crop is still harvested at early or 50% flowering stage which affects the fibre quality. The crop flowers from September onwards, and this period synchronizes with the onset of short days in latitudes around 23°N to 24°N, where lies the main sunnhemp belt. The flowering time for most of the varieties remains almost the same, irrespective of the date of sowing. The plants are harvested with sickles and the bundles of 20-25 cm dia are kept in field for 2-3 days for the leaves to be shed.
+
+Retting and extraction
+
+The process of retting is similar to that of jute. Unlike jute, the source of water for retting in the sunnhemp-growing areas is not abundant. In most cases retting tanks are shallow, muddy ditches adjoining fields, where runoff water of a shorter spell of the monsoon is collected. The retting time needed by sunnhemp is only 3-5 days in September, while 7-9 days are required to complete the retting process during December when the water is cold. The extraction of the fibres of sunnhemp is more cumbersome than jute. The beat and jerk method is unsuitable for sunnhemp, as the tendency of the fibre to stick to wood is more and fibre gets entangled with broken twigs. Hence the extraction is done stalk by stalk from the lower end upwards. The fibre is washed in water and dried under the sun. Incomplete retting makes the fibre coarse and green, although its strength is not impaired. Inadequate washing leaves behind some gum, which renders fibre coarse. For paper-making, mechanical decortication is adopted the decorticated lump goes directly to the bleaching and digesting plant.
+
+1259
+
+JUTE AND ALLIED FIBRES 1259
+
+Fibre quality
+
+The sunnhemp fibre is alike jute and mesta, is lingo-cellulosic in nature. The sunnhemp fibre is about 3% of the total green biomass. The ultimate fibre cells are 3- 5 mm in length and about 20-50 such fibre cells adhere together and forms the fibre bundles. The fibre bundle originate as elements of protoplasm of the primary vascular bundles. This is called as ‘primary fibre’. The sunnhemp fibre is mostly primary fibres in nature. The major chemical constituents are o.-cellulose (78.3%), hemicellulose (3.6%) and lignin (4.0 %). Apart from ramie, sunnhemp has the highest amount of o- cellulose. The high amount of c-cellulose as well as its degree of polymerization or the chain length makes this fibre very much suitable for production of high quality paper. The fibre strength and fibre fineness of sunnhemp ranges between 30 and 40 g/ tex and 5.5 and 17.0/tex respectively.
+
+Seed production
+
+Sunnhemp is highly cross-pollinated and due care is to be taken to maintain the genetic purity. The seed production of sunnhemp is yet to be organized. By tradition, the farmer sows a few lines of sunnhemp on the borders of pearl millet, ragi and sorghum or on the bunds of rice fields for obtaining seed. The 100-seed weight ranges from 3.4 to 6 g, depending on the variety. The data on seed requirement are lacking, since the massive quantity used up in green-manuring is not accounted for. The seed- crop is raised late in the kharif, i.e. in early August in the sunnhemp-growing districts of the northern states, but it is ideal to grow a seed crop in the rabi in a zone where winter is not severe, and the temperature seldom falls below 10°C. Under optimum conditions, the seed yield will touch 2 tonnes/ha. The area selected for seed production must have adequate sunshine and there should not be any rainfall during flowering to seed setting. The success of good seed setting depends on the pollinating insects in the vicinity. The important pollinating insects are: (i) large size bumble bee Xylocopa latipes, (ii) Xylocopa fenistroides and Megachile lanata all belonging to the Hymenoptera. Apis indica and Apis florae are not effective pollinators for sunnhemp because of their shorter length and lesser body weight which affect the contact with stigma. Provision of irrigation (1-2) depending on soil dryness and precaution against attack of pod borer is very important to get a good production of seed in sunnhemp.
+
+Sunnhemp for green-manuring
+
+A sunnhemp crop grown thick by using a heavy seed rate (60 kg/ha) with profuse branching and foliage is ready for incorporation into soil within 2-3 months of sowing. At this time, the stalks will be tender with very little fibre formation, and will easily decompose in soils. The green matter at harvesting weighs around 20 tonnes/ha. It fixes 50-60 kg N/ha through root nodules. The crop is either ploughed in as it stands or is cut close to ground and ploughed in as it stands and leveled with a wooden plant (suhaga). In double-cropped rice, the green-manuring crop is cut and is incorporated into the soil. Green-manuring with sunnhemp is practised invariably in every type of soil. It is particularly found suitable in reclaiming saline-alkaline soils.
+
+Diversified uses
+
+Sunnhemp fibre, because of its chemical constituents, can be an excellent raw material for good quality paper making. It produces good quality bleachable pulps,
+
+1260
+
+the strength of which equals to that of hardwood pulp. The fibres are utilized for the manufacture of cordage also.
+
+RAMIE
+
+Ramie is a semi-perennial type bast fibre crop which produces longest (120 mm) and strongest (24 g/tex) textile fibre of plant origin. The crop belongs to the family Urticaceae. According to Vavilov (1951) ramie is indigenous to central and western China. The Boehmeria genus has more than 100 species mostly distributed in the tropical and subtropical region. In India, 30 species had been reported. The crop is naturally distributed in parts of Asom, Arunachal Pradesh, Himachal Pradesh (Kangra valley) and Nilgiri Hills area of Tamil Nadu. The two species of commercial importance are: (i) white ramie (Boehmeria nivea, 2n = 28), and (ii) green ramie (Boehmeria utilis, 2n = 24). The lower surface of leaf is white in B. nivea while in B. utilis it is green. White ramie is commercially grown in India while green ramie is commercially cultivated in China, Phillipines, Malayasia, etc. In India, ramie cultivation is distributed over an area of 200 ha approximately, in the north-eastern states like Asom, Arunachal Pradesh, Manipur, Mizoram, Nagaland, Tripura and northern parts of West Bengal.
+
+Ramie is a cellulosic fibre containing 86-87% c-cellulose, 4-5% B-cellulose, 4% hemicellulose and 0.5% lignin. The length : breadth ratio of ramie fibre is highest amongst the bast fibre crops (3,500) and the fibre fineness and fibre strength ranges 0.4-0.8 tex and 40-65 g/tex respectively. .
+
+Ramie grows well under warm humid climate. It requires a well distributed annual rainfall of 1,500 — 2,500 mm. The crop can thrive under relatively dry condition but growth is severely hampered and irrigation is needed to get optimum growth. The favourable temperature for growth ranges between 25° and 31°C with the maximum of 35° C. The relative humidity (RH) should not be below 21% while the optimum RH is 80%. Ramie has been found to grow well up to an altitude of 300 m from mean sea level. The crop is highly sensitive to waterlogging, frost and strong wind.
+
+Soil
+
+Deep, fertile loamy or sandy loam soils are suitable for the successful cultivation of the crop. The optimum pH for growth is 6-7 though the crop can well withstand mild acidity. If pH is acidic (4-5) lime is to be applied depending upon lime requirement of the soil. Soil should be rich in organic matter.
+
+Production technology
+
+Variety
+
+A variety of ramie released for Asom is given in Table 34.3.8.
+
+1261
+
+JUTE AND ALLIED FIBRES
+
+Cultivation
+
+Land is to be ploughed 2-3 times and leveled to facilitate drainage. The plot should be free from clods and weeds. In flat planting, generally small furrows of 5-7 cm depth are opened with wheel hoe and rhizomes are placed horizontally and covered with soil. Ridge and furrow method of planting is preferable over flat planting as the ridges protect the rhizomes from water stagnation and the furrows act as micro-drainage channels during peak rainfall and also conserves moisture during dry periods. Ramie has wide flexibility in planting time. However, the optimum time for planting under rainfed condition ranges from May to September. Under irrigated condition, planting can be done throughout the year except the winter as it take more time for sprouting and it is not uniform too.
+
+Commercial propagation of ramie is done through rhizome cuttings. Rhizomes of 12-15 cm length and 1.2-2.5 cm diameter (each weighing about 10-15 g) taken from 3- to 4-year-old plantation are suitable for planting. Freshly dug rhizomes should be kept in shade and covered with gunny-bags or sprinkled with water at regular interval to prevent drying. Cut rhizomes when exposed to sunlight looses viability rapidly and should be planted preferably within 72 hr for better sprouting. About 400-600 kg/ha thizome is required for planting 1 ha of land. Ramie rhizomes are planted 30 cm apart in rows separated by a width of 60 cm.
+
+Stage back
+
+The growth of ramie crop during winter is retarded and not uniform and the canes are not suitable for fibre extraction. Thus in a rainfed plantation, the winter crop is cut close to ground during March/April with the onset of pre-monsoon showers, for uniform growth of subsequent crop. This operation is called stage back and is extremely important for getting good fibre yield in subsequent cuts.
+
+Nutrient management
+
+Ramie is a heavy feeder of nutrients and should be fertilized optimally to get better yield. The fertilizer dose for the initial 2 years is: N: P,O,: K,O — 30:15:15 (kg/ha/cut) while in the subsequent years the dose has to be doubled (60: 30: 30 kg/ha/cut). Organic matter is to be applied 10-15 tonnes/ha every year after stage back and need based application has to be done in between. Application of Bo @ 15 kg/ha and Zn @ 20 kg/ harecorded increase in fibre yield and also reduced chlorosis. Production of | quintal of undegummed ramie fibre require 15.3 kg/ha of N, 4.2 kg of P,O,, 9.3 kg of K,O and 27.5 kg of CaO respectively. The experimental findings reveal that ramie is a Ca loving crop and removes lot of Ca from soil. Application of 3-4 tonnes/ha of hydrated lime/ha at the beginning improves fibre yield of the crop particularly, if the soil is deficient in Ca. Maximum uptake of nutrients by ramie crop is observed during 3" and 4" cuttings.
+
+Water management
+
+During dry period (pre- and post-monsoon) conservation of soil moisture and/or provision of irrigation favours crop growth and fibre yield. Soil moisture can be conserved using organic mulch @ 5 tonnes/ha or poly-mulch etc. Mulching resulted in 50% more cane growth during winter through improved hydrothermal regime.
+
+1262
+
+1262 HANDBOOK OF AGRICULTURE
+
+Irrigation during pre- and post-monsoon periods (first, second and fifth cut of ramie) through 0.6 IW:CPE ratio increased fibre yield of ramie significantly at Barrackpore, West Bengal. Ramie is highly susceptible to water-logging and safe disposal of excess rainwater during peak monsoon period is essential. Ridge planting favours crop growth and result into significantly higher yield as compared to flat bed planting during monsoon periods probably due to better drainage within the plot area.
+
+Weed management
+
+Weeding is essential as ramie faces competition from weeds during the establishment phase and also during the initial growth after each cut. Manual weeding is very costly and accounts for almost 40% of total cost of cultivation.
+
+Harvesting
+
+Under rainfed condition, usually 4 cuts may be taken in a year at 50, 45, 45 and 50 days interval respectively. Under irrigated condition 5 cuts could be taken at CRIJAF. Harvesting is done manually by cutting the stalks manually near ground level. Symptoms of maturity :
+
+(i) Lower part of the stalk/cane turns light brown or coppery
+
+(ii) Lower leaves turn yellowish and begin to shade
+
+(iii) Apical part of the plant shows bending tendency
+
+(iv) New sprouts just begin to appear above the ground
+
+(v) The bark of the stem can easily be peeled out from the stick
+
+Leaves of the harvested canes are to be defoliated in the plot itself as it contains high amount of nutrient.
+
+Extraction
+
+Fibre is extracted from harvested defoliated canes by a decorticator machine. It is a 5 HP machine run by diesel or electricity. The machine has a rotating drum with scrapper blade which break the wood during rotation and fibre is extracted. Around 800 1,000 kg cane can be decorticated everyday by this machine which produces - approximately 35-45 kg fibre. The raw fibre is then washed thoroughly in clean water to remove some of its gum and then sun dried for 2-3 days.
+
+Fibre yield
+
+A good ramie crop, on an average, produces 16 - 22 q of undegummed fibre (fibre after decortication) per hectare per year from 4 to 5 cuts. The average harvest index in ramie in our condition varies between 4 and 5%.
+
+Degumming
+
+Ramie fibre just after decortication contains 20-30% gum (by weight). The gum is hemicellulosic arabans, xylans, etc., which are soluble in alkali solutions and is - essential to be removed for industrial use of fibre. The process of removal of gum is termed as degumming.
+
+Chemical degumming: The fibre is to be kept in water for one day. The wet fibre is to be boiled in 1% NaOH solution for 30 minutes (fibre solution - 1:6). The fibre is then washed thoroughly in water to neutralize alkalinity. The resultant fibre is light
+
+1263
+
+JUTE AND ALLIED FIBRES
+
+yellowish and to get white, fibre is to be bleached with dilute hypochlorite, H,O,,, 0.5% sodium hypochlorite solution, etc. Gum content of fibre is reduced to 4-5%,
+
+Microbial degumming: Recently, the protocol for enzymatic degumming of ramie fibre has been developed jointly by CRIJAF and Department of Biochemistry of Kolkata University. The ramie fibre can be degummed by using a pectinolytic strain (Bacillus pumilus, strain DKS 1) isolated from soil which resulted into weight loss of ramie fibre by 25% in small scale and 24% in large-scale degumming of the fibre. In this method, the microbial intervention is followed by mild (0.1%) alkali treatment. This method of degumming increased the single fibre tenacity by about 21 % compared to undegummed fibre.
+
+Cropping system
+
+The cultivation of sole ramie in the north-eastern states, particularly in Asom following the improved production technology developed at CRIJAF, fetched a net return of Rs 25,000 to Rs 35,000/ha/year during second to fourth year while in the fifth year the net return was around Rs 300,000/ha/year. The higher return in the fifth year was from the sale of rhizomes which was uprooted and used as planting material for new plantation. Ramie could be successfully grown under agroforestry system. The net profit from ramie + areca nut cultivation was Rs 38,807/ha/year which was higher than sole areca nut cultivation (Rs 25,138/ha/year). Ramie could be successfully introduced in the non-traditional areas like Maharashtra, Goa, Nilgiri Hills and other parts of Tamil Nadu by CRIJAF and profitable ramie-based multi-tier cropping systems were also established in these zones. At Goa, coconut + black pepper + ramie intercropping system recorded net return of Rs 40,270/ha/year, which was slightly lesser than sole ramie (Rs 57,120 ha/year) but both the systems were more profitable than sole coconut plantation (Rs 28,140/ha/year).
+
+Diversified uses
+
+The use of ramie fibre depends primarily on its gum content. If the gum content is less than 4%, it can be used for manufacturing of fabric. The fibre can be blended with natural fibres like cotton, silk, wool and also with synthetic fibres to produce yarns. If the fibre contains 4-6% gum, it can be used for manufacturing of apparel and cordage. Ramie fibre containing more than 6% gum are used for making hose-pipe, water- bags, commercial canvas, etc. Ramie plants can also be used for manufacturing of bio-composites, composites and particle boards. The cellulose obtained from ramie fibre has high purity and used extensively in pharmaceutical and chemical industries.
+
+SISAL
+
+Sisal (Agave sisalana) introduced from Mexico, is a semi-perennial succulent plant which yields a creamy-white fibre from its leaves. Sisal plants consist of a rosette of sword — shaped leaves with a terminal spine. The short stem (bole) during the early stage of growth is almost concealed by the surrounding sessile, thick, broad and very long leaves. The fibre is often referred to as hard fibre. Major sisal growing countries in the world are Brazil, Kenya, Tanzania, Madagascar, Angola, Haiti and China. In India it is cultivated in Orissa, Madhya Pradesh, Andhra Pradesh, Maharashtra, Bihar and western part of West Bengal. Sisal belongs to the family Agavaceae.
+
+1264
+
+Agave is native to tropical and sub-tropical America and Carribean Islands with maximum concentration in Mexico. On the basis of floral character, Agave is subdivided into three sub-genera, namely Manfreda, Littaea and Euagave. Agave sisalana and most of the other cultivated species belong to the Regidae section under Euagave. A single Agave sisalana plant produces 200 to 250 leaves. Generally each leaf contains 1,000-2,000 fibre bundles, which are composed of 4% fibre, 0.75 % cuticles, 8% dry matter, and 87.5 % water. Length of the sisal fibre is 1.0 m— 1.5 m and the diameter is about 100 to 300 pm. The cell walls are reinforced with spirally oriented cellulose in a hemi-cellulose and lignin matrix. Considering the major chemical constituents, sisal fibre contains about 63.9% o.-cellulose, 17.9 % hemicellulose and 8.6% lignin.
+
+Climate
+
+Sisal is usually grown in arid and semi-arid regions. It can withstand dry period of some duration and also high atmospheric temperature. Sisal prefers a rainfall not less than 1,000-1,500 mm per annum and the rainfall should be evenly distributed. However, sisal can thrive a low rainfall of 250 to 375 mm per annum. Sisal needs plenty of light and sunshine for good growth.
+
+Soil
+
+Sisal can grow in wide range of soils. The soil should be preferably friable, well drained, dry, permeable and sandy loam soil is suitable for sisal. Light, calcareous and gravelly soil with neutral soil reaction and having good drainage facility is also suitable for the crop. Sisal cannot tolerate water logging and salinity. Besides, the soil should not be too acidic and low in nutrients.
+
+Production Technology
+
+A variety of sisal released for Orissa is given in Table 34.3.9.
+
+Cultivation
+
+Land should be prepared by uprooting trees and bush growth. Top soil should be disturbed as little as possible and infertile sub-soil should not be exposed. Ploughing to a depth of 15-20 cm is adequate.
+
+Planting material
+
+Agave plants rarely set seeds. Propagation of sisal is done by bulbils and suckers which are asexual sources of propagation. The sisal plant flowers once during its life. At the end of the life of a sisal plant, a pole emerges from top of the bole. Bulbils are formed on the flowering stem. A single plant produces nearly 500-2,000 bulbils. Bulbils
+
+1265
+
+JUTE AND ALLIED FIBRES
+
+are collected from mid February to mid-April. Sisal produces rhizomes from buds at the base of the plants. The rhizomes grow underground radially from the bole and then comes above the soil surface to form a new plant known as sucker. A single plant produces 20-30 suckers in its life time.
+
+Nursery
+
+Bulbils are collected from the field and raised in primary nursery with intensive care and management for 4-6 months. Bulbils are placed (7 cm x 5 cm) in flat raised bed having 1 m width. Bulbils are lifted from primary nursery and planted in main nursery with SO mx25 m spacing.
+
+Planting method
+
+After raising in the main nursery for 1 year, bulbils are transplanted in the main field. Pit planting is recommended to avoid opening up of whole area. Planting should be done immediately after onset of monsoon. Generally two planting methods are used: (a) single row planting method and (b) double row planting method.
+
+In single row plantation, 5000 plants can be accommodated in 1 ha land in 2m ~ 1 m spacing whereas in 2 m x 0.8 m spacing, 6,250 plants can accommodated in 1 ha area. In double row planting system following spacings are recommended depending on plant population and fertility status of soil :
+
+(i) 3m+1 m x 1 m accommodating 5,000 plants/ha
+
+(ii) 3 m+ 1m x 0.8 m accommodating 6,250 plants/ha
+
+(iii) 2m + 1m x 1 m accommodating 6,666 plants/ha
+
+(iv) 2m+ 1m ~ 0.8 m accommodating 8,333 plants/ha and
+
+(v) 2m+ 1m ~ 0.6 m accommodating 11,111 plants/ha.
+
+Nutrient management
+
+For sisal cultivation a dose of 100: 50:100 (N:P,O,:K,O, kg/ha) is recommended in poor fertile soil. The fertilizer should be given in two split applications. The nutrient removal by sisal can be substantially reduced by returning the sisal waste to the soil.
+
+Harvesting
+
+Harvesting should be started after 2 % to 3 years of planting in the main field. In case of Agave sisalana, 16 leaves at first cutting and 12 leaves in subsequent cutting should be left in the plant. In case of hybrid sisal, 20 to 25 leaves should be left in the plant.
+
+; ; The process of extracting the fibre from leaf tissues of sisal is called decortication. Extraction of fibre is preferably done on the same day or within 48 hr from the time of harvesting. Decorticated fibre is washed in clean water and dried in the sun for removing moisture.
+
+Yield
+
+In a life cycle (10-12 years) sisal plant generally produces 200-250 leaves. Dry fibre weight obtained from one leaf varies between 22 and 30 g. Dry fibre yield of
+
+1266
+
+sisal varies between 2.5 and 4.0 tonnes/ha depending on plant population and management practices.
+
+Cropping system
+
+Sisal can be grown successfully in agroforestry system. The results of long-term trial at Sisal Research Station, CRIJAF, Orissa, revealed that Agave sisalana can grow well in the inter-row space of teak (Tectona grandis) while hybrid sisal grows better with gumhar (Gmelina arborea). The long-term experiment on sisal also revealed that the net income from a well managed sisal plantation of 4 ha area was around Rs 100,000 to 120,000 per year with an additional earning of Rs 50,000 at the end of 11" or 12" year from the sale of bulbils.
+
+Diversified use
+
+Sisal fibre is used for manufacturing cordage — rope, twine, floor covering, steel Tope, carpets, etc. because of its strength. Due to its durability, ability to stretch and its affinity for dyes, it can be used as industrial fabric. It is also used for low cost and speciality paper, geotextiles, mattresses, carpets and wall coverings and other handicrafts. It is also used as reinforcement in composite materials for manufacturing of low cost composite building materials. Composite panels and corrugated sheets made of sisal fibre composites has been developed by the Central Building Research Institute. The high strength and durability has opened the scope of sisal for manufacturing of geotextiles. ,
+
+FLAX
+
+Linseed (Linum usitatissimum) is a dual purpose crop. The fibre comes from stems of flax types and the oil from the seeds of linseed types. The flax fibres are valued for its strength and durability which are superior to those of cotton. They are soft, showy and possess light water absorbency. It has low elasticity and is stronger when wet than when dry. It is resistant to high temperatures, moisture and mildew. Fabric made of flax launder well. The plant belongs to the family Linaceae which consists about 150 species distributed over the temperate and sub-tropical regions of the world.
+
+Climate
+
+Flax is a crop of temperate zone. A cool, humid climate, with temperature ranging from 10°C to 19°C with aselative humidly 76% during growing period, is preferred as it promotes the stem height which is the most desirable character in flax. In hot and dry climate, flax types tend to branch and grow as linseed types. Flax requires 150- 200 mm rainfall during its growth period. Drought and higher temperature affect vegetative growth. The ideal geographical regions envisaged for successful flax production in India are the valleys of Himalayan range whose winter simulates a European summer. The agro-climatic conditions of Kangra Valley of Himachal Pradesh during rabi had been found to be very congenial for flax cultivation. The high humidity and occasional cloudy conditions favours the vegetative growth whereas the warm and dry season during April after harvesting of the crop facilitates retting and drying.
+
+1267
+
+JUTE AND ALLIED FIBRES
+
+Soil
+
+Heavy clay or light soils are unsuitable. Rich loams or clay loams are considered best. Fertile, well drained soils with neutral to slightly acidic soil reaction (pH 5.5- 6.5) are suitable for flax cultivation.
+
+Production technology
+
+Cultivation
+
+For the Gangetic plains, the slowing time is early November while for the high range, it is early October. The plants are sown close together to get 2-3 lines of plants in one row. This closeness protects the plants from wind damage but also causes high degree of intra-row competition. The row-row spacing is kept 20 cm and the planting depth should not be more than 1.5 cm as deeper sowing results into poor emergence. The seed rate varies from 60 to 80 kg/ha.
+
+Weeding and thinning
+
+The important weeds associated with flax are Phalaris minor, Avena fatua, Plantago sp., Poa annua etc. Since flax competes poorly with weed, weeding is very important to achieve a good fibre yield in flax. The first weeding and thinning should be done during 20-25 days after sowing and the second weeding (and thinning, if needed) is to be done around 40-45 days after sowing. Pre-emergence application of Illoxan @ 1.0 kg a.i/ha and Benthiocarb @ 0.5 a.i./ha is recommended as it gives better weed control. Weeding, if done manually, constitutes around 16-17% of the total cost of cultivation.
+
+Nutrient management
+
+Phosphorus and potassium should be applied as basal at the rate of 40 and 60 kg/ ha, respectively, while nitrogen @ 60 kg/ha should be applied in two equal splits. The first split is to be applied at 21 days after sowing after first weeding and the rest is to given at 45 days after sowing after second weeding. A pre-sowing irrigation followed by two irrigations, one each after top dressings ensures better nutrient uptake and growth of flax. Application of organic matter facilitates crop growth.
+
+Disease management
+
+The major diseases of flax are yellow rust caused by Melainspora lini and wilt caused by Fusarium sp. Powdery mildew disease is also seen in flax though it does not cause severe damage of the crop. Spraying of Carbendazim @ 1|g/litre water 2-3 times depending upon the disease severity can effectively control the disease. Seed treatment with Carbendazim @ 2-3 g/kg seed is also effective.
+
+Pest management
+
+Flax, at seedling stage, is attacked by termites. Application of Chlorpyrifos 20 Ec @ 5 litres/ha or Imidacloprid 200 st @ 250 ml/ha protects the crop from attack of termite. Indoxecarb when applied @ 100 g a.i./ha gives effective control of cutworm.
+
+Harvesting
+
+The harvesting stage in flax has an important bearing on both the yield and quality
+
+1268
+
+of the fibre. If harvested early, the fineness of the fibre is high but both fibre strength as well as fibre yield is reduced. Late harvesting, on the other hand, increases the yield but significantly reduces the fibre fineness due to lignifications. The optimum stage for harvesting flax is at ‘yellow ripe’ stage of the stem which occurs about a month after the initiation of the first flower. Harvesting is done by cutting plants close to ground by sickles. The plants are tied into bundles and kept for retting.
+
+Retting
+
+Bundles of stalks are steeped in retting water at a depth of 8-10 cm below the water surface. The optimum water temperature for retting is around 23°-27°C and it takes about 3 days for the retting to be completed under such condition and the fibre becomes loose from the stick. Retted straw is then sun dried for a week to make it ready for scotching. The bacteria Clostridium butyricum is responsible for under water retting. Over-retting weakens fibre while under-retting makes extraction difficult.
+
+Extraction
+
+The extraction of fibre is done by a fibre separator or a scutching machine. The machine is indigenously designed on the principle of passing the retted and sun-dried flax straw through fluted rollers made of iron to break woody cane and separate fibre. The separated fibre strands are then brushed /combed to remove the broken sticks and rolled into bundles. This machine can also be used to salvage fibre from linseed straw that otherwise goes waste.
+
+Varieties and yield
+
+Flax cultivation of the past depended on varieties straightway imported from abroad. The recurring imports of seeds in large quantities (owing to the deterioration of the crop) were not economical. Recently promising flax genotypes has been developed at CRIJAF of which JRF 4 (10 q/ha), JRF 3 (9.7 q/ha), JRF 2 (9.0 q/ha) and JRF 1(8.5 q/ ha) are under advance varietal trial and will be released shortly for the flax growing regions of the country.
+
+Diversified uses
+
+Flax, largely is cellulosic fibre alike cotton. The major chemical constituents of flax fibre is o-cellulose (70-80%), hemi-cellulose (4.4%) and lignin (5.5%). Flax is woven into fine fabrics such as lawns, cambrics and drills, canvas, and buckrams. It is used in liner-stitching, making twines and nets for fishing ropes, carpet backing, sails, wrapping cloth and house furnishings. It is a good raw material for tissue-paper, fire- fighting hosepipes, knapsacks and water-bags.

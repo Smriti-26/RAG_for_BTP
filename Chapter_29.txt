@@ -1,0 +1,321 @@
+SOURCE_DOCUMENT: Chapter 29.pdf
+
+29. Farm Management
+
+Farm management deals with the organization and operation of farms to maximize profits from the farm business every year, to keep abreast of changes in methods, price variability and available resources. Thus, farm management is the science that deals with the analysis of the farming resource alternatives, choices and opportunities within the framework of resource restrictions as well as social and personal constraints of the farming business. This complex information is integrated and synthesized to increase profitability of the farming business with an aim to raise the living standard of the farming people. However, farm management does not exclusively deal with the maximization of income. In fact, it takes into account goals, objectives and requirements, i.e. food, fodder, fuel and fibre of the individual farmer other than income maximization. So, this discipline deals with people or organizers and decision-makers in respect of farms and agricultural production. It is people oriented rather than directed at crops or livestock per se.
+
+Farm management is a decision-making science. It helps to decide the basic course of action of the farming business. The basic decisions of the farming business are:
+
++ What to produce or what combination of different enterprises to follow?
+
+* How much to produce and what is the most profitable enterprise?
+
+© What should be the size of an individual enterprise, which, in turn, will determine the best overall size of the farm business?
+
+* What methods of production (production practices or the quality of inputs and their combinations) should be used?
+
+¢ What and where to market?
+
+MANAGEMENT OF A FARM
+
+Farm management is different from what is commonly confused with the work of a farm manager, who manages a government farm as an agronomist. His function is normally limited to supervising and handling of the day-to-day routine of a farm. It normally pertains to the existing plan to be executed, supervised and carried out. An intelligent farm manager may go a little further and look after the maintenance of the farm machinery.
+
+Farm management, on the contrary, is however much more than that. Here the concern is not just for the distribution of labour and irrigation water for day-to-day operations, but the emphasis is on the decision-making function of evaluating and choosing between alternative strategies. A major concern is about adjustments that are more suitable, profitable, and about exploring new situations, opportunities for maximization of income and satisfying other goals of the farmer. It is the approach under which the opportunity costs of various resources are evaluated and adjustments in resource use and enterprise mix are made to secure higher levels of farm income. ae de land) ienot ene genesis on yield (productivity per unit of resources ’ € greater focus is on increasing the farm income
+
+through a sound business organization. As a business, farming requires application of business methods and efficient management practices. An efficient farm manager has to keep himself abreast of the developments in new technology, new practices, price trends and economic outlook. Further, he should be able to identify biophysical and socio-economic production constraints that hamper farmer’s opportunities and plans for making adjustment in his farm organization, and that render technically superior plan economically unattractive to farmer.
+
+Farm management and other sciences: Basically, farm management is economics which involves 3 elements, viz. the scarcity of resources, their alternative uses and the objective of profit maximization. It deals with making rational, profitable and economic recommendations to the farmers. It also deals with the growth and stability aspects of the economics.
+
+The basic information about the multiple (alternative) use to which the, scarce resources can be allocated, is supplied by other physical and biological sciences. The research in these sciences should continually generate the relevant data on alternative technologies and practices whose profitability can be tested under actual farm situations. And these data are required for the farm organization as a whole and not for a single hectare, an animal or a tree.
+
+The challenge before the farm-management specialist is to integrate and synthesize diverse pieces of information from several disciplines, viz. agronomy, animal husbandry, horticulture, soil science, plant breeding, entomology, plant pathology, general economics, sociology and psychology, into an optimum package that can be used on farms with profit. Agricultural scientists put emphasis mainly on the maximization of yield rather than on the use of the optimum level of resources. But, the goal in farming is not to make a profit on some single enterprise or from a part of the farm land as some krishi pandits (agriculture specialist) do, but to use land, labour, and capital resources in such a way that they make the greatest contribution to the total profits from the entire farm. The superiority of this discipline thus lies in its treating the farm as an operational unit and tailoring recommendations of all other disciplines to fit into an individual farmer’s pattern of resources.
+
+In the context of the recent technological breakthrough, management should now be viewed as a process within a rapidly moving frame of reference—it is now more scientific, less artistic; more dynamic, less static; more versatile, less rigid. Farm management is forward looking in its approach. Its task is not so much the improvement of the present farming practices as much as the establishment of the whole sets of new production methods and farming systems that would put our agriculture on a continuously rising growth curve.
+
+In farm management, emphasis is given on maximizing income from the system as a whole rather than from a single component of the system. Therefore, farm management is an art of integrating resources of all the components of the system for earning maximum income from the system.
+
+Government policies should change the economic environment to help the interests of farmers to converge on the national goals. Studies on farm management to determine the responsiveness of the farmers to different agricultural products and services are needed by the society. A rational pricing policy for water is needed. Canal water, for example, is charged for without any direct relation to the quantity supplied. Hence, there is no
+
+FARM MANAGEMENT
+
+binding on the farmer to allocate canal water in the most economical manner. Farm management helps identify such uneconomic practices and the most limiting factors. Irrigation or power (the bullock vs the tractor) may be more important restriction than limits imposed by land. In areas where water rather than land is the principal limiting factor, and the marginal-value productivity of irrigation water is very high, it should be most carefully used rather than over-irrigation of a few hectares of crops needing high water consumption. Good farm management may lead to a highly productive use of farm resources, and explore technological revolution going on in agriculture.
+
+Application of farm management
+
+Farm management is applicable not only to crop farms, but also to orchards, dairying, poultry, etc. Faulty farm management has contributed more to citrus decline than the poor physico-chemical conditions of the soil, the stock-scion incompatibility, insect pests, diseases and viruses. Intercropping with exhaustive crops seems to be one of the major reasons for the poor health of plants. Citrus die-back or decline does not seem to be a disease by itself, but a mere symptomatic expression of the physiological imbalance owing to the cumulative effect of several factors.
+
+Similarly, if milk production has to be encouraged it has to be made more profitable than cereal production. It has to be demonstrated that the addition of milch animals to a farm fits into its resource organization and yields higher returns.
+
+With land as a scarce resource, efforts are made to intensify its use for maximizing profits through multiple cropping. During a given period, the relative profitability of different crop rotations is evaluated and finally selected for adoption. Kufri Sindhuri variety of potato is not being adopted on a large scale in spite of its giving 10% higher yield than some other varieties, e.g. Up-to-date. The reason is simple. The former is a late variety and delays sowing of wheat, which decreases its yield. It is not Kufri Sindhuri potato vs Up-to-date potato, rather it is Kufri Sindhuri followed by wheat vs Up-to-date followed by wheat that matters in farm management. Similarly, in West Bengal where jute has been competing with rice, the situation is changing with the introduction of high-yielding varieties of wheat, which can be rotated with rice. The comparison in terms of the relative profitability now runs between jute and rice plus wheat, and not just between jute and rice. Owing to the rice-wheat rotation becoming more profitable, jute production in West Bengal is suffering a set back. As Indian agriculture becomes more productive with the passage of time, the farmers will be confronted with the task of making the best selection from among many alternatives.
+
+Scope of management of small farms
+
+A notion that management is not important on small farms, is widely prevalent under those situations where the farms operate on a low level of technology. In small farms, the farm organization cannot be changed as much as on a large farm, but the choice in respect of farm practices and methods of production, cropping intensity etc. offer worthwhile alternatives. Small farms may have different problems than large farms, but the principles of the efficient use of available resources to obtain maximum economic returns and family satisfaction remain the same in both the cases. Since the principles of farm management deal with the allocation of resources, they apply to small and large farms equally.
+
+878 HANDBOOK OF AGRICULTURE
+
+Tools of farm management analysis
+
+Farm planning: Farm planning is a deliberate and conscious effort on the part of the farmer to think about the farm programmes, technological developments, changes in physical and economic situations, price structures etc. Thus it is a measure of economic content into farming business. The advantages of farm planning are discussed here.
+
+Income improvement: Farm planning approach is an integrated, co-ordinated and advance programme of actions which presents an opportunity to cultivators to improve his income level, and henceforth, the maximization of profit. Such income maximizations could be achieved from a given bundle of resources by reorganizing present type of production as well as introducing changes in technology.
+
+Educational process: Knowledge of the latest technological advances in agriculture is a prerequisite for better farm planning. So, farmers keep their information up-to- date through his forced action situation of farm planning process. This acts as a self- educating tool for the farmers.
+
+Desirable organizational changes: This approach introduces desirable changes in farm organization and operations and makes the farm a viable unit. It may include complete reorganization of the farm business or any change in the method or practices followed on the farm.
+
+Objectives of farm planning
+
+The objectives of farm planning are the improvement in the standard of living of the farmer and to maximize net incomes of the farmer through improved resource-use planning. The economic viability of plan may be evaluated by budgeting. Direct economic analysis at maximizing security, minimizing risk or minimizing labour requirements can be done by working out several alternatives.
+
+Characteristics of a good farm plan
+
+A good typical farm should have the following characteristics and information.
+
+¢ Efficient use of farm resource such as labour, power and equipment
+
+¢ Balanced combinations of various enterprises
+
+* Avoid excessive risks and provide flexibility
+
+* Utilize farmer’s knowledge, training and experience
+
+* Consider efficient marketing facilities, and
+
+* Use latest agricultural methods and practices.
+
+Techniques of farm planning
+
+Several techniques or tools or models and aids are available to a farm planner for generating answers to multifarious farm management problems either separately or simultaneously.
+
+Information needed for planning and budgeting
+
+Farm planning under perfect knowledge: The information required for farm planning can be classified into following 5 categories.
+
+(i) Resources available on the farm (statement of resource restrictions): Topography, drainage, soil management problem if any, soil sample, yield and history. Land holding,
+
+FARM MANAGEMENT
+
+irrigation potential, labour on farm, working capital and available farm buildings
+
+(ii) Outputs to be produced: list of process and farm enterprises
+
+(iii) Technical input-output coefficients organized
+
+(iv) Expected prices of farm products and inputs
+
+(v) Social, institutional and personal framework of the farmer
+
+Farm planning under imperfect knowledge: Additional data required for farm planning under imperfect knowledge are as follows:
+
+(i) Price and yield variability information for modified linear programming.
+
+(ii) Information required on probability distribution for probabilistic and game theory models.
+
+(a) possible set of events (such as various types of possible weather conditions, various credit policies, various price levels)
+
+(b) possible action alternatives available to the farmer
+
+(c) specification of possible consequences either on monetary terms or in utility terms
+
+(d) subjective probability distribution attached to a set of events
+
+Farm budgeting
+
+Farm budgeting is a method of analyzing plans for the use of agricultural resources at the command of the decision maker. The expression of a farm plan in monetary terms by estimation of receipts, expenses and net income, is called budgeting. In other words, farm budgeting is a process of estimating costs, returns and net profit of a farm or a particular enterprise. Three major points of application of a farm budget are as following:
+
+(i) Application prior to the crop season: outline the programme of work, and study the programme indicating planned organizations practices from the stand point of management principles.
+
+(ii) Application during the crop season: a farm plan is best used during the operation as a flexible guide or yardstick and not as a fixed rule for every operation.
+
+(iii) Application after the crop season: the analysis of the estimated results as compared with actual results from each of the individual enterprises and the entire farm business as a unit serves to make future plans more effective and for improving efficiency of resources and increasing net returns.
+
+Types of farm budgeting
+
+There are 3 types of farm budgeting—partial budgeting, enterprise budgeting and complete budgeting.
+
+Partial budgeting: \t refers to estimating the outcome or returns for a part of the business, i.e. one or a few activities or if we want to estimate additional costs and returns from growing | ha of hybrid rice in place of local rice. Here additional costs due to seeds, manure, irrigation etc. need to be estimated compared with additional expected returns. Partial budgeting may also be used in aid to full budgeting. Partial budgeting analysis is a simple, quick and easy method for deciding how far expenses and yields of a particular enterprise should be increased. Changes in organization can be worked out without complete reworking of the whole plan. It, however, fails to consider all the relevant factors in maximizing net returns to the farm as a whole. It
+
+also does not allow substitution between resources, and it overlooks complementarity and competition among different enterprises. A combination of partial budgets may not necessarily add to a total budget, and will never explain the allocation of joint costs between different enterprises.
+
+Enterprise budgeting: Enterprise budgets are used to estimate inputs required, costs involved and expected returns from a particular enterprise. The purpose of budgeting an enterprise is to aid in selection of inputs and enterprises consistent with the resources available and to show combinations that will increase farm income. Data necessary for budgeting an enterprise are physical input data (seed, fertilizer, insecticides etc.), field output data (yields/ha at different levels of input use), and process data for input and output.
+
+Selection of data to be used in enterprises budgets requires considerable judgment. Before the use of data some adjustment to fit in the conditions prevailing on a particular farm must be made.
+
+Total or complete budgeting: \t refers to making out a plan for the farm as a whole for all decisions on an enterprise. In case, the budgeting analysis involves complete reorganization of the farm business, it is called complete budgeting. It considers all the crops and/or livestocks producing methods, and estimates costs and returns from the farm as a whole. Full budgeting brings about progressive changes in income, i.e. it draws attention to a variety of factors contributing to farm income. It takes an entire view of the farm as a whole and resources and enterprises are considered simultaneously. It considers complementary, supplementary and competitive relationships among enterprises. It allows substitution between resources and avoids omission of any vital part of the organization being left out of consideration.
+
+Steps in farm planning and budgeting
+
+In developing an optimum farm plan with the budgeting technique, the following steps are generally required.
+
+Specification of technical coefficients of production: Farm planner should compile all relevant information from various sources to learn some of the improved farming methods and practices and the various input-output factors which can be applied to the local conditions. The main sources of relevant information are: (7) research trials, (ii) trials and demonstrations on cultivators’ fields, (iii) crop cutting experiments, (iv) farm management surveys, (v) farmers own trials, and (vi) information recorded by the extension workers.
+
+Specification of appropriate prices: Average of prices of the last 3 years may be taken up. Prices will need to be specified keeping in view average prices of the last year, future expectations, nature of changing technology, etc.
+
+Preparation of enterprise profitability chart: Alternative opportunities for best use of farmer’s resource may be determined after taking prices and input- output co-efficient as a basis for planning. The enterprise budgets are prepared by deducting variable cash expenses from gross returns of each enterprise. Profitability ranking chart is prepared on the basis of net returns of all the possible enterprises.
+
+Preparation of farm map: Map depicting all the physical features such as soil type, topographical features, drainage channels, roads, water channels, source of irrigation, building etc. needs to be prepared.
+
+FARM MANAGEMENT
+
+Inventory of limited resources: A complete list of the farm resources which limit the size of different farm enterprises such as land, labour, animals, buildings, machinery and liquid capital etc. needs to be prepared. This helps assessment of resource limitation and production of capabilities of the farm.
+
+Analysis of existing farm plan: Full information on utilization of resources and outputs obtained from various enterprises adopted on the farm may be obtained. Costs incurred and returns and resource-use pattern should be thoroughly investigated.
+
+Locate weakness of the present plan: A careful analysis of the resource use in the existing plan will throw up imbalances. The various weaknesses in the existing plan will act as guidelines for bringing improvements in the alternative plan.
+
+List out risks to agricultural production on that farm: A list of all such risks involved in the agricultural production on a particular farm should be prepared. These should be kept in mind while developing alternative plan.
+
+Prepare alternative plan: Within the framework of resource restrictions and keeping in view the weakness of the existing plan and the possibilities of incorporating modern technology, a few alternative farm plans need to be developed.
+
+Analysis of alternative plans to check profitability and practicability of a particular farm: New plans may be analyzed for costs and returns, and the optimum plan, which promises highest returns (from a fixed resource), and is most practicable on that particular farm situation, should be selected. Ideally we should evaluate alternative plans on the basis of probable income, amount of risk involved, labour and capital requirements etc.
+
+Implementing the plan: The farm planning does not end with the preparation and selection of the final plan for adoption. The most important phase is its proper execution. There may be certain difficulties in implementing the plan, unless all the problems are properly anticipated, it is not possible that one will anticipate all the problems that may arise during implementation of the plan. For this reason, a good plan will usually provide for flexibility.
+
+Farm credit
+
+The credit forms the total capital requirement minus farmer’s owned funds. Most of the banks expect that farmers would contribute 25% of the total capital requirement as a margin money so that he has some stake in the business.
+
+A banker is always concerned with the recovery of the loan advanced by him to the farmer. Therefore, before advancing loan, the banker examines whether the farmer is capable to repay loan from the additional returns, which he may earn from investment in alternative plans. Under such a situation, the responsibility of farm-management specialist increases many-fold. His planning for selection of alternatives should be such that the farmer earns more additional profit from the loans he has taken from the bank. As the loan is to be paid at the end of every season, repayments include the following:
+
+(a) total amount in the case of self-liquidating loans that are for short periods and for purchasing seeds, fertilizers, hiring casual labour etc.
+
+(b) the instalments of the medium- and long-term loans which are not self-liquidating and are for constructing buildings, making irrigation Structures, purchasing implements and machinery etc.
+
+882 HANDBOOK OF AGRICULTURE
+
+The format to compare existing and the alternative plans for credit should be prepared. |
+
+It gives crop combinations that can increase yields and farm income in an alternative plan. It also shows how to work out short-term credit requirements and how to work out the repaying capacity and economic feasibility of the credit proposal.
+
+Measurement of Farm Efficiency
+
+Efficiency is the ratio of the output to the input. This concept is important, as it shows how much profitable the farming business is. Various measures to explain the efficiency of the business as a whole, and in parts, are available. When examined together they help point out the weaknesses in the farm business and provide a guideline regarding the part of the business that deserves special attention for making improvements. In a particular situation due importance is given to the relevant measure. For instance, different measures would be adopted for indicating the volume or size of the business, aggregate earnings from particular factors or the business as a whole and returns per unit of a particular factor input. Further, the efficiency of a farm can be judged from the costs or returns or both. No single efficiency measure is so complete as to give a true picture of the entire farm business. These efficiency measures help recognize the same farm for which they are calculated, but they must be used with great caution while comparing different farms. This is especially important in the developing countries, where farming is of diversified nature and individual farm business has wide variations in respect of soil type, resource restraints, capacities and capabilities of the farmers to undertake risks, their attitude towards innovations etc. Also, these measures suffer from limitations for making comparisons due to the changing prices, costs and conditions of the farm business. Therefore, alternative measures based on total energy use and expected energy output may be helpful for making comparisons as energy dynamics may not change with change of price.
+
+Measuring the size of business
+
+Farm income is directly related to the size of the business, but in no way it indicates whether the farming business is operating efficiently or not. Some important measures of the size of a business are discussed here.
+
+Total area of farm and the number of livestock: The area (hectarage) as a measure of the size of the farm may be either total land or the area under crops. The area at its face-value carries no meaning. It is necessary therefore to homogenize and standardize the land for variations in fertility status, irrigation and lack of irrigation etc. by standard measures such as rental value, land revenue etc. As in a given type of farming area there are important crops common to all farmers, the area (standardized) under principal crop enterprises will help introduce further refinements in this measure.
+
+In the livestock farm, the number of animals can be used as a measure of the size of the business. Again, the breed variations between the herds of 2 farms makes a great difference in the returns received by them. On farms having both crop and livestock enterprises, any of the two will not give the relevant size of the business. Both may be used to represent the situation, but it is not comparable.
+
+Total capital managed: Total capital managed is obtained by adding all the capital values of inventories, including land. Either the closing or the beginning inventories
+
+FARM MANAGEMENT
+
+can be used. This measure is useful when all farms are producing same product, this is not relevant for farmers having different specializations. One farm can be compared with the other farm, the size of business by the capital investment only, if the 2 farms have the near- optimum investments. The difficulty here is that many farms are either understocked or overstocked and the comparisons between them are meaningless.
+
+Total inputs: The level of inputs in a broad way determines the level of output (income). The total inputs mean the operational expenses plus the fixed expenses, the rental value of land, the value of labour (that of the family and the operator), and the interest on capital. This is the most reasonable method. It can be used in similar situations for comparison with the assumption that rates of rent, interest and wages would be the same for each comparable situation.
+
+Gross income: This relates to the farm output during the year. This is obtained by adding the home-consumed farm products (in rupees) and the increase or decrease in inventory to the gross receipts of the year. This is a good measure but its use is limited to the same type of farming.
+
+Productive manpower units: They refer to the total manpower input required for normal efficiency. This method is more appropriate where labour is scarce and is being used optimally. In a labour-surplus situation, this method has only limited value. Also, the measure is limited to the comparison of the similar type of situations. Again, the difference arises from the difficulty to see whether the farmers under comparison use the scarce labour where it adds to the maximum or not. These measures are rough indicators of the size of the business and can be used to compare only similar situations at a point of time and for the same type of farming.
+
+Cost concepts
+
+There are many cost concepts that are frequently used in the farm-management concept, i.e. Cost A,, Cost A,, Cost B and Cost C; working or variable or operational cost and fixed costs; machine costs, labour costs, livestock costs, crop costs etc. A brief description of these cost concepts is given below.
+
+Cost A,: It includes 16 items of costs—Value of hired human labour (permanent and casual); value of owned bullock labour; value of hired bullock labour; value of owned machinery; hired-machinery charges; value of fertilizers; value of manure (produced on the farm, and purchased); value of seed (both farm-produced, and purchased); value of insecticides and fungicides; irrigation charges (both of the owned and hired tubewells, pumping-sets etc); canal-water charges; land revenue, cesses and other taxes; depreciation on farm implements (both bullock-drawn and worked with human labour); depreciation on farm buildings, farm machinery and irrigation structures; interest on the working capital; miscellaneous expenses (wages of artisans, cost of ropes and repairs to small farm implements).
+
+Cost A,: It is the cost A, + rent paid for leased land.
+
+Cost B: It is cost A, + Imputed rental value of owned land (less land revenue paid thereupon); and imputed interest on owned fixed capital (excluding land).
+
+Cost C: It is cost B + Imputed value of family labour.
+
+It can thus be seen that cost C is a very comprehensive concept but the risk and uncertainty costs are not taken care of.
+
+884 HANDBOOK OF AGRICULTURE
+
+Variable costs: These are the costs that are of the recurring type and have to be incurred during every production period, e.g. seeds, fertilizers and insecticides. These are also known as operational costs or working costs.
+
+Fixed costs: These costs are of non-recurring nature including the cost of the tractor and other machinery, buildings, irrigation structures, livestock etc.
+
+Crop costs: These costs refer to the value of seeds and plants, manures and fertilizers, insecticides and fungicides and irrigation charges.
+
+Machinery costs: These costs include the hiring charges of machinery, cost of fuel and lubricants, electricity bills, minor machinery repairs, depreciation and interest on machines and equipment.
+
+Labour costs: These include the wages paid in cash or kind to the hired labour and the imputed value of family labour used on the farm.
+
+Livestock costs: These include the costs of veterinary medicines and services, fodders, feeds, interest on the values of livestock and depreciation.
+
+Land costs: These refer to the rent of land owned and taken on lease.
+
+Building costs: These include the interest on the value of the building structure and depreciation on them.
+
+Measuring the volume of business
+
+There are 2 types of efficiency measures to indicate the volume of business—the ratio method and the aggregative measures. The ratio methods are simply the returns or costs per unit of various factor inputs. They help work out the rate at which a resource is converted into output, irrespective of whether or not a particular resource is being utilized optimally. The ratio is affected by a combination of resources and uses of production and marketing practices.
+
+The aggregative measures for the volume of business reflect the earnings of different factors of production or the farm as a whole. The above-mentioned restrictions also applies to them.
+
+Ratio methods: Following are the ratio methods:
+
+~ —_——— Intermediary and current liabilities
+
+Net worth
+
+These ratios actually measure the degree of financial safety by comparing the business over a certain period. The net capital ratio determines the solvency of business in the long-run, the working capital ratio in the medium-run and the current ratio. They are used to determine the solvency of business over a shorter period.
+
+For comparisons of the same farm during a certain period, these ratios should be adjusted for prices, but when different farms in the same type are compared during a period such adjustment may lead to erroneous conclusions because of the differences
+
+FARM MANAGEMENT
+
+among farmers to adjust themselves to the price variations. Income ratios: Following are the income ratios:
+
+The method is useful under capital-starved situations. The ratio varies according to whether a farmer is a tenant cultivator or a self-cultivating owner. The comparison therefore can be made only among the same category of farming groups.
+
+Total hectares
+
+This varies from farm to farm, and with the type and size of the farm. The measure considers the value of products raised on the farm and the operating expenses. It reflects the ability of the farmer to allocate the scarce resources of the farm and thus provides a flexibility from farm to farm resource-restraint variation, and hence is more useful. Cost ratios: Following are the cost ratios:
+
+Most ratios provide a measure for determining whether the costs are high or low. They indicate the proportion of gross income that is consumed by these expenses. The fixed ratio can be reduced simply by increasing production, whereas reduction in the operating ratio revolves around the utilization of resources in an optimal manner.
+
+Aggregative measures
+
+Gross income: Gross income is a measure of the size as well as of the volume of business. It is derived by adding gross sales, the home consumption of farm products, changes in the inventory and purchases together. It refers to the volume of output per year. This is a very important figure, as all other income figures are derived from it. The volume of the business can be known by comparing the gross income in the same type of farming situations.
+
+Cash income: This relates to the cash receipts from the farm sales and from the custom hiring out of the farm resources. The net cash income derived after deducting cash expenses from the cash income shows the amount available for investments in the farm to bring about improvements.
+
+Net operating income: Net operating income = gross income — (operating expenses + depreciation on working assets)
+
+The comparisons of net operating income of different farms area good measure of their relative efficiency. Returns from individual factors can be derived from this measure. Net farm and family income: (i) Net farm income= net operating income—(fixed expenses + depreciation on fixed assets)
+
+(ii) Net family income = net farm income + off-farm income.
+
+The net farm income shows the earning of the farm as a whole after deducting various expenses. These are the returns from the 4 factors of production and are a good measure to compare different farm situations. The net family income shows total earnings of the farm family from all sources, and is a good measure of their welfare.
+
+Returns from the factors of production: Returns from management = net operating income — (rental value of land + unpaid family and operator’s labour + interest on working and current assets + fixed expenses and depreciation on fixed assets).
+
+This measure shows the efficiency of the management factor, i.e. what the manager earns for the services he renders as entrepreneur after deducting the reward from all other factors, including his physical services as a labourer or worker. It reflects the efficiency of the manager or the quality of his management to allocate his scarce resources. Certainly this figure can be used to compare the quality of the management input.
+
+Returns from labour and management: Management being intangible makes it difficult to separate its returns from other input factors. Therefore a measure of returns from management along with other factors would furnish a more meaningful position.
+
+Returns from labour and management = net operating income — (land rent + fixed expenses + depreciation on fixed assets + interest on working and current assets).
+
+Returns from capital and management = net operating income — (land rent + unpaid family and operator’s labour + interest on working and current assets).
+
+This measure shows the efficiency of the capital input. The comparison for different farms on the basis of this measure warrants a great caution because of the differences in the intensity of capital use of different farms.
+
+These measures provided for the comparisons with the market (or opportunity cost) to enable farmer to see whether he can earn more by being in farming or renting out land, hiring out labour and loaning out capital. Intra-farm comparisons over a period of time also need adjustments for price changes. Therefore, these measures are not very useful in determining the profitability of small practices, but are useful under major difference in resource combinations. The comparison is also restricted to the farms using similar resources. The size of farms also makes material difference and thus restricts its usefulness in comparing different size farms.
+
+Farming systems research (FSR)
+
+To solve the problem of small farmers, farming system research (FSR) has been increasingly perceived as an alternative to the traditional research station methodology since the 1970s. FSR emphasizes on formal holistic approach involving systems analysis concepts and techniques, and effective integration of social scientist with biological and physical ones.
+
+In broadest sense, FSR refers to any research that views the farm in a holistic manner and considers interactions in a farming system perspective. The operational stages of conducting FSR are as follows:
+
+Delineation of recommendation domain: Where access to markets and imports access to cash and credit, food, preferences, power source, farm size and risk acceptance can be important factors in making recommendations.
+
+Descriptive and diagnostic stage: The main aim of this stage is to provide an
+
+FARM MANAGEMENT
+
+assessment of farms priorities, decision criteria, resource availability, constraints and possible development opportunities.
+
+Research design stage: In this stage, the design of an overall on-farm research strategy is undertaken with specific technology and farm management interventions specified for on-farm testing.
+
+On-farm research and evaluation stage: In this stage, the interventions are tested in the biological, physical and socio-economic on-farm environment.
+
+Dissemination and maintaining stage: In this stage, suitable interventions are extended to farmers through extension service.
